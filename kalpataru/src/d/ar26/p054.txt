@@ -1,0 +1,63 @@
+Capitals that Power Our Value Creation                                                                                          NATURAL CAPITAL
+
+NATURAL CAPITAL
+
+Climate Change and                                              integrated before execution begins. This disciplined            Emission Reduction and                                           Global Cement and Concrete Association (GCCA) data for
+Emissions Management                                            approach reinforces our commitment to reducing our              Decarbonisation Strategies                                       the cement sector. Blended Cement - Green, Durable &
+                                                                footprint and aligning with global climate goals.                                                                                Sustainable
+Climate change continues to present both physical                                                                               KPIL has adopted a structured and forwardlooking
+and transition risks to businesses, while also opening          Climate Risk                                                    approach to emission reduction and decarbonisation,              This structured approach ensures that our emissions
+pathways for innovation, competitive advantage, and                                                                             ensuring that our business operations align with global          inventory is transparent, consistent, and aligned with global
+stronger stakeholder trust. At KPIL, we have strengthened       KPIL has established a robust structure to strategically        climate goals and stakeholder expectations. Our strategy         best practices.
+our procedures to systematically identify, evaluate,            address ESG and climate issues. At the highest level, a         is built on the principle of the mitigation hierarchy to avoid,
+and manage climaterelated risks and opportunities,              senior leadership committee provides oversight and              reduce, replace, neutralise with a clear focus on absolute       Note: In line with GHG Protocol standards, CO2 emissions from the
+embedding them into our operational and strategic               direction, ensuring alignment with corporate goals and          reductions in Scope 1 and Scope 2 emissions before               combustion of biomass are calculated and reported separately from
+frameworks. This comprehensive approach provides a clear        values. Supporting this is a dedicated Sustainability           offsetting residuals.                                            our Scope 1, 2 and 3. The associated non-CO2 emissions (CH4 and N2O)
+view of our risk profile and ensures resilience across diverse  Steering Committee, composed of crossfunctional                                                                                  from biomass combustion are included within our Scope 1 inventory,
+geographies and businesses.                                     representatives from across the organisation. This team is      Basis of GHG Reporting                                           using emission factors UK DEFRA 2025 Greenhouse Gas Reporting.
+                                                                responsible for identifying, developing, and managing ESG
+We actively track and report Scope 1 and Scope 2                initiatives, leveraging diverse expertise to foster innovation  Our Greenhouse Gas (GHG) inventory for FY 2025-26 has            Note: The consumption of Ozone Depleting Substances (ODS) is not
+emissions, while expanding efforts to quantify Scope            and continuous improvement.                                     been prepared in accordance with the GHG Protocol                considered material to our operations as an EPC business.
+3 emissions across our value chain. These evaluations                                                                           Corporate Standard, covering all material Scope 1, 2, and 3
+enable us to assess the environmental impacts linked to         Through this framework, KPIL ensures that climate change        emissions since we began this process in FY 2023-24.             Key Initiatives Include
+project execution and operations. Environmental impact          and emissions management are not only regulatory
+assessments are conducted during the project selection          requirements but integral to our longterm sustainability        Consolidation Approach: We account for emissions                 Renewable Energy Expansion: Commissioning solar
+phase, ensuring that sustainability considerations are          strategy, reinforcing transparency, accountability, and         based on the operational control approach. To prevent            photovoltaic plants across manufacturing facilities and
+                                                                stakeholder confidence.                                         double counting, emissions from internal transactions and        project sites, with total installed capacity exceeding 6 MWp.
+                                                                                                                                activities already accounted for in Scope 1 and 2 have been
+Greenhouse Gas Emission Inventory                               Emission Footprint                 UOM  2024-25 2025-26         excluded from our Scope 3 calculations.                          Energy Efficiency Measures: Deployment of VFDenabled
+                                                                Scope 1 emissions                                                                                                                compressors, BLDC fans, induction heating furnaces, and
+Every year we undertake a GHG Inventorisation study to          Scope 2 emissions             (tCO2e)   82,563 115,805          Methodologies & Emission Factors: Our inventory is               LED lighting systems to reduce energy intensity.
+understand and map the sources of our Scope 1, 2 and 3          Scope 1 + 2 emissions         (tCO2e)                           based on activity data from our operations and a hybrid
+emissions. Our Scope 1 emissions include emissions from         Scope 3 emissions             (tCO2e)   25,682  38,189          methodology for our supply chain. Emission factors and           Sustainable Mobility: Introduction of electric vehicles,
+diesel, LPG, propane, petrol and PNG consumption, while our     GHG Emissions Intensity       (tCO2e)                           Global Warming Potential (GWP) values are sourced from           batteryoperated forklifts, and fuelefficient catalysts to
+Scope 2 include purchased electricity. Scope 3 Emissions                                     (tCO2e)/   108,245 153,994         the latest available, internationally recognised databases:      lower fossil fuel dependence.
+arise from:                                                                              PPP Mn USD
+                                                                                                        - 4,860,723             Scope 1: Factors for fossil fuel combustion are from the GHG     Operational Assessments: Comprehensive GHG
+                                                                                                                                Protocol's 'Emission Factors for Cross-Sector Tools (v2.0),      inventories, decarbonisation roadmaps, water risk
+                                                                                                        11.84   13.50           with GWP values for converting CH4 and N2O to CO2e taken         assessments, and waste footprint studies to identify
+                                                                                                                                from the GHG Protocol's August 2024 guidance.                    hotspots and guide interventions.
+ Category 1           Category 2         Category 3
+                     Capital Goods      Fuel and Energy                                                                         Scope 2: India's Central Electricity Authority (CEA) database    Carbon Neutrality Milestone: Transmission Line
+Purchased goods and                                                                                                             (v21.0) provides the grid electricity emission factor.           Infrastructure (TLI) division achieved carbon neutrality,
+services                                                                                                                                                                                         offsetting verified emissions of 10,971.09tCO2e through the
+                                                                                                                                Scope 3: For Scope 3, we utilised a hybrid methodology           retirement of 11,600tCO2e of high quality carbon credits.
+                                                                                                                                combining spend-based and weight-based calculations
+ Category 4           Category 5         Category 6                                                                             for our largest emissions category, Purchased Goods and
+                                        Business Travel                                                                         Services. Emission factors were sourced from a range of
+Upstream             Waste from                                                                                                 credible, publicly available databases, including: the UK
+Transportation       Operations                                                                                                 DEFRA 2025 Greenhouse Gas Reporting: Conversion Fators
+                                                                                                                                (for fuel, transport, and waste).
+ Category 7           Category 8         Category 9
+Employee Commute                                                                                                                MoEFCC CCTS notifications and World Steel Association
+                     Upstream Leased    Downstream                                                                              data for vendor-specific emissions from the Ion & Steel
+                     Assets             Transportation                                                                          sector.
+
+KPIL assesses Scope 3 categories, including energy                                                                              US EPA's EEIO database for spend-based calculations,
+consumption associated with contractor operations and                                                                           normalised for India using the World Bank's Purchasing
+logistics activities.                                                                                                           Power Parity (PPP) conversion factor.
+
+Fourteen sub-business units under KPIL spread over eight
+business categories underwent the inventorisation study.
+
+102 Kalpataru Projects International Limited                                                                                                                                                     Integrated Annual Report 2025-26 103

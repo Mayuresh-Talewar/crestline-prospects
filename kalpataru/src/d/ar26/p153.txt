@@ -1,0 +1,66 @@
+Financial Statements                                                                                                             Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                         for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+6. (ii) INVESTMENTS - CURRENT                                                                                                    6. (ii) INVESTMENTS - CURRENT (Contd.)
+
+                                                                                                            (H in Crores)        (ii)The Company was holding 74% equity stake in Kohima Mariani Transmission Limited (KMTL), a joint venture between
+                                                                                                                                        the Company and Techno Electric & Engineering Company Limited (TEECL). The Company and TEECL have entered
+                                              Face Value             No. of Shares / Units               Amount                         into a Share Purchase and Shareholders Agreement dated 03rd July, 2019 ("the Agreement") with Buyer to sell their
+                                                                                                                                        respective equity stake in KMTL. Pursuant to the Agreement, the Company has sold 23% stake and transferred the control
+Particulars                              Currency               Per  As at 31st  As at 31st  As at 31st     As at 31st                  of KMTL to the Buyer on 20th December, 2021 and ceased to be Joint Venture of the company w.e.f 20th December, 2021
+                                                   Share / Unit        March,      March,      March,         March,                    in accordance with Ind AS 28 "Investments in Associates and Joint Ventures". Subsequently, during FY 2022-23, the
+A.Investment - Carried at fair value                                       2026        2025        2026           2025                  Company has completed transfer of additional 25% of total equity shares on 24th February, 2023. Remaining 26% stake
+      through profit or loss (FVTPL)                                                                                                    will be transferred after obtaining requisite approvals. Investment in Equity Instruments amounting to H 176.75 Crores
+       Unquoted,                              INR         -          -           3,64,985                -       50.04                  (previous year H 166.92 Crores) represents fair value of retained equity stake in KMTL.
+       Mutual Fund,
+       Aditya Birla Sun Life Overnight                                                                                           (iii)On 16th January, 2026, the Company sold its 100% equity in Vindhyachal Expressway Private Limited ("VEPL") and
+             Fund  Growth Regular Plan                                                                                                 consequently, VEPL ceased to be a subsidiary of the Company from that date.
+       ICICI Prudential Overnight Fund
+             Growth                           INR         -          -           7,31,273                -       100.07
+       GRAND TOTAL
+                                                                                                         -       150.11          7. TRADE RECEIVABLES
+
+Aggregate carrying amount of Quoted Investments                                                        -                   -     (Unsecured, Considered good)                                                                    As at        (H in Crores)
+Market Value of Quoted Investments                                                                     -                   -                                                                                    31st March, 2026                         As at
+Aggregate amount of Unquoted Investments (net)                                                 675.00              1,162.97              Particulars
+Aggregate amount of Impairment                                                               (533.77)            (296.32)                (i)Non-Current                                                                        139.69   31st March, 2025
+                                                                                                                                         Less: Allowance for expected credit losses                                            (73.42)                 160.34
+6.1 (a)Investment in equity instrument of Shree Shubham Logistics Limited includes H 9.20 Crores (previous year H 6.26                   TOTAL                                                                                  66.27                  (79.84)
+              Crores) arising on initial recognition of investment in 4% redeemable preference shares at fair value and H 4.21           (ii)Current                                                                        8,022.75                    80.50
+              Crores arising on initial recognition of financial guarantee, given by the Company on behalf of Shree Shubham              Less: Allowance for expected credit losses                                           (183.34)
+              Logistics Limited, at fair value.                                                                                          TOTAL                                                                              7,839.41                 7,294.57
+                                                                                                                                 7.1 Refer Note 42 for Trade receivables ageing                                                                        (76.56)
+(b)1,44,64,066 (previous year - 1,44,64,066) Equity shares of Alipurduar Transmission Limited (ATL) and 1,90,63,044              7.2 Refer Note 40 for Trade receivable from related parties
+              (previous year - 1,90,63,044) shares of Kohima-Mariani Transmission Limited are pledged.                                                                                                                                               7,218.01
+
+6.2 Assets classified as held for sale
+
+Particulars                                                                                       As at        (H in Crores)     8. LOANS                                                                                        As at        (H in Crores)
+                                                                                 31st March, 2026                                                                                                               31st March, 2026
+(a)In Equity Instruments[Refer Note (i), (ii) and (iii)]                                                                  As at  (Unsecured, Considered good)                                                                                            As at
+TOTAL OF ASSET CLASSIFIED AS HELD FOR SALE                                                      284.68   31st March, 2025                                                                                                               31st March, 2025
+                                                                                                                                         Particulars
+                                                                                               284.68                   302.35
+                                                                                                                                         (i)Non-Current
+                                                                                                                       302.35            Loans to related parties (Refer Note 40)
+                                                                                                                                         to Subsidiaries
+Notes                                                                                                                                    Less: Expected credit losses for loans to Subsidiaries
+                                                                                                                                         TOTAL
+(i)During the FY 2020-21, the Company has completed the transfer of 49% stake along with the transfer of control of                      (ii)Current                                                             392.17                 337.87
+       Alipurduar Transmission Limited (ATL) to the Buyer with effect from 26th November, 2020 and accordingly it ceased                 Loans to related parties (Refer Note 40)                               (104.12)                        -
+       to be a subsidiary in accordance with the Indian Accounting Standards (Ind AS). Subsequently, during FY 2022-23,                  to Subsidiaries                                                        288.05
+       the Company has completed transfer of additional 25% of total equity shares on 13th October, 2022. Remaining 26%                  to Joint Venture                                                                               337.87
+       stake will be transferred after obtaining requisite approvals. Investment in Equity Instruments amounting to H 107.93             Loans to Others
+       Crores (previous year H 107.93 Crores) represents fair value of retained equity stake in ATL.                                     Less: Expected credit losses for loans to Subsidiaries, JV and others
+                                                                                                                                         TOTAL
+                                                                                                                                                                                                                275.78                  638.84
+                                                                                                                                                                                                                 308.41                 306.00
+                                                                                                                                                                                                                  22.75
+                                                                                                                                                                                                                (316.37)                    7.75
+                                                                                                                                                                                                                290.57                  (313.75)
+                                                                                                                                                                                                                                        638.84
+
+300 Kalpataru Projects International Limited                                                                                                                                                                    Integrated Annual Report 2025-26 301

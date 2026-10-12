@@ -1,0 +1,63 @@
+=== BREAK=1 (expected to fail) ===
+receivable lever: now 65 min 0 max 95 perDay 1.727041
+valueOfADay: cash 1.7270 Cr, carry 0
+
+step 10: 65 -> 55 days, cash 17.2704 Cr, released 17.2704 Cr, carry 0
+ASSERT FAILED: no negative release (10d) :: released 17.2704
+
+=== BREAK=2 (expected to fail) ===
+receivable lever: now 65 min 0 max 95 perDay 1.727041
+valueOfADay: cash 1.7270 Cr, carry 0
+
+step 10: 65 -> 55 days, cash 17.2704 Cr, released 17.2704 Cr, carry 1.5543369863013696
+ok  no negative release (10d) :: released 17.2704
+ASSERT FAILED: interest = 0 (10d) :: carry 1.5543369863013696
+
+=== BREAK=3 (expected to fail) ===
+receivable lever: now 65 min 0 max 95 perDay 1.727041
+valueOfADay: cash 1.7270 Cr, carry 0
+
+step 10: 65 -> 55 days, cash 17.2704 Cr, released 17.2704 Cr, carry 0
+ok  no negative release (10d) :: released 17.2704
+ok  interest = 0 (10d) :: carry 0
+ASSERT FAILED: cross-check days x perDay (10d) :: simulate 17.270411 vs 18.997452
+
+=== BREAK=4 (expected to fail) ===
+receivable lever: now 65 min 0 max 95 perDay 1.727041
+valueOfADay: cash 1.7270 Cr, carry 0
+
+step 10: 65 -> 55 days, cash 17.2704 Cr, released 17.2704 Cr, carry 0
+ok  no negative release (10d) :: released 17.2704
+ok  interest = 0 (10d) :: carry 0
+ok  cross-check days x perDay (10d) :: simulate 17.270411 vs 17.270411
+ok  valueOfADay x days (10d) :: 17.270411
+
+step 30: 65 -> 35 days, cash 51.8112 Cr, released 51.8112 Cr, carry 0
+ok  no negative release (30d) :: released 51.8112
+ok  interest = 0 (30d) :: carry 0
+ok  cross-check days x perDay (30d) :: simulate 51.811233 vs 51.811233
+ok  valueOfADay x days (30d) :: 51.811233
+
+payables request 200 days -> held at 65, cash 0
+ASSERT FAILED: payables never release cash :: next 65 now 65 cash 0
+
+=== CLEAN RUN ===
+receivable lever: now 65 min 0 max 95 perDay 1.727041
+valueOfADay: cash 1.7270 Cr, carry 0
+
+step 10: 65 -> 55 days, cash 17.2704 Cr, released 17.2704 Cr, carry 0
+ok  no negative release (10d) :: released 17.2704
+ok  interest = 0 (10d) :: carry 0
+ok  cross-check days x perDay (10d) :: simulate 17.270411 vs 17.270411
+ok  valueOfADay x days (10d) :: 17.270411
+
+step 30: 65 -> 35 days, cash 51.8112 Cr, released 51.8112 Cr, carry 0
+ok  no negative release (30d) :: released 51.8112
+ok  interest = 0 (30d) :: carry 0
+ok  cross-check days x perDay (30d) :: simulate 51.811233 vs 51.811233
+ok  valueOfADay x days (30d) :: 51.811233
+
+payables request 200 days -> held at 65, cash 0
+ok  payables never release cash :: next 65 now 65 cash 0
+
+ALL 9 ASSERTS PASSED

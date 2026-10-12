@@ -1,0 +1,22 @@
+# figures typed from image-checked Infomerics tables (standalone, Rs crore)
+rev={22:65.45,23:112.80,24:162.03,25:261.12}
+ebitda={22:7.46,23:13.46,24:24.06,25:35.21}
+pat={22:2.74,23:6.12,24:11.63,25:18.96}
+for y in (23,24,25): print(f"rev growth FY{y}: {100*(rev[y]/rev[y-1]-1):.2f}%")
+for y in rev: print(f"FY{y} EBITDA%={100*ebitda[y]/rev[y]:.2f} PAT%={100*pat[y]/rev[y]:.2f}")
+print("FY25 adj debt/ATNW (Infomerics table 69.24/58.21)=",round(69.24/58.21,2))
+print("order book/FY25 rev 337.90/261.12=",round(337.9/261.12,2))
+print("order book/FY24 rev 330.21/162.03=",round(330.21/162.03,2))
+print("order book/FY23 rev 255.31/112.80=",round(255.31/112.80,2))
+print("top order 53% of 255.31 =",round(.53*255.31,2),"; 11% =",round(.11*255.31,2))
+print("dossier rev 263 vs 261.12 diff",round(263-261.12,2),"; 263/162.03-1=",round(100*(263/162.03-1),1))
+print("dossier PAT 4.86 vs 18.96; 4.86/261.12=",round(100*4.86/261.12,2),"%")
+print("PAT growth FY24",round(100*(11.63/6.12-1),1),"FY25",round(100*(18.96/11.63-1),1))
+print("total facilities 30+122=",30+122,"; FB 28+2 TL=30; NFB 122 =",round(100*122/152,1),"% of 152")
+print("BG 122 / FY25 rev =",round(122/261.12,2))
+print("FY23 gearing 37.18/33.10=",round(37.18/33.10,3)," 37.18/34.05=",round(37.18/34.05,3))
+print("FY24 gearing 38.80/42.07=",round(38.80/42.07,3)," 41.55/42.02=",round(41.55/42.02,3))
+print("FY25 text ATNW 60.66 vs table 58.21 diff",round(60.66-58.21,2))
+print("implied FY25 total debt at 1.10x on 60.66 =",round(1.10*60.66,2))
+print("GCA FY24 14.96 / FY23 8.86 growth",round(100*(14.96/8.86-1),1))
+print("CC util: FY23 ~61%, FY24 ~70%, FY25 (May) 39.46%")

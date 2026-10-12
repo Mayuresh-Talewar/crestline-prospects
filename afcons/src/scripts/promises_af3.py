@@ -1,0 +1,30 @@
+# AF-3 promise ledger. Quotes copied from src/depth/T_*.txt (PDF page given); outcomes from data.md / calc_af3.py.
+# Run: python -I promises_af3.py  -> markdown table + verdict tally (the tally in depth.md is this output).
+from collections import Counter
+P = [
+ # (call, call date, source pdf+page, speaker, words, what happened, evidence, verdict)
+ ("Q2 FY25", "25 Nov 2024", "T_Q2FY25 p11", "R. Jha, CFO", "We will be generating operating cash flow positive for the full year", "FY25 net operating cash flow -132.20 Cr", "AR25 p.315; AR26 p.329", "MISSED"),
+ ("Q2 FY25", "25 Nov 2024", "T_Q2FY25 p8", "R. Jha, CFO", "Hopefully, year-end, we see much improved situation", "NWC days 63 (Mar-24) to 113 (Mar-25)", "Q3 FY25 pres p.34; Q4 FY25 pres p.39", "NOT DELIVERED"),
+ ("Q2 FY25", "25 Nov 2024", "T_Q2FY25 p17", "R. Jha, CFO", "on a net debt basis will be sub INR2,000 crores", "A statement of the then-current level, borne out at year end: net debt 31 Mar 2025 1,465 ex-leases (computed; the CFO's own 1,486 is not printed, see data.md s3)", "Q4T25 p8; data.md s3", "MET"),
+ ("Q2 FY25", "25 Nov 2024", "T_Q2FY25 p9", "P. Srinivasan, MD", "we will have a flat growth in the top line in the current year", "FY25 revenue from operations -5.43% (12,548.42 vs 13,267.50)", "data.md s2", "MISSED"),
+ ("Q3 FY25", "14 Feb 2025", "T_Q3FY25 p11", "R. Jha, CFO", "this gets sorted out by Q4 and that's what we are expecting this time around also", "Mar-25 NWC 113 days, 'elevated'; contract assets 5,225 to 7,096 Cr", "Q4T25 p8; data.md s3", "NOT DELIVERED"),
+ ("Q3 FY25", "14 Feb 2025", "T_Q3FY25 p13", "R. Jha, CFO", "We will be generating positive cash flow and the debt ... will keep coming down", "FY25 gross debt down 2,455 to 2,235.72 but op cash flow -132.20; FY26 debt 3,538.27 and op cash flow -127.49", "AR26 p.329-330", "PARTLY"),
+ ("Q3 FY25", "14 Feb 2025", "T_Q3FY25 p7", "R. Jha, CFO", "a growth of 20%-25% [FY26]", "Reiterated Q4 FY25 and Q1 FY26 (MD), cut to 10%+ on 13 Nov 2025, '5% achievable' 11 Feb 2026; actual revenue -4.78%", "T_Q4FY25 p5; T_Q1FY26 p5; T_Q2FY26 p6; T_Q3FY26 p6; calc_af3", "MISSED"),
+ ("Q3 FY25", "14 Feb 2025", "T_Q3FY25 p9", "P. Srinivasan, MD", "FY26 order flow guidance is INR25,000 crores", "Then 20,000-25,000 excl L1 (May-25); 'we are achieving INR20,000 crore' (13 Nov 2025); actual FY26 inflow 4,125 (excl ~3,800 variation orders)", "T_Q2FY26 p10; T_Q3FY26 p14; Q4T p5", "MISSED"),
+ ("Q4 FY25", "27 May 2025", "T_Q4FY25 p5", "P. Srinivasan, MD", "we expect letters of acceptance from two Pune ring road projects aggregating INR4,788 crores ... two Nagpur-Gondia projects ... in the first quarter", "19 May 2026: Pune Ring Road and Nagpur-Gondia 'going for rebid', removed from L1 status", "T_Q4FY26 p19", "MISSED"),
+ ("Q4 FY25", "27 May 2025", "T_Q4FY25 p9", "R. Jha, CFO", "In UP ... in June, they are going to release a sizable amount of payment (relayed from senior officials)", "8 Aug 2025: 'improvement what we were expecting in UP, Jal Jeevan Mission specifically has not happened'; work stopped from July 2025", "T_Q1FY26 p7; T_Q2FY26 p16", "NOT DELIVERED"),
+ ("Q2 FY26", "13 Nov 2025", "T_Q2FY26 p16", "R. Jha, CFO", "it is only going to improve from here ... we will be getting payments from the customer and things will unwind", "Mar-26 NWC 143 days (up from 113); gross borrowings 3,538.27", "AR26 p.18, p.330", "NOT DELIVERED"),
+ ("Q3 FY26", "11 Feb 2026", "T_Q3FY26 p8", "R. Jha, CFO", "We are expecting some improved collection in this quarter. Realization of few stuck receivables", "19 May 2026 CFO: 'these monies we were looking at getting monetized before March ... But it did not happen'", "T_Q4FY26 p19", "NOT DELIVERED"),
+ ("Q4 FY26", "19 May 2026", "T_Q4FY26 p19, p26", "R. Jha, CFO", "before June, we are looking at a sizable amount getting unlocked ... sizable liquidation in the range of say INR 1000 odd crores", "10 Aug 2026 CFO: 'no material movement in collection of the blocked-up asset'; horizon passed 71 days before that call", "T_Q1FY27 p8; calc_af3", "NOT DELIVERED"),
+ ("Q4 FY26", "19 May 2026", "T_Q4FY26 p19", "R. Jha, CFO", "bare minimum, we can look at 120 days ... But I do not want to commit", "Q1 FY27: NWC 'marginally increased from the March number'; FY27 year-end not yet reported", "T_Q1FY27 p11", "OPEN"),
+ ("Q4 FY26", "19 May 2026", "T_Q4FY26 p21", "R. Jha, CFO", "for this financial year FY27, we will see a sizable drop in the debt number", "Net debt/equity 0.5x (Mar-26) to 0.68x (Jun-26); FY27 year-end not yet reported", "T_Q1FY27 p8", "OPEN"),
+ ("Q3 FY25", "14 Feb 2025", "T_Q3FY25 p7", "R. Jha, CFO", "we'll open up the money market instruments like CP, NCDs to us ... This should also help us bring down the interest rate going forward", "Avg bank-borrowing cost improved in FY26 (CFO), yet finance cost 629.20 to 673.61 Cr (+7.1%); 50 Cr NCD at 8.40% Oct-25", "T_Q4FY26 p7; AR26 p.327; CRISIL RR Aug-26 annexure", "PARTLY"),
+ ("Q3 FY26", "11 Feb 2026", "T_Q3FY26 p12", "P. Srinivasan, MD", "we don't expect any impact as far as this job [Gabon] is concerned", "BG ~190 Cr paid 4 Feb 2026; contract terminated by SAG 18 Feb 2026; ICC arbitration pending", "CRISIL bulletin 6 Feb 2026; AR26 Note 44", "OPEN"),
+ ("All calls", "Nov 2024 to Aug 2026", "T_Q2FY25 p11 ... T_Q2FY26 p13", "R. Jha, CFO", "guidance will remain that we will be clocking around 11% margin [EBITDA]", "FY25 12.8%, FY26 11.7% (company def.); Q4 FY26 exit 6.1%", "data.md s2", "MET"),
+]
+cols = "| Call (date) | Source | Speaker | Exact words | What happened next | Evidence | Verdict |\n|---|---|---|---|---|---|---|"
+print(cols)
+for c, d, s, sp, w, n, e, v in P:
+    print(f"| {c} ({d}) | {s} | {sp} | \"{w}\" | {n} | {e} | **{v}** |")
+t = Counter(p[-1] for p in P)
+print("\nTally: %d promises; " % len(P) + "; ".join("%s %d" % (k, v) for k, v in sorted(t.items())))

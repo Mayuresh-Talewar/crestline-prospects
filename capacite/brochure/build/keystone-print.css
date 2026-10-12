@@ -1,0 +1,78 @@
+/* Project Keystone, print file (SALES-12). All lengths in mm from the trim's top-left (.t); the page box adds the 3 mm bleed. */
+/* Plex Sans from IBM's static release: Google now serves it as a variable font, which Chromium embeds in PDF as Type 3. */
+@font-face { font-family: "IBM Plex Sans"; font-weight: 400; font-style: normal; font-display: block; src: url(https://cdn.jsdelivr.net/npm/@ibm/plex-sans@1/fonts/complete/woff2/IBMPlexSans-Regular.woff2) format("woff2") }
+@font-face { font-family: "IBM Plex Sans"; font-weight: 500; font-style: normal; font-display: block; src: url(https://cdn.jsdelivr.net/npm/@ibm/plex-sans@1/fonts/complete/woff2/IBMPlexSans-Medium.woff2) format("woff2") }
+@font-face { font-family: "IBM Plex Sans"; font-weight: 600; font-style: normal; font-display: block; src: url(https://cdn.jsdelivr.net/npm/@ibm/plex-sans@1/fonts/complete/woff2/IBMPlexSans-SemiBold.woff2) format("woff2") }
+@page { size: 216mm 303mm; margin: 0 }
+:root {
+  --navy: #22396F; --mid: #597BCC; --lblue: #8FA7DD; --pale: #C3CBDD;
+  --ink: #0B0D10; --muted: #5F6670; --hair: #E6E8EC; --hair2: #D6D9DF; --tick: #6F7783; --onbar: #1F2937;
+}
+* { box-sizing: border-box; margin: 0; padding: 0 }
+html { background: #E6E8EC }
+body {
+  font: 400 10pt/14pt "IBM Plex Sans", sans-serif; color: var(--ink);
+  font-variant-numeric: tabular-nums; font-kerning: normal;
+  -webkit-print-color-adjust: exact; print-color-adjust: exact;
+}
+@media screen { .page { margin: 0 auto 8mm } }
+.page { width: 216mm; height: 303mm; position: relative; overflow: hidden; break-after: page; background: #fff }
+.page:last-of-type { break-after: auto }
+.page.navy { background: var(--navy); color: #fff }
+.t { position: absolute; left: 3mm; top: 3mm; width: 210mm; height: 297mm }
+.recto { --L: 22mm } .verso { --L: 16mm }
+.bleed { position: absolute; left: -3mm; top: -3mm; width: 216mm; height: 303mm }
+
+/* running elements */
+.hd { position: absolute; left: var(--L); width: 172mm; top: 10mm; height: 5mm; display: flex; justify-content: space-between;
+  font: 400 9pt/4mm "IBM Plex Mono", monospace; text-transform: uppercase; letter-spacing: .08em; border-bottom: .5pt solid var(--navy) }
+.ft { position: absolute; left: var(--L); width: 172mm; top: 283.8mm; font-size: 9pt; line-height: 4mm; color: var(--muted) }
+.recto .ft { text-align: right }
+.navy .hd, .hdnavy .hd { color: var(--pale); border-color: var(--mid) }
+.navy .ft { color: var(--pale) }
+
+/* inside page: headline / visual / meaning / notes */
+.bd { position: absolute; left: var(--L); top: 22mm; width: 172mm; height: 255mm; display: grid; grid-template-rows: auto 1fr auto auto }
+h1 { font: 500 30pt/34pt "IBM Plex Serif", serif; letter-spacing: -.005em; text-wrap: balance; margin: -2.2mm 0 7mm }
+.vis { position: relative; min-height: 0 }
+.vis.c { display: flex; flex-direction: column; justify-content: center; padding-bottom: 6mm }
+p, .notes { text-wrap: pretty }
+.mean { margin: 6mm 0 8mm; max-width: 113.33mm }
+.ml { font: 400 9pt/12pt "IBM Plex Mono", monospace; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-bottom: 1.2mm }
+.mean p { font: 500 13pt/17pt "IBM Plex Sans", sans-serif }
+.notes { border-top: .5pt solid var(--hair); padding-top: 2.4mm; font-size: 9pt; line-height: 12pt; color: var(--muted); columns: 2; column-gap: 4mm; max-height: 34mm }
+.notes.one { columns: 1 }
+.navy .ml, .navy .notes { color: var(--pale) }
+.navy .notes { border-color: var(--mid) }
+
+/* shared pieces */
+.g12 { display: grid; grid-template-columns: repeat(12, 1fr); column-gap: 4mm }
+.lab { font: 400 9pt/12pt "IBM Plex Mono", monospace; text-transform: uppercase; letter-spacing: .08em; color: var(--muted) }
+.sb { font-weight: 600 }
+.f16 { font: 600 16pt/20pt "IBM Plex Sans", sans-serif; letter-spacing: -.01em }
+.f14 { font-size: 14pt; line-height: 18pt }
+.f13 { font-size: 13pt; line-height: 17pt }
+.f11 { font-size: 11pt; line-height: 15pt }
+.f9 { font-size: 9pt; line-height: 12pt }
+.mu { color: var(--muted) }
+.serif { font-family: "IBM Plex Serif", serif }
+.mono { font-family: "IBM Plex Mono", monospace }
+.rule { border-top: .5pt solid var(--hair) }
+.ruled > * { border-top: .5pt solid var(--hair); padding: 2.6mm 0 2.8mm }
+.navy .ruled > * { border-color: var(--mid) }
+.nw { white-space: nowrap }
+svg { display: block; overflow: visible }
+.logo { display: flex; white-space: nowrap; align-items: center; gap: 2.4mm; font: 600 11pt/1 "IBM Plex Sans", sans-serif; letter-spacing: -.005em }
+.logo svg { width: 8mm; height: 8mm; flex: none }
+
+/* svg text (user unit = 1 mm) */
+svg text { font-family: "IBM Plex Sans", sans-serif; fill: var(--ink); font-variant-numeric: tabular-nums }
+svg .v { font-size: 3.704px; font-weight: 600 }
+svg .s { font-size: 3.175px; font-weight: 400; fill: var(--muted) }
+svg .k { font-size: 3.175px; font-weight: 400; fill: var(--tick) }
+svg .m { font-family: "IBM Plex Mono", monospace; font-size: 3.175px; font-weight: 400; fill: var(--muted) }
+svg .b { font-size: 3.528px }
+svg .on { fill: var(--onbar) }
+svg .w { fill: #fff }
+svg .p { fill: var(--pale) }
+svg .t14 { font-size: 4.939px; font-weight: 600 }

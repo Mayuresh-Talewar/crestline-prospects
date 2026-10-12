@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GHV</title>
+  <link href="img/favicon.ico" rel="shortcut icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- header css file link -->
+<link rel="stylesheet" type="text/css" href="css/header.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300' rel='stylesheet' type='text/css' />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<style type="text/css">
+  #myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #172959;
+  color: white;
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid white;
+  opacity: 0.8;
+}
+</style>
+</head>
+<body>
+    <script>
+// $('body').fadeOut();
+</script>
+<style>
+.preloader {
+    margin-top: 10%;
+    margin-left: 32%;
+    position: absolute;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #172959;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.backDes{
+    height: 1080px;
+    width: 1920px;
+    background-color: #fff;
+    position: absolute;
+    z-index: 9999;
+    transition:1s;
+}
+
+</style>
+
+<div class="backDes">
+<div class = "preloader"></div>
+</div>
+<!-- scroll up button on scroll -->
+
+<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-arrow-up" aria-hidden="true"></i>
+</button>
+
+<div class="row" id="float">
+  <div class="left">
+    <a href="index.php"><img src="img/logo2.png"></a>
+  </div>
+  
+  <div class="right" style="font-family: Source Sans Pro">
+    <ul class="top">
+      <li><a href="collaterals.php" style="color:#172959">Media Center &nbsp; &nbsp;</a> </li> 
+      <li> <a href="Contact.php" style="color:#172959">Contact Us  &nbsp;  &nbsp;</a></li>
+      <li> <a href="vendor_registration.php" style="color:#172959">Vendor Registration</a> </li>
+      </ul>
+
+      <ul>
+     <a href="https://www.facebook.com/ghvgroup" target="_blank" rel="noopener noreferrer">
+      <li class="s_icon icon_f"></li></a> &nbsp;
+      <!-- <li class="icon twitter"><i class="fa fa-twitter" aria-hidden="true"></i></li> &nbsp;
+      <li class="icon youtube"><i class="fa fa-youtube-play" aria-hidden="true"></i></li> -->
+    </ul>
+  </div>
+</div>
+
+
+<!-- popup form start  -->
+<style type="text/css">
+.s_icon{
+  background-size: cover;
+  height:33px;
+  width: 33px; 
+  transition: 0.2s;
+}
+li.icon_f{
+    background-image: url("./img/f1.png");
+}
+li.icon_t{
+ background-image: url("./img/t1.png");
+}
+li.icon_y{
+ background-image: url("./img/y1.png");
+}
+li.icon_f:hover{
+    background-image: url("./img/f2.png");
+    transition: 0.2s;
+}
+li.icon_t:hover{
+ background-image: url("./img/t2.png");
+ transition: 0.2s;
+}
+li.icon_y:hover{
+ background-image: url("./img/y2.png");
+ transition: 0.2s;
+}
+     input.w3-input {
+    padding: 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+}
+  .w3-row .s6 {
+     height: 50px; 
+     padding-bottom: 0px; 
+}
+input.w3-input {
+    padding: 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+    background-color: white;
+    border-radius: 0px;
+}
+input{
+
+}
+input.w3-blue{
+  margin-bottom: 20px;
+  color: #fff!important;
+  background-color:#172959!important;
+}
+span.w3-display-topright{
+}
+header.w3-teal, .w3-hover-teal:hover {
+    color: #fff!important;
+    background-color:#172959!important;
+}
+</style>
+
+
+
+
+<style type="text/css">
+  .w3-input {
+    padding: 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+}
+</style>
+
+
+
+
+<!-- popup form end -->
+<!-- --------------------------------- dropdown----------------- -->
+<div class="topnav" id="myTopnav">
+  <div class="dropdown">
+    <button class="dropbtn hBar" style="border-left: none;">About Us 
+   <!--    <i class="fa fa-caret-down"></i> -->
+    </button>
+
+    <div class="h_line"></div>
+    
+    <div class="dropdown-content">
+      <div>
+      <a href="Overview.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>
+       Overview</a>
+      <!-- <a href="Milestone.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Milestone</a> -->
+         <a href="OurPresence.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Our Presence</a>
+      </div>
+      <div>
+      <!-- <hr style="margin: 0px;padding: 0px"> -->
+      <a href="Values&Beliefs.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Vision, Values & Beliefs</a>
+      </div>
+      <div>
+      <!-- <hr style="margin: 0px;padding: 0px"> -->
+      <!-- <a href="BoardOfDirectors.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Board Of Directors</a> -->
+      <a href="Policies.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Policies</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn hBar">Core Business
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content">
+      <div>
+      <a href="RoadConstruction.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Road Construction</a>
+      <a href="AirportRunway.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Airport Runway / Parking Bay</a>
+      </div>
+       <!-- <hr style="margin: 0px;padding: 0px"> -->
+       <div>
+      <a href="Railway.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Railways</a>
+      <a href="DamConstruction.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Dam Construction</a>
+      </div>
+       <!-- <hr style="margin: 0px;padding: 0px"> -->
+       <div>
+      <a href="Hospitality.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Hospitality</a>   
+      </div>
+    </div>
+  </div>
+<div class="dropdown">
+    <button class="dropbtn hBar">Key Projects
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content">
+      <div>
+      <a href="OngoingProjects.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Ongoing Projects</a>
+      </div>
+      <div>
+      <a href="CompletedProjects.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Completed Projects</a>
+      </div>
+       <!-- <hr style="margin: 0px;padding: 0px"> -->
+       <div>
+      <span><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Gallery</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn hBar">Sustainability
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content dropdown-csr">
+      <div>
+      <a href="CSR.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>CSR</a>
+      </div>
+
+      <div>
+      <a href="CSR_I.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>CSR Initiatives</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn hBar" onclick="openURL('Clients.php')">Clients
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+  </div>
+
+  <!-- <a href="CSR.php" class="underline hBar">Sustainability</a>
+
+  <a href="Clients.php" class="underline hBar">Clients</a> -->
+
+  <div class="dropdown">
+    <button class="dropbtn hBar">Media 
+     <!--  <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content" id="media" >
+      <div class="media" style="width: 100%">
+      <a href="collaterals.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Collaterals</a>
+      </div>
+       <div class="media" style="width: 100%">
+      <a href="recent_post.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>News Update</a>
+      </div>
+       <div class="media" style="width: 100%">
+      <a href="achievement.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Achievements</a>
+      </div>
+    </div>
+  </div> 
+
+  <div class="dropdown">
+    <button class="dropbtn hBar" onclick="openURL('Careers.php')">Careers
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+  </div>
+
+  <div class="dropdown" style="border-right: none;">
+    <button class="dropbtn hBar" onclick="openURL('Contact.php')">Contact
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+  </div>
+
+  <!-- <a href="Careers.php" class="underline hBar" >Careers</a>
+ 
+  <a href="Contact.php" class="underline hBar" style="border-right: none;">Contact</a> -->
+
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+
+<!-- loader -->
+
+<script>
+
+  function openURL(str) {
+    window.location.href=str;
+  }
+
+// $(document).ready(function() {
+//   if ($(window).width() < 640) {
+//     alert($(window).width());
+//     $(".underline").css('display','none');
+//   }
+// });
+
+// $(document).ready(function(){
+//   alert($(window).width());
+//   if ($(window).width() < 640) {
+//     if ($("#remDrop").hasClass("dropdown")) {
+//       alert('Hello');
+//       for(var i = 0; i< 3; i++) {
+//           $("#remDrop").removeClass("dropdown");
+//         }
+//     }
+//   }
+// });
+
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script><!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>GHV</title>
+		<link rel="stylesheet" type="text/css" href="css/about_us.css">
+		<!-- <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
+		
+	</head>
+	<body>
+		<!-- =============slider start============ -->
+		<link rel="stylesheet" type="text/css" href="css/about_us.css">
+		<style>
+				
+				.mySlides {display:none;}
+
+			    div#button{
+		          background-image: url("./img/frame/f_3.jpg");
+				}
+		</style>
+		<!-- ======================= -->
+		<div class="w3-container" id="frame">
+			<div class="w3-container w3-display-container" id="button">
+				<button class="w3-button w3-display-bottomleft">DIRECTORS</button>
+				<button class="w3-button w3-display-bottomright"><a href="index.php"> Home </a> > DIRECTORS</button>
+			</div>
+		</div>
+		<div class="w3-container">
+			<hr>
+			<!-- =============================== -->
+			<style type="text/css">
+				h2 strong{
+					    text-decoration: underline #F60002;
+                        text-underline-position: under;
+                        /*text-align: center;*/
+				}
+				p.left_p{
+					font-size: 17px;
+				}
+				div#overview_slider{
+					background-color: rgba(0,0,0,0.5);
+					background-image: url("../img/header1.jpg");
+				}
+				.m12{
+					padding: 0px 30px;
+				}
+					@media only screen and (max-width: 768px){
+						.m12{
+					padding: 0px 5px;
+				}
+				p.left_p{
+					font-size: 14px;
+				}
+					}
+			</style>
+			<div class="w3-conatiner" id="overview_slider">
+				
+			</div>
+			<br>
+			<!-- <div id="animate_part">
+				<div class="w3-row mySlides" id="img_text_2">
+					<div class="w3-col m4 ">
+						<img src="img/header1.jpg">
+					</div>
+					<div class="w3-col m8 w3-center ">
+						<p class="text">BOARD OF DIRECTORS
+						</p>
+					</div>
+				</div>
+				
+			</div> -->
+		</div>
+		<!-- ==============slider end =========== -->
+		<hr>
+		<!-- OUR HISTORY -->
+		<!-- accordion button -->
+		<div class="w3-container" id="our_history">
+			<div class="w3-row">
+				<div class="w3-col m12 w3-left">
+				<center>	<h2><strong>DIRECTORS</strong></h2>    </center>
+					<p class="left_p">
+						GHV recognises all its Directors for their dynamism, superb brilliance and helpful involvement to the field of entrepreneurship and social improvement. All Members of the Board have enterprising view on steering GHV’s outstanding progress. The ability to spot opportunities and predict changing client or consumer requirements has been central to all members of the company.
+					</p>
+					<p class="left_p">
+					When we look at our past performance, we continued to go further to meet the needs of our Clients, the challenges of the industry and the issues confronting the world. The efforts executed collectively by every single professional in our organization have resulted into enormous growth and tangible outcomes. 
+					</p>
+					<p class="left_p">
+					To be future ready, we have ensured that our systems and processes
+					are in line with the market demands. And in this regard, we are
+					committed to strengthening our skill sets and make GHV a truly
+					Client-centric organisation.
+					</p>
+					<p class="left_p">
+					All of these instill in us the confidence to ride the next wave of growth.
+					</P>
+					<hr>
+					<!-- ================== Cards============== -->
+					<style type="text/css">
+					/* Icon set - http://ionicons.com/ */
+					@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+					@import url(https://fonts.googleapis.com/css?family=Raleway:400,800);
+					figure.snip1218 {
+					font-family: 'Raleway', Arial, sans-serif;
+					position: relative;
+					overflow: hidden;
+					margin: 10px;
+					min-width: 220px;
+					max-width: 310px;
+					width: 100%;
+					background: #172959;
+					color: #333;
+					text-align: center;
+					box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+					font-size: 16px;
+					}
+					figure.snip1218 * {
+					-webkit-box-sizing: border-box;
+					box-sizing: border-box;
+					-webkit-transition: all 0.35s ease;
+					transition: all 0.35s ease;
+					}
+					figure.snip1218 img {
+					max-width: 100%;
+					vertical-align: top;
+					}
+					figure.snip1218 .image {
+					position: relative;
+					border-bottom: 1px solid #172959;
+					z-index: 1;
+					}
+					figure.snip1218 .image:before {
+					width: 0;
+					height: 0;
+					border-style: solid;
+					border-width: 20px 20px 0 20px;
+					border-color: #172959 transparent transparent transparent;
+					content: '';
+					position: absolute;
+					top: 100%;
+					left: 50%;
+					-webkit-transform: translate(-50%, -15px);
+					transform: translate(-50%, -15px);
+					z-index: -1;
+					-webkit-transition: all 0.35s ease;
+					transition: all 0.35s ease;
+					}
+					figure.snip1218 .image p {
+					font-weight: 500;
+					font-size: 15px;
+					margin: 0;
+					padding: 0 30px;
+					line-height: 1.2em;
+					position: absolute;
+					top: 50%;
+					width: 100%;
+					color: #ffffff;
+					-webkit-transform: translateY(-50%);
+					transform: translateY(-50%);
+					opacity: 0;
+					font-style: italic;
+					}
+					figure.snip1218 figcaption {
+					background-color: #ffffff;
+					padding: 10px;
+					}
+					figure.snip1218 h3 {
+					margin: 0 0 5px;
+					text-transform: uppercase;
+					font-weight: 400;
+					font-size: 20px;
+					}
+					figure.snip1218 h3 span {
+					font-weight: 800;
+					}
+					figure.snip1218 h5 {
+					margin: 0 0 15px;
+					font-weight: 400;
+					}
+					figure.snip1218 i {
+					margin-right: 5px;
+					display: inline-block;
+					font-size: 24px;
+					color: #000000;
+					width: 35px;
+					height: 35px;
+					line-height: 35px;
+					background: white;
+					box-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
+					background-color: rgba(0, 0, 0, 0.05);
+					}
+					figure.snip1218 i:hover {
+					background-color: #172959;
+					color: white !important;
+					}
+					figure.snip1218:hover .image:before,
+					figure.snip1218.hover .image:before {
+					border-color: #172959 transparent transparent transparent;
+					-webkit-transform: translate(-50%, 0px);
+					transform: translate(-50%, 0px);
+					}
+					figure.snip1218:hover .image p,
+					figure.snip1218.hover .image p {
+					opacity: 1;
+					}
+					figure.snip1218:hover img,
+					figure.snip1218.hover img {
+					opacity: 0.2;
+					-webkit-filter: grayscale(100%);
+					filter: grayscale(100%);
+					}
+					/*div.figure{
+					text-align: center;
+					margin-left: 50px;
+					}*/
+					div.profile{
+					padding-left: 100px;
+					position: relative;
+					left: 80px;
+					}
+					.image img{
+                         width: 100%;
+                         height: 225px;
+					}
+					@media only screen and (max-width: 768px){
+					div.profile{
+					padding-left: 15px;
+					position: static;
+					}
+					}
+					</style>
+					<!-- ==============cards==============  -->
+					<div class="w3-row profile">
+						<div class="w3-col m6">
+							<figure class="snip1218">
+								<div class="image" style="overflow: hidden;"><img src="img/directors/jahid_3.jpg" alt="sample70">
+									<p>
+										Mr. Jahid Vijapura – Managing Director of the company. He is providing overall vision and strategy to the company. He has hands on experience of more then 25 years in the construction and Infrastructure industry to his credit. He is responsible for developing new business, executing road construction, Airport runway projects, etc.
+									</p>
+								</div>
+								<figcaption>
+								<h3><span>Mr. Jahid Vijapura</span></h3>
+								<h5>Managing Director</h5>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="w3-col m6">
+							<figure class="snip1218">
+								<div class="image"><img src="img/directors/Mustaq_Vijapura.jpg" alt="sample70"/>
+									<p>
+										Mr. Mustaq Vijapura – Director of the company. He has rich experience of 30 years in the infrastructure sector. His vision for the growth of business ventured into new verticals which diversified to Hospitality division.
+									</p>
+								</div>
+								<figcaption>
+								<h3><span>Mr. Mustaq Vijapura</span></h3>
+								<h5>Director</h5>
+								</figcaption>
+							</figure>
+						</div>
+					</div>
+					<div class="w3-row profile" >
+						<div class="w3-col m6 w3-center">
+							<figure class="snip1218">
+								<div class="image"><img src="img/directors/Farooq_Vijapura.jpg" alt="sample70"/>
+									<p>
+										Mr. Farooq Vijapura – Director of the company. His expertise of 20 years include setting up,managing, operating & controlling, for completion of the project on time.
+									</p>
+								</div>
+								<figcaption>
+								<h3><span>Mr. Farooq Vijapura</span></h3>
+								<h5>Director</h5>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="w3-col m6">
+							<figure class="snip1218">
+								<div class="image"><img src="img/directors/Shafi_Vijapura.jpg" alt="sample70"/>
+									<p>
+										Mr. Shafi Vijapura – Director of the Company. His has over 40 years of professional experience in Infrastructure industry i.e. road construction, Bridge construction, Air port runway.He is co-founder & mentor of the company. He also manage charitable trusts engaged in education and social welfare activities.
+									</p>
+								</div>
+								<figcaption>
+								<h3><span>Mr. Shafi Vijapura</span></h3>
+								<h5>Director</h5>
+								</figcaption>
+							</figure>
+						</div>
+					</div>
+					<script type="text/javascript">
+						
+					/* Demo purposes only */
+					$(".hover").mouseleave(
+					function () {
+					$(this).removeClass("hover");
+					}
+					);
+					</script>
+					<!-- ---------------------- card end ------------- -->
+					
+					
+				</div>
+				<!-- 
+				<div class="w3-col m3">
+					<h4><b>Search</b></h4>
+					<br>
+					<input type="text" class="w3-input w3-border fa fa-search" placeholder="Search" name="">
+						<font style="font-size: 30px"> <strong> Recent Posts </strong></font> 
+					<p>
+					CRISIL RATING CO, ASSIGNS GHV INDIA PVT. LTD. “CRISIL A” RATING WITH OUTLOOK “STABLE </p>
+					<p>
+					GHV India has been admitted as an Associate Member (Membership No. “BC/6986/AL/2016”) of Bombay Chambers of Commerce & Industry.</p>
+					<p>
+					GHV India has received LOI worth Rs. 900 Cr. For the ‘Four Laning of Fagne – Gujarat / Maharashtra Border Project’ of NH-6 in the state of Maharashtra.</p>
+					<p>
+					GHV India has received LOI worth Rs. 202 Cr. for Nagpur -Hyderabad Four Laning Road Project from NHAI.</p>
+					<p>
+					GHV India is Lowest Bidder in Project for Construction of 04 ROB’s in State of Gujarat.</p>
+					
+				</div> -->
+			</div>
+		</div>
+	</div>
+	<!-- <hr> -->
+	<!-- ---------------------- -->
+	
+	<!-- for hide and show conatiner with   -->
+	<script>
+	var myIndex = 0;
+	carousel();
+	function carousel() {
+	var i;
+	var x = document.getElementsByClassName("mySlides");
+	for (i = 0; i < x.length; i++) {
+	x[i].style.display = "none";
+	}
+	myIndex++;
+	if (myIndex > x.length) {myIndex = 1}
+	x[myIndex-1].style.display = "block";
+	setTimeout(carousel, 6000); // Change image every 2 seconds
+	}
+	</script>
+	
+</body>
+</html>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<!-- -----footer css link-------------------- -->
+<link rel="stylesheet" type="text/css" href="css/footer.css">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"> -->
+<footer class="w3-container">
+  <div class="w3-row">
+    <div class="w3-col m4 w3-left">
+      <div class="f_title">
+        <h3 style="font-family: Source Sans Pro">About Us</h3>
+      </div>
+      <div class="link_widget">
+        <ul>
+          <li><a href="collaterals.php">Company Profile</a></li>
+            <li><a href="index.php"> Message From MD </a></li>
+          <li><a href="Values&Beliefs.php"> Our Mission</a></li>
+          <!-- <li><a href="BoardOfDirectors.php"> Board of Director</a></li> -->
+          <!-- <li><a href="index.php">  Our Founder</a></li> -->
+          <!-- <li><a href="BoardOfDirectors.php"> Chairmain's Profile</a></li> -->
+          <!-- <li><a href="achievement.php"> Awards and Achievements</a></li> -->
+          <li><a href="OurPresence.php">Our Presence</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="w3-col m4">
+      <div class="f_title">
+        <h3 style="font-family: Source Sans Pro">Business Segments</h3>
+      </div>
+      <div class="link_widget">
+        <ul>
+          <li><a href="RoadConstruction.php"> Roads</a></li>
+          <li><a href="AirportRunway.php"> Airport Runway / Parking Bay</a></li>
+          <li><a href="Railway.php"> Railways</a></li>
+          <li><a href="DamConstruction.php"> Dam Construction</a></li>
+          <li><a href="Hospitality.php"> Hospitality</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    
+    <div class="w3-col m4">
+      <div class="f_title">
+        <h3 style="font-family: Source Sans Pro"> News & Media</h3>
+      </div>
+      <div class="link_widget">
+        <ul>
+          <li><a href="recent_post.php"> News Update</a></li>
+          <li><a href="collaterals.php"> Media Kit</a></li>
+          <!-- <li><a href="Contact.php">  Press Contact</a></li> -->
+          <!-- <li><a href="Careers.php"> Journalist Registration</a></li> -->
+          <!-- <li><a href="recent_post.php"> GHV in News</a></li> -->
+                <li><a href="achievement.php"> Awards and Achievements</a></li>
+        </ul>
+      </div>
+      
+      
+    </div>
+  
+    
+  </div>
+  
+  <!--<div style="text-align:center; color: white;">&copy; 1965-2026  |  Designed & Developed By: <a href="https://www.intelligic.org" target="_blank">Intelligic Solutions</a></a></div>-->
+
+<style>
+  .preloader, .backDes {
+      display: none;
+   }
+</style>
+<script>
+// $('body').fadeIn();
+</script>
+</footer>

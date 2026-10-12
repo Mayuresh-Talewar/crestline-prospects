@@ -1,0 +1,180 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Main.dc.html": {
+      "h": 1145,
+      "title": "01 Cover",
+      "w": 816,
+      "x": 840,
+      "y": 0
+    },
+    "P02-Letter.dc.html": {
+      "h": 1145,
+      "title": "02 Letter",
+      "w": 816,
+      "x": 1856,
+      "y": 0
+    },
+    "P03-Capacite-today.dc.html": {
+      "h": 1145,
+      "title": "03 Capacite today",
+      "w": 816,
+      "x": 2696,
+      "y": 0
+    },
+    "P04-Order-book.dc.html": {
+      "h": 1145,
+      "title": "04 Sales and order book",
+      "w": 816,
+      "x": 3712,
+      "y": 0
+    },
+    "P05-Cash-waiting.dc.html": {
+      "h": 1145,
+      "title": "05 Cash waiting",
+      "w": 816,
+      "x": 4552,
+      "y": 0
+    },
+    "P06-Unpaid-bills.dc.html": {
+      "h": 1145,
+      "title": "06 Unpaid bills",
+      "w": 816,
+      "x": 0,
+      "y": 1545
+    },
+    "P07-Work-not-billed.dc.html": {
+      "h": 1145,
+      "title": "07 Work not yet billed",
+      "w": 816,
+      "x": 840,
+      "y": 1545
+    },
+    "P08-Ageing.dc.html": {
+      "h": 1145,
+      "title": "08 Ageing",
+      "w": 816,
+      "x": 1856,
+      "y": 1545
+    },
+    "P09-Funding.dc.html": {
+      "h": 1145,
+      "title": "09 Funding the growth",
+      "w": 816,
+      "x": 2696,
+      "y": 1545
+    },
+    "P10-Vendors.dc.html": {
+      "h": 1145,
+      "title": "10 Vendors",
+      "w": 816,
+      "x": 3712,
+      "y": 1545
+    },
+    "P11-Cannot-show.dc.html": {
+      "h": 1145,
+      "title": "11 What the accounts cannot show",
+      "w": 816,
+      "x": 4552,
+      "y": 1545
+    },
+    "P12-Ninety-days.dc.html": {
+      "h": 1145,
+      "title": "12 The 90-day plan",
+      "w": 816,
+      "x": 0,
+      "y": 3090
+    },
+    "P13-How-it-works.dc.html": {
+      "h": 1145,
+      "title": "13 How Crestline works",
+      "w": 816,
+      "x": 840,
+      "y": 3090
+    },
+    "P14-One-line.dc.html": {
+      "h": 1145,
+      "title": "14 One Crestline line",
+      "w": 816,
+      "x": 1856,
+      "y": 3090
+    },
+    "P15-Next-step.dc.html": {
+      "h": 1145,
+      "title": "15 Next step",
+      "w": 816,
+      "x": 2696,
+      "y": 3090
+    },
+    "P16-Back-cover.dc.html": {
+      "h": 1145,
+      "title": "16 Back cover",
+      "w": 816,
+      "x": 3712,
+      "y": 3090
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-10-06T07:32:00Z",
+    "v": 1
+  },
+  "designSystems": [
+    {
+      "artifact": "https://claude.ai/code/artifact/aae8bece-f58b-4682-b7f1-98b11c8cb72b",
+      "copiedAt": "2026-10-06T07:32:00Z",
+      "namespace": "crestline",
+      "title": "Crestline",
+      "version": "1790897333-9605"
+    }
+  ],
+  "launch": {
+    "view": "canvas"
+  },
+  "notes": {
+    "row1": {
+      "kind": "title1",
+      "maxW": 5368,
+      "text": "Working-capital review · reader spreads · cover, 2-3, 4-5",
+      "w": 240,
+      "x": 0,
+      "y": -300
+    },
+    "row2": {
+      "kind": "title1",
+      "maxW": 5368,
+      "text": "Spreads 6-7, 8-9, 10-11",
+      "w": 240,
+      "x": 0,
+      "y": 1245
+    },
+    "row3": {
+      "kind": "title1",
+      "maxW": 5368,
+      "text": "Spreads 12-13, 14-15, back cover",
+      "w": 240,
+      "x": 0,
+      "y": 2790
+    }
+  },
+  "order": [
+    "Main.dc.html",
+    "P02-Letter.dc.html",
+    "P03-Capacite-today.dc.html",
+    "P04-Order-book.dc.html",
+    "P05-Cash-waiting.dc.html",
+    "P06-Unpaid-bills.dc.html",
+    "P07-Work-not-billed.dc.html",
+    "P08-Ageing.dc.html",
+    "P09-Funding.dc.html",
+    "P10-Vendors.dc.html",
+    "P11-Cannot-show.dc.html",
+    "P12-Ninety-days.dc.html",
+    "P13-How-it-works.dc.html",
+    "P14-One-line.dc.html",
+    "P15-Next-step.dc.html",
+    "P16-Back-cover.dc.html"
+  ],
+  "pages": [],
+  "title": "Working-capital review, Capacite"
+}

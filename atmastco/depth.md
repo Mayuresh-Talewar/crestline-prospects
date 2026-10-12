@@ -1,0 +1,7 @@
+# Atmastco: story angle
+
+Respect first. A Bhilai fabricator that began as a trading partnership in 1987 (CARE), built two factories, and supplied girders for the Jammu-Katra rail bridge and Anji Khad, India's first cable-stayed rail bridge. Its customers read like the Indian industrial map: SAIL, NTPC, BHEL, Vedanta, Tata Steel, Indian Railways, L&T, Afcons. Listed on NSE Emerge in February 2024, about Rs 293 Cr turnover and Rs 18 Cr profit in FY26, and in February 2026 a Rs 235 Cr LOI from SAIL Bhilai for a reheating furnace, its largest announced order.
+
+Then the question, in the company's own numbers. FY25: Rs 19.9 Cr profit, Rs 33.3 Cr operating cash used. FY26: operating cash back to +Rs 13.5 Cr and receivables down from Rs 163.4 Cr to Rs 90.8 Cr. Where did the bills wait, and on which jobs? Acuite says FY25 EPC costs were incurred but bills could not be raised "due to pending quality clearances from customers". Services/EPC is a quarter of FY26 turnover. The accounts show 78.5% of receivables under six months and Rs 4.7 Cr disputed beyond three years, but not which site, which certificate or which desk. That is the question Crestline answers: for each running job, which clearance, certificate or release holds the money, and since when.
+
+Fit warning: only the EPC/erection part is Crestline's. Inventory (Rs 141 Cr, about 176 days of revenue) is plant stock and not a lever. SAP implementation (started June 2024) is the likely source of timestamps. New CFO since 14 Aug 2026 (Sarvesh Kumar): the finance owner has just changed.

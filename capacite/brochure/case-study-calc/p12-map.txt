@@ -1,0 +1,71 @@
+STATS 86 cases 780 events, median 171.1 p80 248.7 rework 12.790697674418606 conf 12.790697674418606 asOf 2027-03-20T08:46:08.689Z
+IDEAL WORK_EXECUTED > JOINT_MEASUREMENT > MB_QS_CHECK > RA_PREPARED > REVIEW_STARTED > REVIEW_COMPLETED > BILL_SUBMITTED > CLIENT_ACKNOWLEDGED > CERTIFIED > TAX_INVOICE_RAISED > PAYMENT_RECEIVED
+NODE {"a":"WORK_EXECUTED","label":"Work Executed","cases":76,"medWait":0,"p80":0,"ourShare":null,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":25,"dept":"PROJ"}
+NODE {"a":"JOINT_MEASUREMENT","label":"Joint Measurement","cases":76,"medWait":7.6,"p80":11,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":7,"dept":"COMM"}
+NODE {"a":"MB_QS_CHECK","label":"MB / QS Check","cases":76,"medWait":5,"p80":9,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":11,"dept":"COMM"}
+NODE {"a":"RA_PREPARED","label":"RA Bill Prepared","cases":76,"medWait":5.6,"p80":7,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":13,"dept":"BILL"}
+NODE {"a":"REVIEW_STARTED","label":"Internal Review Started","cases":89,"medWait":3.2,"p80":4.9,"ourShare":1,"holders":{"n":6,"amt":"13.46 Cr","oldest":831.2},"repeatedCases":11,"repeatRD":398398465.1371545,"rank":17,"dept":"COMM"}
+NODE {"a":"REVIEW_COMPLETED","label":"Internal Review Completed","cases":70,"medWait":14.5,"p80":26.7,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":3,"dept":"COMM"}
+NODE {"a":"BILL_SUBMITTED","label":"Bill Submitted","cases":70,"medWait":4.7,"p80":6.2,"ourShare":1,"holders":{"n":2,"amt":"5.19 Cr","oldest":519.9},"repeatedCases":0,"repeatRD":0,"rank":15,"dept":"BILL"}
+NODE {"a":"CLIENT_ACKNOWLEDGED","label":"Client Acknowledged","cases":44,"medWait":12.8,"p80":17.9,"ourShare":1,"holders":{"n":12,"amt":"28.24 Cr","oldest":717.9},"repeatedCases":0,"repeatRD":0,"rank":9,"dept":"CLIENT"}
+NODE {"a":"CERTIFIED","label":"Certified","cases":23,"medWait":45.8,"p80":60.3,"ourShare":0.3682904555719297,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":5,"dept":"CLIENT"}
+NODE {"a":"TAX_INVOICE_RAISED","label":"Tax Invoice Raised","cases":47,"medWait":10.2,"p80":14.2,"ourShare":0.05623024131277823,"holders":{"n":10,"amt":"27.14 Cr","oldest":575.9},"repeatedCases":0,"repeatRD":0,"rank":10,"dept":"BILL"}
+NODE {"a":"PAYMENT_RECEIVED","label":"Payment Received","cases":37,"medWait":110.1,"p80":134.1,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":1,"dept":"FIN"}
+NODE {"a":"CERTIFIED_SHORT","label":"Certified Short","cases":29,"medWait":46.9,"p80":59.9,"ourShare":0.5138696481855052,"holders":{"n":5,"amt":"10.62 Cr","oldest":481.2},"repeatedCases":0,"repeatRD":0,"rank":4,"dept":"CLIENT"}
+NODE {"a":"RA_REJECTED","label":"RA Rejected","cases":13,"medWait":21.4,"p80":29.2,"ourShare":1,"holders":null,"repeatedCases":1,"repeatRD":1370862699.5733666,"rank":16,"dept":"COMM"}
+NODE {"a":"RA_CORRECTED","label":"RA Corrected","cases":13,"medWait":2.8,"p80":4.2,"ourShare":1,"holders":null,"repeatedCases":1,"repeatRD":75681289.71907991,"rank":20,"dept":"BILL"}
+NODE {"a":"CLAIM_IDENTIFIED","label":"Claim Identified","cases":5,"medWait":0,"p80":0,"ourShare":null,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":27,"dept":"COMM"}
+NODE {"a":"CLAIM_SUBMITTED","label":"Claim Submitted","cases":5,"medWait":44.8,"p80":46.3,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":12,"dept":"COMM"}
+NODE {"a":"CLAIM_DISCUSSION","label":"Claim Under Discussion","cases":5,"medWait":56.8,"p80":82.8,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":8,"dept":"CLIENT"}
+NODE {"a":"RETENTION_WITHHELD","label":"Retention Withheld","cases":4,"medWait":0,"p80":0,"ourShare":null,"holders":{"n":3,"amt":"9.66 Cr","oldest":929.2},"repeatedCases":0,"repeatRD":0,"rank":23,"dept":"COMM"}
+NODE {"a":"SHORTFALL_REBILLED","label":"Shortfall Rebilled","cases":4,"medWait":20.2,"p80":20.2,"ourShare":0.4058602468673739,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":22,"dept":"BILL"}
+NODE {"a":"CERT_REJECTED","label":"Certification Rejected","cases":4,"medWait":35.3,"p80":35.3,"ourShare":null,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":26,"dept":"CLIENT"}
+NODE {"a":"CLAIM_AWARDED","label":"Claim Awarded","cases":3,"medWait":39.3,"p80":39.3,"ourShare":0,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":18,"dept":"CLIENT"}
+NODE {"a":"CLAIM_INVOICED","label":"Claim Invoiced","cases":3,"medWait":9.7,"p80":9.7,"ourShare":0,"holders":{"n":1,"amt":"2.53 Cr","oldest":8.2},"repeatedCases":0,"repeatRD":0,"rank":19,"dept":"BILL"}
+NODE {"a":"CLAIM_REJECTED","label":"Claim Rejected","cases":2,"medWait":80.3,"p80":39.5,"ourShare":null,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":28,"dept":"CLIENT"}
+NODE {"a":"CLAIM_RECEIVED","label":"Claim Received","cases":2,"medWait":91.9,"p80":82.2,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":14,"dept":"FIN"}
+NODE {"a":"ADVANCE_RECEIVED","label":"Customer Advance Received","cases":1,"medWait":0,"p80":0,"ourShare":null,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":24,"dept":"FIN"}
+NODE {"a":"ADVANCE_RECOVERED","label":"Customer Advance Recovered","cases":1,"medWait":240,"p80":240,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":2,"dept":"BILL"}
+NODE {"a":"DLP_EXPIRED","label":"DLP Expired","cases":1,"medWait":760.8,"p80":760.8,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":6,"dept":"COMM"}
+NODE {"a":"RETENTION_DUE","label":"Retention Due","cases":1,"medWait":14.3,"p80":14.3,"ourShare":1,"holders":null,"repeatedCases":0,"repeatRD":0,"rank":21,"dept":"COMM"}
+EDGE WORK_EXECUTED > JOINT_MEASUREMENT 76 p50 7.6 p95 16.2 cash 180.49 Cr
+EDGE JOINT_MEASUREMENT > MB_QS_CHECK 76 p50 5 p95 13.4 cash 174.77 Cr
+EDGE MB_QS_CHECK > RA_PREPARED 76 p50 5.5 p95 11.8 cash 174.77 Cr
+EDGE RA_PREPARED > REVIEW_STARTED 76 p50 3.6 p95 7 cash 146.34 Cr
+EDGE REVIEW_STARTED > REVIEW_COMPLETED 70 p50 14.2 p95 54.9 cash 135.31 Cr
+EDGE REVIEW_COMPLETED > BILL_SUBMITTED 70 p50 4.6 p95 8.5 cash 135.31 Cr
+EDGE BILL_SUBMITTED > CLIENT_ACKNOWLEDGED 44 p50 12.5 p95 24.2 cash 82.21 Cr
+EDGE TAX_INVOICE_RAISED > PAYMENT_RECEIVED 35 p50 110.1 p95 169.7 cash 62.78 Cr
+EDGE CERTIFIED > TAX_INVOICE_RAISED 23 p50 9.4 p95 17 cash 44.23 Cr
+EDGE CERTIFIED_SHORT > TAX_INVOICE_RAISED 22 p50 10.3 p95 20.9 cash 38.04 Cr
+EDGE CLIENT_ACKNOWLEDGED > CERTIFIED_SHORT 17 p50 41.9 p95 68.8 cash 32.91 Cr
+EDGE CLIENT_ACKNOWLEDGED > CERTIFIED 15 p50 45.8 p95 79 cash 26.61 Cr
+EDGE REVIEW_STARTED > RA_REJECTED 13 p50 21.4 p95 37.3 cash 25.21 Cr
+EDGE RA_REJECTED > RA_CORRECTED 13 p50 2.8 p95 5.4 cash 25.21 Cr
+EDGE RA_CORRECTED > REVIEW_STARTED 13 p50 1.6 p95 2.7 cash 25.21 Cr
+EDGE BILL_SUBMITTED > CERTIFIED_SHORT 12 p50 52.6 p95 82.5 cash 24.95 Cr
+EDGE BILL_SUBMITTED > CERTIFIED 8 p50 39.9 p95 57.1 cash 17.62 Cr
+EDGE CLAIM_IDENTIFIED > CLAIM_SUBMITTED 5 p50 44.8 p95 46.3 cash 23.45 Cr
+EDGE CLAIM_SUBMITTED > CLAIM_DISCUSSION 5 p50 56.8 p95 82.8 cash 23.45 Cr
+EDGE BILL_SUBMITTED > CERT_REJECTED 4 p50 29.3 p95 35.3 cash 6.25 Cr
+EDGE CLAIM_DISCUSSION > CLAIM_AWARDED 3 p50 39.3 p95 39.3 cash 15.71 Cr
+EDGE CLAIM_AWARDED > CLAIM_INVOICED 3 p50 9.7 p95 9.7 cash 10.6 Cr
+EDGE CERTIFIED_SHORT > SHORTFALL_REBILLED 2 p50 11.5 p95 11.5 cash 3.92 Cr
+EDGE SHORTFALL_REBILLED > TAX_INVOICE_RAISED 2 p50 14.2 p95 14.2 cash 0.85 Cr
+EDGE TAX_INVOICE_RAISED > SHORTFALL_REBILLED 2 p50 15.6 p95 15.6 cash 3.32 Cr
+EDGE SHORTFALL_REBILLED > PAYMENT_RECEIVED 2 p50 73.8 p95 73.8 cash 0.62 Cr
+EDGE CLAIM_DISCUSSION > CLAIM_REJECTED 2 p50 39.5 p95 39.5 cash 7.74 Cr
+EDGE CLAIM_INVOICED > CLAIM_RECEIVED 2 p50 82.2 p95 82.2 cash 9.08 Cr
+EDGE ADVANCE_RECEIVED > ADVANCE_RECOVERED 1 p50 240 p95 240 cash 28 Cr
+EDGE RETENTION_WITHHELD > DLP_EXPIRED 1 p50 760.8 p95 760.8 cash 2.53 Cr
+EDGE DLP_EXPIRED > RETENTION_DUE 1 p50 14.3 p95 14.3 cash 2.53 Cr
+BOTTLENECK {"h":"Slow handoff: GI-BILL → GI-FIN between \"TAX_INVOICE_RAISED\" and \"PAYMENT_RECEIVED\"","med":110.1,"n":35,"cash":"62.78 Cr","carry":"0.55 Cr","ours":true,"owner":"FIN","reason":"Cases sit between \"TAX_INVOICE_RAISED\" and \"PAYMENT_RECEIVED\" for an average of 117 days, against 29 days for a typical step here. It crosses GI-BILL → GI-FIN; integration friction is the usual cause. ₹63 Cr flows through this step across 35 cases. FIN owns this step — nothing outside the business has to change."}
+BOTTLENECK {"h":"Slow step: \"BILL_SUBMITTED\" → \"CERTIFIED_SHORT\"","med":52.6,"n":12,"cash":"24.95 Cr","carry":"0.08 Cr","ours":false,"owner":"CLIENT","reason":"Cases sit between \"BILL_SUBMITTED\" and \"CERTIFIED_SHORT\" for an average of 61 days, against 29 days for a typical step here. ₹25 Cr flows through this step across 12 cases. CLIENT owns this step; moving it needs the counterparty."}
+BOTTLENECK {"h":"Slow step: \"CLAIM_SUBMITTED\" → \"CLAIM_DISCUSSION\"","med":56.8,"n":5,"cash":"23.45 Cr","carry":"0.07 Cr","ours":false,"owner":"CLIENT","reason":"Cases sit between \"CLAIM_SUBMITTED\" and \"CLAIM_DISCUSSION\" for an average of 60 days, against 29 days for a typical step here. ₹23 Cr flows through this step across 5 cases. CLIENT owns this step; moving it needs the counterparty."}
+BOTTLENECK {"h":"Slow step: \"CLAIM_DISCUSSION\" → \"CLAIM_AWARDED\"","med":39.3,"n":3,"cash":"15.71 Cr","carry":"0.04 Cr","ours":false,"owner":"CLIENT","reason":"Cases sit between \"CLAIM_DISCUSSION\" and \"CLAIM_AWARDED\" for an average of 53 days, against 29 days for a typical step here. ₹16 Cr flows through this step across 3 cases. CLIENT owns this step; moving it needs the counterparty."}
+REWORK VARIANT 4 90.9 WORK_EXECUTED > JOINT_MEASUREMENT > MB_QS_CHECK > RA_PREPARED > REVIEW_STARTED > RA_REJECTED > RA_CORRECTED > REVIEW_STARTED > REVIEW_COMPLETED > BILL_SUBMITTED > CLIENT_ACKNOWLEDGED
+REWORK VARIANT 2 76.1 WORK_EXECUTED > JOINT_MEASUREMENT > MB_QS_CHECK > RA_PREPARED > REVIEW_STARTED > RA_REJECTED > RA_CORRECTED > REVIEW_STARTED > REVIEW_COMPLETED > BILL_SUBMITTED
+REWORK VARIANT 2 195.8 WORK_EXECUTED > JOINT_MEASUREMENT > MB_QS_CHECK > RA_PREPARED > REVIEW_STARTED > RA_REJECTED > RA_CORRECTED > REVIEW_STARTED > REVIEW_COMPLETED > BILL_SUBMITTED > CLIENT_ACKNOWLEDGED > CERTIFIED_SHORT
+REWORK VARIANT 1 356.9 WORK_EXECUTED > JOINT_MEASUREMENT > MB_QS_CHECK > RA_PREPARED > REVIEW_STARTED > RA_REJECTED > RA_CORRECTED > REVIEW_STARTED > RA_REJECTED > RA_CORRECTED > REVIEW_STARTED > RA_REJECTED > RA_CORRECTED > REVIEW_STARTED > REVIEW_COMPLETED > BILL_SUBMITTED > CLIENT_ACKNOWLEDGED > CERTIFIED > TAX_INVOICE_RAISED
+IDEAL VARIANT 11 248.7
+WC 244.12 Cr 86 open

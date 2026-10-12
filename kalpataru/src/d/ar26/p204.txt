@@ -1,0 +1,80 @@
+Financial Statements                                                                                                                 Notes forming part of the Consolidated Financial Statements
+
+Notes forming part of the Consolidated Financial Statements                                                                          for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+32. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)                                                                 32. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)
+
+Liquidity Risk                                                                                                                       Exposure As at 31st March, 2025
+The Table below provides details regarding the contractual maturities of significant liabilities
+                                                                                                                                                                                                                                                                           (I in Crores)
+
+                                                                                                                    (I in Crores)    Commodity                        Fixed/variable                                      Open Exposure          Value at Risk on price variation of
+                                                                                                                                                                                                                                                                        5%
+                                              As at 31st March, 2026                     As at 31st March, 2025                      Aluminum                         Fixed Price Contracts                                             130.35
+                                                                                                                                     Zinc                             Fixed Price Contracts                                             192.92   Increase                  Decrease
+Particulars                                                                                                                          Steel                            Fixed Price Contracts                                           1,324.45
+                                  Less than More than                 Total           Less than More than           Total            Copper                           Fixed Price Contracts                                                      6.52                      (6.52)
+Financial Liabilities                                                                                                                Total                                                                                                55.41
+(i)Trade Payables                             1 year     1 year                          1 year             1 year                                                                                                                    1,703.13
+(ii)Borrowings
+(iii)Other financial liabilities                                                                                                                                                                                                                 9.65                      (9.65)
+Total
+                                  7,070.96                   96.72    7,167.68         6,595.90         79.43       6,675.33                                                                                                                     66.22                     (66.22)
+                                  2,698.75                  612.36       3,311.11      2,957.26     1,475.24        4,432.50
+                                                           569.22                                     534.35         1,704.59                                                                                                                    2.77                      (2.77)
+                                    1,311.46             1,278.30     1,880.68           1,170.24  2,089.02         12,812.42
+                                  11,081.17                         12,359.47         10,723.40                                                                                                                                                  85.16                     (85.16)
+
+                                                                                                                                     33. DISCLOSURE IN RESPECT OF SECURITY CREATED ON ASSETS OF THE GROUP AGAINST BORROWINGS
+
+Notes:
+
+1.Previous year includes liabilities pertaining to Non-current assets held for sale.                                                                                                                                                                              As at          (H in Crores)
+                                                                                                                                                                                                                                                 31st March, 2026                           As at
+2. The above table does not include liability on account of future interest obligation.                                              Particulars
+                                                                                                                                                                                                                                                              2,187.86     31st March, 2025
+Interest Rate Risk                                                                                                                   Property, Plant and Equipments (including CWIP)                                                                                                     1,779.33
+                                                                                                                                     Other Intangible Assets*                                                                                                           -               1,287.05
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes  Inventories                                                                                                                                         1,361.43
+in market interest rates. The group's exposure to the risk of changes in market interest rates relates primarily to the group's      Financial Assets (Non-current & Current)                                                                                 1,743.40
+long-term debt obligations with floating interest rates.                                                                             Trade Receivables*
+                                                                                                                                     Cash & Bank Balances*                                                                                        7,965.59                  7,360.99
+Interest Rate Sensitivity Analysis                                                                                                   Other Balances with Banks                                                                                     1,223.22                  1,436.61
+                                                                                                                                     Other Assets*                                                                                                  328.84                      155.14
+For the year ended 31st March, 2026 and 31st March, 2025, a 100 basis point increase / decrease in interest rate on floating rate    Total                                                                                                        8,875.40                  7,860.22
+liabilities would impact group's profit before tax by approximately 1.45% and 2.73% respectively.                                                                                                                                                22,324.31
+                                                                                                                                     *Previous year includes securities pertaining to assets classified as held for sale                                                   21,240.77
+
+Commodity Price Risk                                                                                                                 34. CONTINGENT LIABILITIES IN RESPECT OF
+
+The group is affected by the price volatility of certain commodities like Steel, Zinc, Copper and Aluminum. Its operating            Particulars                                                                                                                  As at          (H in Crores)
+activities require the on-going purchase or continuous supply of these materials. The group holds derivative financial                                                                                                                           31st March, 2026                           As at
+instruments such as commodity future contract to mitigate the risk of changes in Zinc, Copper and Aluminum prices.                   (a)Bank guarantees
+                                                                                                                                     (b)Claims against the group not acknowledged as debt                                                                         37.92    31st March, 2025
+The sensitivity analysis have been determined based on the exposure to changes in commodity prices. The analysis is                  (c)Demands by Tax / Stamp Duty / Revenue / Other Statutory authorities, disputed                                                                       25.14
+prepared assuming the quantity of exposure outstanding at the end of the reporting period was outstanding for the whole                                                                                                                                           47.49                     48.10
+year. A 5% increase or decrease is used when reporting commodity price risk internally to key management personnel and                     by the Company
+represents management's assessment of the reasonable possible changes in commodity prices and the impact of the                                                                                                                                                   170.01                   315.92
+possible change on the group's profit before tax is 6.99 % for FY 2025-26 and 10.35 % for FY 2024-25.
+
+Exposure As at 31st March, 2026
+
+                                                                                                                    (I in Crores)    Notes
+
+Commodity                         Fixed/variable         Open Exposure                Value at Risk on price variation of 5 %        1 Future ultimate outflow of resources embodying economic benefits in respect of the above matters are uncertain as it
+                                                                                                                                            depends on the final outcome of the matters involved.
+Aluminum                          Fixed Price Contracts                567.74                     Increase          Decrease
+Zinc                              Fixed Price Contracts                149.24                                                        2 The amounts disclosed as contingent liabilities do not include interest till reporting date.
+Steel                             Fixed Price Contracts                1,113.97                    28.39            (28.39)
+Copper                            Fixed Price Contracts                 85.29
+Total                                                                1,916.24                      7.46             (7.46)
+
+                                                                                                   55.70            (55.70)
+
+                                                                                                   4.26             (4.26)
+
+                                                                                                   95.81            (95.81)
+
+402 Kalpataru Projects International Limited                                                                                                                                                                              Integrated Annual Report 2025-26 403

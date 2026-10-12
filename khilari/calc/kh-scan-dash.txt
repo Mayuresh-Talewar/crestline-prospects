@@ -1,0 +1,2 @@
+[dash] planted hit detected OK
+[dash] files=4 hits=0

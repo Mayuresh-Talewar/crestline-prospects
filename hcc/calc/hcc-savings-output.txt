@@ -1,0 +1,44 @@
+Command: cd C:\Users\asus\Desktop\process-automation-crestline && npx tsx scripts/_tmp-hcc-savings.ts   (run 2026-10-08; script copied here as hcc-savings.ts, temp file then deleted)
+
+Break runs, one per assert (each must fail):
+== BREAK=1  (ask for +10 days instead of -10)
+ASSERT FAILED: step 10: release is not negative (-107.87)
+exit 1
+== BREAK=2  (rate 9.5% instead of 0)
+ASSERT FAILED: step 10: interest is zero (10.25)
+exit 1
+== BREAK=3  (independent value of a day on 366 days)
+ASSERT FAILED: step 10: 107.58 equals simulate 107.87
+exit 1
+== BREAK=4  (vendor terms passed 60 days above today)
+ASSERT FAILED: payables +10 days release no cash (68.49)
+exit 1
+
+Clean run:
+Value of a day FY26 = 10.79    [FY26 standalone revenue 3,937.25 / 365]
+Value of a day FY25 = 13.15    [FY25 standalone revenue 4,801.05 / 365]
+Running receivable days FY26 = 157.8    [1,701.67 / value of a day FY26]
+Running receivable days FY25 = 103.5    [1,361.06 / value of a day FY25]
+Simulator floor (no terms passed) = 0.0    [leversFor: terms.payment null]
+Simulator ceiling = 220.9    [leversFor: max(now x 1.4, now + 30)]
+Simulator side = theirs    [leversFor: client's clock]
+S10.days = 147.8    [157.8 less 10]
+S10.cash = 107.87    [simulate: 10 days x value of a day, released once]
+S10.crossCheck = 107.87    [10 x 3,937.25 / 365, written without the app]
+S10.balance = 1593.80    [1,701.67 less cash released]
+S10.gapTo90 = 57.8    [days after the step less the 90 day upper end of stated terms]
+S10.interest = 0.00    [rate 0: no working capital facility disclosed]
+S10.leverCarry = 0.00    [priceLevers at rate 0]
+S30.days = 127.8    [157.8 less 30]
+S30.cash = 323.61    [simulate: 30 days x value of a day, released once]
+S30.crossCheck = 323.61    [30 x 3,937.25 / 365, written without the app]
+S30.balance = 1378.06    [1,701.67 less cash released]
+S30.gapTo90 = 37.8    [days after the step less the 90 day upper end of stated terms]
+S30.interest = 0.00    [rate 0: no working capital facility disclosed]
+S30.leverCarry = 0.00    [priceLevers at rate 0]
+Gap to 90 days FY26 today = 67.8    [157.8 less 90]
+Gap to 90 days FY25 = 13.5    [103.5 less 90]
+Payable days FY26 (check only) = 294.6    [2,017.40 / ((526.51 + 1,973.33) / 365)]
+Cash from stretching payables 10/30/60 days = 0.00 / 0.00 / 0.00    [simulate: no vendor terms, ceiling = today]
+ALL ASSERTS PASSED
+exit 0

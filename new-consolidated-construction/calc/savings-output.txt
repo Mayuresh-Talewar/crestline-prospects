@@ -1,0 +1,26 @@
+LEVERS the simulator can pull: dso now=100 min=0 max=140 target=null perDay=1.67
+valueOfADay(rate 0): {"cash":1.6727945205479453,"carry":0}
+PER DAY = 1.672795 Cr; DSO 100 balance = 167.28 Cr
+DSO 100 -> 90 (10 days): released 16.73 Cr, carry 0.00 Cr/yr, workingCapital null
+  cross-check days x per day = 16.73
+DSO 100 -> 70 (30 days): released 50.18 Cr, carry 0.00 Cr/yr, workingCapital null
+  cross-check days x per day = 50.18
+DPO probe (no vendor terms): now 60, asked 90, held at 60, cash 0
+toTerms (no term published): {}
+priceLevers: release-retention cash 92.39 carry 0 days 55.2 (balance, no release speed assumed)
+Retention in revenue-days: 55.2
+
+RANK (cash released once, scenario rows overlap, never added):
+ 1. Receivables 30 days less: 50.18 Cr
+ 2. Receivables 10 days less: 16.73 Cr
+ -  Retention: 92.39 Cr balance only, not priced as a move (no release basis)
+
+LEVER TABLE
+Receivables (DSO 100) at revenue per day | PRICED 10d, 30d | not to term: no client term published, clamp floor 0, ceiling 140
+Contract assets / unbilled | NOT PRICED | no balance or days published
+Retention 92.39 Cr | NOT PRICED | balance only, release basis not found; 55.2 revenue-days shown as size
+Stock (DIO 171) | NOT PRICED | no cost-of-materials base published; never priced at revenue per day
+Payables (DPO) | NOT PRICED | no creditor days, no vendor terms
+Combined scenario | NOT RUN | only one lever priced, a combined run equals the single lever
+Interest | NOT PRICED | no borrowing rate disclosed in sources used
+ALL ASSERTS PASSED

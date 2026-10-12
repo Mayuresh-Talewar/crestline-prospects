@@ -1,0 +1,48 @@
+PER DAY (revenue 256.2 / 365) = 0.701918 Cr
+valueOfADay = {"cash":0.701917808219178,"carry":0}
+levers available: cad(min 0.0, max 220.5, target null); dso(min 0.0, max 207.9, target null); dpo(min 0.0, max 69.8, target null)
+toTerms (no terms passed) = {}
+
+SCENARIOS (cash released once, Rs Cr; carry = 0 because no rate)
+opening: cycle(excl. unbilled)=78.7 gap(cash cycle)=236.2
+Contract-asset days, 10 days less: released 7.02 Cr | cross-check 7.02 | carry 0.00 | cash cycle 236.2 -> 226.2 | per leg cad moved -10.0 cash 7.02
+PASS  no negative release: Contract-asset days, 10 days less  released 7.02
+PASS  interest 0 (no rate): Contract-asset days, 10 days less  carry 0
+PASS  cross-check days x per day: Contract-asset days, 10 days less  7.019178 vs 7.019178
+Contract-asset days, 30 days less: released 21.06 Cr | cross-check 21.06 | carry 0.00 | cash cycle 236.2 -> 206.2 | per leg cad moved -30.0 cash 21.06
+PASS  no negative release: Contract-asset days, 30 days less  released 21.06
+PASS  interest 0 (no rate): Contract-asset days, 30 days less  carry 0
+PASS  cross-check days x per day: Contract-asset days, 30 days less  21.057534 vs 21.057534
+DSO, 10 days less: released 7.02 Cr | cross-check 7.02 | carry 0.00 | cash cycle 236.2 -> 226.2 | per leg dso moved -10.0 cash 7.02
+PASS  no negative release: DSO, 10 days less  released 7.02
+PASS  interest 0 (no rate): DSO, 10 days less  carry 0
+PASS  cross-check days x per day: DSO, 10 days less  7.019178 vs 7.019178
+DSO, 30 days less: released 21.06 Cr | cross-check 21.06 | carry 0.00 | cash cycle 236.2 -> 206.2 | per leg dso moved -30.0 cash 21.06
+PASS  no negative release: DSO, 30 days less  released 21.06
+PASS  interest 0 (no rate): DSO, 30 days less  carry 0
+PASS  cross-check days x per day: DSO, 30 days less  21.057534 vs 21.057534
+COMBINED one run, both legs 10 days less: released 14.04 Cr | cross-check 14.04 | carry 0.00 | cash cycle 236.2 -> 216.2 | per leg cad moved -10.0 cash 7.02, dso moved -10.0 cash 7.02
+PASS  no negative release: COMBINED one run, both legs 10 days less  released 14.04
+PASS  interest 0 (no rate): COMBINED one run, both legs 10 days less  carry 0
+PASS  cross-check days x per day: COMBINED one run, both legs 10 days less  14.038356 vs 14.038356
+COMBINED one run, both legs 30 days less: released 42.12 Cr | cross-check 42.12 | carry 0.00 | cash cycle 236.2 -> 176.2 | per leg cad moved -30.0 cash 21.06, dso moved -30.0 cash 21.06
+PASS  no negative release: COMBINED one run, both legs 30 days less  released 42.12
+PASS  interest 0 (no rate): COMBINED one run, both legs 30 days less  carry 0
+PASS  cross-check days x per day: COMBINED one run, both legs 30 days less  42.115068 vs 42.115068
+
+DPO targets -> cash: 40:-19.06  69.8:0.00  80:0.00  100:0.00  200:0.00
+PASS  payables never release cash  max 0.00
+PASS  no stock lever (no DIO base)  keys cad,dso,dpo
+PASS  cad priced at revenue per day  0.701917808219178
+PASS  dso priced at revenue per day  0.701917808219178
+PASS  dpo base is cost, never revenue  0.6396106849315069
+PASS  balance behind cad within 0.1 Cr of days x per day  110.54 vs 110.55
+PASS  balance behind dso within 0.1 Cr of days x per day  104.21 vs 104.23
+PASS  dpo held at today (no vendor terms)  max 69.8
+
+priceLevers (no terms, no rate): release-retention cash 18.05 carry 0.00
+PASS  priceLevers prices no term-based action (no terms)  actions 0
+PASS  priceLevers carry 0 on every lever  
+Retention balance only: Rs 18.05 Cr (release basis not published; the implied days figure from priceLevers is NOT printed)
+
+ALL CHECKS PASSED

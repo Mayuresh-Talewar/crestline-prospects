@@ -1,0 +1,11 @@
+Break tests (one fault injected per run; each must FAIL visibly):
+BREAK=1 -> FAIL  A1 no  FAIL  A3 ind 
+BREAK=2 -> FAIL  A2 int 
+BREAK=3 -> FAIL  A3 ind 
+BREAK=4 -> FAIL  A4 pay 
+BREAK=5 -> FAIL  A3 ind FAIL  A5 bas FAIL  A6b cl FAIL  A7 no  FAIL  A8 com FAIL  A10 pr 
+BREAK=6 -> FAIL  A6 cla 
+BREAK=7 -> FAIL  A3 ind FAIL  A5 bas FAIL  A6b cl FAIL  A7 no  FAIL  A8 com FAIL  A10 pr 
+BREAK=8 -> FAIL  A8 com 
+BREAK=9 -> FAIL  A5 bas FAIL  A9 pri 
+BREAK=10 -> FAIL  A10 pr 

@@ -1,0 +1,13 @@
+JOINT MEASUREMENT         5.5 Estimate
+MB / QS CHECK             7.8 Estimate
+RA BILL PREPARED          4.2 Estimate
+REVIEW STARTED           10.1 Estimate
+REVIEW COMPLETED          5.5 Estimate
+BILL SUBMITTED           10.7 Estimate
+CLIENT ACKNOWLEDGED      68.3 Estimate
+CERTIFIED                 7.0 Estimate
+TAX INVOICE RAISED            -
+PAYMENT RECEIVED        166.3 Published
+RETENTION RELEASED            Not public
+WHOLE RA BILL, work done to cash: 285.4 days = 119.1 days before the invoice (Estimate) + 166.3 days to be paid (Published)
+Basis: scaled from published debtor days 166.3 using the stage pattern in Crestline's demonstration ledger. Estimates are not the company's measured days.

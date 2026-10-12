@@ -1,0 +1,460 @@
+
+Rating Rationale
+  | 
+  | 
+  | 
+ Rating Rationale | 
+ March 18, 2024 | Mumbai | 
+  | 
+GHV (India) Private Limited | 
+Rating outlook revised to 'Stable'; Ratings Reaffirmed | 
+  | 
+Rating Action | 
+Total Bank Loan Facilities Rated | Rs.1000 Crore | 
+Long Term Rating | CRISIL A/Stable (Outlook revised from 'Negative'; Rating Reaffirmed) | 
+Short Term Rating | CRISIL A1 (Reaffirmed) | 
+ | 
+Note: None of the Directors on CRISIL Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings. | 
+1 crore = 10 million | 
+Refer to Annexure for Details of Instruments & Bank Facilities | 
+ | 
+  | 
+Detailed Rationale
+CRISIL Ratings has revised its outlook on the long-term bank facilities of GHV (India) Pvt. Ltd (GHV) to ‘Stable’ from ‘Negative’ while reaffirming the rating at ‘CRISIL A’. CRISIL Ratings has also reaffirmed its ‘CRISIL A1’ rating on the short-term bank facilities.
+The rating action reflects significant ramp up in the company’s executable orderbook to Rs 6,918 crore as on date, from Rs 3,780 crore as on June 30, 2023. Consequently, the order-book to revenue ratio has improved to 2.3 times (on expected revenue of around Rs 3,000 crore for fiscal 2024) from 1.5 times as of June 2023 leading to healthy revenue visibility over the medium term. The increase in order book is primarily driven by an order worth Rs 3,062 crore for package A (Versova to Bangur Nagar) of the Mumbai Coastal Road project, in February 2024 (sub-contracted from Apco Infratech Pvt. Ltd, rated ‘CRISIL AA-/Stable/CRISIL A1+’). Further, the company has also won two hybrid annuity model (HAM) projects worth Rs 1,462 crore from the government of Gujarat (GoG) in January 2024. These three orders, collectively worth Rs 4,524 crore, account for 65% of the company’s current executable order book. The works on these are expected to start from April 2024.
+Operating performance remained stable in the first 9 months of fiscal 2024 (9m 2024) with revenue of Rs 2,314 crore and operating margin of around 10% against revenue of Rs 2,726 crore in fiscal 2023 with operating margin of 10.7%. The revenue for fiscal 2024 is expected to be around Rs 3,000 crore with operating margin remaining stable at 10-11%. Healthy revenue growth while maintaining operating margin, is expected to lead to yearly net cash accrual of over Rs 200 crore over the medium term which should support working capital requirement and regular maintenance capital expenditure (capex). 
+Of the ongoing three HAM projects, two projects have received provisional commercial operations date (PCOD). GHV is in the process of raising top-up debt of Rs 179.38 crore against these projects, proceeds from which are expected to be up streamed to the company. This amount is expected to be utilised towards debt reduction as well as partly funding equity commitments of around Rs 200 crore for the remaining HAM project, as well as the newly won HAM projects from GoG; GHV is expected to infuse 50% of the equity requirement for the new HAM projects with the remaining 50% expected to be funded by the promoters directly. 
+Healthy operating performance coupled with limited equity commitments and no large debt funded capex will result in an improvement in the financial risk profile. Adjusted gearing and total outside liabilities to tangible net worth (TOLTNW) ratios had increased substantially to 0.61 time and 1.86 times, respectively, as on March 31, 2023 from 0.54 time and 1.49 times, respectively, as on March 31, 2021. Outstanding debt moderated to Rs 302 crore as on December 31, 2023, from Rs 337 crore as of March 31, 2023 and the leverage level is expected to improve gradually over the medium term. Financial risk profile is supported by average fund-based bank limit utilisation of 65% for the 12 months through January 2024 and unencumbered cash and cash equivalent of Rs 22 crore as on December 31, 2023.
+The ratings continue to reflect the extensive experience of GHV’s promoters in the construction segment, improving scale of operations and adequate financial risk profile. These strengths are partially offset by limited geographical as well as revenue diversification and exposure to intense competition and cyclicality inherent in the construction industry.
+ | 
+ | 
+  | 
+Analytical Approach
+CRISIL Ratings has combined the business and financial risk profiles of GHV and those joint ventures (JVs)/associate companies which have been formed in the normal course of business to bid for or undertake engineering, procurement and construction (EPC) projects. CRISIL Ratings has also moderately consolidated those special purpose vehicles (SPVs) where GHV has provided a corporate guarantee to the extent of support required over the medium term. These SPVs have not been fully consolidated as the corporate guarantees are expected to fall off once the projects achieve COD. Two of the three existing HAM projects have received PCOD recently and corporate guarantees provided by GHV are expected to fall off in due course.
+CRISIL Ratings has also moderately consolidated GHV-BDE-DIL (JV for coal trading contract) and Karmala Road Project Pvt. Ltd (KRPPL, associate company undertaking a HAM project, with 26% shareholding by GHV), to the extent of GHV’s shareholding in them. This is because there are no operational, financial and managerial linkages between GHV and these entities, and GHV’s involvement is only limited to fulfilling technical qualifications required for these projects. While GHV has provided a corporate guarantee to KRPPL to the extent of support required, it is expected to fall off in the next quarter as PCOD has been received.
+Interest-bearing mobilisation advances of Rs 23 crore as on March 31, 2023 (Rs 51 crore as on March 31, 2022) have been considered as debt and retention money of Rs 23 crore as on March 31, 2023 (Rs 30 crore as on March 31, 2022) has been considered as a part of receivables.
+Loans and advances of Rs 65 crore as on March 31, 2023 (Rs 100 crore as on March 31, 2022) from related parties have been treated as advances from customers. This is because these are mainly mobilisation advances received from HAM SPVs and are expected to be repaid in line with project progress and receipt of milestone payments. These advances are also non-interest bearing.
+Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation.
+ | 
+ | 
+  | 
+Key Rating Drivers & Detailed Description
+Strengths:
+	Extensive experience of the promoters: The promoters have been in the infrastructure industry for around five decades and have forged strong relationships with customers, suppliers and contractors. GHV has in-built labour and machinery which allows superior execution without any delays and reliance on third parties. This is also evident from investments of Rs 129 crore in last two fiscals to enhance capacities for executing higher order book of around Rs 7,000 crore. Operating margin is supported by no subcontracting expenses, no leasing of equipment and early completion bonuses. Additionally, GHV only bids for projects which are backed by strong counterparties, such as National Highways Authority of India (NHAI, rated ‘CRISIL AAA/Stable’), Airports Authority of India (AAI, rated ‘CRISIL AAA/Stable’), Military Engineering Services (MES), to name a few apart from state governments. Moreover, GHV is focusing on project alternatives in other infrastructure segments as well apart from roads and bridges such as coastal roads, railway works, pipeline projects etc.
+	Improving scale of operations: Revenue has grown at a compounded annual growth rate of 56% during fiscals 2021 and 2023 and is expected to grow 10% in fiscal 2024. The improvement in revenue was achieved while maintaining operating margin at 10-11%. Interest coverage ratio improved to 5.5 times in fiscal 2023 on account of better operating performance. For 10m-2024, GHV has reported revenue of Rs 2,314 crore, while operating margin has dipped to ~10%. Revenue is expected to improve further to Rs 3,000 crore in fiscal 2024 backed by healthy execution of outstanding orders while the operating margin is expected to remain stable at 10-11%. The executable orderbook fell to Rs 3,780 crore as on June 30, 2023, leading to substantial reduction in revenue visibility. While order book has bounced back to Rs 6,918 crore as on date, the ability of GHV to maintain executable orderbook at optimum level to ensure revenue visibility and sustain the operating scale will remain a key monitorable.
+The working capital cycle has improved with gross current assets (GCA) of 113 days as on March 31, 2023 compared with 161 days as on March 31, 2022. This improvement was driven majorly by healthy receivables cycle of 40-50 days compared with ~100 days earlier. The ability to efficiently manage working capital requirement and maintain comfortable liquidity will remain a monitorable.
+	Adequate financial risk profile: Debt level remained stable at Rs 302 crore (including interest-bearing mobilisation advances) as on December 31, 2023 from Rs 337 crore as on March 31, 2023. Adjusted gearing and TOLTNW ratio increased substantially to 0.61 time and 1.86 times, respectively, as on March 31, 2023 from 0.54 time and 1.49 times, respectively, as on March 31, 2021.  Healthy operating performance coupled with limited equity commitments and no large debt funded capex will result in improvement in the financial risk profile. Equity commitments of around Rs 200 crore will be required over the three fiscals through 2027. Of this, GHV is expected to infuse 50% of the requirement, while the remaining 50% contribution will be funded by the promoters directly. The proceeds from top-up debt of Rs 179.38 crore, to be raised against completed HAM projects, are expected to be up streamed to GHV which will be utilised towards debt reduction as well as partly funding equity commitments in HAM projects. Financial risk profile is supported by average fund-based bank limit utilisation of 65% for the 12 months through January 2024 and unencumbered cash and cash equivalent of Rs 22 crore as on December 31, 2023.
+Weaknesses:
+	Limited geographical as well as revenue diversification: While GHV has executed projects across 10 states in the past, the current order book is largely spread across four states viz., Maharashtra, Madhya Pradesh, Gujarat and Rajasthan. These four states are key focus region of GHV wherein it has developed strong supplier relationships, established company presence and execution synergies. GHV’s ability to diversify in other regions while maintaining profitability remains to be seen.
+Operations continue to be focused on road projects and hence contribute major portion of its revenue. The operating performance remains susceptible to concentration arising from focus on road projects, increasing exposure to cyclicality. Though GHV is focusing on project alternatives in other infrastructure segments as well, its ability to scale up these segments profitably remains to be seen. The executable orderbook shrunk to Rs 3,780 crore as on June 30, 2023, following change in company’s strategy to bid for state projects leading to substantial reduction in order book to revenue ratio to 1.5 times.  While the order book increased to Rs 6,918 crore as on date, it is driven by a single large project, the Versova to Bangur Nagar section of Mumbai Coastal Road project (Rs 3,062 crore order contributing 44% of executable order book position), exposing the company to execution risk. Timely implementation of this order within budgeted cost will remain a key rating sensitivity factor.
+	Exposure to intense competition and cyclicality inherent in the construction industry: While increased focus of the Government of India (GoI) on the infrastructure sector, especially roads and highways, is expected to benefit players in medium term, most of these projects are tender-based and face intense competition, thus requiring the company to bid competitively to get contracts, which restricts the operating margin to a moderate level. Also, given the cyclicality inherent in the construction industry, company’s ability to maintain profitability margin through operating efficiency is critical. Revenue remains susceptible to economic cycles that impact the construction industry. Furthermore, GHV mainly caters to government agencies, whose expenditure is directly linked to the economy.
+ | 
+ | 
+  | 
+Liquidity: Adequate
+Liquidity is supported by expected net cash accrual of over Rs 200 crore per annum against debt obligation of up to Rs 60 crore over the medium term. While GHV incurred capex of Rs 129 crore in the last two fiscals, there are no plans for any significant capex over the medium term. Equity commitments of around Rs 200 crore will be required over the three fiscals through 2027. Of this, GHV is expected to infuse 50% of the requirement, while the remaining 50% contribution will be funded by the promoters directly. The proceeds from top-up debt of Rs 179.38 crore, to be raised against completed HAM projects, are expected to be up streamed to the company which will be utilised towards debt reduction as well as partly funding equity commitments in HAM projects. Unencumbered cash was around Rs 22 crore as on December 31, 2023. The fund-based bank limit was utilised at 65% on average during the 12 months through January 2024 (peak utilisation of 83% in February 2023).
+ | 
+ | 
+  | 
+Outlook: Stable
+CRISIL Ratings believes GHV will continue to benefit from its promoters’ experience and healthy executable order book over the medium term.
+ | 
+ | 
+  | 
+Rating Sensitivity Factors
+Upward factors
+	Improvement in operating margin or income resulting in net cash accrual above Rs 250 crore on a sustained basis.
+	Higher-than-expected improvement in financial risk profile.
+	Sustenance of working capital cycle, leading to strengthening of liquidity.
+Downward factors
+	Lower than expected operating income or moderation in profitability leading to net cash accrual below Rs 175 crore on a sustained basis.
+	Decline in executable order book leading to moderation in orderbook to revenue ratio.
+	Debt-funded capex or stretch in the working capital cycle, resulting in higher debt and weakening of the financial risk profile.
+ | 
+ | 
+  | 
+About the Company
+GHV, based in Mumbai, was incorporated in 2009 by Mr Jahid Vijapura and his three brothers, Mr Mustaq Vijapura, Mr Farooq Vijapura and Mr Shafi Vijapura, by reconstituting a partnership firm, G. H. Vijapura & Co. The firm was set up in 1965 by the late Mr Hussein M Vijapura and was engaged in infrastructure development.
+GHV is an EPC contractor and executes projects related to the construction of roads, bridges, dams, irrigation projects and airport runways, among others. The company's first large irrigation project was undertaken in 1977 in partnership with GoG. Post that, the group has successfully completed numerous other irrigation projects with other state governments. The company has expertise in construction of runways/resurfacing, parking bays and taxiways. The company has worked with airports in Mumbai, Pune, Vadodara, Udaipur, Patna, Guwahati, Belgaum, Diu and Kochi. Currently, the order book comprises mostly of national and state highway projects.
+The company currently has five HAM projects on its books – a) two in Maharashtra which have received PCOD recently within stipulated timeline, b) one in Madhya Pradesh which is under-construction with progress of 47% (against target progress of 79%) as of December 2023, and c) two in Gujarat which have been awarded in January 2024 and are yet to achieve appointed date.
+For 10 months ended January 31, 2024, the company reported revenue and net profit of Rs 2,314 crore and Rs 120 crore respectively.
+ | 
+ | 
+  | 
+Key Financial Indicators
+			Particulars 
+			 | 
+			Unit
+			 | 
+			2023
+			 | 
+			2022
+			 | 
+			Operating income
+			 | 
+			Rs.Crore
+			 | 
+			2,726
+			 | 
+			1,611
+			 | 
+			Profit After Tax (PAT)
+			 | 
+			Rs.Crore
+			 | 
+			157
+			 | 
+			90
+			 | 
+			PAT Margin
+			 | 
+			%
+			 | 
+			5.7
+			 | 
+			5.6
+			 | 
+			Adjusted debt/adjusted networth 
+			 | 
+			Times
+			 | 
+			0.61
+			 | 
+			0.83
+			 | 
+			Interest coverage 
+			 | 
+			Times
+			 | 
+			5.45
+			 | 
+			4.17
+			 | 
+*CRISIL Ratings adjusted financials
+ | 
+ | 
+  | 
+Any other information: Not Applicable
+ | 
+ | 
+  | 
+Note on complexity levels of the rated instrument:
+CRISIL Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+CRISIL Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the CRISIL Ratings` complexity levels please visit www.crisilratings.com. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+ | 
+ | 
+  | 
+Annexure - Details of Instrument(s)
+			ISIN
+			 | 
+			Name of instrument
+			 | 
+			Date of
+			allotment
+			 | 
+			Coupon
+			rate (%)
+			 | 
+			Maturity
+			date
+			 | 
+			Issue size
+			(Rs.Crore)
+			 | 
+			Complexity
+			levels
+			 | 
+			Rating assigned with outlook
+			 | 
+			NA
+			 | 
+			Fund-based facilities
+			 | 
+			NA
+			 | 
+			NA
+			 | 
+			NA
+			 | 
+			180.0
+			 | 
+			NA
+			 | 
+			CRISIL A/Stable
+			 | 
+			NA
+			 | 
+			Non-fund-based limit
+			 | 
+			NA
+			 | 
+			NA
+			 | 
+			NA
+			 | 
+			820.0
+			 | 
+			NA
+			 | 
+			CRISIL A1
+			 | 
+ | 
+ | 
+  | 
+Annexure - List of Entities Consolidated
+			Names of entities consolidated
+			 | 
+			Extent of consolidation 
+			 | 
+			Rationale for consolidation 
+			 | 
+			GHV India Pvt. Ltd – EKK Infrastructure Pvt Ltd – Joint Venture
+			 | 
+			Full consolidation 
+			 | 
+			Formed in normal course of business to bid for and undertake EPC projects
+			 | 
+			GHV – EKK (JV) 
+			 | 
+			Full consolidation 
+			 | 
+			Formed in normal course of business to bid for and undertake EPC projects
+			 | 
+			Zignego Company Inc – GHV (India) Pvt Ltd – JV
+			 | 
+			Full consolidation 
+			 | 
+			Formed in normal course of business to bid for and undertake EPC projects
+			 | 
+			Ahmednagar Bypass Road Project Pvt. Ltd*
+			 | 
+			Moderate consolidation 
+			 | 
+			To the extent of support requirement
+			 | 
+			Ahmednagar Ghogargaon Road Projects Pvt. Ltd*
+			 | 
+			Moderate consolidation 
+			 | 
+			To the extent of support requirement
+			 | 
+			Ujjain Garoth Road Project Pvt. Ltd
+			 | 
+			Moderate consolidation
+			 | 
+			To the extent of support requirement
+			 | 
+			Karmala Road Project Pvt. Ltd*
+			 | 
+			Moderate consolidation
+			 | 
+			To the extent of GHV’s shareholding
+			 | 
+			Blue Ocean Hospitality & Infrastructure LLC
+			 | 
+			Moderate consolidation
+			 | 
+			To the extent of GHV’s shareholding
+			 | 
+			GHV-BDE-DIL (JV)
+			 | 
+			Moderate consolidation
+			 | 
+			To the extent of GHV’s shareholding
+			 | 
+*These projects have received PCOD and accordingly corporate guarantees are expected to fall off. Hence, not consolidated going forward.
+Note: The above table providing the list of entities consolidated refers to the audited financials statements for fiscal 2023.
+ | 
+ | 
+  | 
+			Annexure - Rating History for last 3 Years  | 
+						  | 
+						Current | 
+						2024 (History) | 
+						2023  | 
+						2022  | 
+						2021  | 
+						Start of 2021 | 
+						Instrument | 
+						Type | 
+						Outstanding Amount | 
+						Rating | 
+						Date | 
+						Rating | 
+						Date | 
+						Rating | 
+						Date | 
+						Rating | 
+						Date | 
+						Rating | 
+						Rating | 
+						Fund Based Facilities | 
+						LT | 
+						180.0 | 
+						CRISIL A/Stable | 
+						  | 
+						-- | 
+						15-09-23 | 
+						CRISIL A/Negative | 
+						29-04-22 | 
+						CRISIL A/Stable | 
+						  | 
+						-- | 
+						Withdrawn | 
+						  | 
+						  | 
+						  | 
+						-- | 
+						  | 
+						-- | 
+						03-01-23 | 
+						CRISIL A/Negative | 
+						02-03-22 | 
+						CRISIL A/Stable | 
+						  | 
+						-- | 
+						-- | 
+						Non-Fund Based Facilities | 
+						ST | 
+						820.0 | 
+						CRISIL A1 | 
+						  | 
+						-- | 
+						15-09-23 | 
+						CRISIL A1 | 
+						29-04-22 | 
+						CRISIL A1 | 
+						  | 
+						-- | 
+						Withdrawn | 
+						  | 
+						  | 
+						  | 
+						-- | 
+						  | 
+						-- | 
+						03-01-23 | 
+						CRISIL A1 | 
+						02-03-22 | 
+						CRISIL A1 | 
+						  | 
+						-- | 
+						-- | 
+			 | 
+			All amounts are in Rs.Cr. | 
+ | 
+  | 
+			Annexure - Details of Bank Lenders & Facilities | 
+						Facility | 
+						Amount (Rs.Crore) | 
+						Name of Lender | 
+						Rating | 
+						Fund-Based Facilities | 
+						58 | 
+						Bank of Baroda | 
+						CRISIL A/Stable | 
+						Fund-Based Facilities | 
+						33 | 
+						Punjab National Bank | 
+						CRISIL A/Stable | 
+						Fund-Based Facilities | 
+						25 | 
+						Union Bank of India | 
+						CRISIL A/Stable | 
+						Fund-Based Facilities | 
+						20 | 
+						State Bank of India | 
+						CRISIL A/Stable | 
+						Fund-Based Facilities | 
+						20 | 
+						Canara Bank | 
+						CRISIL A/Stable | 
+						Fund-Based Facilities | 
+						12 | 
+						Bank of Maharashtra | 
+						CRISIL A/Stable | 
+						Fund-Based Facilities | 
+						12 | 
+						Indian Bank | 
+						CRISIL A/Stable | 
+						Non-Fund Based Limit | 
+						39 | 
+						Indian Bank | 
+						CRISIL A1 | 
+						Non-Fund Based Limit | 
+						245 | 
+						Bank of Baroda | 
+						CRISIL A1 | 
+						Non-Fund Based Limit | 
+						227 | 
+						Punjab National Bank | 
+						CRISIL A1 | 
+						Non-Fund Based Limit | 
+						64 | 
+						State Bank of India | 
+						CRISIL A1 | 
+						Non-Fund Based Limit | 
+						111 | 
+						Union Bank of India | 
+						CRISIL A1 | 
+						Non-Fund Based Limit | 
+						95 | 
+						Canara Bank | 
+						CRISIL A1 | 
+						Non-Fund Based Limit | 
+						39 | 
+						Bank of Maharashtra | 
+						CRISIL A1 | 
+			 | 
+ | 
+  | 
+Criteria Details
+									Links to related criteria | 
+CRISILs Approach to Financial Ratios | 
+Rating criteria for manufaturing  and service sector companies | 
+CRISILs Bank Loan Ratings - process, scale and default recognition | 
+The Infrastructure Sector Its Unique Rating Drivers | 
+Rating Criteria for Construction Industry | 
+CRISILs Criteria for Consolidation | 
+CRISILs Criteria for rating short term debt | 
+Media Relations | Analytical Contacts | Customer Service Helpdesk | 
+Aveek DattaMedia RelationsCRISIL LimitedM: +91 99204 93912B: +91 22 3342 3000AVEEK.DATTA@crisil.com
+Prakruti JaniMedia RelationsCRISIL LimitedM: +91 98678 68976B: +91 22 3342 3000PRAKRUTI.JANI@crisil.com
+Rutuja Gaikwad Media RelationsCRISIL LimitedB: +91 22 3342 3000Rutuja.Gaikwad@ext-crisil.com
+ | Mohit MakhijaSenior DirectorCRISIL Ratings LimitedB:+91 124 672 2000mohit.makhija@crisil.comAnand KulkarniDirectorCRISIL Ratings LimitedB:+91 22 3342 3000 anand.kulkarni@crisil.comShrikesh NaruleRating AnalystCRISIL Ratings LimitedB:+91 22 3342 3000 Shrikesh.Narule@crisil.com | Timings: 10.00 am to 7.00 pmToll free Number:1800 267 1301For a copy of Rationales / Rating Reports:CRISILratingdesk@crisil.com For Analytical queries:ratingsinvestordesk@crisil.com | 
+ | 
+ | 
+ Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to CRISIL Ratings. However, CRISIL Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+ | 
+  | 
+ About CRISIL Ratings Limited (A subsidiary of CRISIL Limited, an S&P Global Company)
+CRISIL Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+CRISIL Ratings Limited ('CRISIL Ratings') is a wholly-owned subsidiary of CRISIL Limited ('CRISIL'). CRISIL Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit www.crisilratings.com 
+About CRISIL Limited
+CRISIL is a leading, agile and innovative global analytics company driven by its mission of making markets function better. 
+It is India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit www.crisil.com 
+Connect with us: TWITTER | LINKEDIN | YOUTUBE | FACEBOOK
+CRISIL PRIVACY NOTICE
+CRISIL respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from CRISIL. For further information on CRISIL's privacy policy please visit www.crisil.com.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') that is provided by CRISIL Ratings Limited ('CRISIL Ratings'). To avoid doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for the jurisdiction of India only. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as CRISIL Ratings providing or intending to provide any services in jurisdictions where CRISIL Ratings does not have the necessary licenses and/or registration to carry out its business activities referred to above. Access or use of this report does not create a client relationship between CRISIL Ratings and the user.
+We are not aware that any user intends to rely on the report or of the manner in which a user intends to use the report. In preparing our report we have not taken into consideration the objectives or particular needs of any particular user. It is made abundantly clear that the report is not intended to and does not constitute an investment advice. The report is not an offer to sell or an offer to purchase or subscribe for any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The report should not be the sole or primary basis for any investment decision within the meaning of any law or regulation (including the laws and regulations applicable in the US).
+Ratings from CRISIL Ratings are statements of opinion as of the date they are expressed and not statements of fact or recommendations to purchase, hold or sell any securities/instruments or to make any investment decisions. Any opinions expressed here are in good faith, are subject to change without notice, and are only current as of the stated date of their issue. CRISIL Ratings assumes no obligation to update its opinions following publication in any form or format although CRISIL Ratings may disseminate its opinions and analysis. The rating contained in the report is not a substitute for the skill, judgment and experience of the user, its management, employees, advisors and/or clients when making investment or other business decisions. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way. CRISIL Ratings or its associates may have other commercial transactions with the entity to which the report pertains.
+Neither CRISIL Ratings nor its affiliates, third-party providers, as well as their directors, officers, shareholders, employees or agents (collectively, 'CRISIL Ratings Parties') guarantee the accuracy, completeness or adequacy of the report, and no CRISIL Ratings Party shall have any liability for any errors, omissions or interruptions therein, regardless of the cause, or for the results obtained from the use of any part of the report. EACH CRISIL RATINGS PARTY DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, SUITABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. In no event shall any CRISIL Ratings Party be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+CRISIL Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors. Public ratings and analysis by CRISIL Ratings, as are required to be disclosed under the regulations of the Securities and Exchange Board of India (and other applicable regulations, if any), are made available on its website, www.crisilratings.com (free of charge). Reports with more detail and additional information may be available for subscription at a fee - more details about ratings by CRISIL Ratings are available here: www.crisilratings.com.
+CRISIL Ratings and its affiliates do not act as a fiduciary. While CRISIL Ratings has obtained information from sources it believes to be reliable, CRISIL Ratings does not perform an audit and undertakes no duty of due diligence or independent verification of any information it receives and/or relies on in its reports. CRISIL Ratings has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process. CRISIL Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For details please refer to: https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html.
+Rating criteria by CRISIL Ratings are generally available without charge to the public on the CRISIL Ratings public website, www.crisilratings.com. For latest rating information on any instrument of any company rated by CRISIL Ratings, you may contact the CRISIL Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301.
+This report should not be reproduced or redistributed to any other person or in any form without prior written consent from CRISIL Ratings.
+All rights reserved @ CRISIL Ratings Limited. CRISIL Ratings is a wholly owned subsidiary of CRISIL Limited.
+ | 
+  | 
+CRISIL Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on CRISIL Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following link: https://www.crisil.com/en/home/our-businesses/ratings/credit-ratings-scale.html
+ | 
+ | 
+  | 

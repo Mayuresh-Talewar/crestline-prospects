@@ -1,0 +1,3 @@
+# Depth: NCCCL story angle
+Respect first: 79 years since 1946, Rs 610.57 Cr FY25 operating income, Rs 2,183.86 Cr order book (1 Jan 2026), towers for Bagmane, Prestige and L&T Realty, and 100+ pharma plants. Fresh equity of Rs 81.72 Cr in Sep 2025 and a reaffirmed BBB+/A2 (Acuite, 3 Feb 2026).
+Question: where do the bills wait? Debtor days 100, inventory days 171, retention Rs 92.39 Cr (Rs 102.84 Cr a year earlier), gross current assets 336 days, fund-based limit 86% used. On about Rs 1.67 Cr of revenue a day (Crestline's arithmetic, 365 days), each debtor day is Rs 1.67 Cr. The accounts cannot say which bill, which site, which desk, since when. No ERP claim.

@@ -1,0 +1,3 @@
+# Story angle (source: CRISIL 05 Dec 2024)
+Respect first: from a 2001 partnership to an AA class (special category I) government contractor; operating income Rs 441.68 Cr to Rs 575.08 Cr; rating lifted from BBB+ to A- in Dec 2024; order book Rs 1,481.70 Cr (Sep 2024); bank limit use only 24.12% on average; cash Rs 35.98 Cr.
+Question: CRISIL's own caution is a stretched cycle: 151 gross current asset days, debtors 120 days against a usual 60-70, with retention and security deposits held by government departments. Where does a bill wait between work done and cash, at which desk, since when? The accounts show the total, not the stage. CRISIL ties the 120 to March sales volume; frame it as a question, not a charge.

@@ -1,0 +1,109 @@
+Self-checks passed: ageing totals, payables totals, debt total, MSE tie-out, planted error caught.
+
+== P&L (STANDALONE, Rs crore) ==
+FY24: revenue 4,879.20 | EBITDA (rev less material, construction, employee, other exp) 704.06 | margin 14.4% | PAT 328.59 | PAT margin 6.7% | finance cost 123.88 | OCF 336.46
+FY25: revenue 5,693.49 | EBITDA (rev less material, construction, employee, other exp) 826.40 | margin 14.5% | PAT 390.45 | PAT margin 6.9% | finance cost 155.09 | OCF 375.29
+FY26: revenue 5,693.89 | EBITDA (rev less material, construction, employee, other exp) 818.70 | margin 14.4% | PAT 383.55 | PAT margin 6.7% | finance cost 162.30 | OCF 1,116.45
+Revenue growth S FY25 vs FY24: 16.7%
+Revenue growth S FY26 vs FY25: 0.007%
+Revenue growth C FY26 vs FY25 (C FY26 includes a subsidiary, C FY25 equals S): 0.52%
+Consolidated (MD&A Rs crore) growth FY25 vs FY24: revenue 16.7% | EBITDA 17.3% | PAT 18.5%
+OCF S FY26 vs FY25: x2.97
+
+== Working capital (STANDALONE, closing balances, Rs crore; days on that year's revenue or material cost, 365) ==
+FY24: receivables 1,192.44 (89.2 d) | contract assets 553.11 (41.4 d) | inventories 481.46 (55.4 d on material cost) | payables 586.39 (67.5 d on material cost) | mobilisation adv 459.25 | supplier adv 61.27
+      Crestline-computed core NWC (TR + contract assets + inventory, less payables and mobilisation adv) 1,181.37 = 88.4 days of revenue  [OUR definition, not the company's]
+FY25: receivables 1,488.56 (95.4 d) | contract assets 589.02 (37.8 d) | inventories 503.48 (49.0 d on material cost) | payables 839.50 (81.7 d on material cost) | mobilisation adv 621.02 | supplier adv 79.74
+      Crestline-computed core NWC (TR + contract assets + inventory, less payables and mobilisation adv) 1,120.54 = 71.8 days of revenue  [OUR definition, not the company's]
+FY26: receivables 1,485.29 (95.2 d) | contract assets 577.97 (37.1 d) | inventories 329.65 (32.1 d on material cost) | payables 849.54 (82.8 d on material cost) | mobilisation adv 706.09 | supplier adv 140.43
+      Crestline-computed core NWC (TR + contract assets + inventory, less payables and mobilisation adv) 837.28 = 53.7 days of revenue  [OUR definition, not the company's]
+FY25: revenue / average receivables = 4.25x (company note 42 prints 4.25x) = 85.9 days on average basis
+FY26: revenue / average receivables = 3.83x (company note 42 prints 3.83x) = 95.3 days on average basis
+Receivables plus contract assets FY26: 2,063.26 cr = 132.3 days of FY26 revenue
+
+== Receivable ageing from due date (STANDALONE) ==
+FY24: overdue 229.95 cr (19.3%) | >6m past due 124.02 cr (10.4%) | >1y past due 105.58 cr (8.9%) | 6m-1y bucket 18.43 cr
+FY25: overdue 256.32 cr (17.2%) | >6m past due 101.14 cr (6.8%) | >1y past due 88.50 cr (5.9%) | 6m-1y bucket 12.65 cr
+FY26: overdue 408.50 cr (27.5%) | >6m past due 222.75 cr (15.0%) | >1y past due 81.61 cr (5.5%) | 6m-1y bucket 141.15 cr
+6m-1y bucket FY26 vs FY25: x11.2 (+128.50 cr)
+
+== Payables (STANDALONE) ==
+FY26: total 849.54 cr | MSE share of payables 11.6% | MSE not due 80.53 | MSE disputed 18.19 | non-MSE past due 266.31 cr (35.5% of non-MSE) | non-MSE >1y past due 58.02 cr
+FY25: total 839.50 cr | MSE share of payables 10.3% | MSE not due 68.37 | MSE disputed 17.84 | non-MSE past due 290.75 cr (38.6% of non-MSE) | non-MSE >1y past due 76.55 cr
+
+== Debt and finance cost (STANDALONE) ==
+FY25: gross debt 666.26 cr | cash + other bank balances 839.40 cr | BG outstanding 2,945.16 cr | guarantee commission 32.49 cr
+FY26: gross debt 587.44 cr | cash + other bank balances 690.80 cr | BG outstanding 4,363.75 cr | guarantee commission 25.72 cr
+FY26 interest on borrowings / average gross debt = 11.5%  [COMPUTED, internal only: never print as a company rate]
+FY26 interest on borrowings share of finance cost = 44.3%
+BG outstanding FY26 vs FY25: x1.48
+
+== Disconfirm: what drove FY26 OCF (STANDALONE cash flow, AR FY26 p90 [175], Rs lakh) ==
+  other bank balances released: +283.97 cr
+  inventories: +173.83 cr
+  other financial liabilities: +188.28 cr
+  other liabilities (incl. mobilisation adv): +125.30 cr
+  trade receivables: -10.77 cr
+  trade payables: +10.05 cr
+  other non-current financial assets: -187.69 cr
+  other current assets: -61.42 cr
+FY26 OCF 1,116.45 cr less bank-balance release 283.97 less new capex creditors 176.51 = 655.97 cr (x1.75 FY25 OCF)  [COMPUTED, our adjustment]
+
+== Orders and promises ==
+Order book FY26 vs FY25: -16.6% | Q1FY27 vs FY26: 19.9%
+FY26 inflow 1039 cr vs guidance 6000-8000 cr: 17.3% of the low end
+FY26 revenue: guided 6500-6600 cr; delivered C 5723 cr = 88.0% of the low end; S 5,693.89 cr
+Order book / FY26 S revenue = 3.26x
+Company WC days: {'FY23': 126, 'FY24_ARFY24': 123, 'FY24_deck': 105, 'FY25': 112, 'FY26': 99, 'Q1FY27': 103}  | guidance in calls: {'Q1FY26 call': 'around 120 to 125', 'Q3FY26 call': '115 to 120', 'Q1FY27 call': '100 to 110'}
+FY26 WC days 99 vs Q3FY26 guidance low end 115: -16 days
+
+== Finance cost guidance check ==
+FY26 S finance cost / revenue = 2.85% (guided 'around 2.75%', Vasant Savla, T126 p13)
+
+== Live-deal scan size (NSE announcement API, two pulls) ==
+announcements scanned: {'14 Jan 2025 to 25 Sep 2026': 129, '6 Jan 2024 to 24 Dec 2024': 85} total 214
+
+== Lakh to crore conversions used in data.md (input lakh -> Rs crore) ==
+  FY26 exceptional item, Labour Codes: 1,236.61 lakh = 12.37 Cr
+  FY26 interest on borrowings: 7,184.62 lakh = 71.85 Cr
+  FY26 other finance charges: 6,436.40 lakh = 64.36 Cr
+  FY26 lease interest: 32.38 lakh = 0.32 Cr
+  FY26 guarantee commission: 2,572.07 lakh = 25.72 Cr
+  Q1FY27 S revenue: 150,741.83 lakh = 1,507.42 Cr
+  Q1FY27 S PAT: 9,781.30 lakh = 97.81 Cr
+  Q1FY27 S finance cost: 4,325.96 lakh = 43.26 Cr
+  Q1FY26 S revenue: 147,865.57 lakh = 1,478.66 Cr
+  Q1FY26 S PAT: 10,273.44 lakh = 102.73 Cr
+  Q1FY26 S finance cost: 3,835.41 lakh = 38.35 Cr
+  C FY26 revenue: 572,302.83 lakh = 5,723.03 Cr
+  C FY26 PAT: 38,689.83 lakh = 386.90 Cr
+  FY26 ECL allowance: 247.90 lakh = 2.48 Cr
+  FY25 security deposits non-current: 22,047.75 lakh = 220.48 Cr
+  FY25 security deposits current: 14,716.99 lakh = 147.17 Cr
+  FY26 security deposits non-current: 31,448.74 lakh = 314.49 Cr
+  FY26 security deposits current: 14,907.60 lakh = 149.08 Cr
+  FY26 raw materials, stores and spares: 31,943.83 lakh = 319.44 Cr
+  FY26 trading inventory: 1,021.03 lakh = 10.21 Cr
+  FY26 closing stock per note 25: 30,585.30 lakh = 305.85 Cr
+  FY24 MSE payables: 7,389.11 lakh = 73.89 Cr
+  FY24 MSMED principal unpaid: 7,367.63 lakh = 73.68 Cr
+  FY25 MSMED principal unpaid: 6,837.38 lakh = 68.37 Cr
+  FY26 MSMED principal unpaid: 8,052.89 lakh = 80.53 Cr
+  FY26 debt non-current: 25,652.01 lakh = 256.52 Cr
+  FY26 debt current: 33,092.34 lakh = 330.92 Cr
+  FY26 repayable on demand: 20,256.07 lakh = 202.56 Cr
+  FY26 overdraft: 2,481.45 lakh = 24.81 Cr
+  FY26 current maturities: 10,354.82 lakh = 103.55 Cr
+  consortium fund based limit: 40,000.00 lakh = 400.00 Cr
+  consortium non-fund limit: 265,000.00 lakh = 2,650.00 Cr
+  FY26 contract revenue, four customers: 341,358.59 lakh = 3,413.59 Cr
+  FY26 creditors for capital expenditure: 17,651.11 lakh = 176.51 Cr
+  FY26 cash and cash equivalents: 20,309.70 lakh = 203.10 Cr
+  FY26 claims not acknowledged as debt: 1,911.27 lakh = 19.11 Cr
+  FY26 inventory note 7 raw materials less note 25 closing stock: 1,358.53 lakh = 13.59 Cr
+  FY26 bank guarantees outstanding: 436,375.34 lakh = 4,363.75 Cr
+  FY25 bank guarantees outstanding: 294,515.71 lakh = 2,945.16 Cr
+  FY24 ageing buckets (Cr): 962.49, 105.93, 18.43, 62.79, 30.97, 11.82 | total 1,192.44
+  FY25 ageing buckets (Cr): 1,232.24, 155.18, 12.65, 46.13, 29.43, 12.94 | total 1,488.56
+  FY26 ageing buckets (Cr): 1,076.79, 185.74, 141.15, 43.98, 20.16, 17.47 | total 1,485.29
+  FY26 payables ageing (Cr): MSE not due 80.53; others 484.51, 208.29, 32.80, 15.11, 10.11; MSE disputed 18.19

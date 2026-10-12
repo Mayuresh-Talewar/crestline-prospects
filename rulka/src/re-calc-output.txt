@@ -1,0 +1,155 @@
+== 1. Footing checks (AR26) ==
+FY26 liabilities side: 7,268.79
+FY26 assets side: 7,268.80
+FY26 total income less total expenses: 427.73
+FY25r liabilities side: 6,001.81
+FY25r assets side: 6,001.82
+FY25r total income less total expenses: 324.42
+FY26 ageing buckets sum: 3,583.52
+CF inventory movement equals BS change: 96.57 (CF shows 96.57)
+
+== 2. Headline in crore ==
+rev FY26 Cr: 110.20
+rev FY25r Cr: 79.73
+tot FY26 Cr: 110.26
+tot FY25r Cr: 79.80
+pat FY26 Cr: 3.29
+pat FY25r Cr: 2.26
+pbt FY26 Cr: 4.28
+pbt FY25r Cr: 3.24
+Revenue growth FY26 vs FY25r %: 38.23
+PAT growth FY26 vs FY25r %: 45.80
+EBITDA FY26 (PBT+finance+D&A, company's own May-2025 method) lakh: 562.66
+EBITDA FY26 margin on revenue from ops %: 5.11
+EBITDA FY26 excl other income lakh: 557.14
+EBITDA FY25r (PBT+finance+D&A, company's own May-2025 method) lakh: 435.94
+EBITDA FY25r margin on revenue from ops %: 5.47
+EBITDA FY25r excl other income lakh: 428.86
+OCF FY26 Cr: 6.12
+OCF FY25r Cr: -15.04
+OCF FY26 / PAT x: 1.86
+
+== 3. Balances in crore (AR26) ==
+tr FY26 Cr: 35.84
+tr FY25r Cr: 26.15
+inv FY26 Cr: 20.59
+inv FY25r Cr: 19.62
+inv_rm FY26 Cr: 12.66
+inv_rm FY25r Cr: 10.57
+inv_wip FY26 Cr: 7.93
+inv_wip FY25r Cr: 9.05
+retention FY26 Cr: 5.00
+retention FY25r Cr: 3.74
+vend_adv FY26 Cr: 4.38
+vend_adv FY25r Cr: 4.88
+adv_cust FY26 Cr: 2.23
+adv_cust FY25r Cr: 1.40
+tr_over6m FY26 Cr: 9.59
+tr_over6m FY25r Cr: 0.94
+Trade payables FY26 BS face Cr: 25.56
+Trade payables FY26 note 9 Cr: 25.56
+Total borrowings FY26 Cr: 4.80
+Debt/equity FY26 x: 0.13
+Trade payables FY25r BS face Cr: 12.32
+Trade payables FY25r note 9 Cr: 12.32
+Total borrowings FY25r Cr: 8.76
+Debt/equity FY25r x: 0.26
+Borrowing reduction %: -45.21
+Cash + other bank FY26 Cr: 1.23
+Receivables over 6 months share FY26 %: 26.77
+Receivables over 6 months share FY25r %: 3.61
+Receivables over 6 months growth x: 10.17
+Receivables 1 year and older FY26 lakh: 328.83
+MSME share of trade payables FY26 %: 68.89
+BS vs note 9 FY25 MSME split gap lakh: 93.13
+
+== 4. Days (365) ==
+Rebuilt company DSO FY26 (avg TR / revenue): 102.66
+Rebuilt company DIO FY26 (avg inv / material+change in inv): 76.97
+Rebuilt company DPO FY26 (avg TP / purchases): 81.85
+Company reported FY26 DSO/DIO/DPO: 0.00
+    {'inv': (76.97, 69.58), 'tr': (102.66, 117.12), 'tp': (81.85, 74.78), 'nwc': (96.12, 123.93)}
+Rebuilt FY26 CCC (DSO + DIO minus DPO), average basis: 97.78
+FY24 opening TR implied by company's FY25 DSO of 117.12 (lakh): 2,500.94
+FY24 TR in AR25 original (lakh): 2,501.16
+Closing DSO FY26: 118.69
+Closing DIO FY26: 78.82
+Closing DPO FY26: 110.46
+Closing CCC FY26: 87.05
+Retention days of revenue FY26: 16.56
+WIP days of revenue FY26: 26.25
+Advance from customers days of revenue FY26: 7.38
+Trade working capital FY26 (TR+inv+retention+vendor adv-TP-cust adv) Cr: 38.01
+Trade working capital FY26 days of revenue: 125.90
+Closing DSO FY25r: 119.74
+Closing DIO FY25r: 106.12
+Closing DPO FY25r: 72.01
+Closing CCC FY25r: 153.85
+Retention days of revenue FY25r: 17.11
+WIP days of revenue FY25r: 41.45
+Advance from customers days of revenue FY25r: 6.41
+Trade working capital FY25r (TR+inv+retention+vendor adv-TP-cust adv) Cr: 40.67
+Trade working capital FY25r days of revenue: 186.21
+Management call figures (June 2026): CCC 143 -> 97, debtor 120 -> 103, inventory 90 -> 67 (not rebuilt here)
+Mgmt CCC reduction days: 46.00
+
+== 5. Rates ==
+Disclosed: term loan 8.25% p.a. (AR26 p97); OD repo 6.50 + 3.00 (AR25 p90); MSME loans 9.25% (AR25 p90)
+OD rate as stated in AR25, repo + spread %: 9.50
+Implied WC interest / avg WC loan FY26 % (COMPUTED, never print as theirs): 13.63
+Value of one day of revenue FY26 lakh: 30.19
+Carry of one day of revenue at 8.25% per year, lakh: 2.49
+Carry of one day of revenue at 9.50% per year, lakh: 2.87
+
+== 6. Vintages: FY25 original (AR25) vs FY25 restated (AR26) ==
+rev FY25 original: 7,947.11
+rev FY25 restated: 7,972.54
+rev difference (restated minus original): 25.43
+pat FY25 original: 225.56
+pat FY25 restated: 225.56
+pat difference (restated minus original): -0.00
+inv FY25 original: 1,056.94
+inv FY25 restated: 1,962.25
+inv difference (restated minus original): 905.31
+tr FY25 original: 3,520.76
+tr FY25 restated: 2,615.46
+tr difference (restated minus original): -905.30
+ocf FY25 original: -1,491.29
+ocf FY25 restated: -1,503.94
+ocf difference (restated minus original): -12.65
+TP FY25 original: 1,157.04
+TP FY25 restated: 1,232.02
+TR moved out = WIP moved in? (orig TR minus restated TR): 905.30
+   restated WIP FY25: 905.3 | restated RM FY25: 1056.94 | original inventory: 1056.94
+FY24 revenue Cr (AR25): 70.98
+FY24 PAT Cr (AR25): 6.11
+FY25 orig revenue growth vs FY24 %: 11.96
+FY25 PAT change vs FY24 %: -63.09
+FY24 EBITDA (PBT+fin+D&A) lakh: 919.84
+Closing DSO FY25o (original basis): 161.70
+OCF FY25o Cr (original): -14.91
+Borrowings FY25o Cr (original): 8.76
+Closing DSO FY24 (original basis): 128.62
+OCF FY24 Cr (original): -5.83
+Borrowings FY24 Cr (original): 11.04
+
+== 7. Other ==
+Bank stock statement gap Mar-26 lakh: 671.68
+Bank gap as % of books: 21.77
+Order book / FY26 revenue x: 1.31
+IPO total lakh (fresh 1979.64 + OFS 659.88): 2,639.52
+IPO fresh issue price check (1979.64 lakh / 842400 sh) Rs: 235.00
+Preferential equity 650000 x 109.50 Rs Cr: 7.12
+Warrants 7740808 x 109.50 Rs Cr: 84.76
+Nov-2025 orders in hand vs Dec-2025 call unexecuted, Cr gap: 52.00
+
+== 8. Disconfirm: what moved the cycle (closing basis, AR26 both years) ==
+DSO change days: -1.05
+DIO change days: -27.30
+DPO change days (a rise shortens the cycle): 38.45
+CCC change days: -66.80
+FY26 OCF without the rise in trade payables lakh: -712.61
+Rise in MSME payables FY26 lakh (BS face): 983.54
+Closing DSO FY24 to FY25 original change days: 33.09
+
+self-checks passed

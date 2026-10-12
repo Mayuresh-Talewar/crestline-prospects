@@ -1,0 +1,86 @@
+Financial Statements                                                                                                                                  Notes forming part of the Consolidated Financial Statements
+
+Notes forming part of the Consolidated Financial Statements                                                                                           for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+32. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)                                                                                  32. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)
+
+Loan and Borrowings: Financial Covenants                                                                                                              The Group estimates the following provision matrix at the reporting date:
+
+The group is required to comply with the few financial covenants as per terms of respective sanctions. In case of breach of                           Particulars                                                                Expected Credit Loss %
+financial covenants, there can be adverse impact.
+                                                                                                                                                      Upto 180 days                                                              31st March, 2026 31st March, 2025
+                                                                                                                                                      From 181 days to 1 year
+Credit risk                                                                                                                                           Above 1 year                                                               0.17% - 0.18%                      0.11%
+
+Credit risk is the risk of financial loss to the Group if a customer or counter party to a financial instrument fails to meet its                                                                                                1.86% - 2.45%                      1.25%
+contractual obligations, and arises principally from the Group's receivables from customers, investment securities and other
+receivables. Credit risk is managed through credit approvals, establishing credit limits and continuously monitoring the                                                                                                         2.62% - 100%   2.04% to 100%
+creditworthiness of customers to which the Company grants credit terms in the normal course of business.
+                                                                                                                                                      The movement in the allowance for impairment in respect of trade receivables during the year was as follows:
+
+                                                                                                                                                                                                                                                                    (I in Crores)
+
+Trade receivables and other receivable                                                                                                                Particulars                                                                For the Year ended 31st March, 2026
+
+The group's exposure to credit risk is influenced mainly by the individual characteristics of each customer. The demographics                         Balance as at 1st April, 2025                                              Trade receivable Contract Assets
+of the customer, including the default risk of the industry and country in which the customer operates, also has an influence                         Impairment loss recognized (net)
+on credit risk assessment. Credit risk is managed through credit approvals, establishing credit limits and continuously                               Trade receivables written off during the year                              179.25                             64.65
+monitoring the creditworthiness of customers to which the group grants credit terms in the normal course of business.                                 Balance as at 31st March, 2026
+The Group establishes an allowance for doubtful debts and impairment that represents its estimate of incurred losses in                                                                                                          115.35                             6.48
+respect of trade and other receivables and investments. Credit risk in respect of other receivables mainly comprises of loan
+to components which are managed by the group, by way of assessing financial condition, current economic trends and                                                                                                               -                                    -
+ageing of other receivables . The group considers the probability of default and whether there has been a significant increase
+in the credit risk on an ongoing basis through each reporting period. To assess whether there is a significant increase in credit                                                                                                294.60                             71.13
+risk, the group compares the risk of default occurring on financial assets as at the reporting date.
+                                                                                                                                                                                                                                                                    (I in Crores)
+The portion of the payments retained by the customer until final contract settlement is not considered a significant financing
+component, as it is generally intended to provide the customer with a form of security for the Company's remaining                                    Particulars                                                                For the Year ended 31st March, 2025
+performance obligations under the contract, which is consistent with industry practice.
+                                                                                                                                                      Balance as at 1st April, 2024                                              Trade receivable Contract Assets
+                                                                                                                                                      Impairment loss recognized (net)
+                                                                                                                                                      Trade receivables written off during the year                              196.89                             51.34
+                                                                                                                                                      Balance as at 31st March, 2025
+                                                                                                                                                                                                                                 16.91                              13.31
+
+                                                                                                                                                                                                                                 (34.55)                              -
+
+                                                                                                                                                                                                                                 179.25                             64.65
+
+Summary of the group's exposure to credit risk by age of the outstanding from various customers is as follows:                                        Amount which are expected by Company to be recovered or settled after twelve months in respect of assets and liabilities
+                                                                                                                                                      relating to long term contracts is amounting to I 386.66 Crores (previous year I 410.19 Crores)
+                                                                                                                                       (I in Crores)
+
+                                              Undisputed Trade Receivable       Disputed Trade Receivable                                             Security Deposits given to Lessors
+
+Ageing by Due date                        As at                          As at                   As at                   As at                        The Company has given security deposit to lessors for premises leased by the Company. The Company monitors the
+                         31st March, 2026               31st March, 2025        31st March, 2026        31st March, 2025                              creditworthiness of such lessors where the amount of security deposit is material.
+Not Due
+Less than 6 months                            5,228.47  5,228.26                19.34                                                  29.58          Credit risk on derivative financial instruments is limited because the counterparties are banks with high credit rating assigned
+From 6 months to 1 year                                                                                                                               by rating agencies.
+From 1 year to 2 years                        1,739.18  1,219.96                -                                                      4.12
+From 2 year to 3 years
+Above 3 years*                                483.99    551.69                  -                                                      0.21
+
+                                              668.61    401.85                  1.27                                                   19.37
+
+                                              265.39    195.64                  19.01                                                  0.06           Cash and Cash Equivalents
+                                                                                                                                                      The cash and cash equivalents are held with bank and financial institution counterparties with good credit rating.
+                                              299.53    300.27                  118.24                                                 125.61
+                                                                                                                                                      In addition, group is also exposed to credit risk in relation to corporate guarantee/letter of comfort (LOC) given to banks by
+                                              8,685.17  7,897.67                157.86                                                 178.95         the group. The company's exposure in this respect has been disclosed in Note 34.
+
+*Includes Trade receivable amounting to I 18.17 Crores (previous year I 14.87 Crores) which have significant increase in credit risk.
+
+Expected credit loss assessment for customers                                                                                                         Loans, investments in group companies
+
+The Group has used a practical expedient by computing the allowance for expected credit losses for trade receivables on a                             During the financial year 21-22, Kurukshetra Expressway Private Limited ("KEPL" or "Concessionaire'), a Joint venture (49.57%) of
+provision matrix.                                                                                                                                     the Company, issued a notice of termination of Concession Agreement ("CA") vide letter dated 7th October, 2021 to the National
+                                                                                                                                                      Highway Authority of India ("NHAI") on account of continuous disruption and blockade of traffic on National Highway-71 due
+                                                                                                                                                      to farmer agitation with stoppage of toll collection. The provisions of Concession Agreement provides for termination where
+                                                                                                                                                      events which are not in control of KEPL, and obliges NHAI paying KEPL for repayment of Debt Due along with Adjusted Equity
+                                                                                                                                                      after necessary adjustments. The Company has made provision for Expected credit loss against loans given to KEPL / others
+                                                                                                                                                      and also made provision towards potential loss due to shortfall undertaking and the matter is subjudice.
+
+400 Kalpataru Projects International Limited                                                                                                                                                                                     Integrated Annual Report 2025-26 401

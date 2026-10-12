@@ -1,0 +1,73 @@
+Financial Statements                                                                                                                              Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                                          for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+9. OTHER FINANCIAL ASSETS                                                                                                                         11. OTHER ASSETS
+
+Particulars                                                                                       As at                         (H in Crores)     Particulars                                                                        As at         (H in Crores)
+                                                                                 31st March, 2026                                                                                                                   31st March, 2026                          As at
+(i)Non-Current                                                                                                                             As at  (i)Non-Current
+Interest on Fixed Deposit                                                                                                 31st March, 2025        Capital Advances                                                                   62.42   31st March, 2025
+Security Deposits                                                                                                                                 Prepaid Expenses                                                                   37.29
+Fixed Deposit with Banks*                                                                                          5.40        7.78               VAT Credit and WCT Receivable                                                       11.02                   73.35
+TOTAL                                                                                                           234.26     206.87                 Amount Due from Customers under Construction and other Contracts                   15.38                    31.83
+(ii)Current                                                                                                                                                                                                                                                   26.52
+Accrued Income                                                                                                    33.79       71.25                     (Contract assets)                                                            126.11                   14.92
+Fixed Deposit with Banks**                                                                                      273.45     285.90                 TOTAL
+Security Deposits                                                                                                                                 (ii)Current                                                                        57.06                  146.62
+Others^                                                                                                           44.08      47.72                Taxes and duties Recoverable                                                       83.32
+Less: Expected credit losses for receivables from Subsidiary [Refer Note 56]#                                    135.46     116.20                VAT Credit and WCT Receivable                                                     817.23                    24.73
+TOTAL                                                                                                                       59.29                 GST Receivable                                                                      5.96                    89.07
+                                                                                                                   80.19    156.18                Export Benefits Receivable                                                         12.90                  755.35
+                                                                                                                498.46                            Taxes Paid Under Protest                                                          514.19
+                                                                                                                (155.84)           -              Advance to Suppliers                                                              128.76                     0.48
+                                                                                                                602.35     379.39                 Prepaid Expenses                                                              7,068.23                       5.40
+                                                                                                                                                  Amount Due from Customers under Construction and other Contracts                                          505.18
+*Includes I 30.04 Crores (previous year I 67.75 Crores) held as margin money and towards other commitments.                                                                                                                    8,687.65                      102.04
+                                                                                                                                                        (Contract assets)                                                                                 6,185.90
+**Includes I 128.11 Crores (previous year I 112.69 Crores) held as margin money and towards other commitments.                                    TOTAL
+                                                                                                                                                                                                                                                         7,668.15
+
+^Others mainly include MTM receivables, claims and receivable from Fasttel Engenharia S.A. persuant to invocation of corporate guarantee.
+
+#Expected credit loss is towards receivable from Fasttel Engenharia S.A. persuant to invocation of corporate guarantee.                           11.1Amount due from / (to) Customers under Construction Contracts in progress at the end of the reporting
+                                                                                                                                                        period
+
+10. DEFERRED TAX ASSET / LIABILITIES (NET)                                                                                 (H in Crores)          Particulars                                                                        As at         (H in Crores)
+                                                                                                                                                                                                                    31st March, 2026
+Particulars                                                                                                                          As at        Recognised as amounts due:                                                                                  As at
+                                                                                                                            31st March,           from Customers under Construction Contracts                                                31st March, 2025
+2025-26                                                                                                                                           to Customers under Construction Contracts (Refer Note 21)
+Deferred tax assets / (liabilities) in relation to:                       As at  Recognised in           Recognised                  2026         Advances from Customer (Refer Note 21)                             7,154.74                                     6,265.47
+Property, Plant and Equipment and on intangible assets              01st April,   profit or loss*              in other                           Less: Allowance for expected credit losses - Current                (378.13)                                      (237.42)
+Expenses deductible / income taxable in other tax                                                                                                 Less: Allowance for expected credit losses - Non-Current          (4,817.27)                                   (4,435.08)
+                                                                          2025                     comprehensive
+       accounting period and change in fair value                                                             income*                                                                                                   (19.73)                                       (13.36)
+Provision for Expected Credit Losses and others                                                                                                                                                                        (51.40)                                        (51.29)
+TOTAL                                                                 (7.90)     (6.39)                                 -   (14.29)                                                                                 1,888.21                                      1,528.32
+                                                                      20.51      (5.90)                         (112.86)   (98.25)
+                                                                                                                                                  11.2The contract assets represents amount due from customer, primarily relate to the Company's rights to consideration
+                                                                    182.64       88.18                                  -  270.82                        for work executed but not billed at the reporting date. The contract assets are transferred to receivables when the rights
+                                                                    195.25       75.89                          (112.86)   158.28                        become unconditional, that is when invoice is raised on achievement of contractual milestones. This usually occurs
+                                                                                                                                                         when the Company issues an invoice to the customer. The contract liabilities represents amount due to customer,
+                                                                                                         Recognised        (H in Crores)                 primarily relate to invoice raised on customer on achievement of milestones for which revenue to be recognised over
+                                                                                                               in other                                  the period of time and it is not considered as a significant financing component since it is used to meet working capital
+                                                                                                                                     As at               requirements at the time of project mobilization stage.
+                                                                                                   comprehensive            31st March,
+Particulars                                                               As at  Recognised in                income*                             11.3Increase in contract assets is mainly due to increase in business activities and in certain contracts on account of
+                                                                    01st April,   profit or loss*                                    2025                contractual milestones not achieved. During the year ended 31st March, 2026 H 6,197.02 Crores (previous year H 6,075.85
+2024-25                                                                                                                                                  Crores) of contract assets as of 01st April, 2025 has been reclassified to Trade receivables upon billing to customers on
+Deferred tax assets / (liabilities) in relation to:                       2024                                                                           completion of milestones.
+Property, Plant and Equipment and on intangible assets
+Expenses deductible / income taxable in other tax                    (9.37)        1.47                               -      (7.90)               11.4In case of EPC contracts, amount upto 20% of the contract value is received as an advance and upto 20% amount is
+                                                                    (33.42)      22.39                          31.54        20.51                       retained and released by the customer at the end of project and balance amount is paid progressively based on the
+       accounting period and change in fair value                                                                                                        agreed milestones in the contract.
+Provision for Expected Credit Losses and others                     183.88        (1.24)                              -    182.64
+TOTAL                                                               141.09       22.62                          31.54      195.25                 11.5There are no reconciliation items of revenue recognised from contracts with customers and contract price.
+*Attributable to origination and reversal of temporary differences
+                                                                                                                                                  11.6Revenue recognised for the current year includes H 1,498.56 Crores (previous year H 1,662.49 Crores), that was classified
+                                                                                                                                                         as contract liabilities at the beginning of the year.
+
+302 Kalpataru Projects International Limited                                                                                                                                                                        Integrated Annual Report 2025-26 303

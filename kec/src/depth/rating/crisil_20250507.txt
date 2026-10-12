@@ -1,0 +1,268 @@
+ 
+ Rating Rationale 
+ Rating Rationale 
+ May 07, 2025 | Mumbai 
+ KEC International Limited 
+ Rating reaffirmed at 'Crisil A1+' 
+ Rating Action 
+ Rs.1000 Crore Commercial Paper Crisil A1+ (Reaffirmed) 
+ Note: None of the Directors on Crisil Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings. 
+ 1 crore = 10 million 
+ Refer to Annexure for Details of Instruments & Bank Facilities 
+ Detailed Rationale 
+ Crisil Ratings has reaffirmed its ‘Crisil A1+’ rating on the commercial paper programme of KEC International L imited (KEC). 
+ The rating continues to reflect the company’s leading market position in the transmission line tower (TLT) business, diversified orders in terms of geography and business segment, and healthy financial flexibility, being part of the RPG group. These strengths are partially offset by large working capital requirement and modest, albeit improving, debt protection metrics. 
+ In the first nine months of fiscal 2025, consolidated operating income grew 9% year-on-year, led by strong order inflow and execu tion, primarily in the transmission and distribution (T&D) and civil sectors. During this period, earnings before interest, tax, depreciation, and amortization (EBIDTA) margin stood at 7.3% (Crisil Ratings-adjusted), improving from 6.7% EBITDA margin in fiscal 2024. Profitability improved on-year on the back of completion of most of the legacy orders that were incurring EBITDA losses, along with rising share of higher margin T&D orders in the execution mix. However, the railways segment continued to underpe rform, which is expected to continue over the medium term, with the company planning to restrict any substantial order intake in this segment. Going forward, a steady rise in contribution from orders in the T&D segment that offers early double-digit operating margin and prudent risk management measures in the form of, hedging of foreign currency exposure and base metals (such as aluminum and zinc), should drive profitability. The trajectory of margin improvement will continue to be a rating sensitivity fact or. 
+ Furthermore, healthy revenue growth during fiscal 2025 and slower collection cycle seen in water projects executed by the company led to an increase in the working capital requirement during the fiscal, resulting in higher reliance on short-term borrowings. Nevertheless, equity funds of Rs 870 crore raised by KEC through a Qualified Institutional Placement (QIP) in September 2024, along with income tax refund of more than Rs 400 crore and realisation of collections from past receivables from Afghanista n and from counterparties in India, kept overall indebtedness in check. As a result, net debt (including acceptances) remained at Rs 5,574 crore as on December 31, 2024, as against Rs 5,090 crore as on March 31, 2024. 
+ Gradual recovery in operating profitability amid steady debt levels led to improvement in the Crisil Ratings-adjusted interest coverage ratio to 1.8 times for the first nine months of fiscal 2025, versus 1.5 times for fiscal 2024, which is expected to improve further to 2.0-2.5 times over fis cals 2025 and 2026. Improvement in profitability and ability to reduce the working capital requirement, leading to better debt protection metrics, will be a key rating sensitivity factor. 
+ Nevertheless, the business risk profile of KEC should remain strong, supported by the established market position of KEC in the T&D segment, the growing scale of its non-T&D business, particularly the civil segment, and robust order book. The company had outstanding orders of Rs 37,440 crore as on December 31, 2024. Moreo ver, the financial flexibility of KEC remains healthy, supported by cash and equivalents of around Rs 318 crore, undrawn fund-based bank lines of around Rs 400 crore and its ability to raise funds at competitive rates. 
+ Analytical Approach 
+ Crisil Ratings has combined the business and financial risk profiles of KEC and all its subsidiaries, as the companies are engaged in a similar line of business. 
+ Acceptances have been considered as debt as these are interest-bearing obligation to banks. 
+ Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation. 
+ Key Rating Drivers & Detailed Description 
+ Strengths : 
+ Leading market position in the TLT business : KEC has been in the TLT business for over five decades and is among the largest manufacturers in the world, with capacity of 422,200 tonne per annum (tpa). In India, KEC is a leading player with reputed customers such as Power Grid Corporation of India Ltd (‘Crisil AAA/Stable/Crisil A1+’) and various state transmission utilities. Leadership in the T&D segment, as well as healthy growth in the non-T&D space, should continue to support the business. 
+ Diversified revenue across businesses and geographies : While around 59% of the unexecuted orders were in the T&D business as on December 31, 2024, KEC also has a healthy presence in the engineering, procurement and construction ( EPC ) services segment for civil infrastructure (accounting for 25% of orders as on December 31, 2024), transportation (11%), and other segments (5%). Furthermore, the orders are from diverse geographies. About 33% of the total unexecuted orders as on December 31, 2024, were from overseas markets. Exports are primarily to countries in th e Middle East, South Asian Association for Regional Cooperation (SAARC), Africa, East Asia Pacific, and the Commonwealth of Independent States. The wholly owned subsidiary, SAE Towers, USA, has a combined production capacity of around 1 lakh tpa in Brazil and Mexico, and mainly caters to the Americas. 
+ Order intake was strong at around Rs 22,090 crore in the first nine months of fiscal 2025 (against Rs 18,100 crore in fiscal 2024), driven mainly by the T&D segment that contributed 72% of the orders. The con firmed order book of Rs 37,440 crore as on December 31, 2024, with average execution period of 1.5-2 years, provides strong revenue visibility over the medium term. Moreover, diversified revenue streams will help reduce susceptibility to downturn in any one segment. 
+ Healthy financial flexibility : As the flagship entity of the RPG group, KEC benefits from the group’s financial flexibility, strong reputation and longstanding relationships with key stakeholders. The group has presence in diverse businesses such as tyres, pharmaceuticals, information technology, construction, healthcare and plantations. KEC’s financial flexibility is also supported by cash and cash equivalent of around Rs 318 crore and undrawn fund-based bank limit of around Rs 400 crore as on December 31, 2024. 
+ Weaknesses : 
+ Large working capital requirement : Operations are working capital intensive on account of the inherent nature of the EPC business and long project execution cycle of 2-3 years, which has resulted in high reliance on short-term debt . Receivables are typically high in this business due to sizeable retention money blocked in projects till the end of the performance guarantee period as well as milestone-based billing in EPC projects in the transportation and civil segments. 
+ Crisil Ratings-adjusted receivables (including net unbilled revenue) ar e expected to have remained sizeable in the range of 255-260 days as on March 31, 2025, compared to 252 days as on March 31, 2024, owing to slower collection cycle seen in KEC’s civil projects in the water segment. On the other hand, recovery of receivables stuck in Afghanistan of around Rs 150 crore and healthy collections from other Indian clients could offset the impact to an extent. Furthermore, lower-than-expected collections and higher working capital requirement in the railways business have exacerba ted the working capital position, and the company is in the process of significantly paring down the exposure to this segment. Improvement in the working capital cycle remains a key monitorable as the business grows. 
+ Modest, albeit improving, debt protection metrics : Gradual improvement in profitability and steady working capital requirement resulted in improvement in debt protection metrics during fiscal 2025, as against the previous 2-3 fiscals. As on December 31, 2024, net debt, including acceptances, was higher at around Rs 5,574 crore (compared to Rs 5,090 crore as o n March 31, 2024), mainly to support the expanding order book and execution. The debt level is expected to have moderated by March 31, 2025, on the back of surplus collections from KEC’s past receivable s, including the built-up receivables in the water segment. 
+ While interest coverage ratio improved to 1.8 times in the first nine months of fiscal 2025, against 1.5 times in fiscal 2023, it remains lower than 2.5 times reported over fiscals 2017-2022. With improvement in profitability and expectation of rationalisation of working capital in the remaining part of fiscal 2025 and further in fiscal 2026, the interest coverage ratio should improve to over 2 times for fiscal 2025 and further to 3 times over the medium term. 
+ Rise in net worth during fiscal 2025, supported by equity funds of Rs 870 crore raised through QIP route in September 2024, is expected to have improved the TOL/TNW ratio from around 3.8 times as on March 31, 2024 to around 3 times as on March 31, 2025. Nevertheless, sustained growth in revenue and profitability, resulting in higher networth and better debt protection metrics remain a key monitorable. 
+ Liquidity : Strong 
+ Cash accrual of Rs 600-800 crore annually, over the medium term, with minimal term loans and moderate capital expenditure (capex) should keep the liquidity position comfortable. Working capital requirement will remain high, constraining liquidity. Cash and cash equivalents stood at around Rs 318 crore, along with undrawn fund-based bank lines of around Rs 400 crore as on December 31, 2024. 
+ Rating s ensitivity factors 
+ Down w ard factors 
+ Lower-than expected improvement in profitability, leading to operating margin below 7% 
+ Stretched working capital cycle, leading to weak interest coverage ratio on sustained basis 
+ Significant debt-funded capex or acquisition weakening the financial risk profile 
+ Environment, social and governance (ESG) profile 
+ The ESG profile of KEC supports its already strong credit risk profile. 
+ The EPC and power transmission sectors have significant impact on the environment because of risks linked to operations such as energy loss during transmission and waste generation. Also, due to the nature of operations, the sector affects the local community and has various occupational health hazards associated with it. In line with this, KEC is focused on mitigating its environmental and social risks to ensure minimal impact. 
+ Key ESG highlights 
+ KEC has installed solar plants in Jaipur, Nagpur and Dubai. It aims to reduce greenhouse gas emissions by 20% till fiscal 2026. 
+ KEC’s manufacturing plants have achieved the status of ‘ z ero w astewater d ischarge’ and fully recycle both trade effluents and domestic wastewater. It has also taken rainwater harvesting initiatives and a total of 14 rainwater harvesting points are installed in all three of its transmission line plants in India. 
+ The company is committed to increasing the happiness quotient of its workforce to 85% by fiscal 2026. 
+ Gender diversity is an area for improvement, with only ~4% employee representation of females. The company aims to increase gender diversity to 25% by fiscal 2026. 
+ The governance structure is characterised by over 70% of the board comprising independent directors. The management has been effective in creating wealth for its shareholders. 
+ About the Company 
+ Incorporated in 1945, KEC is now the flagship company of the Harsh Goenka faction of RPG group and is a global infrastructure EPC player. It has presence in the verticals of power T&D, cables, railways, civil infrastructure, and solar. The company has eight manufacturing facilities across India, Brazil, Mexico, and Dubai, and is among the largest tower manufacturers globally with capacity of 372,200 metric tonne per annum (mtpa), railways structures manufacturing capacity of 38,000 mtpa, telecom tower manuf acturing capacity of 12,000 mtpa and solar structures manufacturing capacity of 10,000 mtpa. 
+ In September 2010, KEC acquired a 100% stake in US-based SAE Towers, the leading manufacturer of lattice transmission towers in the Americas with production capacity of around 1 lakh tpa across Mexico and Brazil. 
+ For the nine months ended December 31, 2024, KEC reported profit after tax (PAT) of Rs 303 crore on total income of Rs 15,025 crore against Rs 195 crore and Rs 13,794 crore, respectively, for the correspo nding period of the previous fiscal. 
+ Key Financial Indicators (Crisil Ratings-adjusted numbers) 
+ As on / for the period ended March 31 
+ Unit 
+ 2024 
+ 2023 
+ Audited 
+ Audited 
+ Revenue 
+ Rs crore 
+ 19,914 
+ 17,284 
+ Profit after tax (PAT) 
+ Rs crore 
+ 347 
+ 176 
+ PAT margin 
+ % 
+ 1.7 
+ 1 
+ Adjusted debt/ adjusted networth 
+ times 
+ 1 
+ 0.92 
+ Adjusted interest coverage 
+ times 
+ 1.74 
+ 1.47 
+ Any other information : Not A pplicable 
+ Note on complexity levels of the rated instrument: 
+Crisil Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+Crisil Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the Crisil Ratings` complexity levels please visit www.crisilratings.com . Users may also call the Customer Service Helpdesk with queries on specific instruments.
+ Annexure - Details of Instrument(s)
+ ISIN 
+ Name Of Instrument 
+ Date Of Allotment 
+ Coupon Rate (%) 
+ Maturity Date 
+ Issue Size (Rs. Crore) 
+ Complexity Levels 
+ Rating Outstanding with Outlook 
+ NA 
+ Commercial Paper 
+ NA 
+ NA 
+ 7-365 days 
+ 1000.00 
+ Simple 
+ Crisil A1+ 
+ Annexure – List of entities consolidated 
+ Name of entity 
+ Extent of consolidation 
+ Rationale of consolidation 
+ KEC Asian Cables Ltd 
+ Full 
+ Subsidiary 
+ RPG Transmission Nigeria Ltd 
+ Full 
+ Subs idiary 
+ KEC Towers LLC 
+ Full 
+ Subsidiary 
+ KEC Investment Holdings 
+ Full 
+ Subsidiary 
+ KEC International (Malaysia) SDN BHD 
+ Full 
+ Subsidiary 
+ KEC Power India Pvt Ltd 
+ Full 
+ Subsidiary 
+ SAE Towers Holdings LLC 
+ Full 
+ Subsidiary 
+ SAE Towers Brazil Subsidiary Company LLC 
+ Full 
+ Subsidiary 
+ SAE Towers Mexico Subsidiary Holding Company LLC 
+ Full 
+ Subsidiary 
+ SAE Towers Mexico S de RL de CV 
+ Full 
+ Subsidiary 
+ SAE Towers Bra s il Torres de Transmissao Ltda 
+ Full 
+ Subsidiary 
+ SAE Prestadora de Servicios Mexico, S de RL de CV 
+ Full 
+ Subsi diary 
+ SAE Towers Ltd 
+ Full 
+ Subsidiary 
+ KEC Engineering & Construction Services, S de RL de CV 
+ Full 
+ Subsidiary 
+ KEC EPC LLC 
+ Full 
+ Subsidiary 
+ KEC Spur Infrastructure Pvt Ltd 
+ Full 
+ Subsidiary 
+ SAE Towers Construcao Ltda 
+ Full 
+ Subsidiary 
+ Annexure - Rating History for last 3 Years 
+ Current 
+ 2025 (History) 
+ 2024 
+ 2023 
+ 2022 
+ Start of 2022 
+ Instrument 
+ Type 
+ Outstanding Amount 
+ Rating 
+ Date 
+ Rating 
+ Date 
+ Rating 
+ Date 
+ Rating 
+ Date 
+ Rating 
+ Rating 
+ Commercial Paper 
+ ST 
+ 1000.0 
+ Crisil A1+ 
+ -- 
+ 05-08-24 
+ Crisil A1+ 
+ 24-04-23 
+ Crisil A1+ 
+ 24-06-22 
+ Crisil A1+ 
+ Crisil A1+ 
+ -- 
+ -- 
+ 23-04-24 
+ Crisil A1+ 
+ -- 
+ -- 
+ -- 
+ All amounts are in Rs.Cr. 
+ Criteria Details 
+ Links to related criteria 
+ Basics of Ratings (including default recognition, assessing information adequacy) 
+ Criteria for manufacturing, trading and corporate services sector (including approach for financial ratios) 
+ Criteria for consolidation 
+ Media Relations 
+ Analytical Contacts 
+ Customer Service Helpdesk 
+ Ramkumar Uppara 
+Media Relations
+ Crisil Limited 
+M: +91 98201 77907
+B: +91 22 6137 3000
+ ramkumar.uppara@crisil.com 
+ Kartik Behl 
+Media Relations
+ Crisil Limited 
+M: +91 90043 33899
+B: +91 22 6137 3000
+ kartik.behl@crisil.com 
+ Divya Pillai 
+Media Relations
+ Crisil Limited 
+M: +91 86573 53090
+B: +91 22 6137 3000
+ divya.pillai1@ext-crisil.com 
+ Manish Kumar Gupta 
+ Senior Director 
+ Crisil Ratings Limited 
+B: +91 22 6137 3000 
+ manish.gupta@crisil.com 
+ Ankit Kedia 
+ Director 
+ Crisil Ratings Limited 
+B: +91 22 6137 3000 
+ ankit.kedia@crisil.com 
+ Vinit Patil 
+ Team Leader 
+ Crisil Ratings Limited 
+B: +91 22 6137 3000 
+ vinit.patil@crisil.com Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 3850
+For a copy of Rationales / Rating Reports:
+ CRISILratingdesk@crisil.com 
+For Analytical queries:
+ ratingsinvestordesk@crisil.com 
+ Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to Crisil Ratings. However, Crisil Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+ About Crisil Ratings Limited (A subsidiary of Crisil Limited, an S&P Global Company) 
+ Crisil Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs). 
+ Crisil Ratings Limited ('Crisil Ratings') is a wholly-owned subsidiary of Crisil Limited ('Crisil'). Crisil Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI"). 
+ For more information, visit www.crisilratings.com 
+ About Crisil Limited 
+ Crisil is a leading, agile and innovative global analytics company driven by its mission of making markets function better. 
+ It i s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint. 
+ It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore. 
+ It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide. 
+ For more information, visit www.crisil.com 
+ Connect with us: TWITTER | LINKEDIN | YOUTUBE | FACEBOOK 
+ CRISIL PRIVACY NOTICE
+Crisil respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from Crisil. For further information on Crisil's privacy policy please visit www.crisil.com . 
+ DISCLAIMER 
+ This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by Crisil Ratings Limited ('Crisil Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as Crisil Ratings provision or intention to provide any services in jurisdictions where Crisil Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between Crisil Ratings and the user. 
+ The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way. 
+ Crisil Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, Crisil Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall Crisil Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages. 
+ The report is confidential information of Crisil Ratings and Crisil Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of Crisil Ratings. 
+ Crisil Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by Crisil Ratings. Crisil Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors. 
+ Crisil Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to: https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html . Public ratings and analysis by Crisil Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites, www.crisilratings.com and https://www.ratingsanalytica.com (free of charge). Crisil Ratings shall not have the obligation to update the information in the Crisil Ratings report following its publication although Crisil Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee. Rating criteria by Crisil Ratings are available on the Crisil Ratings website, www.crisilratings.com . For the latest rating information on any company rated by Crisil Ratings, you may contact the Crisil Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 3850. 
+ Crisil Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on Crisil Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following link: https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html 
+ 

@@ -1,0 +1,85 @@
+=== BREAK=1 (expected: FAIL) ===
+Value of a day = 1355.55 / 365 = 3.713835616438356 Cr
+Carry per day at rate 0 = 0
+
+Step 10 days: GCA 100 -> 90, moved -10, released 37.13835616438356 Cr, carry 0
+FAIL  no negative release (10d)  cash=-37.13835616438356
+PASS  interest is zero (10d)  carry=0
+FAIL  cross-check days x per day vs simulate (10d)  simulate=-37.13835616438356 cross=37.13835616438356
+
+Step 30 days: GCA 100 -> 70, moved -30, released 111.41506849315067 Cr, carry 0
+PASS  no negative release (30d)  cash=111.41506849315067
+PASS  interest is zero (30d)  carry=0
+PASS  cross-check days x per day vs simulate (30d)  simulate=111.41506849315067 cross=111.41506849315068
+PASS  payables never release cash (fixture, any request)  max cash=0
+
+RESULT 2 FAILED
+exit=1
+=== BREAK=2 (expected: FAIL) ===
+Value of a day = 1355.55 / 365 = 3.713835616438356 Cr
+Carry per day at rate 0 = 0
+
+Step 10 days: GCA 100 -> 90, moved -10, released 37.13835616438356 Cr, carry 0
+PASS  no negative release (10d)  cash=37.13835616438356
+FAIL  interest is zero (10d)  carry=0.5
+PASS  cross-check days x per day vs simulate (10d)  simulate=37.13835616438356 cross=37.13835616438356
+
+Step 30 days: GCA 100 -> 70, moved -30, released 111.41506849315067 Cr, carry 0
+PASS  no negative release (30d)  cash=111.41506849315067
+PASS  interest is zero (30d)  carry=0
+PASS  cross-check days x per day vs simulate (30d)  simulate=111.41506849315067 cross=111.41506849315068
+PASS  payables never release cash (fixture, any request)  max cash=0
+
+RESULT 1 FAILED
+exit=1
+=== BREAK=3 (expected: FAIL) ===
+Value of a day = 1355.55 / 365 = 3.713835616438356 Cr
+Carry per day at rate 0 = 0
+
+Step 10 days: GCA 100 -> 90, moved -10, released 37.13835616438356 Cr, carry 0
+PASS  no negative release (10d)  cash=37.13835616438356
+PASS  interest is zero (10d)  carry=0
+FAIL  cross-check days x per day vs simulate (10d)  simulate=37.13835616438356 cross=37.5097397260274
+
+Step 30 days: GCA 100 -> 70, moved -30, released 111.41506849315067 Cr, carry 0
+PASS  no negative release (30d)  cash=111.41506849315067
+PASS  interest is zero (30d)  carry=0
+PASS  cross-check days x per day vs simulate (30d)  simulate=111.41506849315067 cross=111.41506849315068
+PASS  payables never release cash (fixture, any request)  max cash=0
+
+RESULT 1 FAILED
+exit=1
+=== BREAK=4 (expected: FAIL) ===
+Value of a day = 1355.55 / 365 = 3.713835616438356 Cr
+Carry per day at rate 0 = 0
+
+Step 10 days: GCA 100 -> 90, moved -10, released 37.13835616438356 Cr, carry 0
+PASS  no negative release (10d)  cash=37.13835616438356
+PASS  interest is zero (10d)  carry=0
+PASS  cross-check days x per day vs simulate (10d)  simulate=37.13835616438356 cross=37.13835616438356
+
+Step 30 days: GCA 100 -> 70, moved -30, released 111.41506849315067 Cr, carry 0
+PASS  no negative release (30d)  cash=111.41506849315067
+PASS  interest is zero (30d)  carry=0
+PASS  cross-check days x per day vs simulate (30d)  simulate=111.41506849315067 cross=111.41506849315068
+FAIL  payables never release cash (fixture, any request)  max cash=5
+
+RESULT 1 FAILED
+exit=1
+=== CLEAN RUN ===
+Value of a day = 1355.55 / 365 = 3.713835616438356 Cr
+Carry per day at rate 0 = 0
+
+Step 10 days: GCA 100 -> 90, moved -10, released 37.13835616438356 Cr, carry 0
+PASS  no negative release (10d)  cash=37.13835616438356
+PASS  interest is zero (10d)  carry=0
+PASS  cross-check days x per day vs simulate (10d)  simulate=37.13835616438356 cross=37.13835616438356
+
+Step 30 days: GCA 100 -> 70, moved -30, released 111.41506849315067 Cr, carry 0
+PASS  no negative release (30d)  cash=111.41506849315067
+PASS  interest is zero (30d)  carry=0
+PASS  cross-check days x per day vs simulate (30d)  simulate=111.41506849315067 cross=111.41506849315068
+PASS  payables never release cash (fixture, any request)  max cash=0
+
+RESULT ALL PASS
+exit=0

@@ -1,0 +1,12 @@
+JOINT MEASUREMENT         0.7 Estimate
+MB / QS CHECK             1.0 Estimate
+RA BILL PREPARED          0.6 Estimate
+REVIEW STARTED            1.3 Estimate
+REVIEW COMPLETED          0.7 Estimate
+BILL SUBMITTED            1.4 Estimate
+CLIENT ACKNOWLEDGED       9.0 Estimate
+CERTIFIED                 0.9 Estimate
+TAX INVOICE RAISED            -
+PAYMENT RECEIVED         22.0 Published
+RETENTION RELEASED            Not public
+Basis: scaled from published debtor days 22 using the stage pattern in Crestline's demonstration ledger. Estimates are not the company's measured days.

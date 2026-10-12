@@ -1,0 +1,68 @@
+Financial Statements                                                                                                                          Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                                      for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026                                                                                                           40. RELATED PARTY DISCLOSURES AS REQUIRED BY IND AS 24 ARE GIVEN BELOW:
+
+38. DISCLOSURES PURSUANT TO IND AS 19 EMPLOYEE BENEFITS (Contd.)                                                                              List of Related Parties
+
+Particulars                                                                                   As at        (H in Crores)                      (a) Subsidiaries
+                                                                              31st March, 2026                                                Shree Shubham Logistics Limited
+(x) Quantitative Sensitivity Analysis for Significant Assumptions                                                    As at                    Energy Link (India) Limited
+Defined Benefits Obligation (Base)                                                                   31st March, 2025                         Amber Real Estate Limited
+Impact of change in discount rate                                                                                                              Kalpataru Power Transmission (Mauritius) Limited
+Revised obligation at the end of the year                                     128.87                 83.67                                    Kalpataru Power Transmission USA Inc
+due to increase of 0.50%                                                                                                                      LLC Kalpataru Power Transmission Ukraine
+due to decrease of 0.50%                                                      124.53                 80.82                                    Kalpataru Metfab Private Limited
+Impact of change in salary increase                                           133.45                 86.68                                    Kalpataru Projects Arabia Company*
+Revised obligation at the end of the year                                                                                                     Kalpataru Power Transmission Sweden AB
+due to increase of 0.50%                                                            132.06                  86.13                             Kalpataru Power Senegal SARL
+due to decrease of 0.50%                                                            125.62                   81.21                            Estrela Reluzente Participaes S.A. (formerly Kalpataru Power DO Brasil Participacoes S.A.)
+Sensitivities due to mortality and rate of withdrawals are insignificant and                                                                  Kalpataru Power Chile SpA
+                                                                                     22.93                   14.41                            JMC Mining and Quarries Limited
+      therefore, ignored.                                                     7.53 Years             7.43 Years                               Brij Bhoomi Expressway Private Limited
+(xi) Expected contribution next years                                                                                                         Wainganga Expressway Private Limited
+(xii) Weighted Average Duration                                                                                                               Vindhyachal Expressway Private Limited (upto 16th January, 2026)
+                                                                                                                                              Kalpataru Power FZCO (Formerly Kalpataru Power DMCC; Direct Subsidiary w.e.f. 3rd March, 2025)
+(d) Characteristics of defined benefit plans and risks associated with them:
+                                                                                                                                                               *Name of the Company is changed from Kalpataru IBN Omairah Company Limited to Kalpataru Projects Arabia Company effective from
+Valuations of defined benefit plan are performed on certain basic set of pre-determined assumptions and other                                                  14th April, 2026
+       regulatory framework which may vary over time. Thus, the Company is exposed to various risks in providing the above
+       benefit plans which are as follows:                                                                                                    (b) Indirect Subsidiaries
+                                                                                                                                              Saicharan Properties Limited
+       (i)Interest Rate Risk: The plan exposes the Company to the risk of fall in interest rates. A fall in interest rates will result in     Punarvasu Financial Services Private Limited
+              an increase in the ultimate cost of providing the above benefit and will thus result in an increase in the value of the         Linjemontage i Grstorp Aktiebolag
+              liability (i.e. value of defined benefit obligation).                                                                           Linjemontage Service Nordic AB (upto 28th November, 2024)
+                                                                                                                                              Linjemontage AS
+       (ii)Salary Escalation Risk: The present value of the defined benefit plan is calculated with the assumption of salary increase         Fasttel Engenharia S.A.
+              rate of plan participants in future. Deviation in the rate of increase of salary in future for plan participants from the rate
+              of increase in salary used to determine the present value of obligation will have a bearing on the plan's liability.                   ( c) Enterprises under significant influence, which are having transaction with the Company
+                                                                                                                                              Kalpataru Properties Private Limited
+       (iii)Demographic Risk: The Company has used certain mortality and attrition assumptions in valuation of the liability.                 Gurukrupa Developers
+              The Company is exposed to the risk of actual experience turning out to be worse compared to the assumption.                     Property Solution (India) Private Limited
+                                                                                                                                              Kalpataru Limited
+       (iv)Investment Risk: The Company has funded with well established Govt. of India undertaking & other IRDA approved                     Kalpataru Construction Private Limited
+              agency and therefore, there is no material investment risk.                                                                     K C Holdings Private Limited
+                                                                                                                                              Kalpataru Viniyog LLP
+39.The Company has entered into following arrangements which are classified as Joint Operation as defined in Ind AS 111                       Kalpataru Holdings Private Limited
+                                                                                                                                              Argos Arkaya Power Solutions LLP
+       "Joint Arrangement".                                                                                                                   Kalpataru Foundation
+                                                                                                                                              Kiyana Ventures LLP
+Name of Joint Arrangements       Joint Venture Partners                                              Proportionate                            Kalpataru Urbanscape LLP
+                                                                                                            Share (%)                         Agile Real Estate Private Limited
+
+Afcons-KPTL JV                   Afcons Infrastructure Limited                                       51.00                                                                                                                         Integrated Annual Report 2025-26 321
+                                 Kalpataru Projects International Limited                            49.00
+
+KPIL-GULERMAK JV - Kanpur Metro  Kalpataru Projects International Limited                            70.00
+KPIL-GULERMAK JV - Bhopal Metro  Glermak Air Sanayi naat ve Taahht A .                             30.00
+KPTL-OHITAN Joint Venture        Kalpataru Projects International Limited
+                                 Glermak Air Sanayi naat ve Taahht A .                                   *
+                                 Kalpataru Projects International Limited                                  *
+                                 Ohitan Insaat Muhendislik Sanayi Ve Ticaret Anonim Sirketi          70.00
+                                                                                                     30.00
+
+*On 30th March, 2026, parties to the joint arrangements agreed to transfer all rights and obligations under the contract to the Company.
+Accordingly, the said arrangement cease to be a joint arrangement in accordance with Ind AS 111 "Joint Arrangement" from the said date.
+
+320 Kalpataru Projects International Limited

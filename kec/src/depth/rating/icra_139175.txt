@@ -1,0 +1,522 @@
+                                                November 25, 2025
+
+    KEC International Limited: Ratings reaffirmed and assigned for enhanced amount
+
+Summary of rating action
+
+Instrument*                                     Previous rated amount  Current rated amount  Rating action
+                                                       (Rs. crore)            (Rs. crore)
+Long term ­fund based ­working                           3,000.00              3,000.00      [ICRA]A+ (Stable); reaffirmed
+capital facilities
+                                                        15,500.00             16,800.00      [ICRA]A+ (Stable)/[ICRA]A1+;
+Long-term/ Short -term-Non-fund                                                              reaffirmed/assigned for enhanced
+Based Limits                                              137.50                137.50       amount
+                                                                                             [ICRA]A+ (Stable)/
+Long term/Short term -Fund-                               92.50                 287.50       [ICRA]A1+; reaffirmed
+based ­Term loan                                                                             [ICRA]A+ (Stable)/[ICRA]A1+;
+                                                                               3,875.00      reaffirmed/assigned for enhanced
+Long Term/Short Term ­                                                        24,100.00      amount
+Unallocated Limits                                                                           [ICRA]A1+; reaffirmed/assigned for
+                                                                                             enhanced amount
+ Short term ­bills discounting                  3,120.00
+ Total                                          21,850.00
+*Instrument details are provided in Annexure I
+
+Rationale
+
+While assigning the rating, ICRA has taken a consolidated view of KEC International Limited (KEC) and its subsidiaries, including
+its 100% subsidiary KEC Spur Infrastructure Private Limited (rated [ICRA]A+(Stable)/A1+).
+
+The ratings continue to factor in KEC's strong market position as an engineering, procurement and construction (EPC) company
+in the power transmission and distribution (T&D) segment coupled with an improving order book from the non-T&D segments
+as well. The company's order book (excluding L1) improved to Rs. 39,325 crore as on September 30, 2025 (~1.7 times operating
+income for trailing 12 months), which along with healthy order inflow provides strong medium-term revenue visibility.
+Contribution from T&D segment dominates the company's order book mix and its contribution has increased further (~65%
+for H1FY2026 vs ~59% for FY25). Non T&D segments contributed the balance to the order book as on Sep 30, 2025, such as
+civil (25%), transportation (7%), cables (2%), and others (1%). T&D segment is more profitable as well as less working capital
+intensive. Hence, execution of current order book should lead to improvement in profitability as well as some moderation in
+the working capital intensity over the next ~2 quarters, however the same remains to be seen.
+
+ICRA takes note of the recent development as per which the company has been excluded from bidding for any fresh contracts
+by Power Grid Corporation of India for nine months, effective 18th November 2025, due to transgression of contractual
+provisions. The same is not expected to have any material impact on near term expected total order inflows.
+
+The reaffirmation in the ratings also factors in the gradual improvement in KEC's operating profit margins (OPM). OPM had
+declined to 5.3% (adjusted - bank charges excluded from expenses) in FY2023 and has gradually improved to 6.8%/7.7% in
+FY2024/FY2025 (~7.7% in H1FY2026 vs ~7.2% in H1FY2025), with further improvement of ~50 bps envisaged in H2FY2026.
+ICRA notes that that OPM is still lower than earlier peak levels of ~10-11% witnessed during FY2017-FY2020.
+
+KEC's order intake during H1FY2026 has been strong at Rs. 16,050 crore (+20% YoY), driven by the domestic and international
+T&D segments. Order intake stood at Rs. 24,689 crore in FY2025 (36% YoY higher). ICRA also takes cognisance of KEC's
+diversified geographical presence across the globe, deriving ~33-45% of its total revenues from overseas projects in the last
+few years. Moreover, KEC's domestic demand prospects remain healthy because of the Government's focus on increasing
+infrastructure spending and the expected uptick in private capex cycle.
+
+Swenwswitiv.iictyraL.aibnel : Internal                                                       Page | 1
+The ratings, however, continue to be constrained by the high working capital intensity of the EPC business due to the long
+execution period of projects, milestone-based payments in the non-T&D businesses (especially railways and metro projects)
+and the retention money requirement that is released post the defect liability period. This, coupled with some slow-moving
+receivables, has elongated the overall working capital cycle. This, in turn, results in dependence on short-term borrowing and
+extended credit period to the suppliers and sub-contractors, reflected in the relatively high ratio of total outside liabilities
+(TOL) to tangible net worth (TNW) of 3.1 times as on Sep 30, 2025 (3.6/3.1 as on Mar-2024/Mar-2025). The working capital
+intensity as measured by net working capital/operating income (NWC/OI) continued to remain elevated at ~37.5% in H1FY2026
+(~35.6% in H1FY2025). Elongation of working capital cycle in the water projects segment prevented improvement in NWC/OI
+in FY2025, as well as in H1FY2026. With various metro projects having been handed over or in final stages of being completed
+as on Sep 30, 2025, realisation of payments from these metro/railways projects and normalisation of payment cycle in the
+water segment in FY2026 should aid reduction in working capital intensity. Net debt (including acceptances) increased
+significantly to Rs. 6,866 crore (including lease liabilities) as on Sep 30, 2025 vs Rs. 5,541 crore as on Sep 30, 2024 largely aided
+by Rs 852 crore of net equity infusion (via qualified institutional placement in Sep-2024)
+
+Company's debt metrices witnessed improvement over FY2025 and remained stable in H1FY2026, which is expected to witness
+further improvement over H2FY2026. Interest coverage stood steady at ~2 times in H1FY2026, as well as in FY2025 (~1.70
+times in H1FY2025 and ~1.70 times in FY2024 as well). Finance cost (including commission for non-fund based limits and bank
+charges) declined slightly from 4% of OI in FY2024 to 3.8% in FY2025 and is expected to be ~3.2%-3.4% of OI in FY2026.
+
+While the company follows a price hedging mechanism for commodities such as aluminium and zinc to minimise the
+commodity price risk, it remains exposed to the adverse movement in steel prices in case of the fixed-priced contracts. 40-
+50% of the order book is effectively fixed price in nature. Further, KEC's operations remain exposed to project execution risks
+arising from right of way challenges, geopolitical risks, currency fluctuations and counterparty credit risks, given its presence
+in many overseas countries. To mitigate the credit risks from overseas customers in regions such as West Asia, Africa and
+Central Asia, the company focusses on projects funded by multilateral agencies, insurance covers and hedges currency risk
+through forward contracts to a certain extent. With reducing share certain lower margin projects being executed (all Brazil EPC
+projects were completed by FY2023), OPM improved to 6.8% in FY2024, 7.7% in FY2025 -and 7.7% in H1FY2026 (5.3% in
+FY2023), with further improvement expected in H2FY2026.
+
+The Stable outlook assigned to KEC reflects ICRA's opinion that the company's revenues and profitability would be supported
+by its healthy order book position, strong execution capabilities and the diversity in the business segments.
+
+Credit strengths
+
+Globally established and diversified EPC player with leadership position in domestic power transmission segment ­ In the
+last eight decades, KEC has diversified its business profile across segments and geographies. At present, the company executes
+EPC projects and provides supplies in various infrastructure-related verticals ­ power transmission and distribution (T&D),
+transportation (including railways) and metro projects, civil, cables, solar, smart infra and, oil and gas. It is one of the largest
+power transmission EPC companies in the world with presence in over 110 countries (includes EPC, supply of towers and
+cables). Further, it has acquired KEC Spur Infrastructure Private Limited (rated [ICRA]ICRA A+(Stable)/ A1+) in FY2022 to foray
+into the domestic oil and gas pipeline segment. The company has also established itself as a leader in the domestic power
+transmission segment and is strengthening its presence in non-T&D segment.
+
+KEC incorporated a new subsidiary named KEC Asian Cables Limited in Oct, 2024, with the aim of streamlining and focusing its
+cables business operations. KEC's Cables division has been transferred to this subsidiary, and it will continue to manufacture
+power cables, solar cables, aluminium conductors, and fibre optic cables. This move is aimed at enhancing operational focus,
+and possibly for unlocking value in the future.
+
+Robust order book position provides healthy revenue visibility; improving diversification in non-T&D segments ­ KEC's order
+book, excluding L1, stood at Rs. 39,325 crore as on September 30th, 2025 on a consolidated basis, i.e. ~1.7 times of the trailing
+12 months operating income, thus providing strong medium-term revenue visibility. The T&D segment constituted ~65% of
+the order book as on September 30, 2025 (49% as on March 31, 2024 and 59% as on Mar 31, 2025), while the balance being
+constituted by the non-T&D segment, due to strong traction witnessed both in the domestic, and target export markets. The
+
+Swenwswitiv.iictyraL.aibnel : Internal  Page | 2
+company witnessed its highest order intake in FY2025 of Rs. 24,689 crore (36% YoY growth) with the T&D segment contributing
+~72% of the order intake. Pace of order inflows moderated in certain non-T&D segments (viz. certain transportation sub-
+segments like railways electrification, metro projects, T&D projects from state utilities, water pipeline, etc) in-line with
+management's conscious effort to reduce exposure towards lower margins and higher working capital intensive orders. Order
+intake momentum continued in H1FY2026 with inflows of Rs. 16,050 crore (+20% YoY).
+
+Currently, the company is witnessing healthy demand from various end-user sectors, especially in T&D, solar, data centres,
+buildings and factories, railways signalling/Kavach orders, etc. given the healthy private and government capex. However, the
+completion of projects within the agreed timelines, while maintaining the desired performance parameters, is critical to
+minimise the liabilities arising from project delays and performance issues.
+
+Diversified geographical presence across the globe ­ KEC has a wide geographical presence, deriving a substantial portion of
+its revenues (~33-45%) from overseas projects in the last few years. The company has an established presence in Middle East,
+Africa, Brazil, SAARC and South-East Asia areas. Further, international projects comprised ~45% of the unexecuted order book
+position as on September 30, 2025. Going forward, the management expects a healthy order intake from West Asia countries
+and Americas in the T&D segment and it has also forayed into international oil and gas pipelines business.
+
+Access to global markets and enhanced transmission tower manufacturing capacity from past acquisitions ­ The company
+has access to the global markets as a result of the acquisitions undertaken in the past. The acquisition of the US-based SAE
+Towers Holdings LLC (SAE) provided KEC access to the American markets for the design, manufacture and supply of
+transmission towers. The acquisition also increased KEC's manufacturing capacity for transmission towers with the addition of
+production facilities of SAE in Mexico and Brazil (annual tower production capacity of 1,23,200 MTPA). The company acquired
+a tower manufacturing facility in Dubai (capacity of 60,000 MTPA) in February 2020 that caters to the orders from the West
+Asia region and has scaled up sizeably since March 2021.
+
+Company's financial performance has gradually been improving - Higher OPBIDTA level in FY2025 resulted in some
+improvement in leverage and coverage metrics in FY2025 with net debt(including acceptances and lease liabilities)/TNW at
+0.9/1.3/1.4 times on Mar-2025/Mar-24/Mar-2023, net debt(including acceptances and lease liabilities)/OPBIDTA at
+2.9/3.9/5.7 times in FY2025/FY2024/FY2023, and interest coverage at 1.99/1.69/1.40 times in FY2025/FY2024/FY2023. The
+OPM has improved has gradually to 6.8%/7.7% in FY2024/FY2025 (5.3% in FY2023), with receding contribution from certain
+segments, and increasing contribution from more profitable T&D orders won over past 2-3 years . Further, with likely higher
+profitability and largely stable debt levels, the coverage and leverage would improve. With expectation of moderation in
+working capital intensity in H2FY2026 alongwith improved profitability, ICRA expects debt metrices for FY2026 to be better
+vis-à-vis FY2025 as well as H1FY2026.
+
+Credit challenges
+
+High working capital intensity in EPC business; weak albeit improved coverage metrices ­ The working capital intensity
+remains inherently high in the EPC business due to the long execution period of projects, back ended milestone-based
+payments in the non-T&D businesses (especially transportation/railways and metros) and the retention money requirement
+that is released post the defect liability period. As a result, the company's overall debtor days have remained high around 273
+days in FY2025 (PY: 246 days). The debtor days are on the higher side since the receivables include retention money of projects
+and contract assets.
+
+The working capital position is, however, supported to some extent by creditor days(including trade acceptances) of ~200-250
+days and customer advances. A high working capital intensity is further evident from the NWC/OI of 30% in FY2025 (FY2024:
+29%) as well as TOL/TNW of 3.1 times as on March 31, 2025. The working capital intensity is expected to improve gradually in
+FY2026, with receipt of certain large debtors in the transportation (mainly railways), metro and T&D segments.
+
+There was build-up of debtors/unbilled revenue due to execution ramp-up in Q2FY2026. As per the management, certain large
+collections were received just after quarter-end. In particular, the water infrastructure segment has seen slow collections with
+about Rs. 875 crore of dues remained outstanding in water projects at Q2FY2026-end. Further, spike in debt was partly
+
+Swenwswitiv.iictyraL.aibnel : Internal  Page | 3
+deliberate to build up strategic raw material inventory at benign prices. Both debt and NWC/OI are expected to moderate over
+H2FY2026.
+
+Intense competition in domestic and international markets for T&D business; increasing competition in other segments ­
+KEC derives a significant proportion of its revenues (~65% in H1FY2026, ~59% in FY2025 and ~53% in FY2024) from the
+transmission and distribution segment, which remains highly competitive in the domestic and international markets. Further,
+competitive intensity in transportation and various civil sub-segments has increased with entry of small/mid-sized players. The
+company has been focussing more on T&D segment and is gradually reducing its exposure to railways sub-segment within
+transportation.
+
+Operating margins vulnerable to volatile raw material prices, particularly for fixed-price international EPC contracts ­ The
+cost of key raw materials for tower manufacturing (steel and zinc) and several other bought-out components required to install
+transmission line projects make up for KEC's raw material cost. Given the long order execution period of about ~15-24 months,
+the operating margin remains vulnerable to the volatility in the prices of key raw materials, particularly for international
+contracts that are generally fixed-price in nature. Further, some of the recent orders in India T&D are fixed price in nature as
+compared to earlier domestic T&D orders (awarded to it on nomination/cost plus basis) which had price variation clauses,
+which may also leads to pressure on profitability in the event of adverse movement in raw material prices. However, the
+company hedges the base metals (excluding steel) as a part of its board approved policy.
+
+Operations exposed to currency fluctuations, counterparty credit risks and geopolitical issues ­ Overseas projects continue
+to contribute significantly to KEC's overall revenues. Therefore, its operations are exposed to currency fluctuations, and
+counterparty credit and geo-political risks. However, the risk of currency fluctuations is mitigated to some extent by the natural
+hedge (expenses incurred in foreign currency), forward contracts and utilisation of foreign currency-denominated borrowings.
+The counterparty credit risk is also partially mitigated for international projects as most of them are funded by multilateral
+funding agencies.
+
+Challenges to project execution from right-of-way ­ The company is exposed to project execution risks arising from right-of
+way and geo-political issues for overseas and domestic projects. As a result, its ability to execute the projects in a timely manner
+within the budgeted costs remains critical from a credit perspective. Given that a few of its orders are in technologically
+enabled areas such as HVDC projects, urban infrastructure (metro civil works and electrification), TCAS (Train Collision
+Avoidance System)/KAVACH orders for railways, renewables, etc. where the company has recently forayed, the project
+execution risk is slightly higher. Nevertheless, this gets mitigated to an extent on account of project-specific technical
+collaborations/joint ventures entered.
+
+Environmental and social risks
+
+Environmental considerations: The company is exposed to the risks arising from tightening regulations on environment,
+specifically pertaining to discharge/treatment of effluents, and on the safety front. These have necessitated KEC to increase
+its investments towards meeting the evolving and tighter regulatory standards. As per the disclosures made by KEC, the
+company undertakes continuous assessment of the potentiality of environmental risk, including internal and external audits.
+Further, it has undertaken several initiatives towards clean technology, including use of induction heating to eliminate fossil
+fuel furnace, use of micro processor dual burners for using of LPG/LNG and use of renewable source of energy (solar/wind
+energy). Further, the emissions/waste generated by KEC are within the permissible limits of the Central Pollution Control Board
+(CPCB)/State Pollution Control Board (SPCB). Also, there were no pending show cause/ legal notices from CPCB/SPCB at the
+end of FY2025. This indicates that KEC has been able to mitigate the regulatory risks by demonstrating a sound operational
+track record and ensuring regulatory compliance.
+
+Social considerations: KEC's success depends critically on its competent workforce with talent as the primary source of
+competitive edge. Failure to hire, motivate and retain talent pool with necessary competencies may impact the organisation's
+ability maintain and expand its business operations, and consequently its profitability. As per the disclosures, the company
+continues to focus on capability building by creating a talent pool, through dedicated talent pipelines and competency
+upgradation through behavioural, technical, functional, and digital learning and development initiatives. Additionally,
+
+Swenwswitiv.iictyraL.aibnel : Internal  Page | 4
+customer satisfaction remains critical for KEC's successful operations and for ensuring the same it conducts surveys on a regular
+basis and has achieved a customer satisfaction rating of 93% in FY2025. Further, slowdown in infrastructure investments can
+lead to lower order intake and thus lower sales, however, with KEC being highly diversified with respect to end-users as well
+as geography, this risk is mitigated to an extent. Therefore, while KEC remains exposed to the aforementioned social risk, it
+does not materially affect its credit profile as of now.
+
+Liquidity position: Adequate
+
+The company's liquidity profile is adequate with the presence of free cash balance of over Rs. 300 crore as on Sep 30, 2025
+and cushion in drawing power (restricted to sanctioned fund based limits including interchangeable limits) of around Rs. ~1,000
+crore as on September 30, 2025. Apart from this, KEC also has access to unutilised supplier bill discounting and unsecured
+credit limits. Further, retained operating cash flows are likely to improve to healthier levels in H2FY2026 with the improvement
+in operating margins with execution of projects with better profitability and expectations of gradual improvement in working
+capital cycle. ICRA expects KEC to comfortably meet its repayment obligations and finance costs in FY2026. ICRA also notes
+that KEC is expected to incur a capex of Rs. ~400 crore in FY2026 (which includes expansion for Cables Factories), this should
+stabilise to lower levels annually over the medium term.
+
+Rating sensitivities
+
+Positive factors ­ ICRA could upgrade the ratings if the company is able to demonstrate an improvement in operating
+profitability in a sustained manner. Further, moderation in the working capital intensity on a sustained basis leading to
+improvement in the liquidity and credit metrics can also result in upward rating movement.
+
+Negative factors ­ The ratings may be downgraded if KEC is not able to maintain its operating profitability above 7% on a
+sustained basis. Ratings can also be revised in case of further elongation in the working capital cycle, exerting pressure on the
+interest coverage ratio.
+
+Analytical approach
+
+ Analytical approach                    Comments
+ Applicable rating methodologies
+ Parent/Group support                   Corporate Credit Rating Methodology
+ Consolidation/Standalone               Construction
+
+About the company                       Not applicable
+                                        The ratings are based on the consolidated financial profile of the company. The list of
+                                        companies that are consolidated to arrive at the rating are given in Annexure 2 below.
+
+KEC was established in 1945 and was taken over by R. P. Goenka (RPG) Enterprises in 1982 and renamed KEC International
+Limited in 1984. The company executes power transmission and distribution, railways, civil and solar projects on an EPC basis.
+It also manufactures power and telecom cables. KEC is one of the largest power transmission EPC companies in the world with
+presence in over 70 countries and a strong presence in India, the Middle East, Africa, South Asia the Americas and Central Asia.
+In September 2010, KEC acquired SAE Towers LLC, headquartered in Houston (USA), which is involved in the business of design,
+manufacture and supply of transmission towers. At present, KEC has three tower manufacturing facilities in India (Nagpur,
+Jaipur and Jabalpur) and one tower manufacturing facility each in Mexico, Brazil and Dubai, with a combined manufacturing
+capacity of ~4.7 lakh metric tonnes per annum (MTPA) since Mar-2025, including for railway structures, solar structures, and
+telecom towers. KEC also has cable and conductors manufacturing (power and telecom) facilities in Mysore and near Vadodara
+with a combined capacity of ~95,000 MTPA since Mar-2025.
+
+Swenwswitiv.iictyraL.aibnel : Internal  Page | 5
+Key financial indicators (audited)
+
+KEC (consolidated)                                                      FY2024                       FY2025                 H1 FY2026
+
+Operating income                                                        19,914.2                     21,846.7               11,114.4
+
+PAT                                                                     346.8                        570.7                  285.3
+
+OPBDIT/OI                                                               6.78%                        7.65%                  7.68%
+
+PAT/OI                                                                  1.74%                        2.61%                  2.57%
+
+Total outside liabilities/Tangible net worth (times)                          3.6                    3.1                    3.1
+
+Net debt/OPBDITA (times)                                                      3.9                    2.9                    ~3.7*
+
+Interest coverage (times)                                               1.69                         1.99                   1.99
+
+Source: Company, ICRA Research; All ratios as per ICRA's calculations; Amount in Rs. Crore; PAT: Profit after tax; OPBDIT: Operating profit before depreciation,
+
+interest, taxes and amortisation; * net debt divided by adjusted trailing 12 months OPBIDTA
+
+Status of non-cooperation with previous CRA: Not applicable
+
+Any other information: None
+
+Rating history for past three years
+
+                                        Current (FY2026)                                     Chronology of rating history for the past 3 years
+
+                                                          FY2026              FY2025                       FY2024                 FY2023
+
+                                        Amount
+
+ Instrument      Type                   Rated       Date     Rating     Date                 Rating  Date      Rating       Date                Rating
+Fund based-   Long Term
+                                        (Rs Crore)
+  Working     Long term/
+   Capital    Short term                3,000.00    Nov 25, [ICRA]A+    May 06, [ICRA]A+             Dec 26,   [ICRA]AA- Jun 21, [ICRA]AA-
+  Facilities                                         2025 (Stable)       2024 (Stable)                2023
+              Long term                                                                                        (Negative) 2022                  (Stable)
+  Non-fund    Short term
+based Limits                            16,800.00   Aug 29,  [ICRA]A+   July 02,   [ICRA]A+          Feb 05,   [ICRA]AA-    Feb 21,             [ICRA]AA-
+                                             -       2025     (Stable)   2024       (Stable)          2024     (Negative)    2023               (Negative)
+Fund based ­                                 -      Jul 23,  [ICRA]A+   Nov 01,    [ICRA]A+                                 Mar 27,
+ Term loan                                           2025     (Stable)   2024       (Stable)         Dec 26,   [ICRA]AA-     2023               [ICRA]AA-
+                                                             [ICRA]A+              [ICRA]A+           2023     (Negative)/                      (Negative)
+Short Term -                                        Nov 25,  (Stable)/  May 06,    (Stable)/                   [ICRA]A1+    Jun 21,             [ICRA]AA-
+ Fund based                                          2025    [ICRA]A1+   2024      [ICRA]A1+         Feb 05,   [ICRA]AA-     2022                (Stable)/
+                                                             [ICRA]A+              [ICRA]A+           2024     (Negative)/                      [ICRA]A1+
+                                                    Aug 29,  (Stable)/  July 02,   (Stable)/                   [ICRA]A1+    Feb 21,
+                                                     2025    [ICRA]A1+   2024      [ICRA]A1+         Dec 26,                 2023               [ICRA]AA-
+                                                             [ICRA]A+              [ICRA]A+           2023     [ICRA]AA-                        (Negative)/
+                                                    Jul 23,  (Stable)/  Nov 01,    (Stable)/         Feb 05,   (Negative)   Mar 27,             [ICRA]A1+
+                                                     2025    [ICRA]A1+   2024      [ICRA]A1+          2024     [ICRA]AA-     2023
+                                                                                   [ICRA]A+                    (Negative)                       [ICRA]AA-
+                                                    Nov 25,       -     May 06,     (Stable)         Dec 26,                Jun 21,             (Negative)/
+                                                     2025                2024      [ICRA]A+           2023           -       2022               [ICRA]A1+
+                                                                  -     July 02,    (Stable)         Feb 05,         -      Feb 21,             [ICRA]AA-
+                                                    Aug 29,              2024      [ICRA]A+           2024                   2023
+                                                     2025    [ICRA]A+               (Stable)                                Mar 27,               (Stable)
+                                                    Jul 23,   (Stable)  Nov 01,                                              2023               [ICRA]AA-
+                                                     2025                2024           -                                   Jun 21,             (Negative)
+                                                                  -                                                          2022               [ICRA]AA-
+                                                    Nov 25,             May 06,         -                                   Feb 21,             (Negative)
+                                                     2025         -      2024                                                2023
+                                                                        July 02,        -                                   Mar 27,             [ICRA]A1+
+                                                    Aug 29,       -      2024                                                2023
+                                                     2025                                                                                       [ICRA]A1+
+                                                    Jul 23,             Nov 01,
+                                                     2025                2024                                                                   [ICRA]A1+
+
+Swenwswitiv.iictyraL.aibnel : Internal                                                                                      Page | 6
+                                        Current (FY2026)                           Chronology of rating history for the past 3 years
+
+                                                          FY2026               FY2025                FY2024                   FY2023
+
+                                        Amount
+
+Instrument     Type                     Rated       Date     Rating      Date      Rating      Date     Rating       Date             Rating
+
+                                        (Rs Crore)
+
+    Long       Long term/               287.50      Nov 25,  [ICRA]A+    May 06,   [ICRA]A+    Dec 26,  [ICRA]AA-    Jun 21,          [ICRA]AA-
+term/Short     Short term                            2025    (Stable)/    2024     (Stable)/    2023    (Negative)/   2022            (Stable)/
+                                                             [ICRA]A1+             [ICRA]A1+            [ICRA]A1+                     [ICRA]A1+
+   term ­
+Unallocated
+
+   Limits
+
+                                                    Aug 29,   [ICRA]A+   July 02,  [ICRA]A+    Feb 05,  [ICRA]AA-    Feb 21,          [ICRA]AA-
+                                                     2025     (Stable)/   2024     (Stable)/    2024    (Negative)/   2023            (Negative)
+                                                             [ICRA]A1+             [ICRA]A1+            [ICRA]A1+
+                                                    Jul 23,   [ICRA]A+   Nov 01,   [ICRA]A+    Dec 26,
+                                                     2025     (Stable)/   2024     (Stable)/    2023                 Mar 27, [ICRA]AA-
+                                                             [ICRA]A1+             [ICRA]A1+                          2023 (Negative)
+                                                    Nov 25,              May 06,   [ICRA]A+    Feb 05,
+    Foreign    Long term                    -        2025          -      2024      (Stable)    2024    [ICRA]AA- Jun 21, [ICRA]AA-
+currency term                           3,875.00
+                                         137.50     Aug 29,   [ICRA]A+   July 02,  [ICRA]A+    Dec 26,  (Negative) 2022               (Stable)
+  loan (ECB)                                         2025     (Stable);   2024      (Stable)    2023
+                                                             reaffirmed                        Feb 05,
+                                                    Jul 23,              Nov 01,   [ICRA]A+     2024    [ICRA]AA- Feb 21, [ICRA]AA-
+                                                     2025        and      2024      (Stable)            (Negative) 2023 (Negative)
+                                                             withdrawn
+Short Term ­   Short term                           Nov 25,   [ICRA]A+   May 06,   [ICRA]A1+            [ICRA]A1+    Mar 27,          [ICRA]AA-
+      Bill                                           2025                 2024                          [ICRA]A1+     2023            (Negative)
+                                                              (Stable)   July 02,  [ICRA]A1+
+Discounting                                         Aug 29,               2024                                       Jun 21,               -
+                                                     2025    [ICRA]A1+             [ICRA]A1+                          2022
+                                                    Jul 23,              Nov 01,                                                           -
+                                                     2025    [ICRA]A1+    2024                                       Feb 21,          [ICRA]A1+
+                                                                                                                      2023
+                                                    Nov 25,  [ICRA]A1+                                               Mar 27,
+                                                     2025                                                             2023
+                                                              [ICRA]A+
+Fund-based ­ Long term/                             Aug 29,   (Stable)/
+  Term loan Short term                               2025    [ICRA]A1+
+                                                              [ICRA]A+
+                                                              (Stable)/
+                                                             [ICRA]A1+
+
+Complexity level of the rated instruments
+
+Instrument                                                               Complexity indicator
+Long term ­ fund based ­ working capital facilities                      Simple
+Long-term/ Short -term-Non-fund Based Limits                             Very Simple
+Long term/Short term -Fund-based ­Term loan                              Simple
+Long Term/Short Term ­Unallocated Limits                                 NA
+Short term ­ bills discounting                                           Simple
+
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA's website: Click Here
+
+Swenwswitiv.iictyraL.aibnel : Internal                                                                               Page | 7
+Annexure I: Instrument details
+
+ISIN Instrument name                    Date of   Coupon rate  Maturity          Amount rated   Current rating and outlook
+                                        issuance       NA                          (Rs. crore)
+                                                       NA         NA
+    Long term - Fund                       NA          NA
+                                                       NA         NA
+NA based- Working                          NA          NA      FY2026-           3,000.00 [ICRA]A+ (Stable)
+                                                                FY2027
+    Capital Facilities                  FY2026
+                                                                  NA
+    Long term/Short                        NA                     NA
+                                           NA
+NA term - Non-fund                                                               16,800.00 [ICRA]A+ (Stable)/ [ICRA]A1+
+
+    based Limits
+
+    Long term/Short
+
+NA term -Fund-based ­                                                            137.50         [ICRA]A+ (Stable)/ [ICRA]A1+
+
+    Term loan
+
+    Long term/Short
+
+NA term ­ Unallocated                                                             287.50        [ICRA]A+ (Stable)/ [ICRA]A1+
+                                                                                 3,875.00       [ICRA]A1+
+    Limits
+
+NA  Short Term ­ Bill
+    Discounting
+
+Source: Company
+
+Please click here to view details of lender-wise facilities rated by ICRA
+
+Annexure II: List of entities considered for consolidated analysis               KEC Ownership    Consolidation
+                                                                                     100.00%        Approach
+ Company Name                                                                        100.00%
+                                                                                     100.00%    Full Consolidation
+ KEC Asian Cables Limited                                                            100.00%    Full Consolidation
+ RPG Transmission Nigeria Limited                                                    100.00%    Full Consolidation
+ KEC Investment Holdings, Mauritius                                                  100.00%    Full Consolidation
+ KEC Global Mauritius                                                                100.00%    Full Consolidation
+ KEC Power India Private Limited                                                      51.1%     Full Consolidation
+ SAE Towers Holdings LLC, United States (along with step-down subsidiaries)          100.00%    Full Consolidation
+ KEC International (Malaysia) SDN BHD                                                100.00%
+ Al-Sharif Group and KEC Ltd. Co, Saudi Arabia                                                         Equity
+ KEC Towers LLC, Dubai, UAE                                                          100.00%    Full Consolidation
+ KEC EPC LLC, Dubai, UAE                                                                        Full Consolidation
+ KEC Spur Infrastructure Private Limited (formerly known as Spur Infrastructure
+ Private Limited)                                                                               Full Consolidation
+Source: Company data
+
+Swenwswitiv.iictyraL.aibnel : Internal                                                          Page | 8
+ANALYST CONTACTS                        Prashant Vasisht
+                                        +91 124 4545 322
+ Girishkumar Kadam                      prashant.vasisht@icraindia.com
+ +91 22 6114 3441
+ girishkumar@icraindia.com              Rohan Rustagi
+                                        +91 124 4545 383
+ Anubha Rustagi                         rohan.rustagi1@icraindia.com
+ +91 22 6114 3456
+ anubha.rustagi2@icraindia.com
+
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+
+HELPLINE FOR BUSINESS QUERIES
+
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+
+ABOUT ICRA LIMITED
+
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody's Investors Service is ICRA's largest shareholder.
+
+For more information, visit www.icra.in
+
+Swenwswitiv.iictyraL.aibnel : Internal                                  Page | 9
+    ICRA Limited
+
+               Registered Office
+      B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+      Tel: +91 11 23357940-45
+
+              Branches
+
+      © Copyright, 2025 ICRA Limited. All Rights Reserved.
+      Contents may be used freely with due acknowledgement to ICRA.
+
+        ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+        which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA's current opinion on the relative capability of the issuer concerned to
+        timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+        information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+        including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+        taken to ensure that the information herein is true, such information is provided `as is' without any warranty of any kind, and ICRA in particular, makes no
+        representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+        companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+        opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+
+Sensitivity Label : Internal
+

@@ -1,0 +1,23 @@
+Value of a day = 922.7 / 365 = 2.527945 Cr (valueOfADay.cash = 2.527945, carry = 0)
+Receivable-leg days (adjusted GCA, FY24, CARE) = 229
+
+Step 10 days: 229 to 219 days, cash released 25.2795 Cr, interest 0
+Step 30 days: 229 to 199 days, cash released 75.8384 Cr, interest 0
+
+PASS  no negative release (10d)  cash=25.2795
+PASS  no negative release (30d)  cash=75.8384
+PASS  interest = 0 (10d)  carry=0
+PASS  interest = 0 (30d)  carry=0
+PASS  cross-check days x per day (10d)  independent=25.279452 simulate=25.279452
+PASS  cross-check days x per day (30d)  independent=75.838356 simulate=75.838356
+PASS  payables never release cash  asked 60 to 120, cash=0
+
+BREAK=0 failures=0
+
+Break tests (run before the clean run, each exits 1 and fails visibly):
+BREAK=1 no negative release: FAIL x2 (cash 25.2795, 75.8384 flagged)
+BREAK=2 interest = 0: FAIL x2
+BREAK=3 cross-check: FAIL x2 (independent 26.279452 vs simulate 25.279452; 76.838356 vs 75.838356)
+BREAK=4 payables never release cash: FAIL x1 (cash -151.6767)
+Clean run: exit 0, failures=0
+Note: the payables assert uses a dummy 60-day creditor figure as a test fixture only; creditor days are not published and never print.

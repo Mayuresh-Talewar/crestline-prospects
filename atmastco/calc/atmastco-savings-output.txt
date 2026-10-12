@@ -1,0 +1,21 @@
+== BREAK 1 (expected to fail)
+Error: ASSERT 1 FAILED: negative release
+== BREAK 2 (expected to fail)
+Error: ASSERT 2 FAILED: interest not zero
+== BREAK 3 (expected to fail)
+Error: ASSERT 3 FAILED: simulate vs days x per day
+== BREAK 4 (expected to fail)
+Error: ASSERT 4 FAILED: payables released cash
+== BREAK 5 (expected to fail)
+Error: ASSERT 3 FAILED: simulate vs days x per day
+== CLEAN RUN
+Revenue FY26 standalone 292.62 Cr / 365 = 0.8017 Cr per day
+valueOfADay: cash 0.8017 carry 0.0000
+10 days on cad: released 8.0170 Cr, carry 0.0000, independent 8.0170
+10 days on dso: released 8.0170 Cr, carry 0.0000, independent 8.0170
+10 days of extra vendor credit: cash 0.0000 (held at ceiling)
+30 days on cad: released 24.0510 Cr, carry 0.0000, independent 24.0510
+30 days on dso: released 24.0510 Cr, carry 0.0000, independent 24.0510
+30 days of extra vendor credit: cash 0.0000 (held at ceiling)
+Ten days: 8.02 Cr once. Thirty days: 24.05 Cr once. One day: 0.80 Cr. Interest: 0.
+ALL ASSERTS PASSED

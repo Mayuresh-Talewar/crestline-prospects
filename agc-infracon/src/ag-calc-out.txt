@@ -1,0 +1,22 @@
+rev growth FY24 %: 10.58
+EBITDA margin FY23 %: 9.58
+EBITDA margin FY24 %: 10.39
+PAT margin FY23 %: 6.35
+PAT margin FY24 %: 6.76
+PAT growth FY24 %: 17.87
+gearing FY23 x: 0.82
+gearing FY24 x: 0.74
+9M FY25 vs 9M FY24 growth %: 4.75
+order book / FY24 revenue x: 3.0
+order book in months of FY24 revenue: 36.0
+revenue per day FY24 (Rs cr): 1.555
+revenue per day FY24 (Rs lakh): 155.5
+implied annual run rate if OB done in 15 months (Rs cr): 1362.0
+implied annual run rate if OB done in 18 months (Rs cr): 1135.0
+fund based limits CC+OD+GECL (Rs cr): 50.98
+non fund BG (Rs cr): 185.0
+total rated (Rs cr): 235.98
+BG sum from lender table: 185.0
+BG per Rs 100 revenue (Rs): 32.59
+fund based limits per day of revenue (days): 32.8
+current ratio FY24 reclass bridge: Rs 15.65 cr as % of FY24 revenue: 2.76

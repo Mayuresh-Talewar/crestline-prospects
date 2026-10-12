@@ -1,0 +1,15 @@
+PER DAY = 1062.54 / 365 = 2.911068 Rs Cr (FY25 MGT-7 turnover)
+CLAMP BOUNDS READ (terms all null, nothing passed):
+  cad: now 90 min 0 max 125.99999999999999 target null
+  dso: now 90 min 0 max 125.99999999999999 target null
+toTerms (no terms published) = {}
+SIM dso 10 days less: moved -10, released 29.110685 Cr, carry 0
+SIM dso 30 days less: moved -30, released 87.332055 Cr, carry 0
+SIM cad 10 days less: moved -10, released 29.110685 Cr, carry 0
+SIM cad 30 days less: moved -30, released 87.332055 Cr, carry 0
+PAYABLES TEST (harness, never priced): +30 days -> 0, -10 days -> -87.33205479452054
+PRICED LEVERS: cad,dso
+CLAMP CHECK: asked 120 days less, released 261.996164 (floor 0 holds, = 261.996164)
+ONE-DAY, 10-DAY, 30-DAY (Rs Cr): 2.9111 29.1107 87.3321
+ROUNDED FOR PRINT: 29.11 87.33 per day 2.91
+ALL ASSERTS PASSED

@@ -1,0 +1,101 @@
+== SOURCE-UNIT CHECKS (FY26 lakh) ==
+revenue 124,931 lakh = 1249.31 Cr; receivables (1,01,307+2,926) = 1042.33; contract assets 86,394 = 863.94; inventories 7,992 = 79.92
+cost base (materials 48,275 + project 43,541 lakh) = 918.16 Cr; inventory turnover check 13.13 = 13.13 (AR p226 prints 13.13)
+
+== FOUR YEARS, ONE BASIS ==
+FY23 rev 524.31 pat 42.84 | cost 362.66 | DSO 257.5 CAD 135.5 DIO 35.9 | sum 428.9 | WC(rec+CA+stock) 600.20 | CFO 5.55 | cash+bank 14.93 | borrowings 154.93 | rec 369.91 CA 194.64
+FY24 rev 785.95 pat 74.83 | cost 552.73 | DSO 215.4 CAD 134.3 DIO 33.5 | sum 383.2 | WC(rec+CA+stock) 803.78 | CFO -66.48 | cash+bank 49.95 | borrowings 183.39 | rec 463.90 CA 289.16
+FY25 rev 915.85 pat 77.82 | cost 644.10 | DSO 252.8 CAD 185.9 DIO 34.0 | sum 472.6 | WC(rec+CA+stock) 1160.63 | CFO -129.09 | cash+bank 67.06 | borrowings 272.94 | rec 634.33 CA 466.37
+FY26 rev 1249.31 pat 91.70 | cost 918.16 | DSO 304.5 CAD 252.4 DIO 31.8 | sum 588.7 | WC(rec+CA+stock) 1986.19 | CFO -436.99 | cash+bank 219.72 | borrowings 292.27 | rec 1042.33 CA 863.94
+index FY23=100: receivables 100.0 / 125.4 / 171.5 / 281.8 | contract assets 100.0 / 148.6 / 239.6 / 443.9 | revenue 100.0 / 149.9 / 174.7 / 238.3
+multiples FY23 to FY26: receivables 2.82x, contract assets 4.44x, revenue 2.38x
+earned and not yet cash, FY26 (receivables + contract assets) = 1906.27 Cr; combined days 556.9; retention share of receivables 19.7%
+
+== PER DAY ==
+revenue per day 3.4228 Cr (valueOfADay cash 3.4228, carry 0); stock base per day 2.5155 Cr
+days now: DSO 304.53  CAD 252.41  DIO 31.77
+clamp bounds read from leversFor: dio[min 0.00 max 47.66 target null]  cad[min 0.00 max 353.37 target null]  dso[min 60.00 max 426.34 target 60]
+
+== SINGLE-LEG RUNS (simulate) ==
+PASS  no negative release [dso10]  released 34.23
+PASS  interest = 0 [dso10]  carry 0
+PASS  no negative release [dso30]  released 102.68
+PASS  interest = 0 [dso30]  carry 0
+PASS  no negative release [dsoT]  released 836.96
+PASS  interest = 0 [dsoT]  carry 0
+PASS  no negative release [cad10]  released 34.23
+PASS  interest = 0 [cad10]  carry 0
+PASS  no negative release [cad30]  released 102.68
+PASS  interest = 0 [cad30]  carry 0
+PASS  no negative release [dio10]  released 25.16
+PASS  interest = 0 [dio10]  carry 0
+PASS  no negative release [dio30]  released 75.47
+PASS  interest = 0 [dio30]  carry 0
+dso10  Collection, ten days less                                          304.53 -> 294.53 days  moved 10.00  cash 34.23 Cr
+dso30  Collection, thirty days less                                       304.53 -> 274.53 days  moved 30.00  cash 102.68 Cr
+dsoT   Collection, to the 60-day term                                     304.53 -> 60.00 days  moved 244.53  cash 836.96 Cr
+cad10  Certification, ten days less                                       252.41 -> 242.41 days  moved 10.00  cash 34.23 Cr
+cad30  Certification, thirty days less                                    252.41 -> 222.41 days  moved 30.00  cash 102.68 Cr
+dio10  Project materials, ten days less                                   31.77 -> 21.77 days  moved 10.00  cash 25.16 Cr
+dio30  Project materials, thirty days less (NOT PRINTED: ruling prices 10) 31.77 -> 1.77 days  moved 30.00  cash 75.47 Cr
+
+== ONE COMBINED RUN: ten days less on stock, certification and collection together ==
+  dio: 31.77 -> 21.77  cash 25.16
+  cad: 252.41 -> 242.41  cash 34.23
+  dso: 304.53 -> 294.53  cash 34.23
+  combined released once 93.61 Cr (one simulate run); cycle/gap/wc null/null/null (null: no vendor leg, none printed)
+  chart 4 point, FY26 receivable + unbilled + stock days: 588.7 -> 558.7 after the combined run
+
+== ASSERTS ==
+PASS  cross-check days x per day vs simulate [dso10]  34.23 vs 34.23
+PASS  cross-check days x per day vs simulate [dso30]  102.68 vs 102.68
+PASS  cross-check days x per day vs simulate [dsoT]  836.96 vs 836.96
+PASS  cross-check days x per day vs simulate [cad10]  34.23 vs 34.23
+PASS  cross-check days x per day vs simulate [cad30]  102.68 vs 102.68
+PASS  cross-check days x per day vs simulate [dio10]  25.16 vs 25.16
+PASS  combined run equals independent arithmetic  93.61 vs 93.61
+PASS  payables never release cash: no vendor lever exists  released 0
+PASS  collection and certification both priced at revenue per day
+PASS  stock priced at (materials + project expense) per day, never revenue
+PASS  each balance = days x its own per day
+PASS  published days reproduce: DSO 304.5, CAD 252.4, DIO 31.8
+PASS  collection cannot go below the 60-day term (request 20 clamps to 60)  next 60
+PASS  stock cannot go below zero days (request -40 clamps to 0)  next 0.00, cash 79.92
+PASS  30-day stock cut is NOT clamped by the app (leaves 1.77 days), contrary to the launch note  next 1.77
+PASS  retention has no lever (balance only)
+PASS  combined run is below the sum of ten days on three legs at one base  (different bases, so no single-base sum)
+PASS  combined equals the three single runs added (legs are independent balances)  93.61
+
+== LEVER TABLE (every lever considered) ==
+- Collection (trade receivables 1,042.33 Cr, 304.5 days)
+    PRICED at revenue per day 3.4228 Cr: 10 days 34.23, 30 days 102.68, to the 60-day term 836.96 Cr
+    Receivables include 204.88 Cr retention due after completion; the 60 days excludes retention, so the to-term figure is a bound, not a promise
+- Certification (contract assets 863.94 Cr, 252.4 days)
+    PRICED at revenue per day: 10 days 34.23, 30 days 102.68 Cr
+    No certification window is published, so no to-term row
+- Project materials (inventories 79.92 Cr, 31.8 days)
+    PRICED at (materials + project expense) per day 2.5155 Cr: 10 days 25.16 Cr
+    30 days would leave 1.77 days and release 75.47 Cr; not printed, the ruling prices 10 days
+- Retention held by clients (204.88 Cr)
+    NOT PRICED: balance only
+    Released after project completion per contract; no release speed published, none invented
+- Vendor credit (trade payables)
+    NOT PRICED
+    Never a lever: paying later is not cash released; vendor terms in days are not published
+- Interest or carry
+    NOT PRICED
+    No single working-capital borrowing rate is published; rate fixed at 0 in the simulator, interest 0
+- Customer advances, supplier advances
+    NOT PRICED
+    No clock and no base; shown only as balances where the pack prints them
+
+== RANKING by cash released once (priceLevers not run: it needs a rate and invents release speeds) ==
+1. Collection, to the 60-day term: 836.96 Cr
+2. Collection, thirty days less: 102.68 Cr
+3. Certification, thirty days less: 102.68 Cr
+4. Collection, ten days less: 34.23 Cr
+5. Certification, ten days less: 34.23 Cr
+6. Project materials, ten days less: 25.16 Cr
+Per day: collection and certification each 3.4228 Cr a day; project materials 2.5155 Cr a day.
+
+ALL ASSERTS PASS

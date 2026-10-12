@@ -1,0 +1,78 @@
+Statutory Reports
+
+Business Responsibility and Sustainability Report (BRSR)
+
+7.Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) and its intensity, in the                                          9. Provide details related to waste management by the entity, in the following format:
+      following format
+                                                                                                                                                                                                                                                               FY 2026    FY 2025
+                                                                                                                                                 Parameter
+Parameter                                                    Please specify units          FY 2026   FY 2025                                                                                                                                Total Waste generated (in MT)
+                                                                                           115,805   82,563                                      Plastic waste (A)
+Total Scope 1 emissions (Break-up of the GHG into CO2, CH4,  tCO2e                          38,189   25,682                                      E-waste (B)                                                                                                   118.6      138.4
+N2O, HFCs, PFCs, SF6, NF3, if available)                     tCO2e                                                                               Bio-medical waste (C)
+Total Scope 2 emissions (Break-up of the GHG into CO2, CH4,  tCO2e/INR Cr.                     6.63      5.73                                    Construction and demolition waste (D)                                                                         186.7       83.0
+N2O, HFCs, PFCs, SF6, NF3, if available)                                                                                                         Battery waste (E)
+Total Scope 1 and Scope 2 emissions intensity rupee of                                        13.50      11.84                                   Radioactive waste (F)                                                                                         0.4         4.5
+turnover (Total Scope 1 and Scope 2 GHG emissions/ Revenue                                                                                       Other Hazardous waste. Please specify, if any. (G)
+                                                                                              10.89      8.03                                    Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by              102,930.1                     16,182.6
+                                                                                                                                                 composition i.e. by materials relevant to the sector)
+                                                                                                                                                 Total (A + B + C + D + E + F + G + H)                                                                         110.4       17.5
+                                                                                                                                                 Waste intensity per rupee of turnover (Total waste generated/Revenue from
+from operations) (in tCO2e/H Crore)                                                                                                              operations) (in MT/H Crore)                                                                                   0.0         -
+                                                                                                                                                 Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+Total Scope 1 and Scope 2 Emission intensity per rupee of    tCO2e/INR Cr.                                                                       (Total waste generated/Revenue from operations adjusted for PPP)                                              11,349.6   7,891.6
+turnover adjusted for Purchasing Power Parity (PPP) (Total                                                                                       (in MT/PPP Mn USD)
+                                                                                                                                                 Waste intensity in terms of physical output
+Scope 1 and Scope 2 GHG emissions/Revenue from operations                                                                                        Waste intensity (optional)  the relevant metric may be selected by the entity                                26,179.7   36,888.6
+
+adjusted for PPP) (in tCO2e/PPP Mn USD)
+
+Total Scope 1 and Scope 2 emission intensity (optional)  the tCO2e/employee                                                                                                                                                                                   140,875    61,206
+relevant metric may be selected by the entity                                                                                                                                                                                                                       6.07     3.24
+
+For FY 202526, the most recent IMF PPP conversion rate of 20.343 has been applied, accessed from the IMF DataMapper portal on April 22,                                                                                                                        12.35       6.69
+        2026. In October 2024, the IMF revised its PPP methodology and updated conversion rates. Accordingly, for FY 202425, the latest IMF PPP
+        conversion rate of 20.66 was used. Link: IMF PPP Conversion Rate  India
+
+Note: The increase in Scope 1 and Scope 2 emissions during FY 2025-26 is aligned with KPIL's higher turnover and expanded project execution                                                                                                                    NA          NA
+        volumes to remote and new urban infra projects. As operations scaled up to meet growing demand, energy consumption and related
+        emissions rose correspondingly. KPIL remains committed to mitigating this impact through ongoing efficiency measures, renewable energy                                                                                                                 -           -
+        adoption, and resource optimization initiatives.
+                                                                                                                                                 For FY 202526, the most recent IMF PPP conversion rate of 20.343 has been applied, accessed from the IMF DataMapper portal on April 22,
+Note: Indicate if any independent assessment/ evaluation has been carried out by an external agency? (Y/N) If yes, name of the external                  2026. In October 2024, the IMF revised its PPP methodology and updated conversion rates. Accordingly, for FY 202425, the latest IMF PPP
+        agency.                                                                                                                                          conversion rate of 20.66 was used. Link: IMF PPP Conversion Rate  India
+
+Yes, independent reasonable assurance has been undertaken by TV SD South Asia Pvt. Ltd.
+
+8.Does the entity have any project related to reducing Green House Gas emission? If yes, then provide                                            For each category of waste generated, total waste recovered through recycling, re-using or other
+      details.                                                                                                                                         recovery operations (in metric tons)
+
+Yes, the Company has undertaken multiple projects across divisions that directly contribute to reducing GHG emissions.                           Category of waste                                                                            FY 2026                     FY 2025
+       Key initiatives include:                                                                                                                  (i) Recycled                                                                                     80.8                      2,896
+                                                                                                                                                 (ii) Re-used                                                                                                                2,391
+    Renewable energy integration: Commissioning of solar photovoltaic plants, including a 3 MWp facility at the Uniara                          (iii) Other recovery operations                                                             32,168.2                       5,580
+       Power Plant that exported ~5,049 MWh to the grid in FY 2025-26, alongside installed solar capacity of over 6.18 MWp                       Total                                                                                             17.6
+       across operations.                                                                                                                                                                                                                                                  10,867
+                                                                                                                                                                                                                                            32,266.7
+    Energy efficiency upgrades: Replacement of inefficient motors, compressors, and pumps with high efficiency models,
+       adoption of induction heating furnaces, and installation of BLDC fans and LED lighting systems, collectively reducing                     For each category of waste generated, total waste disposed by nature of disposal method (in metric tons)
+       electricity demand and emissions.
+                                                                                                                                                 Category of waste                                                                                             FY 2026    FY 2025
+    Sustainable mobility: Introduction of battery operated forklifts, combilifts, and electric vehicles at plant sites, lowering                (i)Incineration                                                                                                       -          -
+       reliance on diesel based equipment.                                                                                                       (ii)Landfilling                                                                                                       -
+                                                                                                                                                 (iii)Other disposal operations                                                                                             14,195
+    Fuel efficiency measures: Deployment of fuel catalysts in heavy vehicles, saving ~6,906 litres of diesel equivalent to ~267                 Total                                                                                                         62,246       3,539
+       GJ of energy.                                                                                                                                                                                                                                           62,246      17,734
+
+    Solar lighting solutions: Installation of mobile solar lighting towers and solar powered streetlights across project sites,                 Note: KPIL prioritizes internal reuse to minimize landfill dependency, but challenges in accurate tracking and limited visibility on enddisposal
+       reducing dependence on diesel generators and grid electricity.                                                                                    persist. We have undertaken ongoing enhancements in C&D waste management SOPs and sitelevel awareness to strengthen data
+                                                                                                                                                         completeness and reporting reliability.
+
+                                                                                                                                                 *Given the diversity of our business operations, waste intensity as per physical output cannot be estimated.
+
+                                                                                                                                                 Note: Indicate if any independent assessment/ evaluation has been carried out by an external agency? (Y/N) If yes, name of the external
+                                                                                                                                                         agencyy
+
+                                                                                                                                                 Yes, independent reasonable assurance has been undertaken by TV SD South Asia Pvt. Ltd.
+
+248 Kalpataru Projects International Limited                                                                                                                                      Integrated Annual Report 2025-26 249

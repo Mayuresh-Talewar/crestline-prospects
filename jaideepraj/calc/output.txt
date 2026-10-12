@@ -1,0 +1,31 @@
+clamp bounds (terms null): cad: min 0, max 140 | dso: min 0, max 140 | dpo: min 0, max 100
+revenue FY24 (Cr): 401.83 | per day = 401.83 / 365 = 1.100904 Cr
+valueOfADay cash: 1.100904 carry: 0
+cad -10 days: released 11.009041 Cr, carry 0.000000 Cr
+dso -10 days: released 11.009041 Cr, carry 0.000000 Cr
+cad -30 days: released 33.027123 Cr, carry 0.000000 Cr
+dso -30 days: released 33.027123 Cr, carry 0.000000 Cr
+dpo +30 days requested: released 0 (clamped, no agreed ceiling)
+PRINT: per day Rs 1.10 Cr | 10 days Rs 11.01 Cr | 30 days Rs 33.03 Cr
+ALL ASSERTS PASSED
+
+--- BREAK=1 (expected to fail) ---
+revenue FY24 (Cr): 401.83 | per day = 401.83 / 365 = 1.100904 Cr
+cad -10 days: released -11.009041 Cr, carry 0.000000 Cr
+    if (cash < 0) throw new Error(`negative release ${leg} ${step}`);
+--- BREAK=2 (expected to fail) ---
+revenue FY24 (Cr): 401.83 | per day = 401.83 / 365 = 1.100904 Cr
+cad -10 days: released 11.009041 Cr, carry 0.990814 Cr
+    if (r.carry !== 0) throw new Error(`interest not zero: ${r.carry}`);
+--- BREAK=3 (expected to fail) ---
+revenue FY24 (Cr): 401.83 | per day = 401.83 / 365 = 1.100904 Cr
+cad -10 days: released 11.009041 Cr, carry 0.000000 Cr
+    if (Math.abs(cash - expected) > 1e-9) throw new Error(`cross-check failed ${leg} ${step}: ${cash} vs ${expected}`);
+--- BREAK=4 (expected to fail) ---
+revenue FY24 (Cr): 401.83 | per day = 401.83 / 365 = 1.100904 Cr
+cad -10 days: released 11.009041 Cr, carry 0.000000 Cr
+dso -10 days: released 11.009041 Cr, carry 0.000000 Cr
+--- BREAK=5 (expected to fail) ---
+revenue FY24 (Cr): 401.83 | per day = 401.83 / 365 = 1.100904 Cr
+cad -10 days: released 11.009041 Cr, carry 0.000000 Cr
+dso -10 days: released 11.009041 Cr, carry 0.000000 Cr

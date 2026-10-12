@@ -1,0 +1,77 @@
+CLEAN RUN
+Revenue FY26 consolidated Cr 243.3486
+Unbilled revenue Cr 66.3632 | net contract assets Cr 87.4665
+LEG (unbilled + net contract assets) Cr 153.8297 (printed 153.8)
+PER DAY Cr 0.6667 | contract asset days 230.73
+valueOfADay { cash: 0.6667084931506849, carry: 0 }
+ok  basis: leg equals the printed 153.8 Cr (unbilled + net contract assets)
+ok  basis: days x per day returns the leg balance
+
+10 days less: moved -10.00 days, released Cr 6.6671, carry Cr 0.0000, days after 220.73
+ok  10d: no negative release
+ok  10d: interest = 0
+ok  10d: simulate equals days x per day (6.6671)
+ok  10d: clamp left the step intact (floor 0, no terms passed)
+ok  10d: valueOfADay carry 0
+
+30 days less: moved -30.00 days, released Cr 20.0013, carry Cr 0.0000, days after 200.73
+ok  30d: no negative release
+ok  30d: interest = 0
+ok  30d: simulate equals days x per day (20.0013)
+ok  30d: clamp left the step intact (floor 0, no terms passed)
+ok  30d: valueOfADay carry 0
+
+Vendor credit asked 200 days: next 60 cash 0
+ok  payables: stretching vendor credit releases no cash (held at today's days)
+ok  basis: lever balance / per day equals the days used
+
+ALL ASSERTS PASSED
+
+=== BREAK=1 (expected to fail)
+ok  basis: leg equals the printed 153.8 Cr (unbilled + net contract assets)
+ok  basis: days x per day returns the leg balance
+Error: ASSERT FAILED: 10d: no negative release
+
+=== BREAK=2 (expected to fail)
+ok  basis: leg equals the printed 153.8 Cr (unbilled + net contract assets)
+ok  basis: days x per day returns the leg balance
+ok  10d: no negative release
+Error: ASSERT FAILED: 10d: interest = 0
+
+=== BREAK=3 (expected to fail)
+ok  basis: leg equals the printed 153.8 Cr (unbilled + net contract assets)
+ok  basis: days x per day returns the leg balance
+ok  10d: no negative release
+ok  10d: interest = 0
+Error: ASSERT FAILED: 10d: simulate equals days x per day (6.7338)
+
+=== BREAK=4 (expected to fail)
+ok  basis: leg equals the printed 153.8 Cr (unbilled + net contract assets)
+ok  basis: days x per day returns the leg balance
+ok  10d: no negative release
+ok  10d: interest = 0
+ok  10d: simulate equals days x per day (6.6671)
+ok  10d: clamp left the step intact (floor 0, no terms passed)
+ok  10d: valueOfADay carry 0
+ok  30d: no negative release
+ok  30d: interest = 0
+ok  30d: simulate equals days x per day (20.0013)
+ok  30d: clamp left the step intact (floor 0, no terms passed)
+ok  30d: valueOfADay carry 0
+Error: ASSERT FAILED: payables: stretching vendor credit releases no cash (held at today's days)
+
+=== BREAK=5 (expected to fail)
+ok  basis: leg equals the printed 153.8 Cr (unbilled + net contract assets)
+ok  basis: days x per day returns the leg balance
+ok  10d: no negative release
+ok  10d: interest = 0
+ok  10d: simulate equals days x per day (6.6671)
+ok  10d: clamp left the step intact (floor 0, no terms passed)
+ok  10d: valueOfADay carry 0
+ok  30d: no negative release
+ok  30d: interest = 0
+ok  30d: simulate equals days x per day (20.0013)
+ok  30d: clamp left the step intact (floor 0, no terms passed)
+ok  30d: valueOfADay carry 0
+ok  payables: stretching vendor credit releases no cash (held at today's days)
+Error: ASSERT FAILED: basis: lever balance / per day equals the days used

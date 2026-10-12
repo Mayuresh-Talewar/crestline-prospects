@@ -1,0 +1,30 @@
+Basis: FY25 total operating income Rs 813.82 Cr / 365 = Rs 2.229644 Cr per day; GCA days 135 (one block, receivable leg)
+valueOfADay: cash 2.229644 Cr, carry 0 Cr
+levers available: dso now=135 min=0 max=189 target=null
+toTerms (no terms published): {}
+10 days less: GCA 135 -> 125; cash released once Rs 22.2964 Cr (22.30); carry Rs 0 Cr
+30 days less: GCA 135 -> 105; cash released once Rs 66.8893 Cr (66.89); carry Rs 0 Cr
+bounds probe: asked dso 0 and dpo 500 -> dso 0, levers 1
+PASS  no negative release
+PASS  interest = 0 (no rate disclosed)
+PASS  cross-check days x per day == simulate
+PASS  payables never release cash
+PASS  basis matches: only the receivable leg, priced at TOI/365
+PASS  no lever priced on a base it does not belong to (dio, cad, dpo absent)
+PASS  10 and 30 day figures
+ALL ASSERTS PASSED
+
+LEVER TABLE (every lever considered)
+| Lever | Priced? | Why |
+| GCA days 135, one block on the receivable leg, 10 days | YES | Rs 22.30 Cr released once, at TOI/365 |
+| GCA days 135, one block on the receivable leg, 30 days | YES | Rs 66.89 Cr released once |
+| GCA to a stated term | NO | no payment term or certification window published |
+| Receivables (DSO) | NO | no debtor balance or debtor days published; GCA is not DSO |
+| Contract assets / unbilled | NO | no balance or days published; only named as part of inventory |
+| Retention | NO | NOT FOUND: no balance, no release basis |
+| Stock (DIO) | NO | no stock balance and no cost base (materials consumed / COGS) published |
+| Payables (DPO) | NO | creditor days 55 to 70 is a five-year range, no terms, no balance; paying later is never a saving |
+| Combined scenario | NO | one lever only, so a combined run equals the single run |
+| priceLevers ranking | NO | needs a cycle position and ledger the source does not give; one priced lever, nothing to rank |
+| Carry cost | NO | no borrowing rate disclosed; interest = 0 |
+

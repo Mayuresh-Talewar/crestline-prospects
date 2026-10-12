@@ -1,0 +1,23 @@
+Arwade Infrastructure Limited, standalone, Rs crore. Scenarios, not forecasts. Rows overlap; never add them.
+Inputs: FY25 total operating income 261.12 (Infomerics 28 Jul 2025 p.5). Per day = 261.12 / 365 = 0.7154 Cr.
+Value of one day (valueOfADay): cash 0.7154 Cr; interest: NOT PRINTED (no rate disclosed by Arwade or Infomerics).
+
+A. Days off the milestone-to-cash cycle (simulate, collection leg; released is one-off cash):
+  10 days  -> Rs 7.15 Cr cash, one-off
+  30 days  -> Rs 21.46 Cr cash, one-off
+
+B. Collection days back to the FY23 level (72 days, Infomerics 17 May 2023 p.3): OMITTED.
+   FY25 collection days = NOT PUBLISHED; no gap can be computed.
+C. Contract terms (toTerms): OMITTED. No payment term or certification window is published.
+
+D. ILLUSTRATIVE: per Rs 100 Cr of new orders executed over 12 months (basis: 2025 PR p.3 "executed within 12 months"), per day 0.2740 Cr:
+  10 days  -> Rs 2.74 Cr cash, one-off (illustrative)
+  30 days  -> Rs 8.22 Cr cash, one-off (illustrative)
+
+priceLevers: 2 levers, every carry 0 (no rate), cash matches simulate. Asserts passed: no negative release, placeholder-independent, no interest.
+
+Context (computed from Infomerics figures, for problems.md):
+  Revenue FY25/FY22: 261.12 / 65.45 = 3.99x (2023 PR pp.2-5; 2025 PR p.5)
+  Rated limits 17 May 2023 -> 28 Jul 2025: 61 -> 152 = 2.49x; BG 50 -> 122 = 2.44x; fund-based 11 -> 30 = 2.73x
+  Collection period FY22 -> FY23: 151 -> 72 days = 79 days shorter (2023 PR p.3)
+GST: rate is on revenue ex-GST; receivables carry GST, so cash figures are conservative.

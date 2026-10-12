@@ -1,0 +1,88 @@
+Financial Statements                                                                                                                  Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                              for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+42. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)                                                                  42. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)
+
+Summary of the Company's exposure to credit risk by age of the outstanding from various customers is as follows                       Security Deposits given to Lessors
+
+                                                                                                              (H in Crores)           The Company has given security deposit to lessors for premises leased by the Company. The Company monitors the credit
+                                                                                                                                      worthiness of such lessors where the amount of security deposit is material.
+                                               Undisputed Trade receivables  Disputed Trade receivables
+                                                    considered good as on       considered good as on                                 Credit risk on derivative financial instruments is limited because the counterparties are banks with high credit rating assigned
+                                                                                                                                      by rating agencies.
+Ageing by Due date                                     As at          As at          As at                            As at
+                                               31st March,    31st March,    31st March,                      31st March,             Cash and Cash Equivalents
+Not Due                                                                                                                               The cash and cash equivalents are held with bank and financial institution counterparties with good credit rating.
+Less than 6 months                                      2026           2025           2026                             2025
+6 months to 1 year                                                                                                                    In addition, company is also exposed to credit risk in relation to corporate guarantee / letter of comfort (LOC) given to banks
+From 1 year to 2 years                         4,886.99       4,867.65                               19.34       29.58                by the company. The company's exposure in this respect has been disclosed in Note 30.
+From 2 year to 3 years
+Above 3 years                                  1,716.74       1,131.57                                  -        4.12
+TOTAL
+                                               228.25         460.72                                    -        0.21
+
+                                               639.48         362.87                                    1.27     2.11
+
+                                               258.71         189.68                                    1.75     0.04
+
+                                               292.58         282.08                                 117.33      124.28
+
+                                               8,022.75       7,294.57                               139.69      160.34               Liquidity Risk
+
+There are no trade receivables which are impaired and have any significantly increased credit risk.                                   The Table below provides details regarding the contractual maturities of significant financial liabilities.
+
+Expected credit loss assessment for customers                                                                                         Particulars                                                 As at 31st March, 2026                           (H in Crores)
+                                                                                                                                                                         Less than 1 year More than 1 year
+There has been no credit loss on account of customer's inability to pay i.e. there has been no material bad debts in past             Financial Liabilities                                                                                                  Total
+and therefore, no provision is generally made on this account. Provision is made for expected delay in realisation of trade           (i) Trade Payable                   6,453.39     96.72
+receivables beyond contractual terms. The company has used a practical expedient by computing the expected credit loss                (ii) Borrowings                      2,277.41  566.67                                                               6,550.11
+allowance for trade receivables using provision matrix. The expected credit loss is calculated based on the ageing of the             (iii) Other financial liabilities    1,284.56                                                                     2,844.08
+days the receivables are due and the rates as given in the provision matrix.                                                          TOTAL                                           114.46                                                             1,399.02
+                                                                                                                                                                         10,015.36   777.85                                                             10,793.21
+On the above basis, the company estimates the following provision matrix at the reporting date:
+
+                                                                             Expected Credit Loss %
+
+Particulars                                                                    As at                                           As at                                                                                                               (H in Crores)
+                                                              31st March, 2026                                31st March, 2025
+Upto 180 days                                                                                                                                                                                                                                                Total
+From 181 days to 1 year                                                      0.17% - 0.18%                       0.11%                                                                            As at 31st March, 2025
+Above 1 year                                                                                                                                                             Less than 1 year More than 1 year                                               6,170.86
+                                                                             1.86% - 2.45%                       1.25%                Particulars                                                                                                        3,400.18
+                                                                                                                                                                                                                                                         1,049.83
+                                                                             2.62% - 100%                     2.04% to 100%           Financial Liabilities                                                                                            10,620.87
+                                                                                                                                      (i) Trade Payable
+The movement in the allowance for impairment in respect of trade and other receivables during the year was as follows:                (ii) Borrowings                    6,091.43        79.43
+                                                                                                                                      (iii) Other financial liabilities  2,109.64     1,290.54
+                                                                                                              (H in Crores)           TOTAL                              1,015.95
+                                                                                                                                                                         9,217.02        33.88
+Particulars                                                                  2025-26                                                                                                 1,403.85
+
+Balance as at 31st March, 2025                                Trade receivables Contract Assets
+Impairment loss / (income) recognised (net)
+Trade receivables written off during the year                                156.40                              64.65                The above table does not include liability on account of future interest obligation.
+Balance as at 31st March, 2026
+                                                                             100.36                              6.48                 The company had undrawn borrowing facilities from banks amounting to H 1,892.69 Crores (previous year H 1,098.72 Crores),
+                                                                                                                                      which may be drawn at any time.
+                                                                                                     -                  -
+
+                                                                             256.76                              71.13                Interest Rate Risk
+
+                                                                                                              (H in Crores)           Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes
+                                                                                                                                      in market interest rates. The Company's exposure to the risk of changes in market interest rates relates primarily to the
+Particulars                                                                  2024-25                                                  Company's long-term debt obligations with floating interest rates.
+
+Balance as at 31st March, 2024                                Trade receivables Contract Assets
+Impairment loss / (income) recognised (net)
+Trade receivables written off during the year                                176.86                              51.34                Interest Rate Sensitivity Analysis
+Balance as at 31st March, 2025
+                                                                             14.09                               13.31                For the year ended 31st March, 2026 and 31st March, 2025, a 100 basis point increase / decrease in interest rate on floating rate
+                                                                                                                                      liabilities would impact company's profit before tax by approximately 1.33% and 1.27 % respectively.
+                                                                             (34.55)                                    -
+
+                                                                             156.40                              64.65
+
+334 Kalpataru Projects International Limited                                                                                                                                         Integrated Annual Report 2025-26 335

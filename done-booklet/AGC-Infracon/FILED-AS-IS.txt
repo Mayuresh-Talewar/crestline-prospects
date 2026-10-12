@@ -1,0 +1,1 @@
+Filed 2026-10-09 AS IS on client order: p8 stage days (5.6..71.7 d) and p7 computed 508.67 NOT fixed. Fix prompt: agc-infracon/fix-p7-p8-prompt.md

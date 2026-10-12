@@ -1,0 +1,88 @@
+E&C share of total segment revenue FY26 (%): 0.93
+E&C segment result margin FY26 (%): 1.32
+E&C share of total segment revenue FY25 (%): 0.71
+E&C segment result margin FY25 (%): 11.85
+E&C segment revenue growth FY26 vs FY25 (%): 12.0
+E&C segment assets less liabilities FY26: 828.28
+E&C segment assets less liabilities FY25: 509.82
+E&C segment assets less liabilities Q1FY27: 1075.01
+E&C segment assets / E&C segment revenue FY26 (x): 12.45
+E&C segment result margin Q1FY27 (%): 7.18
+E&C segment revenue Q1FY27 vs Q1FY26 (%): -11.56
+Standalone revenue FY24 vs FY23 (%): -47.57
+Standalone revenue FY25 vs FY24 (%): -50.12
+Standalone revenue FY26 vs FY23 (%): -70.71
+Standalone net trade receivables FY26: 71.85
+Standalone gross receivables less ECL FY26 (check): 71.85
+ECL as % of gross receivables FY26: 96.7
+Receivables older than 3 years as % of gross FY26: 85.88
+Standalone net trade receivables FY25: 449.62
+Standalone gross receivables less ECL FY25 (check): 449.62
+ECL as % of gross receivables FY25: 79.84
+Receivables older than 3 years as % of gross FY25: 85.95
+Standalone net trade receivables FY24: 460.65
+Standalone gross receivables less ECL FY24 (check): 460.65
+ECL as % of gross receivables FY24: 79.07
+Receivables older than 3 years as % of gross FY24: 83.32
+FY26 ageing buckets sum (should be 2,176.98): 2176.98
+FY25 ageing buckets sum (should be 2,230.67): 2230.67
+Net receivable days FY26 (closing net TR / revenue x 365): 110.6
+Gross receivable days FY26 (closing gross TR / revenue x 365): 3349.6
+Net receivable days FY25 (closing net TR / revenue x 365): 774.8
+Gross receivable days FY25 (closing gross TR / revenue x 365): 3844.0
+Net receivable days FY24 (closing net TR / revenue x 365): 395.9
+Gross receivable days FY24 (closing gross TR / revenue x 365): 1891.7
+Contract assets FY26 net of ECL (gross 104.10 less impaired 34.56): 69.54
+Contract liabilities FY26 rebuilt from note 21 (462.45+276.50+26.20): 765.15
+Contract asset days FY26 (closing / revenue x 365): 160.2
+Contract liability days FY26 (closing / revenue x 365): 1177.3
+Contract asset days FY25 (closing / revenue x 365): 200.8
+Contract liability days FY25 (closing / revenue x 365): 1807.3
+Contract asset days FY24 (closing / revenue x 365): 111.5
+Contract liability days FY24 (closing / revenue x 365): 949.6
+Contract liabilities change FY26 vs FY25: -283.64
+of which written back as exceptional (AR26 p172): -242.19
+Standalone trade payables FY24 total (AR25 p187: 1,518.25 + 22.39): 1540.64
+Standalone trade payables FY25 as first filed (AR25 p187: 1,293.88 + 28.57): 1322.45
+Unsecured ICD from others FY26 (7.14 + 139.71): 146.85
+Standalone trade payables FY26 total: 1113.73
+Standalone trade payables FY25 restated total: 1140.47
+FY26 payables ageing sum (should be 1,113.73): 1113.73
+Payables older than 3 years as % FY26: 56.93
+MSME as % of payables FY26: 1.09
+Payable days FY26 (closing payables / construction material & subcontract cost x 365): 1747.2
+Standalone borrowings FY26 (345.03 + 224.71): 569.74
+Standalone borrowings FY25 restated in AR26 (406.05 + 219.60): 625.65
+Standalone borrowings FY25 as first reported in AR25 (249.41 + 219.60): 469.01
+Standalone borrowings FY24 in AR25 (2,930.17 + 129.67): 3059.84
+Standalone bank borrowings FY24 in AR25 (term 27.24 + WC 145.67): 172.91
+Standalone bank borrowings FY25 and FY26: 0.0
+ICD interest FY26 / average ICD balance (indicative, 85.52 / avg(569.74, 625.65)) %: 14.31
+Standalone current assets less current liabilities FY26: -2348.02
+Current ratio FY26 (company states 0.41): 0.41
+Net capital turnover FY26 = revenue / (CA less CL) (company states (0.10)): -0.101
+Order book FY26 vs FY24 (%): -81.6
+Order book FY26 vs FY25 restated (%): -18.11
+Order book FY26 / FY26 E&C revenue (years of cover): 1.53
+Order book due within 12 months FY26 (214.58) as % of book: 59.07
+India Ratings 'INR9 billion' in crore: 900.0
+Dossier order book 9,000 / filed 899.73 (x): 10.0
+SEC dispute INR12.5 bn in Rs crore: 1250.0
+DVC award INR8.98 bn in Rs crore: 898.0
+DVC withdrawal INR6 bn in Rs crore: 600.0
+BGs at risk INR1.7 bn in Rs crore: 170.0
+ICDs INR6,973 mn (Dec 2025) in Rs crore: 697.3
+NFB limits INR18,602.3 mn in Rs crore: 1860.23
+Consolidated revenue FY25 vs FY24 (%): 6.91
+Consolidated revenue FY26 vs FY25 (%): -13.36
+Dossier PAT 494 vs filed owners' profit 4,937.52 (x): 9.99
+Dossier FY24 loss 161 vs filed owners' loss 1,608.66 (x): 9.99
+MD&A net worth growth FY25 vs FY24 (14,287 / 8,428) %: 69.52
+BS equity attributable growth FY25 vs FY24 (14,430.20 / 8,747.23) %: 64.97
+Consolidated borrowings FY26 (1,372.01 + 3,431.82): 4803.83
+Consolidated borrowings FY25 (1,933.12 + 4,359.49): 6292.61
+Consolidated trade payables FY26 (17,232.37 + 17.74): 17250.11
+Consolidated net trade receivables FY26 (1,181.56 + 68.71): 1250.27
+E&C contract liabilities as % of E&C segment liabilities FY26: 36.01
+Kudankulam progress points FY24->FY25->FY26: (13.5, 9)
+Chordaha-Gorhar progress points FY25->FY26: 6.35

@@ -1,0 +1,82 @@
+Financial Statements                                                                                                                              Notes forming part of the Consolidated Financial Statements
+
+Notes forming part of the Consolidated Financial Statements                                                                                       for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+35. CAPITAL & OTHER COMMITMENTS                                                                                                                   38. DISCLOSURES PURSUANT TO IND AS 19 EMPLOYEE BENEFITS
+
+Particulars                                                                                   As at                         (H in Crores)         (a) Defined contribution Plans
+Estimated amount of contracts remaining to be executed for tangible capital  31st March, 2026
+assets and not provided for (net of advances)                                                                                          As at      The Group made contributions towards provident fund, a defined contribution retirement benefit plan for qualifying
+                                                                                             310.83                   31st March, 2025                   employees. The provident fund plan is operated by the Regional Provident Fund Commissioner. The Group recognized
+                                                                                                                                                         I 41.58 Crores (previous year I 44.90 Crores) for provident fund contributions and I 0.14 Crores (previous year I 0.24
+                                                                                                                                     269.66              Crores) for ESIC contribution in the statement of Profit and Loss. The contributions payable to these plans by the Group
+                                                                                                                                                         are at rates specified in the rules of the scheme.
+36.THE DISCLOSURE AS REGARDS TO PROVISION AS PER IND AS 37 " PROVISIONS, CONTINGENT
+     LIABILITY AND CONTINGENT ASSETS"                                                                                                             (b) Defined benefit plans
+                                                                                                                                                  The Group offers the following employee benefit schemes to its employees
+                                                        Major Maintenance*                       Performance Warranties
+
+A. Particulars                                          For the Year         For the Year        For the Year         For the Year                (i) Gratuity
+                                                           ended 31st           ended 31st          ended 31st           ended 31st
+       Carrying amount at the beginning of the year                                                                                               The Group made annual contributions to the IRDA approved insurers towards funded defined benefit plan
+       Add: Provision / Expenses during the year (net)  March, 2026          March, 2025         March, 2026          March, 2025                               for qualifying employees. The Scheme provides for payment to vested employees at retirement / death while
+       Less: Reduction due to sale of subsidiary                                                                                                                in employment or on termination of employment of an amount equivalent to 15 days salary payable for each
+                                                        24.86                29.85               460.24                            340.38                       completed year of service or part thereof in excess of six months. Vesting occurs upon completion of five years of
+                                                                                                                                                                service as per the provisions of the Gratuity Act, 1972
+                                                        10.25                -                   173.57                            180.08
+
+                                                        15.68                -                                 -                   -
+
+Less: Utilisation / Reversal during the year            4.30                   4.99                68.37                             60.22        (ii) Compensated absences
+Carrying amount at the end of the year                  15.13                24.86               565.44                            460.24         The Scheme is non-funded.
+
+*Carrying amount as at 31st March, 2026 includes I Nil Crores (previous year I 15.68 Crores) pertaining to assets held for sales.
+
+                                                        Other Provisions                         Expected Loss on contracts                       (c)The following tables summarises the components of net benefit expense recognised in the statement of
+                                                                                                          (Refer Note 4B)                               profit or loss and the amounts recognised in the balance sheet in respect of Gratuity.
+
+B. Particulars                                          For the Year         For the Year        For the Year         For the Year                                                                                                                          (H in Crores)
+                                                           ended 31st           ended 31st          ended 31st           ended 31st
+       Carrying amount at the beginning of the year                                                                                                                                                                                               For the Year ended
+       Add: Provision / Expenses during the year        March, 2026          March, 2025         March, 2026          March, 2025                                                                                                                     31st March, 2025
+       Less: Utilisation / Reversal of Provisions
+       Carrying amount at the end of the year                      27.05                 27.31   110.73                            78.95          Particulars                                                               For the Year ended
+                                                                                                                                                                                                                                31st March, 2026
+                                                                     3.14                     -  13.88                             48.47          (i)Expenses recognised during the year
+                                                                                                                                                  In the statement of Profit & Loss
+                                                                         -                0.26                 11.23               16.69          In Other Comprehensive Income
+                                                                                                                                                  TOTAL
+                                                                   30.19                27.05    113.38                            110.73         (ii)Expenses recognised in the statement of Profit & Loss                 48.97                  15.03
+                                                                                                                                                  Current Service Cost                                                        3.81                  8.53
+Provision for performance warranties - The Company has made provision for expenses during defect liability period                                 Past Service Cost                                                                               23.56
+mentioned in contracts. The provision is based on the estimates made from historical data associated with similar                                 Net Interest Cost                                                         52.78
+projects. The Company expects to incur the related expenditure over the defect liability period.                                                  TOTAL
+                                                                                                                                                  (iii) Expenses recognised in other comprehensive income                    17.06                 12.77
+Other Provisions - Mainly represents provision for Indirect taxes related to foreign operations of the Company and                                Actuarial (gains) / losses                                                29.68
+payable to foreign government authorities.                                                                                                        change in demographic assumptions                                                                2.26
+                                                                                                                                                  change in financial assumptions                                             2.23                15.03
+                                                                                                                                                  experience variance                                                       48.97
+                                                                                                                                                  return on plan assets
+37. EARNING PER SHARE                                                                                                              (H in Crores)  TOTAL
+
+Particulars                                                                  For the Year ended For the Year ended                                                                                                                -                   -
+No. of Equity Shares at the beginning of the year                                                                                                                                                                           (0.69)                 2.91
+Add: Equity Shares issued during the year                                    31st March, 2026                         31st March, 2025                                                                                       4.48                 5.24
+No. of Equity Shares at the end of the year                                                                                                                                                                                                       0.38
+Weighted Average No. of Equity Shares                                                            17,07,72,546                      16,24,46,152                                                                              0.02                 8.53
+Profit for calculation of EPS (I in Crores)                                                                                                                                                                                  3.81
+Basic and Diluted Earnings Per Share (I)                                                         -                                 83,26,394
+Nominal value of Equity Share (I)
+                                                                                                 17,07,72,546                      17,07,72,546
+
+                                                                                                 17,07,72,546                      16,48,64,228
+
+                                                                                                 1,040.05                          585.70
+
+                                                                                                 60.90                             35.53
+
+                                                                                                 2.00                              2.00
+
+404 Kalpataru Projects International Limited                                                                                                                                                                                Integrated Annual Report 2025-26 405

@@ -1,0 +1,49 @@
+== BOUNDS READ FROM THE SIMULATOR (no terms passed)
+cad now 133.44 min 0.00 max 186.81 perDay 18.85 target null
+dso now 92.19 min 0.00 max 129.06 perDay 18.85 target null
+dpo now 100.00 min 0.00 max 100.00 perDay 18.85 target null
+revenue per day 18.85 (revenue 6880.11 / 365). Cap 252.49 = cash credit 0 + WCDL 252.49. Rate 10.31%
+PASS A1 no negative release cad 10d: cash 188.50
+PASS bounds cad 10d: next 123.44 in [0.00, 186.81]
+PASS A3 independent cross-check cad 10d: sim 188.50 vs bigint 188.50
+PASS A2 interest cad 10d: applied 188.50 <= 252.49, interest 19.43
+PASS A1 no negative release dso 10d: cash 188.50
+PASS bounds dso 10d: next 82.19 in [0.00, 129.06]
+PASS A3 independent cross-check dso 10d: sim 188.50 vs bigint 188.50
+PASS A2 interest dso 10d: applied 188.50 <= 252.49, interest 19.43
+PASS A1 no negative release cad 30d: cash 565.49
+PASS bounds cad 30d: next 103.44 in [0.00, 186.81]
+PASS A3 independent cross-check cad 30d: sim 565.49 vs bigint 565.49
+PASS A2 interest cad 30d: applied 252.49 <= 252.49, interest 26.03
+PASS A1 no negative release dso 30d: cash 565.49
+PASS bounds dso 30d: next 62.19 in [0.00, 129.06]
+PASS A3 independent cross-check dso 30d: sim 565.49 vs bigint 565.49
+PASS A2 interest dso 30d: applied 252.49 <= 252.49, interest 26.03
+== MANAGEMENT WORKING-CAPITAL DAYS ROW (deck p.19 basis, value of a day = revenue per day)
+PASS A1 no negative release wc 10d: cash 188.50
+PASS A3 independent cross-check wc 10d: 188.50 vs 188.50
+PASS A2 interest wc 10d: applied 188.50, interest 19.43
+wc 10d: 85 -> 75 days, cash 188.50, applied 188.50, interest a year 19.43
+PASS A1 no negative release wc 30d: cash 565.49
+PASS A3 independent cross-check wc 30d: 565.49 vs 565.49
+PASS A2 interest wc 30d: applied 252.49, interest 26.03
+wc 30d: 85 -> 55 days, cash 565.49, applied 252.49, interest a year 26.03
+PASS A4 payables release no cash (ask 130 days): cash 0.00, next 100.00 (ceiling 100.00)
+PASS A4 payables release no cash (ask 1000 days): cash 0.00, next 100.00 (ceiling 100.00)
+PASS A4 payables release no cash (ask 100 days): cash 0.00, next 100.00 (ceiling 100.00)
+PASS A4 asking for later payment changes nothing: 376.99 vs 376.99
+PASS A5 basis: revenue consolidated 6,880.11 and deck prints 6,880: revenue 6880.11
+PASS A5 basis: per day equals revenue / 365 exactly: dso 18.85 cad 18.85
+PASS A5 cap is cash credit nil plus WCDL 252.49: cap 252.49
+== priceLevers (10 day step, interest capped)
+action-certification: cash 188.50 carry 19.43 days 10.00 ours true
+action-collection: cash 188.50 carry 19.43 days 10.00 ours false
+PASS levers: two rows, no unrequested lever: 2 rows
+== TABLE (rows overlap, never added)
+cad 10d: 133.44 -> 123.44 days, cash 188.50, applied 188.50, interest 19.43
+dso 10d: 92.19 -> 82.19 days, cash 188.50, applied 188.50, interest 19.43
+cad 30d: 133.44 -> 103.44 days, cash 565.49, applied 252.49, interest 26.03
+dso 30d: 92.19 -> 62.19 days, cash 565.49, applied 252.49, interest 26.03
+
+ALL ASSERTS PASS
+exit 0

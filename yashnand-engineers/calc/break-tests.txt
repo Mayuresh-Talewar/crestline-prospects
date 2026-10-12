@@ -1,0 +1,15 @@
+== BREAK 1
+FAIL  no negative release
+1 FAILED
+== BREAK 2
+FAIL  interest = 0
+1 FAILED
+== BREAK 3
+FAIL  cross-check days x per day vs simulate
+1 FAILED
+== BREAK 4
+FAIL  payables never release cash
+1 FAILED
+== BREAK 5
+FAIL  basis matches: only dso priced, at revenue-basis per day
+1 FAILED

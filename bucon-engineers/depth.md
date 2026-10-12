@@ -1,0 +1,7 @@
+# Bucon Engineers: depth.md (story angle)
+
+Respect first. A Mumbai civil contractor with roots in a 1969 partnership, now run by the founder's sons Vijay and Sanjay Ladhani (CRISIL, 02 Sep 2025). Clients are BMC, MMRDA, CIDCO and Adani Enterprises. Revenue has held between Rs 170 and 180 crore for four years (FY22 177.27, FY23 177.40, FY24 170.46, FY25 171.24 provisional). CRISIL rates it BBB/Stable and A3+ on Rs 115 crore of limits, calls its financial risk profile healthy, gearing under 0.14x, bank limits about 29% used. Order book above Rs 400 crore (July 2025), about two years of work.
+
+Then the question. CRISIL's own words: "Gross current assets were 290 days as on March 31, 2025", receivables 43 days, inventory 56 days, the rest in other current assets including retention money and earnest money deposits that come back after a 2-3 year defect liability period. It expects the working-capital cycle to "remain stretched over the medium term" and names further stretch as a downgrade trigger. What the accounts cannot say: which retention release sits on which BMC or MMRDA contract, what is certified but not yet billed, which bills wait at which desk, and when each defect-liability release falls due. That is where bills wait, and where a Rs 400 crore book will add more as it is executed.
+
+Angles to keep: operating margin eased from 7.77% to 6.75% while limits are lightly used; a bigger book means more retention locked. Use only same-date (31 Mar 2025) day figures together; never subtract 43 or 56 from 290 to invent a retention number.

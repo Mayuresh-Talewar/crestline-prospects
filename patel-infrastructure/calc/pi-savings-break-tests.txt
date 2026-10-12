@@ -1,0 +1,30 @@
+=== BREAK=neg ===
+exit code 1
+FAIL  no negative release [cad10]  released -97.99
+--- OTHER ASSERTS ---
+1 ASSERT(S) FAILED
+=== BREAK=interest ===
+exit code 1
+FAIL  interest capped [cad30]  carry 37.48 <= 22.14
+FAIL  interest capped [combo]  carry 29.45 <= 22.14
+--- OTHER ASSERTS ---
+2 ASSERT(S) FAILED
+=== BREAK=basis ===
+exit code 1
+FAIL  cross-check days x per day [dio10]  independent 35.00 vs simulate 97.99
+FAIL  cross-check days x per day [dio30]  independent 105.01 vs simulate 293.97
+FAIL  cross-check days x per day [combo]  independent 230.98 vs simulate 293.97
+--- OTHER ASSERTS ---
+FAIL  no lever priced on a base it does not belong to  stock on materials 9.80/day (not revenue 9.80/day); certification and collection on revenue
+4 ASSERT(S) FAILED
+=== BREAK=dpo ===
+exit code 1
+--- OTHER ASSERTS ---
+FAIL  payables never release cash  DPO asked 90, held at 90.0, cash 417.27 Cr (max 90)
+1 ASSERT(S) FAILED
+=== BREAK=days ===
+exit code 1
+--- OTHER ASSERTS ---
+FAIL  basis matches [dio]  raw 132.653 vs printed 140
+FAIL  cycle identity DIO+CAD+DSO-DPO = 193.2  132.7+67.1+32.3-38.9
+2 ASSERT(S) FAILED

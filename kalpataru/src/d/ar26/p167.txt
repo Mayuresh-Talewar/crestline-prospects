@@ -1,0 +1,65 @@
+Financial Statements                                                                                                                                Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                                            for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+41. RECONCILIATION OF INCOME TAX EXPENSES WITH THE ACCOUNTING PROFIT                                                                                42. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)
+
+Particulars                                                         For the Year ended                     (H in Crores)                            Particulars                                                                 As at        (H in Crores)
+                                                                        31st March, 2026         For the Year ended                                                                                            31st March, 2026                         As at
+PROFIT BEFORE TAX                                                                      1,143.12                                                     Investments (Net of Impairment)
+Income tax calculated at 25.17% (previous year 25.17%)                                 287.72        31st March, 2025                               Measured at Amortised Cost^                                              655.53    31st March, 2025
+Differential tax of overseas operation                                                  23.45                      896.43                           (i) Trade receivables                                                                             1,019.13
+Tax effect of adjustment to reconcile reported income tax expenses                                                  225.63                          (ii) Loans                                                             7,905.68
+Income exempt from taxation                                                                                             5.61                        (iii) Cash and Cash Equivalents                                           578.62                7,298.51
+Tax Impact of Permanent allowances / disallowances / Others                                                                                         (iv) Other balances with Bank                                            1,221.76                  976.71
+Deferred tax not recognised on Impairment Loss                      (31.06)                              -                                          (v) Others                                                                 330.14
+Tax effect of amounts taxable at different tax rates                 (6.87)                           1.22                                          Financial liabilities                                                    653.65                 1,432.83
+INCOME TAX EXPENSES RECOGNISED IN THE STATEMENT OF PROFIT AND LOSS  33.86                            4.72                                           Measured at Fair Value through Profit and Loss                                                    155.66
+                                                                                                     11.30                                          Derivative Contracts - (Level-II)**                                        93.99                  642.07
+                                                                      4.27                       248.48                                             Measured at Fair Value through Other Comprehensive Income
+                                                                    311.37                                                                          Derivative Contracts - (Level-II)**                                        68.24                          -
+                                                                                                                                                    Measured at Amortised Cost^
+42. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT                                                                                         (i)Borrowings                                                          2,839.94                    44.24
+                                                                                                                                                    (ii)Trade payables                                                       6,550.11
+Capital Management                                                                                                                                  (iii)Other financial liabilities                                        1,236.79                3,392.32
+                                                                                                                                                                                                                                                    6,170.86
+The company manages its capital to ensure that it will be able to continue as going concern while maximising the return to                          *Fair value measured at discounted cash flows                                                   1,005.59
+stakeholders through the optimisation of the debt and equity balance.
+                                                                                                                                                    **Fair value measured at Mark to Market Value
+Gearing Ratio                                                                        As at             (H in Crores)
+                                                                    31st March, 2026                              As at                             ^Carrying amount approximates fair values
+Debt*
+Cash and Cash Equivalents                                                       2,844.08         31st March, 2025                                   Financial Risk Management
+Investments in Mutual Funds                                                      (1,221.76)                   3,400.18
+Net Debt                                                                                                     (1,432.83)                             Financial Risk factors
+Total Equity                                                                               -                     (150.11)
+Net Debt to Equity Ratio                                                         1,622.32                     1,817.24                              The Company's activities expose it to a variety of financial risks: market risk, credit risk and liquidity risk. The Company's
+                                                                                 8,214.54                      7,184.91                             focus is to foresee the unpredictability of financial markets and seek to minimize potential adverse effects on its financial
+                                                                                                                   0.25                             performance. The primary market risk to the Company is foreign exchange risk. The Company uses derivative financial
+                                                                                      0.20                                                          instruments to mitigate foreign exchange related risk exposures.
+
+*Debt is defined as aggregate of Non-Current borrowings (excluding unamortised cost), Current borrowings and current maturities of long term debt.
+
+Financial Instrument by category                                                                                                                    Market Risk
+
+The following table shows the carrying amounts and fair values of financial assets and financial liabilities. The Company                           The Company operates internationally and a major portion of the business is transacted in several currencies and
+consider that the carrying values of financial assets and financial liabilities recognized in the financial statements                              consequently the Company is exposed to foreign exchange risk through its sales and services and purchases from overseas
+approximate their fair value.                                                                                                                       suppliers in various foreign currencies. The company holds derivative financial instruments such as foreign exchange
+                                                                                                                                                    forward and commodity contracts to mitigate the risk of changes in exchange rates on foreign currency exposures. The
+Particulars                                                                          As at             (H in Crores)                                exchange rate between the rupees and foreign currencies has changed substantially in recent years and may fluctuate
+                                                                    31st March, 2026                                                                substantially in the future. Consequently, the results of the Company's operations are affected as the rupee appreciates /
+Financial Assets                                                                                                  As at                             depreciates against these currencies.
+Measured at Fair Value through Profit and Loss                                                   31st March, 2025
+Investments - (Level-I)
+Investments under held for sale - (Level-II)*                               -                      150.11
+Derivative Contracts - (Level-II)**                                 284.68                       274.85
+Measured at Fair Value through Other Comprehensive Income
+Derivative Contracts - (Level-II)**                                         -                        9.21
+Measured at Amortised Cost^
+Investments                                                          222.15                         14.01
+Measured At Cost
+                                                                      19.47                        21.23
+
+328 Kalpataru Projects International Limited                                                                                                                                                                   Integrated Annual Report 2025-26 329

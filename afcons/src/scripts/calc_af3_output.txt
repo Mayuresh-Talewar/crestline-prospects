@@ -1,0 +1,39 @@
+NWC FY22: (7893.10-526.42)-(7224.73-1153.31)=1295.27 Cr; days=42.9
+NWC FY23: (8974.95-377.44)-(8249.92-966.34)=1313.94 Cr; days=37.9
+NWC FY24: (10973.29-666.26)-(9881.47-1857.31)=2282.88 Cr; days=62.8
+NWC FY25: (11355.97-770.56)-(8334.75-1640.48)=3891.14 Cr; days=113.2
+NWC FY26: (12953.97-885.89)-(10011.43-2618.67)=4675.32 Cr; days=142.8
+Company published: FY24 63, FY25 113, FY26 143 (AR26 p.18; Q4P p.39 prints FY24/FY25 only)
+CRISIL basis (RR Aug-26): FY24 <90, FY25 117, FY26 139; company minus CRISIL FY25 = -4, FY26 = 4 days
+NWC change FY24->FY26 company basis: +80 days; FY22->FY26 computed: +99.9 days
+FY26 revenue growth: -4.78% (guide 20-25% May-25; 10%+ Nov-25; 5% Feb-26); total income -5.38%
+Revenue FY26 needed for +20%: 15058; shortfall 3110 Cr (20.7% of that)
+Order inflow FY26 4,125 vs guide 20,000: 20.6% of guide
+Op cash flow FY25 -132.20 vs "positive" promised Nov-24: miss by 132.20
+Debt: CFO Q4T PDF p.21 said FY27 debt would come down to the FY25 level (gross incl acceptances 2,235.72 at Mar-25); Mar-26 is 3,538.27, gap to that level 1302.55 (open: FY27 not closed)
+Net debt/equity net-debt basis: Mar-26 0.5x -> Jun-26 0.68x (Q1T PDF p.8)
+CRISIL BG rated limits sum 19249; + proposed BG 641 = 19890; LC 1895 + proposed 105 = 2000; CC/WCDL 2400; proposed WC 200
+ICRA Jun-25 non-fund 17490 + ST 1600 = 19090 (rated, not outstanding)
+RHP BG incl LC Jun-24 14,371.26 Cr (outstanding provided) vs CRISIL BG-only rated limit Aug-26 19249: not like-for-like
+NC contract assets Cr: {'Mar-22': 1491.29, 'Mar-23': 1416.5, 'Mar-24': 1271.01, 'Mar-25': 1646.58, 'Mar-26': 1497.04}
+NC share of total contract assets Mar-24: 24.3%
+NC share of total contract assets Mar-25: 23.2%
+NC share of total contract assets Mar-26: 19.4%
+Current contract assets Mar-25 5,449.18 -> Mar-26 6,234.46: +14.4%
+Chenab: 165.62 revenue + 77.91 from contract assets = 243.53 = award 243.53; separate 115 stays in non-current contract assets
+TTA JV carried: 659.87 + 120.81 + 30.63 + 25.77 = 837.08 Cr; less 79.28 received as customer advance = 757.80
+TTA share of total NC contract assets Mar-26 (659.87 / 1497.04) = 44.1%
+Dahej: LD award 79.28 incl interest 20.45 -> principal 58.83; plus contract asset 11.10 = 90.38
+Net receivable on arbitration awards 1,259.08 vs total trade receivables net 4,038.09 = 31.2%; vs gross 4,319.79 = 29.1%
+AGJV provision 124.12 (Note 36) vs CRISIL "around Rs 130 crore" one-off: diff 5.88
+Overseas revenue share FY26 28.0%; segment-asset share 29.7%; assets/revenue India 1.56x Other 1.69x
+Overseas revenue share FY25 30.7%; segment-asset share 26.6%
+Finance cost / revenue: FY25 5.01%, FY26 5.64% (finance cost 629.20 -> 673.61 = +7.1%)
+Finance cost paid FY26 669.86 vs operating cash flow -127.49
+J Kumar working-capital days FY22->FY26: -28 days; fell in 4 of 4 years
+L&T group NWC/revenue Mar-22->Mar-26: -15.6 pts; fell in 4 of 4 years
+NCC standalone NWC days Q4FY24->Q4FY26: +21 (peak Q3FY26 119)
+HG Infra standalone NWC days FY24->FY25: +12; FY23->FY25 +14
+Afcons company NWC days FY24->FY26: +80 (+127%)
+Q4FY26 call 19-May-26 -> Q1FY27 call 10-Aug-26: 83 days; "before June" deadline 31-May-26 passed 71 days before Q1 call
+Q1FY27 intimation lead: 3-Aug-26 for 7-Aug-26 board = 4 days; Q2 outer deadline 14-Nov-26 (45d after 30-Sep) = 2026-11-14

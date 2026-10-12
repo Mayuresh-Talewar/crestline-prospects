@@ -1,0 +1,396 @@
+                                             July 18, 2025
+
+                        Afcons Infrastructure Limited: Ratings reaffirmed
+
+Summary of rating action
+
+Instrument*                        Previous Rated Amount  Current Rated Amount  Rating Action
+Fund-based ­ Term loan                     (Rs. crore)           (Rs. crore)^
+                                              890.0                   0.0       [ICRA]A+(Stable); reaffirmed and
+Long-term ­ Fund-based facilities              80.0                  80.0       withdrawn
+                                             1,750.0                  0.0       [ICRA]A+(Stable); reaffirmed
+Long-term ­ Non-fund based                    150.0                 150.0       [ICRA]A+(Stable); reaffirmed and
+facilities                                  16,310.0                  0.0       withdrawn
+                                             1,180.0               1,180.0      [ICRA]A+(Stable); reaffirmed
+                                                                                [ICRA]A+(Stable); reaffirmed and
+                                                                                withdrawn
+                                                                                [ICRA]A+(Stable); reaffirmed
+
+Short-term ­ Non-fund based        1,595.0                  0.0                 [ICRA]A1; reaffirmed and withdrawn
+facilities                           5.0
+                                                            5.0                 [ICRA]A1; reaffirmed
+
+Total                              21,960.0                 1,415.0
+
+*Instrument details are provided in Annexure I, **The ratings for limits from all lenders other than Bank of Baroda have been withdrawn in line with ICRA's
+withdrawal policy. The company has requested for withdrawal of the bank-loan ratings from Bank of Baroda. On completion of the requisite documentation,
+ICRA will withdraw the rating in line with ICRA's policy on withdrawal.
+
+Rationale
+
+ICRA has withdrawn the ratings assigned to the bank facilities of Afcons Infrastructure Limited (AIL) at the request of the
+company and based on the no-objection certificates (NOCs) received from the bankers (except from Bank of Baroda), in
+accordance with ICRA's policy on withdrawal of credit ratings.
+
+The reaffirmation of ratings for Afcons Infrastructure Limited (AIL) continues to favourably factor in its long operational track
+record in executing complex infrastructure projects, large scale of operations, a diversified order book across segments,
+clientele and geographies as well as its healthy order book position of ~Rs. 36,869 crore (excluding L1) as on March 31, 2025
+(2.9 times of FY2025 revenues) providing medium-term revenue visibility. The operating income (OI) of the company has grown
+at a CAGR of 7.54% over the last five years ending FY2025 to Rs. 12,548.4 crore backed by healthy pick-up in execution, which
+ICRA expects it to sustain in the medium term. AIL has a diversified order book across segments (metro & urban infrastructure
+works, tunnelling and hydro projects, surface transport, special projects marine and industrial, and oil and gas), geographies
+(domestic orders spread across 15 states, accounting for 86% in terms of revenue and international orders constituting 14%
+of the order book) and clientele (top-three clients contributing 30% to the total unexecuted order book as on March 31, 2025).
+
+The ratings are, however, constrained due to the company's moderately leveraged capital structure and moderate coverage
+indicators. The company has back-to-back arrangement with its sub-contractors for few projects and consequently, part of the
+current assets (viz., contractual variations along with high amount of arbitration receivables) is funded by creditors. This, along
+with sizeable mobilisation advances, resulted in adjusted1 TOL/TNW of 2.1 times as on March 31, 2025, compared to 3.4 times
+as on March 31, 2024 (driven by the expansion in the company's net worth base following the IPO in October 2024). Further,
+an increase in interest expenses due to greater reliance on working capital borrowings and interest-bearing mobilisation
+advances resulted in a moderate interest cover of 2.2 times as on March 31, 2025. As on March 31, 2025, 33.8% of AIL's total
+receivables (excluding retention money) are arbitration receivables, which have been awarded but are yet to be received,
+
+1Adjusted for arbitration receivables realised against submission of bank guarantees which the company has classified as `advances due to
+customers' pending final settlement of the claim. Reported TOL/TNW stands at 2.3 times as on March 31, 2025.
+
+www.icra .in                       Sensitivity Label : Public                                         Page | 1
+while 22% of unbilled revenue is towards contractual variations. Timely realisation of unbilled revenue and arbitration
+receivables would be crucial. The company is also exposed to refinancing risk because of asset liability mismatch (ALM).
+Notwithstanding the contingencies built-in, the fixed-price nature of contracts for international orders exposes AIL's
+profitability to any sharp movement in input prices. The increasing focus on executing overseas projects also exposes the
+company to geopolitical risks. AIL's ability to execute the projects within the budgeted costs would remain important to
+maintain its profitability. Although AIL's order book comprises technically complex projects, the operating margins remained
+moderate at 8.8% in FY2022, although the same improved sequentially thereafter and stood at 10.8% in FY2025. Going
+forward, the improvement in profit margins, leverage and return indicators remains a key rating sensitivity.
+
+ICRA notes that AIL has recovered advances of ~Rs. 270 crore from its parent company, Shapoorji Pallonji and Company Private
+Limited (SPCPL), and the management has guided that there won't be any incremental advances to an SP Group entity. Further,
+ICRA notes that out of the total promoter shareholding of 50.17%, 43.46% remains pledged as on March 31, 2025, limiting
+financial flexibility at promoter level.
+
+The ratings also note the stiff competition in the construction sector and the company's exposure to sizeable contingent
+liabilities in the form of bank guarantees (BG), mainly for contractual performance, mobilisation advance and security deposits.
+The ratings are also constrained by execution risks as ~50% of the order book as on March 31, 2025 is in preliminary/early
+stage of execution with less than 10% progress, and 17% of projects are yet to commence construction. ICRA takes comfort
+from the history of extension of project deadlines from the clients/authorities for most of the projects due to delays for reasons
+beyond the company's control. Notwithstanding AIL's strong execution capabilities, any sizeable invocation of BGs would affect
+the company's liquidity and financial risk profile.
+The Stable outlook on the long-term rating reflects ICRA's expectations that the company would continue to benefit from the
+healthy and well diversified order book position, strong execution capabilities and established relationships with reputed
+clientele.
+
+Key rating drivers and their description
+
+Credit strengths
+
+Healthy order book position providing medium-term revenue visibility ­ The company has a healthy order book position of
+~Rs. 36,869 crore (excluding L1) as on March 31, 2025 (2.9 times of FY2025 revenues) providing strong medium-term revenue
+visibility. The OI has increased at a CAGR of 7.54% over the last five years ending FY2025 to Rs. 12,548.4 crore, backed by
+healthy pick-up in execution.
+
+Diversified order book ­ The order book is well diversified across segments like metro and urban infrastructure (55%),
+tunnelling and hydro projects (24%), marine and industrial (12%), surface transport (rail, road, and bridges ­5%) as well as oil
+and gas (4%). Further, the order book is geographically diversified with domestic orders (spread across 15 states) constituting
+86% and international order contributing to 14% of the unexecuted order book as on March 31, 2025. The order book is fairly
+diversified in terms of projects and clients, with the top three clients contributing 30% and the top 10 orders accounting for
+54% of the unexecuted order book as on March 31, 2025.
+
+Established track record and strong execution capabilities ­ AIL has a long track record of operations spanning over six
+decades, supported by an experienced management and demonstrated capabilities in executing complex infrastructure
+projects. The expertise of its managerial and technical personnel heading the key business verticals support its order execution.
+
+Credit challenges
+
+Moderately leveraged capital structure and moderate coverage indicators ­ High creditors (which funded part of the current
+assets viz., contractual variations and high amount of arbitration receivables) along with sizeable mobilisation advances
+resulted in adjusted TOL/TNW of 2.1 times and moderate interest cover of 2.2 times as on March 31, 2025. As on March 31,
+2025, 33.8% of AIL's total receivables (excluding retention money) are arbitration receivables, which have been awarded but
+
+www.icra .in  Sensitivity Label : Public  Page | 2
+yet to be received, while 22% of unbilled revenue is towards contractual variations. Timely realisation of unbilled revenue and
+arbitration receivables would be crucial.
+
+Execution risk as about 50% of order book is in early stages of execution ­ AIL's revenue remains exposed to inherent time
+and cost overrun risks, given the complex nature of the projects being executed. As on March 31, 2025, around 46% of the
+order book is in early stages of execution (with less than 10% progress) and 17% of projects are yet to commence construction.
+Given AIL's strong execution capabilities, the projects are expected to be completed on time and the risk of BG invocation is
+low.
+
+Profitability susceptible to variation in input prices, as overseas contracts are on fixed-price basis ­ Notwithstanding the
+contingencies built-in, the fixed-price international contracts expose AIL's profitability to any sharp movement in input prices.
+Its ability to execute the projects within the budgeted costs would remain important to maintain its profitability. Although
+AIL's order book comprises technically complex projects, the operating margins remained moderate at 8.8% in FY2022,
+although the same improved sequentially thereafter and stood at 10.8% in FY2025. Going forward, the improvement in
+profitability margins, leverage and return indicators remains a key rating sensitivity.
+
+Environment and social risks
+
+Environmental considerations: The company operates at multiple project sites simultaneously, spread over various states in
+the country and globally such as Africa, which mitigates the risk of business disruptions on account of adverse climate
+conditions. Given that construction activities tend to cause air pollution, the company remains exposed to the risk of temporary
+bans on operations in cities that are more sensitive to deteriorating air quality.
+
+Social considerations: Construction entities also face social risks stemming from the health and safety concerns of workers,
+manifestation of which could result in regulatory or legal action, besides reputational harm. The company has a track record
+of maintaining cordial relationships with its employees/workers, including contractual labour with no material incidents of a
+slowdown in execution on account of workforce management issues.
+
+Liquidity position: Adequate
+
+AIL's liquidity profile remains adequate with unencumbered cash and bank balance of ~Rs. 770 crore as on March 31, 2025.
+The average fund-based utilisation for the 12-month period ending March 31, 2025 stood at 70% with cushion of ~Rs. 700
+crore as on March 31, 2025. The company has debt repayment of Rs. 247 crore in FY2026, which can be serviced comfortably
+from its estimated cash flow from operations. It has capex plans of Rs. 1,100 crore in FY2026 for purchase of plant and
+machinery, which are expected to be funded through both debt and internal accruals.
+
+Rating sensitivities
+
+Positive factors ­ ICRA could upgrade the ratings if there is a sustained improvement in profitability margins, along with
+reduction in working capital intensity, thereby resulting in material improvement in leverage and coverage metrics.
+
+Negative factors ­ Negative pressure on AIL's ratings could emerge if the cash accruals materially decline or deterioration in
+working capital intensity adversely impacts its liquidity position or debt protection metrics. The ratings may be downgraded if
+there is a material increase in financial support extended to the SP Group (including significantly higher-than-anticipated
+dividend payouts).
+
+www.icra .in  Sensitivity Label : Public  Page | 3
+Analytical approach                    Comments
+
+ Analytical Approach                   Corporate Credit Rating Methodology
+                                       Construction
+ Applicable rating methodologies       Policy on Withdrawal of Credit Ratings
+                                       Not Applicable
+ Parent/Group support                  For arriving at the ratings, ICRA has considered consolidated financials of AIL. The list of
+ Consolidation/Standalone              companies that are consolidated to arrive at the ratings are given in Annexure II.
+
+About the company
+
+AIL, incorporated in 1976 as Asia Foundations and Constructions Limited, is a reputed construction entity and is a part of the
+SP Group, which holds the majority stake of 50.17% in the company. It operates in diverse segments such as marine works
+(including construction of jetties and dry docks), offshore oil and gas, bridges and flyovers, road construction, hydro and
+tunnelling, pipe laying and general civil engineering works. AIL commenced operations as a civil construction firm in 1959 and
+was involved in constructing specialised foundation activities, such as pile foundations, diaphragm walls, geotechnical
+investigations, drilling and grouting. It entered the marine segment in 1963 and subsequently undertook design and build
+contracts. Over the years, AIL has increased its presence geographically and has executed projects across 15 Indian states, in
+addition to overseas projects in 14 countries.
+
+Key financial indicators (Audited)
+
+AIL ­ Consolidated                                                                   FY2024                FY2025
+
+Operating income                                                                     13,277.2              12,548.4
+
+PAT                                                                                  449.8                 486.8
+
+OPBDIT/OI                                                                            10.4%                 10.8%
+
+PAT/OI                                                                               3.4%                  3.9%
+
+Total outside liabilities/Tangible net worth (times)                                 3.5                   2.3
+
+Total debt/OPBDIT (times)                                                            1.8                   1.7
+
+Interest coverage (times)                                                            2.4                   2.2
+
+Source: Company, ICRA Research; PAT: Profit after tax; OPBDIT: Operating profit before depreciation, interest, taxes and amortisation; Amounts in Rs. crore
+
+Status of non-cooperation with previous CRA: None
+
+Any other information: None
+
+Rating history for past three years
+
+                              Current (FY2026)                         Chronology of rating history for the past 3 years
+
+Instrument          Amount                                          FY2025                  FY2024         FY2023
+                     rated
+              Type    (Rs.    July 18, 2025     Jun 30, 2025  Date     Rating        Date      Rating      Date            Rating
+                     crore)                                     -         -
+                                                                                                           Sep 1,         [ICRA]A+
+NCD           Long         -        -                 -                              Mar 27,    [ICRA]A+   2022           (Stable)
+              Term                                                                    2024      (Stable);
+                                                                                               reaffirmed
+                                                                                     Sep 29,
+                                                                                      2023         and
+                                                                                               withdrawn
+                                                                                                [ICRA]A+
+
+                                                                                                (Stable)
+
+Term loan     Long  890.0       [ICRA]A+        [ICRA]A+      Mar 31,  [ICRA]A+      Mar 27,   [ICRA]A+    Sep 1,         [ICRA]A+
+              Term  80.0        (Stable);       (Stable)       2025    (Stable)       2024     (Stable)    2022           (Stable)
+                              reaffirmed &
+                               withdrawn                                             Sep 29,   [ICRA]A+
+                                [ICRA]A+                                              2023     (Stable)
+                                (Stable);
+                               reaffirmed
+
+www.icra .in                                             Sensitivity Label : Public                        Page | 4
+                        Current (FY2026)                            Chronology of rating history for the past 3 years
+
+                     Amount                                      FY2025                FY2024             FY2023
+
+Instrument    Type   rated     July 18, 2025 Jun 30, 2025  Date     Rating       Date     Rating    Date               Rating
+                      (Rs.
+Cash credit   Long   crore)
+              Term
+Non-fund             1,750.0     [ICRA]A+    [ICRA]A+      Mar 31,  [ICRA]A+     Mar 27,  [ICRA]A+  Sep 1,             [ICRA]A+
+based         Long    150.0      (Stable);   (Stable)       2025    (Stable)      2024    (Stable)  2022               (Stable)
+(BG/LC)       Term             reaffirmed &
+                                withdrawn                                        Sep 29,  [ICRA]A+
+                                 [ICRA]A+                                         2023    (Stable)
+                                 (Stable);
+
+                               reaffirmed
+
+                     16,310.0    [ICRA]A+    [ICRA]A+      Mar 31,  [ICRA]A+     Mar 27,  [ICRA]A+  Sep 1,             [ICRA]A+
+                     1,180.0     (Stable);   (Stable)       2025    (Stable)      2024    (Stable)  2022               (Stable)
+                               reaffirmed &
+                                withdrawn                                        Sep 29,  [ICRA]A+  Sep 1,             [ICRA]A1
+                                 [ICRA]A+                                         2023    (Stable)  2022               [ICRA]A1
+                                 (Stable);
+                                                                                               -    Sep 1,             [ICRA]A1
+                               reaffirmed                                                 [ICRA]A1  2022
+
+Short-term Short                                                                 -        [ICRA]A1  Sep 1,
+                                                                                                    2022
+loans         Term   -         -             -             -             -       Sep 29,  [ICRA]A1
+                                                                                          [ICRA]A1
+                                                                                 2023     [ICRA]A1
+
+Non-fund      Short  1,595.0     [ICRA]A1;   [ICRA]A1      Mar 31,   [ICRA]A1    Mar 27,
+based         Term     5.0     reaffirmed &                 2025                  2024
+(BG/LC)                         withdrawn                           [ICRA]A1,
+                                                           Mar 31,  withdrawn    Sep 29,
+                                 [ICRA]A1;                  2025                  2023
+                                reaffirmed                                       Mar 27,
+                                                                                  2024
+Commercial Short     -         -             -                                   Sep 29,
+                                                                                  2023
+paper         Term
+
+Complexity level of the rated instruments
+
+Instrument                                                 Complexity Indicator
+Fund-based ­ Term loan                                     Simple
+Long-term ­ Fund-based facilities                          Simple
+Long-term ­ Non-fund based facilities                      Very Simple
+Short-term ­ Non-fund based facilities
+                                                           Very Simple
+
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA's website: Click Here.
+
+www.icra .in                                    Sensitivity Label : Public                          Page | 5
+Annexure I: Instrument details
+
+ISIN             Instrument Name    Date of            Coupon       Maturity       Amount Rated   Current Rating and Outlook
+                                    Issuance            Rate                         (Rs. crore)
+                                                         NA         April 2029          890.0           [ICRA]A+ (Stable);
+NA               Fund-based ­ Term February 2017         NA         April 2029           80.0       reaffirmed & withdrawn
+                                                         NA                            1,750.0
+                 loan               February 2017        NA             NA              150.0           [ICRA]A+ (Stable)
+                                                         NA             NA             16310.0          [ICRA]A+ (Stable);
+NA               Long-term ­ Fund-  NA                   NA             NA             1180.0       reaffirmed & withdrawn
+                 based facilities   NA                   NA             NA             1,595.0          [ICRA]A+ (Stable)
+                                                         NA             NA                5.0           [ICRA]A+ (Stable);
+                 Long-term ­ Non-   NA                                  NA                          reaffirmed & withdrawn
+                                                                                                        [ICRA]A+ (Stable)
+NA               fund-based                                                                          [ICRA]A1; reaffirmed &
+
+                 facilities         NA                                                                      withdrawn
+                                                                                                             [ICRA]A1
+                 Short-term ­ Non-  NA
+
+NA               fund-based
+
+                 facilities         NA
+
+Source: Company
+
+Please click here to view details of lender-wise facilities rated by ICRA
+
+Annexure II: List of entities considered for consolidated analysis
+
+ Company Name                                                       Ownership      Consolidation Approach
+
+ Hazarat and Company Private Limited                                   100%            Full consolidation
+ Afcons Corrorsion Protection Private Limited                          100%            Full consolidation
+ Afcons Hydrocarbons Engineering Private Limited                       100%            Full consolidation
+ Afcons Oil & Gas Services Private Limited                             100%            Full consolidation
+ Afcons Infrastructures Kuwait for Building, Road and
+ Marine Contracting WLL                                                 49%            Full consolidation
+ Afcons Construction Mideast LLC
+ Afcons Gulf International Projects Services FZE                       100%            Full consolidation
+ Afcons Mauritius Infrastructure Limited                               100%            Full consolidation
+ Afcons Overseas Singapore Pte Limited                                 100%            Full consolidation
+ Afcons Infra Projects Kazakhstan LLP                                  100%            Full consolidation
+ Afcons Overseas Project Gabon SARL                                    100%            Full consolidation
+ Afcons Contracting Company                                            100%            Full consolidation
+Source: Company                                                        100%            Full consolidation
+
+www.icra .in                                           Sensitivity Label : Public                 Page | 6
+ANALYST CONTACTS              Suprio Banerjee
+                              +91 22 6114 3443
+ Ashish Modani                supriob@icraindia.com
+ +91 22 6169 3300
+ ashish.modani@icraindia.com  Anirudh Goel
+                              +91 22 6169 3300
+ Rohit Agarwal                anirudh.goel@icraindia.com
+ +91 22 6169 3329
+ rohit.agarwal@icraindia.com
+
+RELATIONSHIP CONTACT
+L. Shivakumar
++912261143406
+shivakumar@icraindia.com
+
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+
+HELPLINE FOR BUSINESS QUERIES
+
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+
+About ICRA Limited:
+
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody's Investors Service is ICRA's largest shareholder.
+
+For more information, visit www.icra.in
+
+www.icra .in                  Sensitivity Label : Public      Page | 7
+        ICRA Limited
+
+          Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+
+         Branches
+
+© Copyright, 2025 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA's current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided `as is' without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+
+                                                              Sensitivity Label : Public
+

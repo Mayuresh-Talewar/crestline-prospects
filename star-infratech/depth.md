@@ -1,0 +1,3 @@
+# Star Infratech: story angle
+Respect first: a 35-year Karnataka government contractor (since 1991), no guarantee ever invoked (ICRA Jul 2025), operating income Rs 1,154.2 Cr (FY24) to Rs 1,525.4 Cr (FY26 provisional), order book Rs 6,347.8 Cr at Mar 2025 (about 4x revenue).
+Question: in FY24, bills waiting and sub-contractor advances took debt from Rs 108.3 Cr to Rs 381.2 Cr in a year; it came back to Rs 265.4 Cr by Mar 2025 on a "significant improvement in the receivable cycle". Which bills, at which department, waited how long, and would it show before the bank sees it? The accounts do not say. Quote no days (none published for FY25/26). ICRA itself calls the working-capital cycle and interest cover (downgrade trigger below 4.0x, Jul 2025 p3) the monitorables.

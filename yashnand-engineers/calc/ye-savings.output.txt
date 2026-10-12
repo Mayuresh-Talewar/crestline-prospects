@@ -1,0 +1,34 @@
+Operating income FY24 (CRISIL estimate): 575.08 Cr
+Debtor days (CRISIL): 120
+PER DAY = 575.08 / 365 = 1.575562 Cr
+valueOfADay: 1.5755616438356166 cash, carry 0
+
+Levers the simulator accepts: dso now 120 min 0 max 168 target null
+toTerms (no terms published): {}
+
+DSO 120 -> 110: moved -10, cash released 15.76 Cr (15.755616438356165), carry 0
+
+DSO 120 -> 90: moved -30, cash released 47.27 Cr (47.2668493150685), carry 0
+
+Other legs asked to move (no base): levers present = dso
+
+LEVER TABLE
+Receivables (DSO 120): PRICED at 575.08/365 per day: 10 days, 30 days. No payment term published, so no 'to term' row.
+Contract assets / unbilled: NOT PRICED, no balance or days published.
+Retention: NOT PRICED, no balance and no release basis published (GCA 151 is not added).
+Stock (DIO 29): NOT PRICED, no cost base (materials consumed or COGS) published.
+Payables (DPO): NOT PRICED, no payables, creditor days or vendor terms published.
+Combined scenario: none, only one lever is priced (the 30 day row is the whole run).
+Interest: none, no borrowing rate published.
+
+ASSERTS
+PASS  no negative release
+PASS  interest = 0
+PASS  cross-check days x per day vs simulate
+PASS  payables never release cash
+PASS  basis matches: only dso priced, at revenue-basis per day
+PASS  no lever priced on a base it does not belong to (dio/cad/dpo absent)
+PASS  10 days = a tenth of 30 x 3 consistency
+
+SUMMARY  ten days 15.76 Cr (to 110 days); thirty days 47.27 Cr (to 90 days); one day 1.58 Cr
+ALL PASS

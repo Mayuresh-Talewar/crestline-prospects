@@ -1,0 +1,36 @@
+=== Jyoti Structures, STANDALONE, AR FY26 vintage. Rs crore. ===
+mode: clean
+Value of a day = FY26 revenue 750.87 / 365 = 2.057 Cr/day
+Interest rate used: 0% (no borrowing rate disclosed)
+Contract terms passed: none (payment, certification, vendor all null)
+
+Running book (up to 3 years) 238.93 Cr = 116.14 days of FY26 revenue
+Row A: 10-day step on the running book
+  days 116.14 -> 106.14 (printed 116 -> 106)
+  cash released once (simulate): 20.57 Cr
+  cash released once (priceLevers): 20.57 Cr
+  running book after: 218.36 Cr
+  interest / carry: simulate 0.00, priceLevers 0.00
+Row B: 30-day step on the running book
+  days 116.14 -> 86.14 (printed 116 -> 86)
+  cash released once (simulate): 61.72 Cr
+  cash released once (priceLevers): 61.72 Cr
+  running book after: 177.21 Cr
+  interest / carry: simulate 0.00, priceLevers 0.00
+
+Row C (context only): the under-6-months bucket
+  214.18 Cr = 104.11 days of FY26 revenue (printed 104)
+  same 10-day step read on this bucket: 104 -> 94 days, cash 20.57 Cr (= Row A, not added)
+  same 30-day step read on this bucket: 104 -> 74 days, cash 61.72 Cr (= Row B, not added)
+
+Row D (context only): customer advances beside the released cash
+  advances Mar 2025 134.21 -> Mar 2026 92.92 Cr, change -41.29 Cr
+  Mar 2026 advances + Row A cash: 92.92 + 20.57 = 113.49 Cr (overlaps Row A, not added)
+  Mar 2026 advances + Row B cash: 92.92 + 61.72 = 154.64 Cr (overlaps Row B, not added)
+
+Payables check (assert only, never printed in the booklet)
+  ask DPO 77 -> held at 67, cash 0.00 Cr
+  ask DPO 97 -> held at 67, cash 0.00 Cr
+  ask DPO 57 -> held at 57, cash -17.34 Cr
+
+ALL ASSERTS PASSED: no negative release; interest = 0; priceLevers cash = simulate cash; payables never release cash.

@@ -1,0 +1,211 @@
+August 05, 2026
+
+To
+National Stock Exchange of India Ltd
+Exchange Plaza, Plot No. C/1, G Block,
+Bandra-Kurla Complex,
+Bandra (East), Mumbai 400 051.
+
+Symbol: AFCONS
+Debt: INE101I08081
+
+Sub: Disclosure under Clause 2.2(b) of Chapter XIV of the Securities and Exchange
+       Board of India Master Circular no. SEBI/HO/DDHS/DDHS-PoD/P/ CIR/ 2025/
+       0000000137 dated October 15, 2025 (as amended from time to time) ("SEBI
+       Master Circular") for the Financial Year 2025-26.
+
+With reference to the captioned subject, please find enclosed the disclosure in
+Annexure - XIV-B, as required under Chapter XIV ­ Centralized Database for corporate
+bonds / debentures of the SEBI Master Circular.
+
+This is for your kind information and records.
+
+Thanking you,
+
+Yours faithfully,
+
+For Afcons Infrastructure Limited
+
+           Digitally signed by
+
+GAURANG GAURANG
+
+MAHESHCHA  MAHESHCHANDRA
+           PAREKH
+
+NDRA PAREKH Date: 2026.08.05
+____________1_6_:1_9:3_7_+_05'30'
+
+Gaurang Parekh
+
+Company Secretary and Compliance O icer
+
+Membership No.: F8764
+
+                                   Afcons Infrastructure Limited
+
+    Regd. O ice: Afcons House, 16, Shah Industrial Estate, Veera Desai Road, Azad Nagar,
+Andheri(W), Mumbai - 400 053, India, Tel.: +91-22-6719 1000, Email: secretarial@afcons.com
+
+                        www.afcons.com | CIN No.: L45200MH1976PLC019335
+                                               Annexure - XIV-B
+List of data fields to be submitted by issuer to stock exchanges on a periodical basis as
+
+          on March 31, 2026 (once a year) and/or as and when basis (event based)
+
+1. Listing Details:
+
+Details of Non - Convertible Debentures Issued and Outstanding as on March 31, 2026:
+
+Sr. ISIN             Mode of        Type of     Allotme   Listing  Listing  First   Exchang
+No                   fund           Instrume    n t Date  date     quantit  issue/  e
+.                    raising        nt                             y        furthe
+                                                October   Octob             r       NSE
+1 INE101I080         Private        Non-        14, 2025  er 16,   5000     issue
+       81            Placeme        Convertibl            2025              First
+                     nt             e                                       issue
+                                    Debentur
+                                    es (NCD's)
+
+2. A hyperlink of `Listing Notification by stock exchange' [final approval] hyperlink
+    (downloadable):
+
+https://nsearchives.nseindia.com/content/circulars/CML70872.pdf
+
+3. Details of record date:
+
+Sr. No.  ISIN                 Record Date    Interest/Re  Date of Payment of
+1        INE101I08081                        demption     Interest/Redemption
+                              15 days prior  Annual
+                              to each
+                              coupon date/                1st coupon        14-Oct-2026
+                              redemption                  2nd coupon        14-Oct-2027
+                              date (as                    3rd coupon        13-Oct-2028
+                              mentioned in                Redemption        13-Oct-2028
+                              the Placement
+                              Memorandum)
+
+4. Details of credit rating:
+
+a) Current Rating details:
+
+ISIN                 Name Credit Outlook Rating Date Verification Date of
+
+                     of the Rating              Action of          Status of Verification
+
+                     CRA                                  Credit CRAs
+
+                                                          Rating (Verified/
+
+                                                                   Not
+
+                                                                   Verified)
+
+INE101I08081         Crisil Crisil  Stable      Assigned August Verified       August 22,
+                     Ratings AA-                               22,             2025
+                     Limited                                   2025
+
+                                   Afcons Infrastructure Limited
+
+    Regd. O ice: Afcons House, 16, Shah Industrial Estate, Veera Desai Road, Azad Nagar,
+Andheri(W), Mumbai - 400 053, India, Tel.: +91-22-6719 1000, Email: secretarial@afcons.com
+
+                        www.afcons.com | CIN No.: L45200MH1976PLC019335
+b) Earlier rating details: Not Applicable
+
+ISIN Name           Credit  Outlook  Rating        Date of  Verification    Date of
+          of the    Rating           Action        Credit   Status of       Verification
+          CRA                                      Rating   CRAs
+                                                            (Verified/ Not
+                                                            Verified)
+
+                                     Not Applicable
+
+5. Payment Status:
+
+1. Whether Interest payment/ redemption payment made (yes/ no): No.
+    For ISIN INE101I08081, the first interest payment is due on October 14, 2026, and the
+    payment will be made within the prescribed timeline.
+
+2. Details of interest payments:
+
+Sr. No. Particulars                                         Details
+
+1. ISIN                                                     Not applicable
+2. Issue size
+3. Interest Amount to be paid on due date
+4. Frequency - quarterly/ monthly
+5. Change in frequency of payment (if any)
+6. Details of such change
+7. Interest payment record date
+8. Due date for interest payment (DD/MM/YYYY)
+9. Actual date for interest payment (DD/MM/YYYY)
+10. Amount of interest paid
+11. Date of last interest payment
+12. Reason for non-payment/ delay in payment
+
+3. Details of redemption payments: Not applicable
+
+Sr. No. Particulars                                         Details
+
+1. ISIN
+
+2. Type of redemption (full/ partial)
+
+3. If partial redemption, then
+
+a.                  By face value redemption
+
+b.                  By quantity redemption
+
+4. If redemption is based on quantity, specify, whether
+
+on:
+
+1. Lot basis                                                Not applicable
+
+2. Pro-rata basis
+
+5. Reason for redemption (call, put, premature
+
+redemption, maturity,
+
+buyback, conversion, others (if any))
+
+6. Redemption date due to put option (if any)
+
+7. Redemption date due to call option (if any)
+
+8. Quantity redeemed (no. of NCDs)
+
+9. Due date for redemption/ maturity
+
+                                   Afcons Infrastructure Limited
+
+    Regd. O ice: Afcons House, 16, Shah Industrial Estate, Veera Desai Road, Azad Nagar,
+Andheri(W), Mumbai - 400 053, India, Tel.: +91-22-6719 1000, Email: secretarial@afcons.com
+
+                        www.afcons.com | CIN No.: L45200MH1976PLC019335
+        10. Actual date for redemption (DD/MM/YYYY)
+        11. Amount redeemed
+        12. Outstanding amount (Rs.)
+        13. Date of last Interest payment
+
+6. Default history information: Have there been any defaults/ delays in servicing any other
+    debt security issued by the issuer? If yes, details thereof: Not Applicable
+
+Nature  Issue  Due date of   Actual          Default  Verification  Date of
+of the  size   interest/     payment date    details  status of     verification
+issue          redemption    details                  debenture
+               (dd/mm/yyyy)  (dd/mm/yyyy)             trustee
+                                                      (yes/ no)
+
+                             Not Applicable
+
+                                   Afcons Infrastructure Limited
+
+    Regd. O ice: Afcons House, 16, Shah Industrial Estate, Veera Desai Road, Azad Nagar,
+Andheri(W), Mumbai - 400 053, India, Tel.: +91-22-6719 1000, Email: secretarial@afcons.com
+
+                        www.afcons.com | CIN No.: L45200MH1976PLC019335
+

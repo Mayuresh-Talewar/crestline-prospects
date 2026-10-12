@@ -1,0 +1,175 @@
+                               KEC International Ltd
+
+                          Company Research Dossier | Crestline Intelligence | prepared 2026-10-07
+
+1 Company Snapshot
+
+Legal name                KEC International Limited
+Listing
+CIN / Incorporated        Listed -- NSE: KEC / BSE: 532714. RPG Group flagship.
+Headquarters
+Website / Email           L45200MH2005PLC152061 | 2005 (lineage to Kamani Engineering, 1945)
+Business
+                          RPG House, 463, Dr. Annie Besant Road, Worli, Mumbai 400030, Maharashtra
+Marquee clients
+                          kecrpg.com | kecindia@kecrpg.com | +91 22 6667 0200
+
+                          Global EPC major -- Power Transmission & Distribution (T&D;, incl. towers & cables mfg), Civil
+                          (buildings/industrial/water/metro), Transportation (railways & metro), Cables, Renewables
+                          (solar/BESS), Oil & Gas pipelines. Operates across 100+ countries.
+
+                          Power Grid Corp, state TRANSCOs, global utilities (SAE Towers in Americas), Indian Railways,
+                          NHAI, Adani, data-centre & industrial clients.
+
+2 Financials -- Full Year (consolidated)
+
+Metric                    FY25                            FY26                                     Read
+Revenue                   ~Rs 21,847 Cr (record; verify)  Rs 23,506 Cr (record)
+                                                                                                   Steady double-digit
+PAT                       +65% YoY (~Rs 570 Cr)           higher YoY (verify)                      growth
+
+EBITDA margin             ~7.0%                           ~7%+ (rising)                            Margin + lower
+Order book                Rs 33,398 Cr (31-Mar-25)        Rs 39,325 Cr (30-Sep-25)                 interest
+
+Orders secured            Rs 24,689 Cr (+36%)             --                                       Improving, still thin
+Net debt (incl. accept.)  Rs 4,558 Cr (31-Mar-25)         focus on reduction
+                                                                                                   Strong visibility ~1.7x
+NWC days                  122 (vs 112 FY24)               --                                       rev
+
+Debtor days               95                              --                                       Record inflows
+
+Dividend                  --                              Rs 5.50 / share (FY26)                   Down ~Rs 500 Cr
+                                                                                                   despite growth
+
+                                                                                                   Rising WC --
+                                                                                                   Crestline wedge
+
+                                                                                                   ~3+ months of sales
+                                                                                                   tied up
+
+                                                                                                   Shareholder return
+
+3 Quarterly Results -- FY26 (consolidated)
+
+Quarter             Revenue                        EBITDA (margin)             PAT                 YoY note
+
+Q1 FY26             Rs 5,023 Cr                    Rs 350 Cr (7.0%)            Rs 124.6 Cr         Rev +11%, PAT
+                                                                                                   +42%
+
+Q2 FY26             Rs 6,092 Cr                    Rs 430 Cr (7.1%)            Rs 161 Cr           Rev +19%, PAT
+                                                                                                   +88%
+
+H1 FY26             Rs 11,114 Cr                   --                          Rs 285 Cr           Rev +15%, PAT
+                                                                                                   +65%
+
+Segment mix Q2 FY26: T&D; Rs 4,080 Cr (+44%), Civil Rs 968 Cr, Transportation Rs 425 Cr, Cables, Renewables (+87% YoY base). T&D; is the
+growth engine.
+
+4 Working-Capital / Pain Analysis (Crestline wedge)
+· NWC days rose to 122 (FY25) from 112 (FY24); debtor days 95 -- ~3+ months of sales locked in receivables across 100+
+
+   country operations. This is the exact O2C metric Crestline compresses.
+
+· Net debt Rs 4,558 Cr (incl. acceptances) -- WC-driven borrowing; management explicitly running a debt-reduction +
+
+   WC-discipline program (board-watched lever).
+
+· Multi-geography, multi-currency T&D; + civil + railways execution -- retention, BG/LC load, mobilisation advances, variation
+
+   claims across dozens of countries and segments. Dispersed cash-cycle visibility is the core gap.
+
+· T&D; export business (SAE Towers, Americas/MEA) adds FX + cross-border collection complexity on top of domestic govt
+
+   receivables (Power Grid, TRANSCOs, Railways).
+
+· P2P: steel/conductor/cable/tower procurement + global subcontractors -- creditor-days & advance management at Rs
+
+   23,500 Cr scale.
+
+· Thin EBITDA (~7%) means every WC/interest day matters to PAT -- strong ROI narrative for a working-capital-intelligence
+
+   layer.
+
+5 ERP / Systems
+
+· KEC (RPG Group flagship, Rs 23,500 Cr, 100+ countries) runs enterprise SAP -- almost certainly SAP S/4HANA / ECC
+
+   (RPG group standard). VERIFY exact instance via job posts / IT case study.
+
+· Crestline angle: this is a LAYER-ON-SAP play -- the SAP event log is the substrate; Crestline sits above it for O2C / P2P /
+
+   working-capital intelligence. SAP is a prerequisite MET here, not an obstacle.
+
+· Scale + global footprint means rich-but-siloed ERP data -- the cross-entity working-capital view is exactly what is hard to get
+
+   from vanilla SAP reporting.
+
+6 Leadership & Where They Sit
+
+Name                      Role                                         Email (verify)
+
+Harsh Vardhan Goenka      Chairman (RPG Group)                         via kecindia@kecrpg.com
+
+Vimal Kejriwal            Managing Director & CEO                      via kecindia@kecrpg.com
+
+Rajeev Aggarwal           Chief Financial Officer -- PRIMARY WC buyer  rajeev.aggarwal@kecrpg.com (inf.)
+
+Suraj Prakash Eksambekar  Company Secretary & Compliance Officer       via kecindia@kecrpg.com
+
+Entry point: CFO Rajeev Aggarwal (owns WC/debt program). Email pattern inferred firstname.lastname@kecrpg.com -- verify; kecindia@kecrpg.com
+is the confirmed inbox.
+
+7 Offices / Addresses (double-verified)
+
+Registered &              RPG House, 463, Dr. Annie Besant Road, Worli, Mumbai 400030, Maharashtra. Tel +91 22 6667
+Corporate Office          0200.
+Verification
+                          Confirmed in TWO independent sources: MCA/Zaubacorp (CIN L45200MH2005PLC152061) and
+Footprint                 RPG/KEC investor presentations & BSE filings (letterhead "RPG House, 463, Dr. Annie Besant
+                          Road").
+
+                          Tower & cable manufacturing plants (Jaipur, Nagpur, Vadodara, Mysuru, Jabalpur + SAE Towers
+                          Brazil/Mexico/USA). Project sites across 100+ countries. Finance/IT at Mumbai HQ.
+
+8 Recent Order Wins / News (FY26)
+
+· FY26 record revenue Rs 23,506 Cr; FY26 dividend Rs 5.50/share declared.
+· Order book Rs 39,325 Cr as on 30-Sep-2025; pipeline (incl. L1) exceeds Rs 40,000+ Cr.
+· Q2 FY26 PAT Rs 161 Cr (+88% YoY) on revenue Rs 6,092 Cr (+19%); T&D; +44%.
+· FY25: secured orders Rs 24,689 Cr (+36%); net debt cut by ~Rs 500 Cr to Rs 4,558 Cr.
+· Strong T&D; order inflows domestically (grid capex super-cycle) + Middle East / Americas.
+
+9 Why Target / How to Approach
+
+· Why: Rs 23,500 Cr global EPC with rising NWC (122 days) + debtor days 95 + Rs 4,558 Cr net debt -- a board-level
+
+   working-capital agenda = precise Crestline fit at the top of the market.
+
+· Angle: position ABOVE existing SAP -- cross-entity / cross-country O2C-P2P-WC intelligence to cut NWC days and
+
+   interest. Lead with the "every WC day = PAT at 7% margin" ROI.
+
+· Who: CFO Rajeev Aggarwal (primary); MD&CEO; Vimal Kejriwal (sponsor). Enter via finance, not IT.
+· Caveat: large enterprise sale with long cycle; confirm SAP instance + exact FY25 revenue/PAT before outreach. Emails
+
+   inferred; kecindia@kecrpg.com confirmed.
+10 Sources & References
+
+1. Q2 & H1 FY26 results (KEC press release) --
+https://www.kecrpg.com/press-release/earnings/financial-performance-for-quarter-&-half-year-ended-30-september-2025-10-11-25
+2. Q2 FY26 results (SolarQuarter) --
+https://solarquarter.com/2025/11/11/kec-international-delivers-strong-q2-fy26-results-with-6092-crore-revenue-and-161-crore-profit-after-tax/
+3. Q1 FY26 earnings (Alphastreet) -- https://alphastreet.com/india/kec-international-q1-fy26-earnings-results/
+4. FY26 record revenue Rs 23,506 Cr + dividend (ScanX) --
+https://scanx.trade/stock-market-news/companies/kec-international-declares-5-50-dividend-per-share-for-fy26/46508733
+5. FY25 results -- order book 33,398 Cr, net debt 4,558 Cr, NWC 122d (KEC) --
+https://www.kecrpg.com/press-release/earnings/financial-performance-for-quarter-&-year-ended-31-march-2025-26-05-25
+6. FY25 record revenue, PAT +65% (TheMachineMaker) --
+https://themachinemaker.com/news/kec-international-reports-record-revenue-and-65-growth-in-profit-after-tax-for-fy25/
+7. Board & management -- https://www.kecrpg.com/board-of-directors-a-committees
+8. Registered office & CIN (Zaubacorp) -- https://www.zaubacorp.com/company/KEC-INTERNATIONAL-LIMITED/L45200MH2005PLC152061
+9. Q2 FY26 earnings call transcript -- https://www.kecrpg.com/public/media/earningsCallRecordingFilesMedia/KEC Q2 FY26 Earnings Call Transcript.pdf
+
+Figures as reported by the cited sources (consolidated unless noted). Rs = INR crore unless stated. Inferred emails flagged -- verify before outreach.
+Prepared for Crestline Intelligence, 2026-10-07.
+

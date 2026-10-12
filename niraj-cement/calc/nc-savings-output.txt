@@ -1,0 +1,28 @@
+Per day: Rs 1.480658 Cr (540.44 / 365)
+Debtor days: 47 (leg: receivable, no terms passed, no interest)
+10 days: 47 -> 37; cash released Rs 14.8066 Cr; cross-check Rs 14.8066 Cr; interest Rs 0 Cr
+30 days: 47 -> 17; cash released Rs 44.4197 Cr; cross-check Rs 44.4197 Cr; interest Rs 0 Cr
+ALL ASSERTS PASS
+
+--- break tests (each must fail) ---
+== BREAK=1
+AssertionError [ERR_ASSERTION]: cross-check days x per day 14.806575342465756 vs simulate 15.012222222222224
+    at assert (C:\Users\asus\Desktop\process-automation-crestline\scripts\_tmp-nc-savings.ts:37:10)
+== BREAK=2
+AssertionError [ERR_ASSERTION]: no negative release (-14.806575342465756)
+    at assert (C:\Users\asus\Desktop\process-automation-crestline\scripts\_tmp-nc-savings.ts:34:10)
+== BREAK=3
+AssertionError [ERR_ASSERTION]: interest must be 0
+    at assert (C:\Users\asus\Desktop\process-automation-crestline\scripts\_tmp-nc-savings.ts:35:10)
+== BREAK=4
+AssertionError [ERR_ASSERTION]: cross-check days x per day 14.954641095890414 vs simulate 14.806575342465756
+    at assert (C:\Users\asus\Desktop\process-automation-crestline\scripts\_tmp-nc-savings.ts:37:10)
+== BREAK=5
+AssertionError [ERR_ASSERTION]: no payable lever on this basis
+    at assert (C:\Users\asus\Desktop\process-automation-crestline\scripts\_tmp-nc-savings.ts:43:10)
+== BREAK=0
+Per day: Rs 1.480658 Cr (540.44 / 365)
+Debtor days: 47 (leg: receivable, no terms passed, no interest)
+10 days: 47 -> 37; cash released Rs 14.8066 Cr; cross-check Rs 14.8066 Cr; interest Rs 0 Cr
+30 days: 47 -> 17; cash released Rs 44.4197 Cr; cross-check Rs 44.4197 Cr; interest Rs 0 Cr
+ALL ASSERTS PASS

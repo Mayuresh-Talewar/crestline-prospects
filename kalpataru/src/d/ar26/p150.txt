@@ -1,0 +1,64 @@
+Financial Statements                                                                                                                   Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                               for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+              the expected credit loss rate. In addition, in case    R.Investments in subsidiaries and joint ventures                  T. Exceptional item                                                  date and have substance. The amendment also
+              of event driven situation as litigations, disputes,                                                                                                                                           introduces guidance on classification of liabilities
+              change in customer's credit risk history, specific     Investments in subsidiaries and joint ventures are                Exceptional Items include income / expenses that are                 with covenants. The Company has no impact of
+              provisions are made after evaluating the relevant             carried at cost / deemed cost applied on transition               considered to be part of ordinary activities, however of      these amendments in its classification criteria of
+              facts and expected recovery.                                  to Ind AS, less accumulated impairment losses, if any.            such significance and nature that separate disclosure         current and non-current liabilities.
+                                                                            Investment in subsidiaries and joint ventures are carried         enables the users of financial statements to understand
+The amount of expected credit losses (or reversal)                          at cost and are tested for Impairment in accordance               the impact in more meaningful manner. Exceptional         3.Ind AS 7, Statement of Cash Flows and lnd AS 107,
+              that is required to adjust the loss allowance at the          with Ind AS 36, `Impairment of assets'.                           Items are identified by virtue of their size, nature                    Financial Instruments - The amendment to Ind AS
+              reporting date is recognized as an gain or loss in                                                                              and incidence.                                                          7 requires disclosure of information about supplier
+              the Statement of Profit and Loss.                      In case of funding to subsidiary companies in the form                                                                                           finance arrangements, including their nature,
+                                                                            of interest free or concession loans and preference        U.Ministry of Corporate Affairs ("MCA") has notified                           the carrying amount of related liabilities, and the
+       b) Non-Financial asset                                               shares, the excess of the actual amount of the funding            following new standards or amendments to the existing                   range of payment due dates. The Company has
+                                                                            over initially measured fair value is accounted as an             standards under Companies (Indian Accounting                            evaluated the amendment and determined that it
+The carrying values of assets / cash generating                             equity investment.                                                Standards) Rules as issued from time to time.                           does not have any supplier finance arrangements
+              units at each balance sheet date are reviewed for                                                                                                                                                       falling within its scope. Hence, the amendment has
+              impairment. If any indication of impairment exists,    Interest free loan give to subsidiaries are in nature of          1.  lnd AS 21- The Effects of Changes in Foreign                               no impact on the Company's financial statements.
+              the recoverable amount of such assets / cash                  perpetual funding with no maturity or redemption               Exchange Rates - The Company has reviewed
+              generating units is estimated and impairment is               and is repayable only at the option of the borrower            the amendment and based on its evaluation has                4.  lnd AS 12, International Tax Reform - Pillar Two
+              recognized, if the carrying amount of these assets            and accordingly, same is in nature of equity support           determined that it does not have any significant                 Model Rules - The amendments provide a
+              exceeds their recoverable amount. Impairment                  classified as investment in subsidiaries.                      impact in its financial statements.                              temporary mandatory relief from deferred tax
+              losses are recognized in the statement of profit                                                                                                                                              accounting for top-up tax and disclose that they
+              and loss.                                              The Company classifies its financial assets in the                2.  l nd AS 1, Presentation of Financial Statements - The            have applied the relief. The Company has reviewed
+                                                                            measurement categories as those to be measured                 amendment relates to classification of liabilities as            the amendment and based on its evaluation has
+For the purpose of assessing impairment, assets                             subsequently at fair value (through other comprehensive        current or non-current and non-current liabilities               determined that it does not have any impact in its
+              are grouped at the lowest level, for which there              income or through profit and loss) and those measured          with covenants. In the context of classifying a liability        standalone financial statements.
+              are separately identifiable cash inflows, which are           at amortised cost. The classification depends on the           as current, it removes the requirement of existence
+              largely independent of the cash inflows from other            Company's business model for managing the financial            of a right to defer settlement for at least 12 months
+              assets or group of assets (cash-generating unit).             asset and the contractual terms of the cash flows.             after the reporting date, and instead requires
+                                                                                                                                           that the said right should exist on the reporting
+Intangible assets with indefinite life and goodwill                  Determining whether the investments in subsidiaries
+              are tested for impairment at every period end.                are impaired requires an estimate in the value in use
+              Impairment is recognized, if the carrying amount              of investments. The Company reviews its carrying
+              of these assets exceeds their recoverable amount.             value of investments carried at cost annually, or more
+                                                                            frequently when there is an indication for impairment.
+The recoverable amount is the higher of the fair                            The carrying amount of investment is tested for
+              value less cost of disposal and their value in                impairment as a single asset by comparing it's value
+              use. Value in use is arrived at by discounting the            in use with its carrying amount, any impairment
+              future cash flows to their present value using a              loss recognised reduces the carrying amount of
+              pre-tax discount rate that reflects current market            investment. In considering the value in use, the
+              assessments of the time value of money and the                Company has anticipated the future market conditions
+              risk specific to the asset for which the estimates of         and other parameters that affect the operations of
+              future cash flows have not been adjusted.                     these entities including operating results, business
+                                                                            plans, future cash flows and economic conditions and
+When an impairment loss subsequently reverses,                              key assumptions such as estimated long term growth
+              the carrying amount of the asset (or a cash-                  rates, weighted average cost of capital and estimated
+              generating unit) is increased to the revised                  operating margins. Cash flow projections consider
+              estimate of its recoverable amount, but so                    past experience and represent management's best
+              that the increased carrying amount does not                   estimate about future developments.
+              exceed the carrying amount that would have
+              been determined had no impairment loss been            S. Earnings Per share
+              recognised for the asset (or cash-generating unit)
+              in prior years. A reversal of an impairment loss is    Basic earnings per share are computed by dividing
+              recognised immediately in the Statement of Profit             profit or loss for the period of the Company by dividing
+              and Loss.                                                     weighted average number of equity shares outstanding
+                                                                            during the period. The Company did not have dilutive
+                                                                            potential equity shares in any period presented.
+
+294 Kalpataru Projects International Limited                                                                                                                                                                Integrated Annual Report 2025-26 295

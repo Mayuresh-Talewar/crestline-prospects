@@ -1,0 +1,90 @@
+=== RK_BREAK=negative ===
+clamp bounds on the lever (no terms passed): min 0, max 350, now 250
+value of a day: 524.35 / 365 = 1.436575 Rs Cr
+10-day step: 250 -> 240 days, cash released once Rs -14.3658 Cr, carry 0, lever carry 0
+
+AssertionError [ERR_ASSERTION]: no negative release (-14.365753424657534)
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: false,
+  expected: true,
+  operator: '=='
+}
+
+exit code: 1
+=== RK_BREAK=interest ===
+clamp bounds on the lever (no terms passed): min 0, max 350, now 250
+value of a day: 524.35 / 365 = 1.436575 Rs Cr
+10-day step: 250 -> 240 days, cash released once Rs 14.3658 Cr, carry 1.292917808219178, lever carry 1.292917808219178
+
+AssertionError [ERR_ASSERTION]: interest must be 0
++ actual - expected
+
++ 1.292917808219178
+- 0
+
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: 1.292917808219178,
+  expected: 0,
+  operator: 'strictEqual'
+}
+
+exit code: 1
+=== RK_BREAK=cross ===
+clamp bounds on the lever (no terms passed): min 0, max 350, now 250
+value of a day: 524.35 / 365 = 1.436575 Rs Cr
+10-day step: 250 -> 240 days, cash released once Rs 14.4658 Cr, carry 0, lever carry 0
+
+AssertionError [ERR_ASSERTION]: cross-check 14.465753424657533 vs 14.36575342
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: false,
+  expected: true,
+  operator: '=='
+}
+
+exit code: 1
+=== RK_BREAK=payables ===
+clamp bounds on the lever (no terms passed): min 0, max 350, now 250
+value of a day: 524.35 / 365 = 1.436575 Rs Cr
+10-day step: 250 -> 240 days, cash released once Rs 14.3658 Cr, carry 0, lever carry 0
+30-day step: 250 -> 220 days, cash released once Rs 43.0973 Cr, carry 0, lever carry 0
+independent exact check: 10 days 14.36575342, 30 days 43.09726027
+payables asked to stretch 60 -> 100 days: lands at 60, cash 1
+
+AssertionError [ERR_ASSERTION]: stretching payables must release nothing
+
+1 !== 0
+
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: 1,
+  expected: 0,
+  operator: 'strictEqual'
+}
+
+exit code: 1
+=== RK_BREAK=basis ===
+
+AssertionError [ERR_ASSERTION]: per-day must use FY25 operating income 524.35
+
+700 !== 524.35
+
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: 700,
+  expected: 524.35,
+  operator: 'strictEqual'
+}
+
+exit code: 1
+=== RK_BREAK=none ===
+clamp bounds on the lever (no terms passed): min 0, max 350, now 250
+value of a day: 524.35 / 365 = 1.436575 Rs Cr
+10-day step: 250 -> 240 days, cash released once Rs 14.3658 Cr, carry 0, lever carry 0
+30-day step: 250 -> 220 days, cash released once Rs 43.0973 Cr, carry 0, lever carry 0
+independent exact check: 10 days 14.36575342, 30 days 43.09726027
+payables asked to stretch 60 -> 100 days: lands at 60, cash 0
+PASS: no negative release, interest 0, cross-check, payables 0, basis match
+exit code: 0

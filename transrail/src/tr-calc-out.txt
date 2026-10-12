@@ -1,0 +1,113 @@
+== REVENUE (revenue from operations + other operating revenue)
+standalone FY26: 6878.63
+standalone FY25: 5307.63
+standalone growth %: 29.6
+consolidated FY26: 6880.11
+consolidated FY25: 5307.75
+consolidated growth %: 29.62
+dossier FY26 6879 vs standalone FY26: 6878.63
+dossier FY26 6879 vs consolidated FY26: 6880.11
+dossier FY25 5307.75 vs consolidated FY25: 5307.75
+dossier FY25 5307.75 vs standalone FY25: 5307.63
+== PAT
+standalone PAT growth %: 22.37
+consolidated PAT growth %: 22.79
+dossier PAT 412/336 vs standalone 411.63/336.39 and consolidated 403.59/328.68: see AR p.160, p.248
+== EBITDA
+company ratio operating profit margin 11.92% x standalone rev ops: 807.99
+company ratio 11.92% x consolidated rev ops: 808.17
+standalone build PBT+FC+D&A+exceptional-other income: 826.49
+standalone build margin on rev ops %: 12.19
+standalone finance cost / rev ops %: 3.23
+== BORROWINGS (standalone p.159: non-current 88.53, current 570.86; leases 8.87 + 9.86; FY25 38.53, 604.93, 9.59 + 7.54)
+FY26 borrowings: 659.39
+FY26 borrowings + lease liabilities: 678.12
+FY25 borrowings: 643.46
+FY25 borrowings + lease liabilities: 660.59
+consolidated FY26 borrowings: 659.4
+dossier 678 / 661 compared above: 678 = FY26 incl leases; 661 = FY25 incl leases (rounded)
+term loans total p.190: 136.68
+of which current maturities inside short-term borrowings p.199: 48.15
+short-term borrowings components 252.49+99.74+83.24+10.00+77.24+48.15: 570.86
+== RECEIVABLES (standalone p.180)
+undisputed good sum (stated 1757.87): 1757.87
+ageing total incl disputed: 1784.68
+gross receivable 1759.77+24.91: 1784.68
+share < 6 months of ageing total %: 87.73
+share > 1 year (1-2,2-3,>3 yrs, undisputed and disputed) of total %: 7.14
+> 1 year amount: 127.49
+FY25 ageing share < 6 months of (1351.37+6.55): 71.71
+net trade receivables growth %: 32.06
+== DAYS FROM COMPANY RATIO (debtors turnover = revenue / trade receivables, AR p.33)
+consolidated turnover 6880.11 / receivables 1737.68: 3.959
+-> days (365/x): 92.2
+FY25 5307.75 / 1317.14: 4.03
+-> days: 90.6
+stated turnover 3.96 and 4.03 -> days: 92.2 and 90.6
+own: standalone receivables / rev ops x 365 (FY26): 93.7
+== CONTRACT ASSETS, ADVANCES, PAYABLES, INVENTORY (standalone)
+contract assets FY26 / FY25 change: -6.73
+contract assets share of revenue %: 36.6
+contract assets + trade receivables: 4254.72
+contract liabilities 1252.54 = adjustable receipts 47.72 + advance from customer 1204.82: 1252.54
+trade payables total: 2788.51
+payables growth %: 18.9
+payables ageing others sum (stated 2611.10): 2611.1
+payables ageing MSME sum (stated 177.41): 177.41
+MSME overdue (less than 1 yr + older) of MSME total %: 86.5
+supplier-finance trade payables 1349.66 as % of trade payables: 48.4
+SFA total incl borrowings 1432.90: 1432.9
+inventory growth %: 41.8
+inventory turnover 6880.11/763.04 (stated 9.02): 9.02
+related-party trade receivables 144.83 as % of trade receivables: 8.3
+== CASH FLOW
+consolidated: net cash from operations (p.249): 642.92
+consolidated: cash generated from operations before tax: 816.89
+standalone: net 644.49, before tax 818.39 (p.161): 644.49
+net operating cash / PAT standalone: 1.57
+FY25 standalone net operating cash: 288.28
+FY26 vs FY25 net operating cash growth %: 123.6
+FY26 vs FY25 cash generated before tax growth % (consolidated 816.89 vs 415.09): 96.8
+interest paid consolidated: 185.79
+== ORDER BOOK
+FY25 14551 vs FY24 10100 growth %: 44.07
+FY26 16313 vs FY25 14551 growth %: 12.11
+international 6225 / 16313 %: 38.2
+domestic 16313-6225: 10088
+domestic share %: 61.8
+Q1 FY27: 15635 + L1 400: 16035
+Q1 order intake 1034 x 63% international: 651.4
+FY27 YTD intake after 6-Oct release 2021 less 412: 1609
+revenue standalone outside India share % (3422.35 / 6778.47): 50.5
+consolidated (3423.84 / 6779.95): 50.5
+revenue standalone outside India FY25 share % (3019.61 / 5212.11): 57.9
+order book / FY26 revenue (cover, x): 2.37
+== MANAGEMENT-STATED WORKING CAPITAL DAYS vs DEBT (call and deck)
+WC days FY25 91 -> FY26 81 (days change): 10
+Q1 FY27 deck WC days 85 vs FY26 81: 4
+net debt FY26 deck 267 vs Q4 call 274.16 difference: 7.16
+net debt Q1 FY27 548 vs FY26 267 change: 281
+net debt to EBITDA FY26 0.33 -> Q1 FY27 0.67 (x change): 0.34
+Burberry-company loan stated 80 as % of FY26 standalone loans given (57.19+79.46): 58.5
+QIP 600 / FY26 standalone borrowings %: 91.0
+== PERSON / PROMISE DELTAS
+Q1 FY27 revenue growth stated 5% vs guidance 20% (gap pts): 15
+net debt/EBITDA target 0.33 back by Mar-2027 (mgmt) vs Q1 FY27 0.67; gap: 0.34
+== ADDED (vendor advances, p.186 note 14; GST order, 21-May-2026 filing)
+advance to suppliers current: others 274.38 + related parties 24.85: 299.23
+of which backed by bank guarantees 90.77 as % of others 274.38: 33.1
+GST order: tax 8,23,37,102 + penalty 42,74,03,710 in crore: 50.97
+customer advances 1204.82 vs vendor advances 299.23 net: 905.59
+net operating assets: receivables + contract assets + inventory - payables - contract liabilities (standalone, own build, not management's WC days): 976.15
+that net / revenue 6878.63 x 365 (days, own build): 51.8
+== PROMISE TRACKING (depth.md)
+FY27 order intake to 6 Oct 2026 (2021) as % of the 10,000 plan floor: 20.2
+Q1 FY27 intake 1034 as % of 10,000: 10.3
+Bangladesh book 4500, 300 left: % complete: 93.3
+revenue Q1 FY27 1736 vs Q1 FY26 1660 growth %: 4.58
+annual guidance 20% on FY26 turnover 6880 -> FY27 implied: 8256.0
+22%: 8394.0
+Q1 FY27 revenue as % of the 20% implied FY27 figure: 21.0
+LC discounting cost 40 to 50 as % of finance cost 218.67: 18.3 to 22.9
+net debt FY26 deck 267 to Q1 548: change %: 105.2
+FY26 promised 25% growth, delivered: 29.6

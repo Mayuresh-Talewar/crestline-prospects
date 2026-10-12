@@ -1,0 +1,38 @@
+=== BREAK=neg ===
+== ASSERTS ==
+FAIL  no negative release: BREAK: collection 20 days longer  -163.81
+1 ASSERT(S) FAILED
+exit 1
+=== BREAK=interest ===
+== ASSERTS ==
+FAIL  interest is zero: Collection 10 days less  7.371252493150685
+FAIL  interest is zero: Collection 30 days less  22.11375747945205
+FAIL  interest is zero: Collection to management's 70-day target  24.02787254794522
+FAIL  interest is zero: Certification 10 days less  7.371252493150685
+FAIL  interest is zero: Certification 30 days less  22.11375747945205
+FAIL  interest is zero: Stock 10 days less  2.6671100547945206
+FAIL  interest is zero: Stock 30 days less  8.001330164383562
+FAIL  interest is zero: COMBINED one run: collection to target + certification 30 + stock 30  54.14296019178083
+8 ASSERT(S) FAILED
+exit 1
+=== BREAK=xcheck ===
+== ASSERTS ==
+FAIL  xcheck stock 10  29.63
+FAIL  xcheck stock 30  88.90
+FAIL  basis: stock priced on materials, never revenue per day
+FAIL  cycle ties to 210.8  209.68
+FAIL  DSO ties to 102.6, DIO 116.0, DPO 56.6, CAD 48.9
+5 ASSERT(S) FAILED
+exit 1
+=== BREAK=dpo ===
+== ASSERTS ==
+FAIL  payables release nothing: Vendor credit pushed to 120 days (must be refused)
+FAIL  vendor lever refused at 120 days
+2 ASSERT(S) FAILED
+exit 1
+=== BREAK=floor ===
+== ASSERTS ==
+FAIL  xcheck collection to target = balance - target x per day  266.98
+FAIL  Collection to: cash from collection stays inside gross receivables already past due (403.41)  676.49
+2 ASSERT(S) FAILED
+exit 1

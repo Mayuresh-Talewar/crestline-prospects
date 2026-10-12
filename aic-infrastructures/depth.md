@@ -1,0 +1,4 @@
+# AIC Infrastructures: story angle (CRISIL 13 Feb 2026, standalone)
+Respect first: a Mumbai airport-works specialist, incorporated 2014, rated BBB+/Stable and A2 after an upgrade; operating income Rs 284.17 Cr (FY24) to Rs 457.07 Cr (FY25); PAT Rs 16.79 Cr to Rs 28.02 Cr; order book about Rs 1,140 Cr over 24-36 months; clients it names include airport operators, AAI, MMRDA, MCGM and MSRDC.
+Then the question: CRISIL puts debtors at 125 days and inventory (mostly work in progress) at 155 days at 31 Mar 2025, gross current assets at 303 days, with deposits held at customers (retention, earnest, security) and supplier advances. With most revenue booked in the last quarter, where does each bill wait, and with whom: measurement, the operator's certifier, or the payer? The accounts cannot say which site or desk.
+Growth is bank-funded: gearing 1.58x to 2.08x, cash credit Rs 235 Cr, about 85% utilisation to Dec 2025. Not claimed: any ERP, payable days or interest rate.

@@ -1,0 +1,62 @@
+Financial Statements                                                                                                            Notes forming part of the Consolidated Financial Statements
+
+Notes forming part of the Consolidated Financial Statements                                                                     for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+38. DISCLOSURES PURSUANT TO IND AS 19 EMPLOYEE BENEFITS (Contd.)                                                                38. DISCLOSURES PURSUANT TO IND AS 19 EMPLOYEE BENEFITS (Contd.)
+
+Particulars                                                                                      As at        (H in Crores)     Particulars                                                                                    As at        (H in Crores)
+                                                                                31st March, 2026                                                                                                              31st March, 2026
+(iv) Net Liability recognised in the Balance Sheet                                                                       As at  (ix)Maturity Profile of Defined benefit obligation                                                                     As at
+Present value of obligation                                                                             31st March, 2025        1 year                                                                                                31st March, 2025
+Fair value of plan assets                                                                                                       2 year
+Assets / (Liability) Recognized in Balance Sheet                                132.35                   87.68                  3 year                                                                        19.35                   13.26
+(v) Changes in Present Value of Obligations                                     65.04                    46.76                  4 year                                                                         11.60                    7.70
+Present value of obligation at the beginning of the year                        (67.31)                 (40.92)                 5 year                                                                        12.96                    8.04
+Current Service Cost                                                                                                            after 5 year                                                                   13.41                   8.65
+Past Service Cost                                                               87.68                   74.26                   (x) Quantitative Sensitivity Analysis for Significant Assumptions             13.35                     8.71
+Interest Cost (Gross)                                                            17.06                   12.77                  Defined Benefits Obligation (Base)                                            57.63                   37.58
+Actuarial (gains) / losses arising from:                                        29.68                                           Impact of change in discount rate
+changes in financial assumptions                                                 5.42                    4.94                   Revised obligation at the end of the year                                     132.35                  87.68
+change in demographic assumptions                                                                                               due to increase of 0.50%
+changes in experience assumptions                                                (0.69)                    2.91                 due to decrease of 0.50%                                                      127.93                  84.74
+Liability transferred                                                                  -                      -                 Impact of change in salary increase                                           137.04                  90.81
+Benefits paid                                                                                                                   Revised obligation at the end of the year
+Present value of obligation at the end of the year                                4.48                    5.24                  Impact due to increase of 0.50%                                                              135.64          90.25
+                                                                                  (0.18)                (0.09)                  Impact due to decrease of 0.50%                                                               129.01         85.14
+                                                                                  (11.10)               (12.35)                 Sensitivities due to mortality and rate of withdrawals are insignificant and
+                                                                                132.35                  87.68                                                                                                                 23.35          14.83
+                                                                                                                                      therefore, ignored.                                                     4.19 - 12.76 years      7.43 Years
+Particulars                                                                                      As at        (H in Crores)     (xi)Expected contribution next years
+                                                                                31st March, 2026                                (xii)W eighted Average Duration
+(vi) Changes in Fair Value of Plan Assets                                                                                As at
+Fair value of Plan Assets at the beginning of the year                                                  31st March, 2025
+Interest Income
+Return on Plan Assets                                                           46.76                   36.58                   (d) Characteristics of defined benefit plans and risks associated with them:
+Contributions by Employer                                                          3.19                   2.68
+Benefits paid                                                                                           (0.38)                  Valuations of defined benefit plan are performed on certain basic set of pre-determined assumptions and other
+Fair Value of Plan assets at the end of the year                                 (0.02)                                                regulatory framework which may vary over time. Thus, the Group is exposed to various risks in providing the above
+(vii)B ifurcation of present value of obligations into current and non-current  25.65                   20.23                          benefit plans which are as follows:
+Current Liability                                                               (10.54)                 (12.35)
+Non-current Liability                                                           65.04                   46.76                   a.Interest Rate Risk: The plan exposes the Group to the risk of fall in interest rates. A fall in interest rates will result in an
+(viii) A ctuarial assumptions used in determining the obligation are                                                                          increase in the ultimate cost of providing the above benefit and will thus result in an increase in the value of the
+Discount rate                                                                    21.72                  14.91                                 liability (i.e. value of defined benefit obligation).
+Salary Escalation Rate                                                          45.59                   26.01
+Mortality Rate                                                                                                                  b.Salary Escalation Risk: The present value of the defined benefit plan is calculated with the assumption of salary
+                                                                                6.75% - 7.40%           6.60% - 6.97%                         increase rate of plan participants in future. Deviation in the rate of increase of salary in future for plan participants
+Withdrawal Rate                                                                                                                               from the rate of increase in salary used to determine the present value of obligation will have a bearing on the
+Retirement Age                                                                  6% - 8%                 5% - 7%                               plan's liability.
+Expected Return on Asset
+                                                                                As per Indian Assured Lives Mortality           c.Demographic Risk: The Group has used certain mortality and attrition assumptions in valuation of the liability. The
+                                                                                               (2012-14) Table                                Group is exposed to the risk of actual experience turning out to be worse compared to the assumption.
+
+                                                                                2.00%-25.00%            2.00%-25.00%            d.Investment Risk: The Group has funded with well established Govt. of India undertaking & other IRDA approved
+                                                                                                                                              agency and therefore, there is no material investment risk.
+                                                                                58 - 60 years
+                                                                                                                                39.Advance taxes paid, including tax deducted at sources are shown as assets net of provision of tax including foreign
+                                                                                6.75% - 7.15%           6.65% - 6.70%
+                                                                                                                                       tax. Provision for tax (including foreign tax) is made after considering depreciation, deductions and allowances as per
+                                                                                                                                       applicable tax statutes and regulations there under.
+
+406 Kalpataru Projects International Limited                                                                                                                                                                  Integrated Annual Report 2025-26 407

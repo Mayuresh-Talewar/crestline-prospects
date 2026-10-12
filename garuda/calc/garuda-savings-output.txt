@@ -1,0 +1,198 @@
+# Garuda calc output (run 2026-10-09, from the app repo: npx tsx scripts/_tmp-ga-savings.ts)
+
+## CLEAN RUN
+Per day (FY26 revenue 530.72 / 365)      : 1.454027 Cr  -> 1.45
+valueOfADay cash / carry                  : 1.454027 / 0
+Contract asset days (218.91 / per day)    : 150.5542  -> 150.6
+Basis: standalone FY26 (AR26 PDF p.113) vs standalone FY26 (AR26 PDF p.132 (printed 131, Contract Balances; also PDF p.125, Note 10))
+
+-- 10 days off the contract-asset leg
+   days 150.55 -> 140.55 (moved -10.00)
+   days, one decimal (as printed): 150.6 -> 140.6
+   cash released (simulate)   : 14.540274 Cr  -> 14.54
+   independent days x per day : 14.540274 Cr
+   share of 218.91 Cr         : 6.64%
+   interest (carry)           : 0
+
+-- 30 days off the contract-asset leg
+   days 150.55 -> 120.55 (moved -30.00)
+   days, one decimal (as printed): 150.6 -> 120.6
+   cash released (simulate)   : 43.620822 Cr  -> 43.62
+   independent days x per day : 43.620822 Cr
+   share of 218.91 Cr         : 19.93%
+   interest (carry)           : 0
+
+-- payables fixture: asked 30 -> 60 days, simulator held at 30, cash 0
+
+ALL ASSERTS PASSED
+exit: 0
+
+## BREAK=1 (one fault injected; assert must fail)
+Per day (FY26 revenue 530.72 / 365)      : 1.454027 Cr  -> 1.45
+valueOfADay cash / carry                  : 1.454027 / 0
+Contract asset days (218.91 / per day)    : 150.5542  -> 150.6
+Basis: standalone FY26 (AR26 PDF p.113) vs standalone FY26 (AR26 PDF p.132 (printed 131, Contract Balances; also PDF p.125, Note 10))
+
+-- 10 days off the contract-asset leg
+   days 150.55 -> 160.55 (moved 10.00)
+   days, one decimal (as printed): 150.6 -> 160.6
+   cash released (simulate)   : -14.540274 Cr  -> -14.54
+   independent days x per day : 14.540274 Cr
+   share of 218.91 Cr         : -6.64%
+   interest (carry)           : 0
+node:internal/modules/run_main:123
+    triggerUncaughtException(
+    ^
+
+AssertionError [ERR_ASSERTION]: negative release: -14.54027397260274
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: false,
+  expected: true,
+  operator: '=='
+}
+
+Node.js v22.17.0
+exit: 1
+
+## BREAK=2 (one fault injected; assert must fail)
+Per day (FY26 revenue 530.72 / 365)      : 1.454027 Cr  -> 1.45
+valueOfADay cash / carry                  : 1.454027 / 0.13086246575342467
+Contract asset days (218.91 / per day)    : 150.5542  -> 150.6
+Basis: standalone FY26 (AR26 PDF p.113) vs standalone FY26 (AR26 PDF p.132 (printed 131, Contract Balances; also PDF p.125, Note 10))
+
+-- 10 days off the contract-asset leg
+   days 150.55 -> 140.55 (moved -10.00)
+   days, one decimal (as printed): 150.6 -> 140.6
+   cash released (simulate)   : 14.540274 Cr  -> 14.54
+   independent days x per day : 14.540274 Cr
+   share of 218.91 Cr         : 6.64%
+   interest (carry)           : 1.3086246575342466
+node:internal/modules/run_main:123
+    triggerUncaughtException(
+    ^
+
+AssertionError [ERR_ASSERTION]: interest must be 0, got 1.3086246575342466
++ actual - expected
+
++ 1.3086246575342466
+- 0
+
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: 1.3086246575342466,
+  expected: 0,
+  operator: 'strictEqual'
+}
+
+Node.js v22.17.0
+exit: 1
+
+## BREAK=3 (one fault injected; assert must fail)
+Per day (FY26 revenue 530.72 / 365)      : 1.454027 Cr  -> 1.45
+valueOfADay cash / carry                  : 1.454027 / 0
+Contract asset days (218.91 / per day)    : 150.5542  -> 150.6
+Basis: standalone FY26 (AR26 PDF p.113) vs standalone FY26 (AR26 PDF p.132 (printed 131, Contract Balances; also PDF p.125, Note 10))
+
+-- 10 days off the contract-asset leg
+   days 150.55 -> 140.55 (moved -10.00)
+   days, one decimal (as printed): 150.6 -> 140.6
+   cash released (simulate)   : 14.540274 Cr  -> 14.54
+   independent days x per day : 14.742222 Cr
+   share of 218.91 Cr         : 6.64%
+   interest (carry)           : 0
+node:internal/modules/run_main:123
+    triggerUncaughtException(
+    ^
+
+AssertionError [ERR_ASSERTION]: cross-check 14.54027397260274 vs 14.742222222222225
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: false,
+  expected: true,
+  operator: '=='
+}
+
+Node.js v22.17.0
+exit: 1
+
+## BREAK=4 (one fault injected; assert must fail)
+Per day (FY26 revenue 530.72 / 365)      : 1.454027 Cr  -> 1.45
+valueOfADay cash / carry                  : 1.454027 / 0
+Contract asset days (218.91 / per day)    : 150.5542  -> 150.6
+Basis: standalone FY26 (AR26 PDF p.113) vs standalone FY26 (AR26 PDF p.132 (printed 131, Contract Balances; also PDF p.125, Note 10))
+
+-- 10 days off the contract-asset leg
+   days 150.55 -> 140.55 (moved -10.00)
+   days, one decimal (as printed): 150.6 -> 140.6
+   cash released (simulate)   : 14.540274 Cr  -> 14.54
+   independent days x per day : 14.540274 Cr
+   share of 218.91 Cr         : 6.64%
+   interest (carry)           : 0
+
+-- 30 days off the contract-asset leg
+   days 150.55 -> 120.55 (moved -30.00)
+   days, one decimal (as printed): 150.6 -> 120.6
+   cash released (simulate)   : 43.620822 Cr  -> 43.62
+   independent days x per day : 43.620822 Cr
+   share of 218.91 Cr         : 19.93%
+   interest (carry)           : 0
+
+-- payables fixture: asked 30 -> 60 days, simulator held at 60, cash 30
+node:internal/modules/run_main:123
+    triggerUncaughtException(
+    ^
+
+AssertionError [ERR_ASSERTION]: payables released cash: 30
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: false,
+  expected: true,
+  operator: '=='
+}
+
+Node.js v22.17.0
+exit: 1
+
+## BREAK=5 (one fault injected; assert must fail)
+Per day (FY26 revenue 530.72 / 365)      : 1.454027 Cr  -> 1.45
+valueOfADay cash / carry                  : 1.454027 / 0
+Contract asset days (218.91 / per day)    : 150.5542  -> 150.6
+Basis: standalone FY26 (AR26 PDF p.113) vs consolidated FY26 (AR26 PDF p.132 (printed 131, Contract Balances; also PDF p.125, Note 10))
+
+-- 10 days off the contract-asset leg
+   days 150.55 -> 140.55 (moved -10.00)
+   days, one decimal (as printed): 150.6 -> 140.6
+   cash released (simulate)   : 14.540274 Cr  -> 14.54
+   independent days x per day : 14.540274 Cr
+   share of 218.91 Cr         : 6.64%
+   interest (carry)           : 0
+
+-- 30 days off the contract-asset leg
+   days 150.55 -> 120.55 (moved -30.00)
+   days, one decimal (as printed): 150.6 -> 120.6
+   cash released (simulate)   : 43.620822 Cr  -> 43.62
+   independent days x per day : 43.620822 Cr
+   share of 218.91 Cr         : 19.93%
+   interest (carry)           : 0
+
+-- payables fixture: asked 30 -> 60 days, simulator held at 30, cash 0
+node:internal/modules/run_main:123
+    triggerUncaughtException(
+    ^
+
+AssertionError [ERR_ASSERTION]: basis mismatch: entity
++ actual - expected
+
++ 'standalone'
+- 'consolidated'
+
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: 'standalone',
+  expected: 'consolidated',
+  operator: 'strictEqual'
+}
+
+Node.js v22.17.0
+exit: 1

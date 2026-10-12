@@ -1,0 +1,72 @@
+Financial Statements                                                                                                              Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                          for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+16. EQUITY SHARE CAPITAL (Contd.)                                                                                                 18. (i) NON-CURRENT BORROWINGS
+
+16.6 Details of shareholders holding more than 5% shares in the Company                                                                                                                                                                                (H in Crores)
+                                                                                                                                                                                                                                     As at 31st March, 2025
+                                              As at 31st March, 2026                     As at 31st March, 2025                   Particulars                                                  As at 31st March, 2026             Non-Current Current
+                                                                                                                                                                                            Non-Current Current
+Name of Shareholder                                    No. of                                     No. of                          Secured - At amortised cost
+                                              Shares held                  % of Holding  Shares held      % of Holding            (a) Term Loans
+Mr. Mofatraj Pukharaj Munot
+Kalpataru Construction Private Limited        1,63,43,218                  9.57          1,63,43,218             9.57                     From Banks
+K. C. Holdings Private Limited                                                                                                            From Others
+HDFC Small Cap Fund                           1,36,54,347                  8.00          1,36,54,347             8.00             Unsecured - At amortised cost                                           66.67        46.37      340.54      136.27
+ICICI Prudential Equity & Debt Fund                                                                                               (a) Non-Convertible Redeemable Debentures                                     -    369.53               -   359.71
+SBI Small Cap Fund                            2,07,76,884                  12.17         2,07,76,884             12.17            Less: Unamortised Transaction Cost of Borrowings
+Kotak Small Cap Fund                                                                                                              Amount disclosed under the head "Current Borrowings"
+                                              1,43,76,582                  8.42          1,44,07,255             8.44             [Refer Note 18 (ii)]                                                    500.00      450.00      950.00                 -
+                                                                                                                                  TOTAL                                                                     (1.05)     (3.09)      (7.86)                -
+                                              1,40,50,163                  8.23          1,62,02,061             9.49                                                                                             -  (862.81)                 (495.98)
+                                                                                                                                  18.1 Details of Debentures                                                                              -
+                                              1,55,47,921                  9.10          1,60,24,573             9.38                                                                                     565.62               -
+
+                                              1,01,17,276                  5.92          96,41,209               5.65
+
+                                                                                                                                                                                                                                  1,282.68    -
+
+17. OTHER EQUITY                                                                                                (H in Crores)     (a)Unsecured Non-Convertible Redeemable Debentures (NCD)
+
+Particulars                                                                                 As at                          As at                                                                                                              (H in Crores)
+                                                                           31st March, 2026               31st March, 2025                                                                                                                           Date of
+Securities Premium
+At the beginning of the year                                                              1,653.14          668.12                Redemption Profile                                         As at 31st        As at 31st   Interest rate       Allotment
+Add : Additional Equity shares issued during the period (Refer Note 16.4)                          -       998.33                                                                       March, 2026       March, 2025                              12.11.2024
+Less : Share issue expenses (net of tax H 4.48 Crores)                                             -                              NCDs redeemable on 12.11.2027                                                                        8.32%
+At the end of the year                                                                                         13.31              NCDs redeemable on 11.06.2027                                  200.00            200.00              8.35%     13.06.2024
+General Reserve                                                                          1,653.14         1,653.14                NCDs redeemable on 05.02.2027                                  300.00            300.00              8.32%    06.02.2024
+At the beginning of the year                                                                                                      NCDs redeemable on 29.06.2026                                   150.00            150.00             8.07%    28.06.2023
+Add : Transferred from Retained Earnings                                                                                                                                                         300.00            300.00
+At the end of the year
+Capital Redemption Reserve                                                               586.17           576.17                  18.2 Term Loans from Banks and Other Loans
+At the beginning of the year                                                               10.00            10.00
+At the end of the year                                                                                    586.17                  (a)Term loan amounting to H Nil Crores (previous year H 0.05 Crores), secured by hypothecation of specific vehicles and
+Capital Reserve                                                                          596.17                                          carrying interest in the range of 7.40% - 8.00% p.a., has been fully repaid during the year.
+At the beginning of the year
+At the end of the year                                                                   1.16                    1.16             (b)Term loan from a bank amounting to H Nil Crores (previous year H 60.00 Crores) secured exclusive charge on movable
+Retained Earnings                                                                                                                        fixed assets funded out of the said facility and varying interest linked to 3M MCLR of bank has been prepaid during
+At the beginning of the year                                                             1.16                    1.16                    the year.
+Add : Profit for the year
+Less : Dividend on Equity Shares                                                         325.45           325.45                  (c)Term loan from a bank amounting to H 33.33 Crores (previous year H 55.56 Crores) carrying interest rate 7.28% p.a. linked
+Less : Transfer to General Reserve                                                       325.45           325.45                         to 1 month T-bill. The loan is secured by exclusive first charge on the movable fixed assets (excluding assets been
+At the end of the year                                                                                                                   already charged on specific basis to existing term lenders) of the Company. Term loan is repayable in 18 equal quarterly
+Other Comprehensive Income / (Loss)                                                       4,678.14         4,170.15                      instalments ending on 07th September, 2027 as maturity date.
+At the beginning of the year                                                                831.75          647.95
+Add : Other comprehensive income / (loss) for the year                                      153.70           129.96               (d)Term loan from a bank amounting to H Nil Crores (previous year H 0.97 Crores) secured exclusively by first charge on
+At the end of the year                                                                        10.00                                      movable equipment funded out of the said facility and carrying interest rate of 8.00% - 9.00% p.a. has been repaid
+TOTAL                                                                                                          10.00                     during the year.
+                                                                                         5,346.19         4,678.14
+                                                                                                                                  (e)Term loan from a bank amounting to H 1.93 Crores (previous year H 5.23 Crores) is secured exclusively by first charge on
+                                                                                             (93.31)        (23.50)                      movable equipment funded out of the said facility. Term loan is repayable in unequal monthly instalments with March,
+                                                                                            351.58           (69.81)                     2027 as maturity date with fixed interest rate in the range of 8.00% to 9.00% p.a..
+                                                                                           258.27            (93.31)
+                                                                                         8,180.38         7,150.75                (f)Term loan from a bank amounting to H 77.78 Crores (previous year H 100.00 Crores) carrying interest rate 7.21% p.a. linked
+                                                                                                                                         to 1 month T-bill. The loan is secured exclusively by first charge on the movable fixed assets (excluding assets been
+                                                                                                                                         already charged on specific basis to existing term lenders) of the Company. Term loan is repayable in 18 equal quarterly
+                                                                                                                                         instalments ending on 06th September, 2029 as maturity date.
+
+306 Kalpataru Projects International Limited                                                                                                                                                              Integrated Annual Report 2025-26 307

@@ -1,0 +1,6 @@
+[planted] WC target: fires on planted text OK
+[planted] cancellation: fires on planted text OK
+WC-target scan: 74 text files scanned (of 75), 0 hits
+Cancellation scan on NSE list (102 lines): 0 hits
+Announcement files scanned: 46 company-site, 12 NSE
+Cancellation scan on downloaded announcements: 0 hits

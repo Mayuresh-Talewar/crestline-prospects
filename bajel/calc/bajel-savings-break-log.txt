@@ -1,0 +1,32 @@
+### BREAK=release
+ASSERT FAILED: RELEASE: scenario a released -76.48 (negative)
+ASSERT FAILED: RELEASE: leg dso negative in a
+exit=1
+### BREAK=rate
+ASSERT FAILED: RATE: rates 6.5,8,10 are not exactly the two disclosed ends
+ASSERT FAILED: RATE: rates 6.5,8,10 are not exactly the two disclosed ends
+exit=1
+### BREAK=cap
+ASSERT FAILED: CAP: interest counted on 426.44, above the 349.96 cap
+ASSERT FAILED: CAP: interest counted on 579.40, above the 349.96 cap
+exit=1
+### BREAK=levers
+ASSERT FAILED: LEVERS: priceLevers cash 76.49164383561644 != simulate cash 76.48164383561644
+ASSERT FAILED: LEVERS: priceLevers cash 229.45493150684928 != simulate cash 229.4449315068493
+exit=1
+### BREAK=retention
+ASSERT FAILED: LEVERS: expected 1 lever, got 2 (retention is NA, never invented)
+ASSERT FAILED: LEVERS: expected 1 lever, got 2 (retention is NA, never invented)
+exit=1
+### BREAK=payables
+ASSERT FAILED: TERMS: a term was passed (none exists, and a vendor term raises the payables ceiling)
+ASSERT FAILED: PAYABLES: asking 10 days released 78.01
+ASSERT FAILED: PAYABLES: asking 30 days released 234.04
+exit=1
+### BREAK=terms
+ASSERT FAILED: TERMS: a term was passed (none exists, and a vendor term raises the payables ceiling)
+exit=1
+### BREAK=bounds
+ASSERT FAILED: BOUNDS: scenario a was clamped (asked 10, moved -10)
+ASSERT FAILED: BOUNDS: scenario b was clamped (asked 30, moved -30)
+exit=1

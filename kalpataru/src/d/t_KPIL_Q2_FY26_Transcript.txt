@@ -1,0 +1,852 @@
+        "Kalpataru Projects International Limited
+           Q2 FY '26 Earnings Conference Call"
+                       October 31, 2025
+
+MANAGEMENT: MR. MANISH MOHNOT ­ MANAGING DIRECTOR AND
+                     CHIEF EXECUTIVE OFFICER
+                     MR. S.K. TRIPATHI ­ DEPUTY MANAGING DIRECTOR
+                     MR. SANJAY DALMIA ­ EXECUTIVE DIRECTOR
+                     MR. AMIT UPLENCHWAR ­ DIRECTOR GROUP
+                     STRATEGY
+                     MR. RAM PATODIA ­ PRESIDENT, FINANCE AND CHIEF
+                     FINANCIAL OFFICER
+
+Disclaimer: This transcript is provided without express or implied warranties of any kind, and should be read in conjunction
+               with the accompanying materials published by the company. The information contained in the transcript is a
+               textual representation of the company's event and while efforts are made to provide an accurate transcription, there
+               may be material errors, omissions, or inaccuracies in the reporting of the substance of the event. The transcript
+               has been edited wherever required for clarity, correctness of data or transcription error. This document may
+               contain "forward-looking statements" - that is, statements related to future, not past, events. In this context,
+               forward-looking statements often address our expected future business and financial performance, and often
+               contain words such as "expects," "anticipates," "intends," "plans," "believes," "seeks," "should" or "will."
+               Forward-looking statements by their nature address matters that are, to different degrees, uncertain. These
+               uncertainties may cause our actual future results to be materially different that those expressed in our forward-
+               looking statements. We do not undertake to update our forward-looking statements.
+
+                                                 Page 1 of 18
+                Kalpataru Projects International Limited
+                                            October 31, 2025
+
+Moderator:      Ladies and gentlemen, good day, and welcome to the Kalpataru Projects International's Q2 FY
+Bhoomika Nair:  '26 Earnings Conference Call hosted by DAM Capital Advisors. As a reminder, all participant
+Manish Mohnot:  lines will be in the listen-only mode and there will be an opportunity for you to ask questions
+                after the presentation concludes. Should you need assistance during the conference call, please
+                signal an operator by pressing star then zero on your touchtone phone. Please note that this
+                conference is being recorded.
+
+                I now hand the conference over to Ms. Bhoomika Nair from DAM Capital Advisors. Thank you,
+                and over to you, ma'am.
+
+                Yes. Good evening, everyone, and a warm welcome to the Q2 FY '26 Earnings Call of Kalpataru
+                Projects International Limited. We have today the management being represented by Mr. Manish
+                Mohnot, Managing Director and CEO; Mr. S.K. Tripathi, Deputy Managing Director; Mr.
+                Sanjay Dalmia, Executive Director; Mr. Amit Uplenchwar, Director, Group Strategy; and Mr.
+                Ram Patodia, President, Finance and CFO.
+
+                At this point, I'll hand over the floor to Mr. Mohnot for his initial remarks, post which we'll open
+                up the floor for Q&A. Thank you, and over to you, sir.
+
+                Thank you, Bhoomika. Good evening, everyone. Thank you for joining us for the Q2 FY '26
+                earnings call of Kalpataru Projects International Limited. Our financial results and investor
+                presentation have been uploaded on the stock exchanges, and I trust you had the opportunity to
+                review them.
+
+                We are pleased to share that KPIL has reported yet another good quarter with highest ever second
+                quarter revenue and profitability. The performance highlights the underlying strength of our
+                diversified business portfolio focused towards on-ground execution, efficient working capital
+                management, and proactive approach in investing to build capabilities to scale high-growth
+                businesses. I'll first start with some key highlights from quarter 2, and then we'll share updates
+                on individual businesses.
+
+                Our consol revenue for the quarter recorded a growth of 32% Y-o-Y and stand-alone revenue
+                grew by 31% Y-o-Y. At profitability level, EBITDA was up by 28% Y-o-Y. PBT grew by 71%
+                Y-o-Y, and PAT reported a strong growth of 89% Y-o-Y for Q2 '26 at consol level. Similarly,
+                at stand-alone level, EBITDA grew by 28%. PBT was up by 48%, and PAT growth was 51%
+                for Q2 '26. Our consol EBITDA margin was at 8.6% and stand-alone EBITDA margin stands at
+                8.3%.
+
+                Likewise, the performance on EBITDA margin front reflects the nature of project mix, lower
+                progress of water projects and impact of extended monsoon in India. Our finance cost as a
+                percentage of sales is in line with the guidance of 2% for both consol and standalone business.
+                Our consol PBT margins witnessed a sharp improvement of 110 basis points to 4.9%, and stand-
+                alone PBT margin was up by 60 basis points to 5% for Q2 FY'26.
+
+                                      Page 2 of 18
+                                                      Kalpataru Projects International Limited
+                                                                                   October 31, 2025
+
+To update on the working capital and debt front, our focus clearly remains on further
+strengthening our balance sheet. We have closed the quarter with standalone net debt at  2,189
+crores and consol net debt at  3,169 crores. Even after considering the inflows from QIP last
+year, our debt levels have moderately increased despite delivering strong revenue in excess of
+30% for the first half of the year.
+
+This is on top of the fact that we continue to witness delay in collections from water projects,
+particularly in JJM projects of UP and Jharkhand, where the progress on payments have
+remained slow compared to our expectations.
+
+Furthermore, we have incurred capex of around  340 crores in first half of the year, mainly to
+support execution of large-scale orders in the B&F business. In the last 4.5 years, we have
+incurred capex closer to  2,400 crores to improve our project delivery and competitiveness in
+high-growth T&D and B&F businesses.
+
+Our net working capital days has further improved, both on a year-on-year basis and quarter-on-
+quarter basis. Our consol net working capital stands at 90 days and standalone net working
+capital has improved to 102 days.
+
+Now on the order book position, our consol order book remains strong at  64,682 crores as of
+30th September 2025. The diversification of our order book across T&D and Civil businesses
+provide stability and ensure a healthy growth trajectory for the coming quarters. During the year,
+we secured orders worth  14,951 crores led by major order wins in the B&F and T&D business.
+Further, we have positively placed in tenders worth  5,000 crores, mainly in the international
+T&D business.
+
+On the business visibility front, our addressable markets in the near and long term remains very
+strong, spanning across power transmission distribution, Solar EPC, residential and commercial
+buildings, oil and gas pipeline network, underground and tunneling, urban mobility and select
+international projects in the Civil business. While we anticipate some temporary headwinds due
+to lower capex, geopolitical issues, etc, but the long-term opportunity remains very robust and
+exciting for established EPC companies like us.
+
+From a long-term perspective, we remain confident and undeterred in our growth strategy. Our
+focus remains to bid strategically with focus on improving profitability, enhancing return ratios,
+secure projects that have fair working capital terms and build differentiated capabilities to
+maintain our competitive edge. Looking ahead, based on our current order book position and the
+immense potential of our addressable market, we remain confident in our trajectory to further
+scale our T&D and Civil businesses going forward.
+
+Now coming to the performance of some of the large businesses. First, I shall talk about the
+performance of our T&D business. We delivered a strong revenue growth of 51% Y-o-Y in Q2
+FY26 supported by robust execution in India, Sweden and other international markets. We
+received new orders of  6,864 crores in the T&D business till date in FY26.
+
+Additionally, we are positively placed in order projects over  4,500 crores, mainly in the
+overseas market. Our T&D order book stands at  26,276 crores, reflecting a growth of 18% Y-
+
+                      Page 3 of 18
+                                                      Kalpataru Projects International Limited
+                                                                                   October 31, 2025
+
+o-Y. Overall, the outlook for our T&D business remains very optimistic in the domestic and
+overseas market, with a tender pipeline in excess of  150,000 crores over the next 12 to 18
+months.
+
+LMG Sweden continues to deliver strong performance with Y-o-Y revenue growth of 89% to 
+720 crores in Q2 FY26. LMG received orders worth approx 1,100 crores till date in FY26 and
+have an order backlog of around  3,600 crores as on 30th September '25. Our B&F business
+maintained a strong growth momentum, recording a 20% Y-o-Y increase in revenue in Q2. Our
+order inflows are at record level as we have secured orders over  8,000 crores till date in FY26.
+Our B&F order book has grown by 43% Y-o-Y to an all-time high of  18,758 crores.
+
+Our focused business development and robust execution capabilities has helped us to improve
+our competitive position in large-sized design-build projects, which places us favorably to secure
+repeated projects from large market developers in India. Our oil and gas business delivered
+strong Y-o-Y growth of 21% in Q2. Our progress on the Saudi project remains on track.
+
+We are actively working to expand our international presence to drive the next phase of growth
+for this business. Our water business saw a decline in revenue by 5% Y-o-Y to  517 crores. As
+informed earlier, collections in the Water business improved in few states while progress in UP
+and Jharkhand remained very slow. With an order backlog of over  8,379 crores, we remain
+focused to complete the existing projects. At the same time, we continue to evaluate new
+opportunities in new areas and international markets.
+
+Our Urban Infra business delivered strong performance this quarter with a 65% Y-o-Y growth,
+driven by progress on Metro rail projects. In our railway business, we recorded revenue of  210
+crores during the quarter, reflecting a growth of 9% Y-o-Y. Lastly, on our Road BOOT Assets
+post the termination of WEPL in July '25, we have handed over the asset to NHAI with effect
+from 30th September '25. With respect to Vindhyachal Express, VEPL, we are progressing well
+on approval for sale and expect to complete the transaction in the second half of FY26.
+
+Lastly, as you can see, that all key parameters of most of the businesses have done well. The
+quality of the performance is just getting better over the quarter, and we expect good stability in
+the performance and earnings going forward. This record performance has clearly set a strong
+tone for the fiscal year ahead and reinforces our confidence to achieve the revenue and margin
+guidance set for the full year '26.
+
+On the guidance front, we are on track to achieve targeted revenue growth of 25% plus at both
+standalone and consol level, compared to our earlier guidance of 20% to 25%. On the standalone
+and consol PBT margin, we reaffirm our guidance of FY26 of improving PBT by a minimum of
+50 basis points. Further, we are positive to achieve a targeted order inflow of  25,000 crores
+plus for full year '26.
+
+In conclusion, we are excited about the opportunities ahead, and we remain committed to drive
+profitable growth and creating long-term value for our stakeholders. Thank you for your
+continued support. Now I request the moderator to open the floor for Q&A.
+
+                      Page 4 of 18
+Moderator:                                                               Kalpataru Projects International Limited
+Ravi Swaminathan:                                                                                     October 31, 2025
+Manish Mohnot:
+                   Thank you very much. The first question comes from the line of Ravi Swaminathan from
+Ravi Swaminathan:  Avendus Spark. Please go ahead.
+Manish Mohnot:
+Moderator:         Congrats on a good set of numbers. My first question is with respect to the tender pipeline for
+                   the power T&D space. So initially, last call, you had mentioned that it was around  1.2 lakh
+                   crores, and now it is  1.5 lakh crores. So there has been quite a bump up in the tender pipeline
+                   over quarter-to-quarter?
+
+                   Which are the subcategories like power grid, SEB, private players, international, where we have
+                   seen the biggest delta in terms of tender buildup? And because of the significant growth, are we
+                   seeing an improvement -- further improvement in margin profile of Power T&D orders, margin
+                   and working capital of Power T&D orders?
+
+                   Ravi, we are seeing traction across both domestic and international front. On the domestic front,
+                   whether it is the new HVDC lines, which are further expected to come in for tenders, the southern
+                   part of the grid, the Southern India grid, which is further getting strengthened, all are expected
+                   in between November to February. So on the domestic front, whatever we had planned looks
+                   visible.
+
+                   What has changed in the last 2 quarters, we're seeing a lot of traction in some of the LatAm
+                   markets like Guyana and the neighboring countries around there and also in Middle East. We've
+                   seen a lot of tenders come in Middle East in the last 2 to 3 months, whether it is in Abu Dhabi,
+                   Kuwait, some of the interconnection lines.
+
+                   So personally, if you ask me what has changed is international order book visibility has improved
+                   significantly in the last 2 to 3 months, whether it is Middle East, Africa or LatAm. And also on
+                   solar EPC projects, we are looking at some big opportunities in the Middle East market, and
+                   that's also an opportunity which we are looking at.
+
+                   So on an overall basis, the market still looks very good. Now from, on your second question,
+                   given that the orders are under tendering now and will get awarded only in Q3, Q4 or later part
+                   of that -- later than that, I don't see any improvement in revenue because of these tenders coming
+                   in the current year. Definitely, they will help us in forecasting for revenue going forward.
+
+                   And in terms of margin profile, sir, because the market itself is expanding, are we seeing
+                   improvement in margin and working capital terms further for the Power T&D orders? Or is it
+                   like this is getting maintained at the same level?
+
+                   So if you ask me at an India level, I don't see a significant improvement, although margins are
+                   much better than what they were in the past. But on the international front, there are a lot of
+                   markets where we have a competitive edge of an early -- being there early or being -- not having
+                   much competition. So there, we can see some improvement. But on an overall basis, we still
+                   continue this business at the same 9% to 10% EBITDA levels.
+
+                   The next question comes from the line of Sumit Kishore from Axis Capital.
+
+                   Page 5 of 18
+Sumit Kishore:                                                        Kalpataru Projects International Limited
+Manish Mohnot:                                                                                     October 31, 2025
+
+Sumit Kishore:  My first question is on the T&D business. When I look at your disclosed orders so far this fiscal,
+Manish Mohnot:  it appears that a fairly small portion has come domestically and mostly it's overseas. And you
+                mentioned that in your mature L1 positions pipeline, also international T&D is quite strong.
+
+                What we are noticing is that award of interstate TBCB projects on a year-on-year basis has been
+                much lower so far this fiscal. So I just want to understand that in this backdrop, is it possible that
+                second half also would largely be dominated by international and T&D? And what percentage
+                of your T&D order book is international right now?
+
+                So Ravi, just so that we have clarity on the domestic front also, we have got orders in excess of
+                 2,500 crores plus in the first 6 months, which is around 30% higher than what it was in the
+                previous year. We are L1 also in a few projects. On the international front, obviously, including
+                Linjemontage, we've got orders in excess of  4,000 crores in the first 6 months -- in Q2.
+
+                Now my point is I do not see orders coming down because a lot of tenders, which Power Grid
+                has not taken, but some private sector players have taken would get into that award stage maybe
+                Q3, Q4. So some of the large TBCBs have not been necessarily been taken by Power Grid and
+                that also would come up for tendering soon or have already the tendering process started, but
+                the award would happen later part of the year.
+
+                So I personally stay confident from a long-term perspective on getting very good orders coming
+                in. Now from a timing perspective, maybe Q3, maybe Q4, maybe it could be 1 quarter here and
+                there. But the reality is that both the businesses, whether it is TLD and TLI, are sitting on very
+                good order books right now, right? They are sitting on order book, which is closer to 2.5, 3 years,
+                even if I assume a 20% growth.
+
+                So I'm not desperate in that sense to go and take an order just for the sake of getting an order
+                book because they have good visibility, the opportunity is good, and there are limited players of
+                the size and scale who can deliver this kind of projects. So I am very optimistic about it. I believe
+                the next 6 to 12 upto 18 to 24 months, there will be good orders, both domestic and international.
+                One quarter here and there could happen depending upon when the tenders happen.
+
+                Okay. And sir, second question is in relation to water, while revenues are down about 5% in the
+                quarter. How has been the movement on receivable dues for water over the past 6 months?
+
+                So over the past 6 months in the business, we have invested additionally closer to  700 crores,
+                basically focused on execution of a lot of projects which were at 70%, 80% completion, which
+                we want to complete at a very soon much sooner than later. We have seen good traction coming
+                in from a few states.
+
+                We have seen good traction coming in from MP. We have seen good traction from Punjab. We
+                have seen good traction from Bihar. We're not seeing as much good traction coming from UP
+                and Jharkhand when it comes to receivables.
+
+                We've had meetings at various levels, and we believe this should change soon. So -- but in the
+                first 6 months, we have invested closer to  700 crores in that business, additionally 700 crores.
+
+                                      Page 6 of 18
+Sumit Kishore:                                                            Kalpataru Projects International Limited
+Manish Mohnot:                                                                                         October 31, 2025
+Sumit Kishore:
+Manish Mohnot:      Okay. So basically, the working capital improvement that we are seeing slightly is not being
+                    helped by water. Water is just still being a drag there. Ex of water, your working capital would
+Sumit Kishore:      be much better.
+Manish Mohnot:
+                    100% agree.
+Moderator:
+Parikshit Kandpal:  Okay. Just one last point clarification for WEPL, when is your dues going to come to you? After
+Manish Mohnot:      the transfer to NHAI?
+Parikshit Kandpal:
+Manish Mohnot:      It will take some time because as far as the dues are concerned, there are some arbitration and
+                    there's some claims also. Even our KEPL dues, which the termination happened 3 years ago
+                    have not yet come, while we have provided for full KEPL in books.
+
+                    So given the lengthy process at NHAI and given that there are some claims which we have won
+                    and which are under arbitration, I do not expect this to happen very, very soon. It could take
+                    maybe a few years or could be more than that. We are trying to settle this with them, but that it's
+                    a lengthy process. So I'm not expecting any dues on WEPL to come in even this year and maybe
+                    even next year.
+
+                    Okay. And what is the total quantum of the claim?
+
+                    No. So we might not be able to quantify that today because we have a lot of arbitration claims,
+                    which we have won and there are some claims which are under process. So the quantification is
+                    difficult, but we believe there might not be a large amount or any amount of equity hit, which
+                    might come on this project.
+
+                    The next question is from the line of Parikshit Kandpal from HDFC Securities.
+
+                    Parikshit Kandpal from HDFC. So my first question is on the domestic. So if you can give us
+                    the breakup of the T&D order book in domestic and international, and also the breakup of the
+                    prospect pipeline in the T&D both international and domestic.
+
+                    So you want the order book as of September '25, right? T&D order book as of September '25 is
+                    closer to 10,000 crores, excluding L1. If you look at the international order book, that's
+                    approximately  16,000-odd crores as of 30th September '26. Sep'25, my mistake.
+
+                    And sir, also, if you can give us the breakup of the prospect pipeline of  1.5 trillion, which you
+                    highlighted, both domestic and international?
+
+                    So of the 1.5 trillion, which we are looking at it, more than 50,000 crores to 55,000 crores of
+                    orders, I think, would come under TBCB bidding itself in the next 3 to 4 months, which includes
+                    2 big HVDC order and 2 large orders in Southern India. So that itself would be in the range of
+                     50 odd thousand crores plus a few more orders, which are already shortlisted for tendering.
+
+                    The balance would be international with a lot of focus on Middle East, LatAm, excluding Brazil,
+                    Sweden and neighboring countries and Africa. But our focus would be primarily on domestic
+                    LatAm and Africa and Europe, not as much on the neighboring countries.
+
+                                          Page 7 of 18
+Parikshit Kandpal:                                                        Kalpataru Projects International Limited
+Manish Mohnot:                                                                                         October 31, 2025
+Parikshit Kandpal:
+Manish Mohnot:      So can you just -- on the 2 HVDCs, which are these HVDC, sir, if you can help us.
+
+Parikshit Kandpal:  There's one in Gujarat and there's one in Southern India. I don't have the exact names of those
+Manish Mohnot:      lines, but there's one more coming up in Gujarat, which is connecting Gujarat Rajasthan and one
+Parikshit Kandpal:  in Southern India. I'll be happy to give you those details. Maybe my team can do it or you can -
+Manish Mohnot:      - it's already on the REC and PFC site. If you look at it, you'll get those.
+
+Parikshit Kandpal:  But okay. Understood, sir. So my second question is total on the Saudi expansion, which you
+                    mentioned. So what are the areas beyond the pipeline project which you currently have and the
+                    T&D which you do? So what are the other areas you're looking at? And how big the opportunity
+                    is that? And what kind of conversions we can see over the next 2 to 3 years coming in
+                    incrementally from these geographies?
+
+                    So I think our focus on as far as the Saudi market is concerned, continues to be on 3 areas. One
+                    is oil and gas itself. We are doing a large project, and we'll continue to make sure that we are in
+                    that leadership position there. Second, T&D, we have a few projects going on right now, which
+                    are all getting completed in the next 6 to 9 months. So we would like to take some more projects.
+                    And third is solar EPC, where we are looking at one large opportunity in Saudi Arabia.
+
+                    Which hopefully will have that clarity coming in soon. So that's also an opportunity which we
+                    are looking at. So right now, as far as Saudi is concerned, we have all 3 ,oil and gas, transmission
+                    as well as solar EPC. We're also exploring some projects in the water business, but it might take
+                    some time. It might not happen in the next 6 to 9 months, maybe after that.
+
+                    And this one large opportunity, if you can quantify how big is it?
+
+                    No, it might be difficult for me to quantify it today, but I can tell you it's already included in our
+                    L1 opportunity, which we have declared.
+
+                    Okay. So waiting the conversion, allowing to come in. Just on Linjemontage and LMG and
+                    Fasttel. So you can help us understand on the revenues which you have disclosed. So what has
+                    been the EBITDA and the PBT margins on these 2 entities?
+
+                    So on Linjemontage, we have seen a very healthy growth in this quarter, which we have expected
+                    to be very good. So if you look at Linjemontage number in terms of revenue, we have touched
+                    in revenue of closer to  1,500 crores in H1, a growth of more than 50%.
+
+                    On EBITDA margin in H1, Linjemontage has done in excess of 7.5% and PBT margin closer to
+                    7%. As far as Fasttel is concerned, the quarter saw revenue of approx.. and first half saw a
+                    revenue of  370 crores. It's much lower than what we had projected. And on an EBITDA and
+                    PBT, Fasttel continues to be negative. We have had some hits coming on some projects, and it
+                    continues to be negative.
+
+                    And just the last question around JJM receivables. So now what are the overdue receivables,
+                    which is yet to be collected? If you can help us quantify in case if they would have got realized,
+                    so what should have been our debt position? Just wanted to get a sense on that.
+
+                    Page 8 of 18
+                                                    Kalpataru Projects International Limited
+                                                                                October 31, 2025
+
+Manish Mohnot:      Sure. I'll ask SKT to respond.
+S K Tripathi:
+                    Parikshit, this is SKT. So total receivables from the last quarter, they have gone up by about 
+Parikshit Kandpal:  125 crores. As the end of the quarter 1, we were roughly at about  1,427 crores. And today, we
+S K Tripathi:       stand to almost  1,551 crores. Out of that, highest is in UP, which is  737 crores.
+Parikshit Kandpal:
+S K Tripathi:       And the next one is the Orissa is about  330 crores. Jharkhand is about  246 -- and out of the
+Parikshit Kandpal:  5 states, there is no movement, particularly in UP and Jharkhand. Otherwise -- so in this quarter,
+S K Tripathi:       we collected about  420 crores and majority of this, it came from the MP and Orissa. So in
+                    nutshell, we have gone up by  125 crores during the quarter in spite of collecting  420 crores,
+                    yes.
+
+                    So is it right to understand that if I club both UP and Jharkhand, which is about  983-odd crores.
+                    So this is the overdue. I mean, beyond the time, I mean, this should have actually come in now.
+                    So this is as of now maybe beyond 180 days receivables?
+
+                    No, no, they are more than that. Maybe out of this, 50% is more than 8 to 9 months, right? So in
+                    case of UP, we have not got our due payment from almost 15 to 16 months. It is so in nutshell,
+                    these 2 states, you can say more than a year, in fact.
+
+                    If this had come on time, our debt should have been lower by at least like  800 crores,  900
+                    crores?
+
+                    Yes. So if you look at the debt number and the water receivable, they match with each other.
+
+                    So what are you doing? I mean why this -- I mean, why UP is not paying or Jharkhand is not
+                    paying. So what are the challenges? And you keep -- you must representing it, but what are the
+                    challenges? Are they not getting funds or Center not giving them money? So what is the
+                    challenge, if you can help us understand that?
+
+                    Yes, yes. So UP and Jharkhand, they are 2 states. And JJM -- and these are the receivables,
+                    which are part of the JJM, where the major funding has to come from the central government.
+                    Now in UP, about 15 days back, there was a meeting even at a CM level, where he assured that
+                    they will do some funding from the state.
+
+                    So in nutshell, if states which have some money, they are paying from their own corpus.
+                    Otherwise, they are waiting for the central government to support the project. Now central
+                    government, maybe at this point of time, they have different priorities. Also in the JJM at a
+                    nation level, there is a cost overrun, which at the cabinet and the PMO is yet to approve.
+
+                    Now because of this non-approval process from the central government, the money is not
+                    flowing to the states and then the bills are kept pending. This is a real situation. Now
+                    representation as the industry through the SHM, there is a representation to the ministry. At a
+                    CM level, there was a discussion. from FICCI, there is a representation. So UP, about 15 days
+                    back when we met CM, he assured that after Deepavali, the state government will fund about 
+                    3,000 crores.
+
+                    Page 9 of 18
+Manish Mohnot:                                                            Kalpataru Projects International Limited
+Parikshit Kandpal:                                                                                     October 31, 2025
+Manish Mohnot:
+                    Their outstanding in UP alone is about  18,000 crores. For all vendors. They will similarly, in
+Moderator:          case of Jharkhand, the total outstanding to the contractor is about  4,000 crores. Now Jharkhand,
+Amit Anwani:        they are not at all ready to support any even a single rupee from the state government.
+
+                    You can understand why. And they will wait till the time the money comes from the central
+                    government. Now there is a but some of the states like MP and the Orissa, they are paying from
+                    the state coffer and the central government will pay them later.
+
+                    So this is where exactly, but I think there is enough pressure created by industry in UP and
+                    Jharkhand. And we are hopeful something should happen in this quarter, but we can believe only
+                    when it happens.
+
+                    And just to add to what SKT said, Parikshit, our focus continues to be in completing whatever
+                    civil projects we have a 50% plus because we have taken a call that while we might not supply
+                    additional materials, but at least the civil portion of all these projects we are completing, we are
+                    not worried about the money because central government-funded projects, the money will come
+                    sooner than later, but the delays impact the margins in a big way. So and that's why we've been
+                    funding these projects to make sure that we complete as many projects as many we can.
+
+                    Okay. And Manish, just one last question on the margin. So now trajectory-wise, when do we
+                    see that we reach closer -- cross 9% when do you expect we cross -- look at crossing EBITDA
+                    margins at 9% and moving more towards high single digit, moving towards double digit. So is
+                    there any possibility in the near future or now it's a thing of the past?
+
+                    Parikshit, on a lighter note, we have been saying PBT margins 50 basis point plus and which we
+                    are nearly on track. We should be doing better than that going forward. If you look at it on a
+                    totality basis, we have also in the current quarter, provided for around 30 crores of warranty
+                    guarantee provision.
+
+                    And if you give impact of that, we are already at those levels where we want to be. So let me
+                    not go ahead and commit anything at the EBITDA level. But on PBT level, I believe that margins
+                    should only go up from here. I don't see any reason why it should come down on an annualized
+                    basis in any form. And we are on track to achieve that 50 basis points plus improvement in the
+                    current year also.
+
+                    The next question comes from the line of Amit Anwani from PL Capital.
+
+                    My question pertains to, as you highlighted that the margins will go up from here and this year
+                    also, you're expecting 50%. So wanted to understand considering the current order book and the
+                    pipeline of  150,000 crores in T&D, what sense you're getting in terms of the favorable mix
+                    change and over the next 2 years, will we be towards double-digit margins in especially T&D?
+
+                    And in the overall improvement, is it only T&D where we are seeing improvement since we are
+                    -- or the other segments also since we are facing headwinds in water, railways. So just a sense
+                    what will be driving this, basis your understanding on the current pipeline also?
+
+                    Page 10 of 18
+Manish Mohnot:                                                        Kalpataru Projects International Limited
+                                                                                                   October 31, 2025
+Amit Anwani:
+Manish Mohnot:  Sure. So Amit, first, so that we have clarity, we have targeted for minimum 50 basis points
+                improvement in PBT for the current year as a whole. I'm not saying further 50 from here. It's
+Amit Anwani:    from what we started is what we have targeted for the year. As far as the business EBITDA is
+Manish Mohnot:  concerned, our B&F and T&D business, both in totality are at a closer to double-digit level.
+Moderator:
+Vaibhav Shah:   So Building and Factories business, T&D business and Oil and Gas business, all 3 are at double-
+Manish Mohnot:  digit level, more in the range of 9% to 11%. Some of the other businesses for reasons we
+                discussed earlier in the call, are at lower margins. And I think these 3 businesses will continue
+                to be in this range given our current order book and visibility going forward.
+
+                Understood, sir. Sir, with respect to the international pipeline, which you talked about almost 
+                1,00,000 crores, how much should be Middle East? And like we already won one large order, I
+                think, some time back. Are these lumpier orders in Middle East? And will this be the high-
+                margin orders? And some more color on the Middle East pipeline, if you could provide?
+
+                Amit, as I said earlier, I think there are a lot of tenders in Middle East, Abu Dhabi, Saudi and
+                some connectivity projects and solar EPC projects. Our philosophy on Middle East projects have
+                always been that the projects in terms of margins might not be the best, but are very good from
+                a revenue and delivery ROCE perspective.
+
+                As far as and when I say not very good, they might not compare to, let's say, an Africa or a
+                LatAm project, which we have won at Guyana or Chile or any of them. So in totality, I think if
+                you look at the international order book also, we are focused on that double-digit margin, and
+                we are targeting that. And Middle East, in totality might be slightly lower than double digit, but
+                reasonably good ROCE numbers because the projects get done very quickly.
+
+                Understood, sir. Sir, lastly, on the railway business, and you have been highlighting in the past
+                also that we'll be focusing for a few international railway orders and also the value-added metro
+                orders in domestic market. Some color, if you could, so are we progressing there? Anything in
+                pipeline in terms of domestic, international market, which can really change the things in
+                railways?
+
+                So while we continue to explore a lot of opportunities in railway, we've not had any significant
+                developments to say that something is visible in the near future. We have submitted PQs in a
+                few countries. We've got qualified also. But from a 6 to 9 month perspective, I would say nothing
+                is visible as of now on the railways international front.
+
+                The next question comes from the line of Vaibhav Shah from JM Financial.
+
+                Sir, firstly, on the international subsidiaries. So how do you see the growth in Fasttel in the next
+                couple of years?
+
+                On the Fasttel front, I'm not very bullish in terms of growth. We've had some challenges at
+                Fasttel and delivery as well as some delays and some client issues and all of that. So as far as
+                Fasttel is concerned, we're not running for growth in any form. We are focused more on
+                stabilizing that business and coming back to profitable numbers instead of losing money. So if
+
+                                     Page 11 of 18
+Vaibhav Shah:                                                           Kalpataru Projects International Limited
+Manish Mohnot:                                                                                       October 31, 2025
+
+Vaibhav Shah:     you ask me from a KPIL's perspective, next couple of years, Fasttel will degrow and not look at
+Manish Mohnot:    growth in any form.
+Vaibhav Shah:
+Manish Mohnot:    And LMG?
+
+Vaibhav Shah:     LMG, we continue to stay bullish. The current year itself, we are looking at a growth, which is
+Manish Mohnot:    more in the range of 30% to 40% and improved margins. That business, given the visibility on
+                  order book, I think a double -- 20%, 25% growth from a 2- to 3-year perspective should be very
+Moderator:        easy.
+Balasubramanian:
+Manish Mohnot:    In terms of margins, what could be the stable margins for the LMG business, say, in next 2 to 3
+                  years, given the strong growth?
+
+                  So I think at a PBT level, that business looks like easily, we should be doing anywhere between
+                  6.5% to 7.5% in the Linjemontage at a PBT level.
+
+                  Okay. Okay. Sir, secondly, what would be your order inflow guidance on a consolidated stand-
+                  alone basis for FY '26?
+
+                  So I think we stick to our guidance of  25,000 crores plus on a consol basis for FY26. And
+                  normally, on order inflow, we normally give guidance on a consol basis only. So that number of
+                   25,000 crores plus, I think, given that we have already received around  150-odd thousand
+                  crores, and we are favorably placed in  5,000 crores, I think we should be surpassing that 
+                  25,000 crores, but I'll be able to revise that guidance, if at all, in December, January.
+
+                  Okay. And sir, what has been the funding for the BOOT portfolio in second quarter? And for
+                  the entire year, what are we expecting?
+
+                  I think my colleague is just telling me it's less than  20 crores what we have funded in the first
+                  6 months. It's hardly any funding, which is required. And now that we're pretty confident that
+                  we're working hard to get the approval in November, December, we should be positive as far as
+                  road assets are concerned because we're pretty confident before March '26, our VEPL transaction
+                  should be done.
+
+                  The next question comes from the line of Balasubramanian from Arihant Capital.
+
+                  For Shree Shubham Logistics, the plan is to sell 2 to 3 warehouses. What is the expected net
+                  debt reductions from these sales? And what is the carrying value of these assets on the books?
+
+                  So I think if I look at it from a debt perspective, on Shree Shubham Logistics, the external debt
+                  is now reduced to a number of closer to  90 crores. Our target is to bring this -- reduce this by
+                  at least a further 50%, get it to levels of  40 crores to  50 crores by the year-end.
+
+                  And we're working on that direction by selling some warehouses. We will continue to focus on
+                  reducing that debt as we go forward. And hopefully, by the end of next year, the debt -- our
+                  external debt should be closer to 0. I'm not exactly aware of the gross book or gross value of
+                  assets, but I can ask you to connect to my team who can give you the exact gross book value of
+                  the fixed assets in the Shree Shubham balance sheet.
+
+                                       Page 12 of 18
+Balasubramanian:                                                        Kalpataru Projects International Limited
+Manish Mohnot:                                                                                       October 31, 2025
+Amit Uplenchwar:
+                  Sir, for the Oil and Gas segment, I think we are qualified with Aramco and ADNOC. And could
+Moderator:        you please quantify the size of the quantified big pipeline and the typical margin profile we are
+Bharat Sheth:     looking at in those oil and gas segment?
+Manish Mohnot:
+Bharat Sheth:     I'll just ask my colleague, Amit to respond to this question.
+
+Manish Mohnot:    Yes. So Bala, we've got several projects where we are now qualified between Saudi and ADNOC
+                  and some of the other geographies in the Middle East. Some of these tenders which were planned
+                  for middle of this year are getting pushed towards Q4 or probably Q1 of next year because of
+                  volatility in prices of rent and the crude prices.
+
+                  So let's see where that goes. But the qualifications are in place. Tenders are expected either by
+                  Q4 or first half of next year. So we'll be able to give a better view then. But from a pipeline
+                  perspective, there doesn't seem to be any issue with number of projects that are planned in the
+                  next 2 to 3 years in the Middle East.
+
+                  The next question comes from the line of Bharat Sheth from Quest Investment Advisors Private
+                  Limited.
+
+                  Congratulations, Manishji and the team for good numbers.
+
+                  Thank you, Bharat Bhai.
+
+                  We have already got, I mean, clarification on all business verticals, except building and factories.
+                  How do we see, I mean, the way real estate also, I mean, again, reviving as well as a lot of
+                  commercial and data center things are coming. And what I understand, real estate also requires
+                  a lot of capex. So how do we think about it from a 2 to 3-year perspective? ?
+
+                  So Bharat Bhai, first of all, we continue to stay very bullish on this business on all aspects, right?
+                  One is our capability and competency to deliver on large projects. Now we have 2 or 3 projects,
+                  which are like 10 million square feet and above design build. Second, our ability to work with
+                  large marquee clients in the country, right.
+
+                  There are 5 or 6 clients who constitute more than 75% to 80% of our order book. And third, we
+                  have a very good capex base, which we can use it again and again. So we built this capex over
+                  the 5 years. So incrementally for the growth, we don't need to put in similar kind of capex.
+
+                  So with the combination of a great team on delivery, great opportunity in all sectors, whether it
+                  is residential, commercial, airports, data centers and industrial projects, a history of working
+                  with the large clients very, very well and a great balance sheet, I think we are very bullish on
+                  this opportunity.
+
+                              So I do not see this business doing less than double digit on EBITDA, and I do not see
+                  us growing at less than 20%, whatever happens, even with those challenges on labor and all of
+                  that. So in a nutshell, I think -- and you can see in the last 18 to 20 months, our 90% order book
+                  has come only in 2 business, building and factories and transmission. And we're very happy with
+
+                  Page 13 of 18
+Bharat Sheth:                                                          Kalpataru Projects International Limited
+Manish Mohnot:                                                                                      October 31, 2025
+Bharat Sheth:
+Manish Mohnot:   that because from a resource allocation perspective, we believe this is the best time to give
+Ram Patodia:     resources to both the businesses where the return ratios look very, very attractive.
+Moderator:
+Manish Mohnot:   Am I audible?
+
+Bharat Sheth:    Yes. Now.
+Moderator:
+Abhijeet Singh:  Sir, one bookkeeping question out in this quarter, our other expenses should have almost double
+Manish Mohnot:   Y-o-Y as well as Q-o-Q also, it has gone up. So is there any one-off there in the expenses?
+
+Abhijeet Singh:  I'll ask CFO Ram to respond to this question.
+Manish Mohnot:
+Abhijeet Singh:  Bharat, the costs have gone up because of the manpower. There are certain costs which is...
+
+                 Sorry to interrupt you, sir, but you are not audible.
+
+                 Okay. Sorry. Okay. Let me just quickly help on this one. So first, there isn't any one-off expenses
+                 which have come in Bharat Bhai. Previous year, we had some gains coming out of forex mark
+                 to market, which were there in other expenses.
+
+                 And that impact this year, there's no gain. That impact is closer to  90-odd crores. which was
+                 more on -- so otherwise, there's no one. Second, there's rent expenses, which has gone up
+                 primarily on the Saudi project, which comes in other expenses, and that's a big, big impact.
+                 Otherwise, there's no one-off.
+
+                 Thank you and all the best sir.
+
+                 The next question comes from the line of Abhijeet Singh from Systematix.
+
+                 Sir, I wanted a state on the order book of Middle East between oil and gas, renewables and other
+                 segments.
+
+                 So right now, in Middle East, Abhijeet, we have only oil and gas and transmission. My oil and
+                 gas order book approximately should be in the range of $600-odd million, so let's say, around
+                 5000 -odd crores.
+
+                 And as far as my transmission order book is concerned, which includes Saudi, which includes
+                 Abu Dhabi, which includes Iran and Kuwait, it should be in the range of $150-odd million. So
+                 let's say -- so total would be more in the range of 6,500 crores. I could be off by a few hundred
+                 crores but should be in range of  6,500 crores to 7,000 crores.
+
+                 So you said 5,000 and 2,000?
+
+                 Yes 1,500 to 2,000. I'm talking of unexecuted order book. I'm sure you're looking at that only.
+
+                 Yes, sir. Yes, sir. And sir, what is the outlook on both of these segments in that particular
+                 geography going forward? And the reason I ask this question is that Middle East, especially
+
+                 Page 14 of 18
+Manish Mohnot:                                                        Kalpataru Projects International Limited
+                                                                                                   October 31, 2025
+Moderator:
+Bhoomika Nair:  Saudi and a few of the larger economies there, they are looking at a significant expansion in
+Manish Mohnot:  their gas evacuation capabilities and other infrastructure, right?
+
+                Also, a lot of orders are coming in for T&D segment? So in that context, I'm assuming the growth
+                should be pretty robust in that particular geography. So if you can throw some light on this
+                aspect?
+
+                So Abhijeet, I think my colleague, Amit did speak about this just a few minutes ago, but I'll
+                repeat that just for the sake of clarity. While we continue to be bullish on the sector, we still are
+                cautious because some projects have slightly got delayed given that oil prices have come down.
+                From a long-term perspective, we believe that there's huge opportunities coming in Middle East.
+
+                Even in the short term, at least in transmission and a few large projects in ADNOC, we see some
+                opportunities coming through. So it's a mix kind of thing. But today, we have around  7,000
+                crores of opportunity already there, which we have to deliver over the next 2 years. We continue
+                to be focused. We continue to be cautiously optimistic on these opportunities.
+
+                The next question is from the line of Ms. Bhoomika Nair from DAM Capital Advisors.
+
+                Yes. Sir, just on Linje, I just wanted to understand how is the outlook out there, and we were
+                looking at some fundraising opportunities. If you can just throw some color on ordering activity
+                there? What are the prospects?
+
+                How are we looking at that business because we've seen a very strong momentum this year, both
+                in terms of revenues, and I think also profitability has picked up quite a bit. So if you can just
+                talk on that part of the business a little more in detail?
+
+                So Bhoomika, I think we continue to stay bullish as far as the opportunities at LMG are
+                concerned, one in Sweden and the neighboring countries also. We are among the top 3 players
+                today in that business in the T&D space and have a very good team, which is delivering on
+                across all projects, whether it is transmission, substation or services.
+
+                Our growth in the current year has been exceptionally good, and we believe that next 2, 3, 4
+                years, that opportunity is intact, and we'll only grow one way. As far as margins are concerned,
+                I think that those are mature markets where a PBT of 6% to 7% is very reasonably good because
+                the ROCE numbers are very, very high and they are cash positive always. So we believe that
+                margins should stay in that range of 6.5% to 7.5%. Growth is visible and good growth is visible
+                and with very high ROCE.
+
+                As far as the fundraising options are concerned, as we had said earlier, we have appointed
+                advisers to look at fundraising options. We are in continuous dialogue with them. And at an
+                appropriate time, once we have decided the path which we are choosing, we will communicate
+                back to all of you.
+
+                We are continuously exploring opportunities of fundraising there. And I believe that in '26, '27,
+                we should see some light in terms of getting some valuation of fundraising in whatever form we
+                can.
+
+                                     Page 15 of 18
+Bhoomika Nair:                                                        Kalpataru Projects International Limited
+Manish Mohnot:                                                                                     October 31, 2025
+
+Bhoomika Nair:  Okay. Got it. Got it. Sir, the other thing is in terms of working capital, despite the strong
+Manish Mohnot:  execution in the first half, we've not really seen working capital kind of rising and that has also
+                been in control. Now as we continue to see further momentum into the second half and perhaps
+Moderator:      some uptake from more of the water railways, etce, how do you see the working capital for the
+Vaibhav Shah:   rest of the year and the year-end debt looking like per se?
+Manish Mohnot:
+                So on working capital, Bhoomika, I think we continue to stay on a target of less than 100 days
+                for standalone and less than 90 days on consol or less than 85 days on consol. Obviously, these
+                numbers could look very different if we get majority of our collections coming in from water,
+                but I don't want to be overoptimistic at this date.
+
+                As SKT said earlier, as and when the money comes, it would have a direct impact on working
+                capital. I think we will stick to our given numbers at the year-end of less than 100 days and debt
+                numbers should improve -- shouldn't go deteriorate from here because typically Q3, Q4 debt
+                only improves. But given the growth, it might slightly be in a similar range, not significantly up,
+                not significantly down.
+
+                Got it. Got it. And I know this was discussed to a certain extent earlier in the call in terms of the
+                margin profile. As we're seeing more T&D-led execution, should we see margins further
+                improving maybe obviously, at the PBT level, we are looking at an improvement. But more at
+                the operating level, can we see margins going back to that crossing a 9% level over the next 1,
+                2 years? Or you think right now, the mix is quite diverse, which will not allow us to kind of cross
+                that level?
+
+                So I think the margins would definitely improve, right? And I have no ts about it because the
+                order book, which has been built over the last 2 years is much better than the order book which
+                we had built earlier.
+
+                Would it go up from here? It's definitely yes. Can it go to 9% plus levels getting into next year?
+                It sounds feasible, but let's just come back to you at the end of the year with exact numbers. But
+                definitely, it should be going up only, and I don't see any reasons on this current order book for
+                margins to be lower.
+
+                The next question comes from the line of Vaibhav Shah from JM Financial.
+
+                Sir, a couple of clarifications. You mentioned that last year, there was a one-off in the margins,
+                some FX gain. So what was the amount?
+
+                No, I did not mention of an asset sale last year. I mentioned about gain, not in margin. It was in
+                other expenses. There was some FX gain, which was closer to -- so just to give you a perspective,
+                the forex loss in H1 FY26 is around  29.7 crores and forex loss in Q2 FY26 is  35.5 crores.
+                So forex gain in H1 FY25 was  66.6 crores.
+
+                So the delta between  66 crores and  26.6 crores is around  90 odd crores. There was a gain
+                of  66 crores previous year in the first half. There's a loss of  29.75 crores in Q2, in the first
+                half of this year.
+
+                                     Page 16 of 18
+Vaibhav Shah:                                                           Kalpataru Projects International Limited
+Manish Mohnot:                                                                                       October 31, 2025
+Vaibhav Shah:
+Manish Mohnot:    So the delta is around  90 crores in other expenses. But just so that we are very clear, this gain
+Moderator:        and loss directly does not hit P&L, it goes through hedge reserves. So it's only in other expenses,
+Deepak Purswani:  but does not directly hit P&L in a larger perspective.
+
+Manish Mohnot:    Sure. And sir, were there any provisions in Q2?
+
+Moderator:        Provisions in terms of what warranty guarantee, I've already said that we have created a
+Bhoomika Nair:    provision of closer to  30 crores in Q2. In half 1, our warranty guarantee has increased by  60-
+Manish Mohnot:    odd crores, right  70 crores.
+
+                  So 30 crores is in other expense?
+
+                  The 30 crores would normally at in other expenses, it's in erection expenses.
+
+                  The next question comes from the line of Deepak Purswani from Svan Investment.
+
+                  Sir, just wanted to check it out recently, there has been a spike in some of the commodity prices,
+                  especially copper and aluminum. So in this context, if you can also give us a sense in terms of
+                  the margin profile, what is the fixed price contract firstly in the current order book? And is there
+                  any margin impact we are expecting because of this? And on an incremental basis, how should
+                  we see the margin profile because of the rising commodity price?
+
+                  So I think in totality, if you look at the order book, it's as of now, 50% fixed and 50% variable
+                  when I look at the consol order book. As far as specifically on commodities are concerned, today
+                  on aluminum, we are hedged at 90% plus of whatever orders we have, including some L-1
+                  orders, which we are definitely sure to get.
+
+                  We are hedged at 90% plus. So I believe the impact of any increase in aluminum at any levels
+                  would be very, very minimal, if not closer to 0 because this aluminum needs to be delivered over
+                  the next 2 to 2.5 years. Also on the copper front, our exposure is very, very minimal because on
+                  copper front, our railway order book is minimal and there's not much exposure, and we are nearly
+                  hedged on that also.
+
+                  So if you ask me personally, from aluminum, zinc and copper perspective, the impact on margins
+                  might be very, very minimal. As far as steel is concerned, we have not seen much volatility in
+                  the last 12 to 15 months in terms of increase in price. So I don't think that should also have an
+                  impact on our profitability in any form.
+
+                  As there are no further questions, I would now like to hand the conference over to Ms. Bhoomika
+                  Nair for closing comments. Please go ahead.
+
+                  Yes. I would like to thank all the participants for being on the call, and thanks a lot to the
+                  management for giving us an opportunity to host the call. Thank you very much, sir, and wish
+                  you all the very best.
+
+                  Thank you very much, everyone.
+
+                  Page 17 of 18
+Moderator:                                                            Kalpataru Projects International Limited
+Manish Mohnot:                                                                                     October 31, 2025
+
+                On behalf of DAM Capital Advisors, that concludes this conference. Thank you for joining us,
+                and you may now disconnect your lines. Thank you.
+
+                Thank you.
+
+                Page 18 of 18
+

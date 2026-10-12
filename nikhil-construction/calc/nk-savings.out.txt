@@ -1,0 +1,19 @@
+Revenue FY25 Rs 447.15 Cr / 365 = Rs 1.225068 Cr a day
+valueOfADay cash 1.225068  carry 0
+GCA days 275, receivable leg, no terms (floor 0), no interest
+
+--- 10 days out: 275 to 265 days, cash released Rs 12.2507 Cr, carry 0
+PASS  no negative release (10d)  released 12.2507
+PASS  interest is zero (10d)  carry 0
+PASS  cross-check days x per day (10d)  simulate 12.250685 vs 12.250685
+--- 30 days out: 275 to 245 days, cash released Rs 36.7521 Cr, carry 0
+PASS  no negative release (30d)  released 36.7521
+PASS  interest is zero (30d)  carry 0
+PASS  cross-check days x per day (30d)  simulate 36.752055 vs 36.752055
+PASS  payables never release cash (dpo to 0)  released -73.5041
+PASS  payables never release cash (dpo to 30)  released -36.7521
+PASS  payables never release cash (dpo to 60)  released 0.0000
+PASS  payables never release cash (dpo to 90)  released 0.0000
+PASS  payables never release cash (dpo to 200)  released 0.0000
+
+ALL ASSERTS PASSED

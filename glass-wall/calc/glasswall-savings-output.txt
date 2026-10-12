@@ -1,0 +1,28 @@
+== Inputs (Rs Cr unless stated)
+revenue FY26 456.97 | per day 1.2520 (revenue / 365)
+receivables 108.96 + contract assets 49.15 = 158.12 | 126.29 days
+retention 35.96 (inside or beside the block; shown for reference, never added)
+
+== Clamp bounds read from the simulator
+dso: now 126.29 min 0 max 176.81 target null
+dpo: now 109.00 min 0 max 109.00 target null
+
+== Steps on the receivables plus contract assets block
+10 days: 126.3 -> 116.3 days | cash released Rs 12.52 Cr | simulate.released 12.52 | carry 0.00
+30 days: 126.3 -> 96.3 days | cash released Rs 37.56 Cr | simulate.released 37.56 | carry 0.00
+
+== Asserts
+PASS  no negative release (10 days): cash 12.52, released 12.52
+PASS  interest is zero (10 days): carry 0, rate 0
+PASS  cross-check days x valueOfADay vs simulate (10 days): 12.52 vs 12.52
+PASS  no negative release (30 days): cash 37.56, released 37.56
+PASS  interest is zero (30 days): carry 0, rate 0
+PASS  cross-check days x valueOfADay vs simulate (30 days): 37.56 vs 37.56
+PASS  payables never release cash: +40 days asked: 0.00 (max 109); -10 days: -6.01
+PASS  basis match: block 126.29 vs 126.3; receivables 87.03 vs 87; contract assets 39.26 vs 39.3
+
+== Levers ranking (levers.ts, rate 0, retention only)
+release-retention: cash 35.96 Cr | carry 0.00 | days 28.7
+PASS  levers: nothing negative, no interest: 1 lever(s)
+
+ALL ASSERTS PASSED

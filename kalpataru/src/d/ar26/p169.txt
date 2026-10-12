@@ -1,0 +1,65 @@
+Financial Statements                                                                                                   Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                               for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+42. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)                                                   42. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)
+
+As at 31st March, 2025                                                                                                 Reconciliation of Hedge Reserve
+
+Outstanding Contracts                                      Average      Amount           Nominal    MTM Value          The following table provides the reconciliation of cash flow hedge reserve for the year ended 31st March, 2026 and
+                                                 Exchange Rate       in Foreign           Amount   (K in Crores)       31st March, 2025:
+Cash Flow Hedges (Routed through OCI)          (In equivalent K)      currency      (K in Crores)
+Sell USD Buy INR                                                    (In Crores)                                 1.03                                                                                        (H in Crores)
+Maturing less than 3 months                                                                                    0.06                                                                                                    As at
+Maturing in 3 months to 6 months               87.59                USD 0.75          65.69                     2.73   Particulars                                                             As at
+Maturing in 6 months to 9 months               86.78                USD 0.69          59.88                    0.93                                                           31st March, 2026        31st March, 2025
+Maturing in 9 months to 12 months              88.45                 USD 1.92        169.83                    9.55    Balance at the beginning of the year                                                             (0.31)
+Maturing more than 12 months                    88.13                USD 1.47        129.55                   14.30    Gain / (Loss) recognised in OCI during the year (net)                 (22.62)
+Total / Average                                96.59                 USD 1.90        183.52                            Tax impact on above                                                   374.70                  (29.82)
+Sell INR Buy USD                               90.41                USD 6.73        608.47                     (0.10)  Balance at the end of the year (Net of Tax)                                                      (7.51)
+Maturing less than 3 months                                                                                   (0.06)                                                                           94.31
+Maturing in 3 months to 6 months                86.16               USD 0.55          47.39                   (0.05)                                                                         257.77                  (22.62)
+Maturing in 6 months to 9 months               86.57                USD 0.50          43.28                   (0.09)
+Maturing in 9 months to 12 months               86.81                USD 1.50         130.21                 (0.30)    Loan and Borrowings: Financial Covenants
+Total / Average                                87.52                USD 0.50          43.76
+Buy EUR Sell USD                               86.77                USD 3.05        264.64                    (0.00)   The company is required to comply with the few financial covenants as per terms of respective sanctions. In case of breach
+Maturing in 3 months to 6 months                                                                             (0.00)    of financial covenants, there can be adverse impact.
+Total / Average                                94.00                EUR 0.86          80.57
+Other Hedges (Routed through Profit and Loss)  94.00                EUR 0.86          80.57                    4.70    Credit risk
+Sell USD Buy INR                                                                                                 3.17
+Maturing less than 3 months                    86.96                     USD 3.79    329.29                      1.72  Credit risk is the risk of financial loss to the Company if a customer or counterparty to a financial instrument fails to meet its
+Maturing in 3 months to 6 months               87.13                     USD 3.81     331.95                   4.60    contractual obligations, and arises principally from the Company's receivables from customers, investment securities and
+Maturing in 6 months to 9 months               87.26                    USD 3.28     286.22                     0.27   other receivables . Credit risk is managed through credit approvals, establishing credit limits and continuously monitoring
+Maturing in 9 months to 12 months              88.68                    USD 3.09     274.06                   14.46    the creditworthiness of customers to which the Company grants credit terms in the normal course of business.
+Maturing more than 12 months                   89.19                      USD 1.10
+Total / Average                                87.58                   USD 15.07         98.11                 (7.31)  During the financial year 2021-22, Kurukshetra Expressway Private Limited ("KEPL" or "Concessionaire"), a Joint venture (49.57%)
+Sell USD Buy CLP                                                                    1,319.63                   0.36    of the Company, issued a notice of termination of Concession Agreement ("CA") vide letter dated 07th October, 2021 to
+Maturing in 3 months to 6 months                 0.09               CLP 2,128.53                                1.95   the National Highway Authority of India ("NHAI") on account of continuous disruption and blockade of traffic on National
+Maturing in 6 months to 9 months                 0.09               CLP 1,792.98     200.87                     1.82   Highway-71 due to farmer agitation with stoppage of toll collection. The provisions of Concession Agreement provides for
+Maturing in 9 months to 12 months                0.09               CLP 1,061.90      162.40                  (3.18)   termination where events which are not in control of KEPL, and obliges NHAI paying KEPL for repayment of Debt Due along with
+Maturing more than 12 months                     0.08                                  94.02                           Adjusted Equity after necessary adjustments. The Company made provision for impairment of H 98.27 Crores against equity
+Total / Average                                 0.09                 CLP 306.70        25.64                  (2.02)   investment in KEPL, Expected credit loss of H 316.16 Crores against loans given to KEPL / others and H 39.77 Crores towards
+Buy USD Sell INR                                                    CLP 5,290.11     482.93                   (2.02)   potential loss due to shortfall undertaking and the matter is subjudice.
+Maturing in 3 months to 6 months               87.75
+Total / Average                                87.75                     USD 1.44     126.67                  (0.06)   Trade and other receivables
+Sell EURO Buy INR                                                       USD 1.44      126.67                 (0.06)
+Maturing in 9 months to 12 months              95.99                                                                   The Company's exposure to credit risk is influenced mainly by the individual characteristics of each customer. The
+Total / Average                                95.99                     EUR 0.94      89.99                           demographics of the customer, including the default risk of the industry and country in which the customer operates, also
+                                                                        EUR 0.94       89.99                           has an influence on credit risk assessment. Credit risk is managed through credit approvals, establishing credit limits and
+                                                                                                                       continuously monitoring the creditworthiness of customers to which the Company grants credit terms in the normal course
+                                                                                                                       of business. The Company establishes an allowance for doubtful debts and impairment that represents its estimate of
+                                                                                                                       incurred losses in respect of trade and other receivables and investments.
+
+                                                                                                                       Credit risk in respect of other receivables mainly comprises of loan to components and others which are managed by the
+                                                                                                                       Company, by way of assessing financial condition, current economic trends and ageing of other receivables . The Company
+                                                                                                                       considers the probability of default and whether there has been a significant increase in the credit risk on an ongoing basis
+                                                                                                                       through each reporting period. To assess whether there is a significant increase in credit risk, the Company compares the
+                                                                                                                       risk of default occurring on financial assets as on the reporting date.
+
+                                                                                                                       The portion of the payments retained by the customer until final contract settlement is not considered a significant financing
+                                                                                                                       component, as it is generally intended to provide the customer with a form of security for the Company's remaining
+                                                                                                                       performance obligations under the contract, which is consistent with industry practice.
+
+332 Kalpataru Projects International Limited                                                                                                                                  Integrated Annual Report 2025-26 333

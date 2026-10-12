@@ -1,0 +1,32 @@
+ok  leversFor on the published basis returns no lever (every lever NOT FOUND)
+ok  toTerms on the published basis moves nothing (no term published)
+ok  no term published: certification and payment floors are 0, so a 10 or 30 day move is inside the bounds
+ok  clamp max = max(now*1.4, now+30) as read from cycle-simulation.ts
+ok  vendor credit held at today's figure when no vendor terms exist (never stretched)
+ok  10 days: valueOfADay x days = independent days x OI / 365
+ok  10 days: simulate (receivable and certification harness) = independent figure
+ok  10 days: interest = 0 (no borrowing rate published)
+ok  10 days: release is not negative
+ok  30 days: valueOfADay x days = independent days x OI / 365
+ok  30 days: simulate (receivable and certification harness) = independent figure
+ok  30 days: interest = 0 (no borrowing rate published)
+ok  30 days: release is not negative
+ok  payables: asked to stretch past today's figure with no terms, held, releases 0
+ok  payables: paying sooner consumes cash, never releases it
+ok  basis: operating income, FY26 provisional, 365 days; no stock, payables or retention priced
+
+LEVER TABLE
+- Receivables (DSO) at revenue per day: NOT PRICED: no debtor days or receivable balance published; client term not published
+- Contract assets / unbilled (certification wait): NOT PRICED: no contract asset balance or days, no certification window published
+- Retention: NOT PRICED: no retention balance and no release basis published
+- Site stock (DIO): NOT PRICED: no stock balance, no cost per day published
+- Payables (DPO) to vendor terms: NOT PRICED: no payables, no vendor terms published; only sub-contractor advances named, no amount
+- Combined scenario: NOT RUN: no lever has a base
+- Financing carry: NOT PRICED: no borrowing rate published; interest = 0
+
+VALUE OF A DAY (Crestline's arithmetic on the published accounts, FY26 provisional)
+per day = 1525.4 / 365 = 4.179178 Cr
+10 days: 41.791781 Cr released once (simulate harness 41.791781), interest 0
+30 days: 125.375342 Cr released once (simulate harness 125.375342), interest 0
+PRINT: per day Rs 4.18 Cr; 10 days Rs 41.79 Cr; 30 days Rs 125.38 Cr
+ALL ASSERTS PASSED

@@ -1,0 +1,80 @@
+B. NON-RESIDENT SHAREHOLDERS:
+
+       Applicable withholding tax on dividend payment to non-resident shareholders as mentioned in below table.
+
+Sr. No. Particulars                            Withholding Tax Rate          Documents required (if any) for Nil/lower
+                                                                                               withholding of tax
+
+1  Non-resident shareholders (including SEBI 20% (plus applicable To avail beneficial rate of tax treaty following
+
+   registered FPI and FII, Indian Branch of surcharge and tax documents would be required:
+
+   Foreign Banks)                              cess) OR Tax Treaty Valid Tax Residency certificate issued by
+
+                                               Rate* (whichever is           revenue authority of country of residence of
+
+                                                                beneficial)  shareholder for the year in which dividend
+
+                                                                             is received
+
+                                                                              PAN, if any
+
+                                                                              Electronically filed Form 41**
+
+                                                                             Self-declaration for non-existence of
+                                                                                   permanent establishment/ fixed base in
+                                                                                   India
+
+                                                                             (Note:1 - Application of beneficial Tax Treaty
+                                                                             Rate shall depend upon the completeness of
+                                                                             the documents submitted by the Non-Resident
+                                                                             shareholder and review to the satisfaction of
+                                                                             the Company)
+
+                                                                             (Note:2  In case of FPI / FII, copy of SEBI
+                                                                             Registration Certificate shall be required)
+
+2  Any non-resident having valid certificate   Rate specified Copy of valid Nil/lower tax deduction certificate
+
+   issued by Income Tax Department for Nil / in such certificate/ obtained from Income Tax Authority
+
+   lower deduction of tax on dividend income                    order
+
+3  Any non-resident shareholder exempted                        NIL          Necessary extract of applicable law giving
+
+   from Withholding tax deduction as per                                     such exemption, detailed note for such claim of
+
+   the provisions of the Act or any other law                                exemption supported with third party opinion,
+
+   such as The United Nations (Privileges and                                if any
+
+   Immunities) Act 1947, etc.
+
+* The Company is not obligated to apply the beneficial Tax Treaty rates at the time of tax deduction/withholding on dividend amounts.
+Application of beneficial Tax Treaty Rate shall depend upon the completeness of the documents submitted by the Non-Resident shareholder
+and review to the satisfaction of the Company.
+
+**Form 41 (corresponding to Form 10F                                 -The aforesaid documents such as Form 121,
+     notified under the Income Tax Act, 1961):                              documents under sections 393(5), 393(6) of the
+                                                                            Act, FPI Registration Certificate, Tax Residency
+In pursuance of Notification no. 03/2022 dated July 16,                     Certificate, Lower Tax certificate etc. needs to be
+       2022, non-resident shareholders are required to furnish              mandatorily uploaded on the link https://web.
+       Form 41 electronically on income tax portal with their               in.mpms.mufg.com/formsreg/submission-of-
+       login credentials at https://eportal.incometax.gov.in/               Form-121-41.html on or before June 29, 2026 to
+       iec/foservices/#/login.                                              enable the Company to determine the appropriate
+                                                                            TDS / withholding tax rate that will be applicable.
+For non-resident shareholders who do not have a                             Any communication received after June 29, 2026
+       Permanent Account Number (`PAN') or who are not                      or through any other mode shall not be considered.
+       required to obtain PAN, the income tax department                    Formats of Form 121 / Form 41 are available on the
+       has, from October 01, 2023, enabled a new category for               website of the RTA and can be downloaded from
+       obtaining Form 41, while registering on the Income Tax               the General tab on https://web.in.mpms.mufg.
+       Portal. The new category is "non-residents not having                com/client-downloads.html
+       a PAN and not required to have PAN", which enables
+       such non-residents to register on the Income Tax portal       -All the shareholders are requested to update their
+       without PAN and file Form 41 electronically. The same                PAN with their Depository Participant (if shares are
+       is not applicable to non-residents who have PAN in                   held in electronic form) and Company / RTA (if
+       India. Such non-residents are required to furnish Form               shares are held in physical form) against all their
+       41 electronically using their PAN login on income tax                folio holdings on or before June 29, 2026.
+       portal only.
+
+                                                                                                                 13

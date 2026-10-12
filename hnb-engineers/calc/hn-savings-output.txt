@@ -1,0 +1,5 @@
+per day Rs 0.606932 Cr (221.53 / 365); valueOfADay cash 0.6069315068493151, carry 0
+step 10: 412 -> 402 days; released Rs 6.0693 Cr; carry 0; basis dso; levers 1
+step 30: 412 -> 382 days; released Rs 18.2079 Cr; carry 0; basis dso; levers 1
+payables stretch 60 -> 120 requested: next 60, released 0
+ALL ASSERTS PASS

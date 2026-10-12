@@ -1,0 +1,58 @@
+Command (run from the app repo, file at scripts/_tmp-jkumar-savings.ts, deleted after the run): npx tsx scripts/_tmp-jkumar-savings.ts
+Run date: 8 Oct 2026
+
+### Break runs (each assert broken once; each must fail and exit 1)
+### BREAK=1
+  [FAIL] no negative release: -156.00 Cr
+  [FAIL] independent cross-check (days x value of a day = simulate): 156.00 vs -156.00
+ASSERTS FAILED (BREAK=1): no negative release; independent cross-check (days x value of a day = simulate)
+exit=1
+### BREAK=2
+  [FAIL] interest only at the two disclosed ends, within the cap: 8.1%, 12.35%, 11.5%
+ASSERTS FAILED (BREAK=2): interest only at the two disclosed ends, within the cap
+exit=1
+### BREAK=3
+  [FAIL] independent cross-check (days x value of a day = simulate): 171.60 vs 156.00
+ASSERTS FAILED (BREAK=3): independent cross-check (days x value of a day = simulate)
+exit=1
+### BREAK=4
+  [FAIL] payables never release cash: 307.80 Cr
+ASSERTS FAILED (BREAK=4): payables never release cash
+exit=1
+
+### CLEAN run (full output)
+== J. Kumar Infraprojects, STANDALONE, AR FY2025-26 vintage (Rs crore) ==
+Value of a day = 5,693.89 / 365 = 15.5997 Cr
+Receivable days today (closing) = 1,485.29 / 15.5997 = 95.2 days
+Borrowings drawn (cap) = 587.44 Cr | disclosed rate ends 8.1% and 12.35%
+
+S10 Receivables, 10-day step
+  days 95.2 -> 85.2 (moved -10.00) | cash released 156.00 Cr | within borrowings cap: 156.00 Cr (26.6% of 587.44)
+  interest a year at 8.1%: 12.64 Cr
+  interest a year at 12.35%: 19.27 Cr
+  [PASS] no negative release: 156.00 Cr
+  [PASS] interest only at the two disclosed ends, within the cap: 8.1%, 12.35%
+  [PASS] independent cross-check (days x value of a day = simulate): 156.00 vs 156.00
+
+S30 Receivables, 30-day step
+  days 95.2 -> 65.2 (moved -30.00) | cash released 467.99 Cr | within borrowings cap: 467.99 Cr (79.7% of 587.44)
+  interest a year at 8.1%: 37.91 Cr
+  interest a year at 12.35%: 57.80 Cr
+  [PASS] no negative release: 467.99 Cr
+  [PASS] interest only at the two disclosed ends, within the cap: 8.1%, 12.35%
+  [PASS] independent cross-check (days x value of a day = simulate): 467.99 vs 467.99
+
+SBK 6 m to 1 y overdue bucket, in days of revenue
+  days 95.2 -> 86.2 (moved -9.05) | cash released 141.15 Cr | within borrowings cap: 141.15 Cr (24.0% of 587.44)
+  interest a year at 8.1%: 11.43 Cr
+  interest a year at 12.35%: 17.43 Cr
+  [PASS] no negative release: 141.15 Cr
+  [PASS] interest only at the two disclosed ends, within the cap: 8.1%, 12.35%
+  [PASS] independent cross-check (days x value of a day = simulate): 141.15 vs 141.15
+
+Payables stretch attempt: 82.8 -> asked 112.8, simulator held at 82.8 (ceiling 82.8, no vendor term passed)
+  [PASS] payables never release cash: 0.00 Cr
+
+Rows overlap and are never added. Interest saved only if the cash repays debt. Scenario, not a forecast.
+ALL ASSERTS PASSED (BREAK=0)
+exit=0

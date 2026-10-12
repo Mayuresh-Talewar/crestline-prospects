@@ -1,0 +1,57 @@
+Value of a day, FY25 TOI 639.86 / 365 (unaudited, CARE 06 Oct 2025 p3): Rs 1.75 crore
+Interest rate used: 0% (none disclosed; no interest figure)
+
+(a) 10-day step out of the collection wait (51 to 41)
+    dio Stock on site                   32 ->  32 days, cash 0.00
+    dso Invoiced, waiting to be paid    51 ->  41 days, cash 17.53
+    dpo Vendor credit taken             39 ->  39 days, cash 0.00
+    operating cycle (inventory + collection - creditors): 44 -> 34 days
+    cash released once: Rs 17.53 crore | interest a year: Rs 0.00 crore
+    priceLevers: "Take days out of the collection wait" cash Rs 17.53 crore, carry Rs 0.00 crore, 10 days
+
+(b) 30-day step out of the collection wait (51 to 21)
+    dio Stock on site                   32 ->  32 days, cash 0.00
+    dso Invoiced, waiting to be paid    51 ->  21 days, cash 52.59
+    dpo Vendor credit taken             39 ->  39 days, cash 0.00
+    operating cycle (inventory + collection - creditors): 44 -> 14 days
+    cash released once: Rs 52.59 crore | interest a year: Rs 0.00 crore
+    priceLevers: "Take days out of the collection wait" cash Rs 52.59 crore, carry Rs 0.00 crore, 30 days
+
+(c) Collection period back to FY24's 33 days from FY25's 51 (18 days)
+    dio Stock on site                   32 ->  32 days, cash 0.00
+    dso Invoiced, waiting to be paid    51 ->  33 days, cash 31.55
+    dpo Vendor credit taken             39 ->  39 days, cash 0.00
+    operating cycle (inventory + collection - creditors): 44 -> 26 days
+    cash released once: Rs 31.55 crore | interest a year: Rs 0.00 crore
+    priceLevers: "Take days out of the collection wait" cash Rs 31.55 crore, carry Rs 0.00 crore, 18 days
+
+(e) 10-day step out of the inventory period, unbilled work (32 to 22)
+    dio Stock on site                   32 ->  22 days, cash 17.53
+    dso Invoiced, waiting to be paid    51 ->  51 days, cash 0.00
+    dpo Vendor credit taken             39 ->  39 days, cash 0.00
+    operating cycle (inventory + collection - creditors): 44 -> 34 days
+    cash released once: Rs 17.53 crore | interest a year: Rs 0.00 crore
+    priceLevers: "Take days out of the inventory period (unbilled work)" cash Rs 17.53 crore, carry Rs 0.00 crore, 10 days
+
+(f) Inventory period back to FY24's 17 days from FY25's 32 (15 days)
+    dio Stock on site                   32 ->  17 days, cash 26.30
+    dso Invoiced, waiting to be paid    51 ->  51 days, cash 0.00
+    dpo Vendor credit taken             39 ->  39 days, cash 0.00
+    operating cycle (inventory + collection - creditors): 44 -> 29 days
+    cash released once: Rs 26.30 crore | interest a year: Rs 0.00 crore
+    priceLevers: "Take days out of the inventory period (unbilled work)" cash Rs 26.30 crore, carry Rs 0.00 crore, 15 days
+
+(p) Payables probe: creditor days 39 to 60, no agreed vendor terms
+    dio Stock on site                   32 ->  32 days, cash 0.00
+    dso Invoiced, waiting to be paid    51 ->  51 days, cash 0.00
+    dpo Vendor credit taken             39 ->  39 days, cash 0.00
+    operating cycle (inventory + collection - creditors): 44 -> 44 days
+    cash released once: Rs 0.00 crore | interest a year: Rs 0.00 crore
+    nothing moved: the leg is held at today's figure
+
+(d) CONTEXT ONLY, not a saving: gross current asset days 266 back to FY24's 220 (46 days) x value of a day = Rs 80.64 crore
+
+Operating cycle FY25 recomputed: 32 + 51 - 39 = 44 (CARE prints 44)
+Rows overlap and are never added: (a), (b) and (c) are three sizes of one move; (e) and (f) are two sizes of another.
+
+ALL ASSERTS PASSED

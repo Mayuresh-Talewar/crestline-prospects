@@ -1,0 +1,15 @@
+
+> process-automation-crestline@0.1.0 verify:grey
+> tsx scripts/verify-grey.ts
+
+C:\Users\asus\Desktop\process-automation-crestline\lib\connectors\registry.ts:54
+      throw new Error(
+            ^
+
+
+Error: No adapter for source type "SAP_S4". Supported today: GREY_ERP.
+    at createAdapter (C:\Users\asus\Desktop\process-automation-crestline\lib\connectors\registry.ts:54:13)
+    at adapterFor (C:\Users\asus\Desktop\process-automation-crestline\lib\sync\engine.ts:2169:10)
+    at async main (C:\Users\asus\Desktop\process-automation-crestline\scripts\verify-grey.ts:74:20)
+
+Node.js v22.17.0

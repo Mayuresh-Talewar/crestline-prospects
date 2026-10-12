@@ -1,0 +1,30 @@
+Break runs: `BREAK=n npx tsx scripts/_tmp-rulka-savings.ts | grep -E "FAIL|FAILED|ALL"`, exact lines as printed.
+
+--- BREAK=1
+FAIL  no negative release: released -3.02
+FAIL  independent cross-check: 10 x 110.20 / 365 = 3.02; DSO rebuilt from receivables after = 108.69
+FAIL  no negative release: released -9.06
+FAIL  independent cross-check: 30 x 110.20 / 365 = 9.06; DSO rebuilt from receivables after = 88.69
+4 ASSERT(S) FAILED
+exit=1
+--- BREAK=2
+FAIL  interest = 0: simulate carry 0.29, lever carry 0.00
+FAIL  interest = 0: simulate carry 0.86, lever carry 0.00
+2 ASSERT(S) FAILED
+exit=1
+--- BREAK=3
+FAIL  interest = 0: simulate carry 0.00, lever carry 0.29
+FAIL  interest = 0: simulate carry 0.00, lever carry 0.86
+2 ASSERT(S) FAILED
+exit=1
+--- BREAK=4
+FAIL  payables never release cash: dpo cash 2.31
+FAIL  payables never release cash: dpo cash 6.94
+2 ASSERT(S) FAILED
+exit=1
+--- BREAK=5
+FAIL  basis match: receivables / value of a day = 117.07 days vs DSO 118.69
+FAIL  independent cross-check: 10 x 110.20 / 365 = 3.02; DSO rebuilt from receivables after = 108.69
+FAIL  independent cross-check: 30 x 110.20 / 365 = 9.06; DSO rebuilt from receivables after = 88.69
+3 ASSERT(S) FAILED
+exit=1

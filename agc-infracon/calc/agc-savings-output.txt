@@ -1,0 +1,135 @@
+===== BREAK=1 =====
+Value of a day = 567.63 / 365 = Rs 1.5552 Cr (Rs 155.52 lakh)
+Stand-in days for the clamp: 100 (no published baseline). Terms passed: none. Interest rate: 0%
+
+10 days: unbilled wait -15.55 | unpaid wait -15.55 | both -31.10 Rs Cr (rows overlap, never added in print) | carry 0
+   moved: cad 10, dso 10
+FAIL  10d no negative release
+PASS  10d interest = 0
+FAIL  10d cross-check (integer route) one wait
+FAIL  10d cross-check both waits
+
+30 days: unbilled wait -46.65 | unpaid wait -46.65 | both -93.31 Rs Cr (rows overlap, never added in print) | carry 0
+   moved: cad 30, dso 30
+FAIL  30d no negative release
+PASS  30d interest = 0
+FAIL  30d cross-check (integer route) one wait
+FAIL  30d cross-check both waits
+
+Request of -50 days on the unbilled wait clamps to 0 days, cash 155.52
+PASS  clamp floor holds (cash <= NOW x per day)
+Payables +10 days, no vendor terms stated: cash 0
+PASS  payables never release cash
+priceLevers: action-collection cash 15.55 carry 0; costOfFinancing 0
+PASS  priceLevers carry = 0
+
+FAILED 6: 10d no negative release | 10d cross-check (integer route) one wait | 10d cross-check both waits | 30d no negative release | 30d cross-check (integer route) one wait | 30d cross-check both waits
+exit=1
+===== BREAK=2 =====
+Value of a day = 567.63 / 365 = Rs 1.5552 Cr (Rs 155.52 lakh)
+Stand-in days for the clamp: 100 (no published baseline). Terms passed: none. Interest rate: 5%
+
+10 days: unbilled wait 15.55 | unpaid wait 15.55 | both 31.10 Rs Cr (rows overlap, never added in print) | carry 1.5551506849315069
+   moved: cad -10, dso -10
+PASS  10d no negative release
+FAIL  10d interest = 0
+PASS  10d cross-check (integer route) one wait
+PASS  10d cross-check both waits
+
+30 days: unbilled wait 46.65 | unpaid wait 46.65 | both 93.31 Rs Cr (rows overlap, never added in print) | carry 4.66545205479452
+   moved: cad -30, dso -30
+PASS  30d no negative release
+FAIL  30d interest = 0
+PASS  30d cross-check (integer route) one wait
+PASS  30d cross-check both waits
+
+Request of -50 days on the unbilled wait clamps to 0 days, cash 155.52
+PASS  clamp floor holds (cash <= NOW x per day)
+Payables +10 days, no vendor terms stated: cash 0
+PASS  payables never release cash
+priceLevers: action-collection cash 15.55 carry 0.7775750000000001; costOfFinancing 0
+FAIL  priceLevers carry = 0
+
+FAILED 3: 10d interest = 0 | 30d interest = 0 | priceLevers carry = 0
+exit=1
+===== BREAK=3 =====
+Value of a day = 567.63 / 360 = Rs 1.5768 Cr (Rs 157.68 lakh)
+Stand-in days for the clamp: 100 (no published baseline). Terms passed: none. Interest rate: 0%
+
+10 days: unbilled wait 15.77 | unpaid wait 15.77 | both 31.54 Rs Cr (rows overlap, never added in print) | carry 0
+   moved: cad -10, dso -10
+PASS  10d no negative release
+PASS  10d interest = 0
+FAIL  10d cross-check (integer route) one wait
+FAIL  10d cross-check both waits
+
+30 days: unbilled wait 47.30 | unpaid wait 47.30 | both 94.61 Rs Cr (rows overlap, never added in print) | carry 0
+   moved: cad -30, dso -30
+PASS  30d no negative release
+PASS  30d interest = 0
+FAIL  30d cross-check (integer route) one wait
+FAIL  30d cross-check both waits
+
+Request of -50 days on the unbilled wait clamps to 0 days, cash 157.68
+PASS  clamp floor holds (cash <= NOW x per day)
+Payables +10 days, no vendor terms stated: cash 0
+PASS  payables never release cash
+priceLevers: action-collection cash 15.55 carry 0; costOfFinancing 0
+PASS  priceLevers carry = 0
+
+FAILED 4: 10d cross-check (integer route) one wait | 10d cross-check both waits | 30d cross-check (integer route) one wait | 30d cross-check both waits
+exit=1
+===== BREAK=4 =====
+Value of a day = 567.63 / 365 = Rs 1.5552 Cr (Rs 155.52 lakh)
+Stand-in days for the clamp: 100 (no published baseline). Terms passed: none. Interest rate: 0%
+
+10 days: unbilled wait 15.55 | unpaid wait 15.55 | both 31.10 Rs Cr (rows overlap, never added in print) | carry 0
+   moved: cad -10, dso -10
+PASS  10d no negative release
+PASS  10d interest = 0
+PASS  10d cross-check (integer route) one wait
+PASS  10d cross-check both waits
+
+30 days: unbilled wait 46.65 | unpaid wait 46.65 | both 93.31 Rs Cr (rows overlap, never added in print) | carry 0
+   moved: cad -30, dso -30
+PASS  30d no negative release
+PASS  30d interest = 0
+PASS  30d cross-check (integer route) one wait
+PASS  30d cross-check both waits
+
+Request of -50 days on the unbilled wait clamps to 0 days, cash 155.52
+PASS  clamp floor holds (cash <= NOW x per day)
+Payables +10 days, no vendor terms stated: cash 15.551506849315068
+FAIL  payables never release cash
+priceLevers: action-collection cash 15.55 carry 0; costOfFinancing 0
+PASS  priceLevers carry = 0
+
+FAILED 1: payables never release cash
+exit=1
+===== BREAK=0 =====
+Value of a day = 567.63 / 365 = Rs 1.5552 Cr (Rs 155.52 lakh)
+Stand-in days for the clamp: 100 (no published baseline). Terms passed: none. Interest rate: 0%
+
+10 days: unbilled wait 15.55 | unpaid wait 15.55 | both 31.10 Rs Cr (rows overlap, never added in print) | carry 0
+   moved: cad -10, dso -10
+PASS  10d no negative release
+PASS  10d interest = 0
+PASS  10d cross-check (integer route) one wait
+PASS  10d cross-check both waits
+
+30 days: unbilled wait 46.65 | unpaid wait 46.65 | both 93.31 Rs Cr (rows overlap, never added in print) | carry 0
+   moved: cad -30, dso -30
+PASS  30d no negative release
+PASS  30d interest = 0
+PASS  30d cross-check (integer route) one wait
+PASS  30d cross-check both waits
+
+Request of -50 days on the unbilled wait clamps to 0 days, cash 155.52
+PASS  clamp floor holds (cash <= NOW x per day)
+Payables +10 days, no vendor terms stated: cash 0
+PASS  payables never release cash
+priceLevers: action-collection cash 15.55 carry 0; costOfFinancing 0
+PASS  priceLevers carry = 0
+
+ALL ASSERTS PASS
+exit=0

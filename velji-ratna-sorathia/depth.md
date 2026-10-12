@@ -1,0 +1,5 @@
+# Story angle (respect first)
+Third-generation Vadodara contractor, founded 1978 (company site), now Rs 759 Cr standalone revenue FY24 (Infomerics, 3 Dec 2024), up from Rs 650 Cr, with a Rs 3,330 Cr order book (4.4x revenue) across six states and eight verticals, rated IVR A-/A2+. Its Rs 419.50 Cr of bank guarantee limit and 74% fund-based use show scale is being funded actively.
+Question to raise: with work in MP, Jharkhand and Gujarat for government clients, where does each bill wait between work done and cash, and how much sits in retention and guarantees? The filings cannot say; that is the gap. Do not print any day figure: none is published.
+
+Update: the company's own filed MGT-7 returns show turnover Rs 1,062.54 Cr and net worth Rs 293.18 Cr for FY25 (up from Rs 895.90 Cr and Rs 234.91 Cr in FY24, same form). Turnover has grown every year since FY21 (Rs 512.23 Cr). Story: net worth up fivefold in four years. Do not set this beside Infomerics' Rs 759.30 Cr FY24, which is a different definition.

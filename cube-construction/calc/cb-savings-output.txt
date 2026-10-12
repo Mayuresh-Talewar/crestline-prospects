@@ -1,0 +1,23 @@
+Basis: FY24 operating revenue 712.18 Cr / 365
+Value of a day: 1.951178 Cr (1.95 Cr), carry 0 (rate 0%)
+
+Scenario (Crestline's arithmetic on the published accounts; Scenario, not a forecast)
+10 days less: 10 x 1.951178 = 19.51 Cr released once; simulate 19.51; interest 0
+30 days less: 30 x 1.951178 = 58.54 Cr released once; simulate 58.54; interest 0
+
+Payables stretched to 200 days with no terms: released 0 Cr (clamped, as designed)
+Clamp bounds read: dso floor = payment term (none published, so 0); cad floor = certification window (none, so 0); dpo ceiling = vendor terms (none, so held at today).
+
+LEVER TABLE
+Lever                         Priced?  Why
+Value of a day (revenue)      PRICED   FY24 operating revenue 712.18 Cr / 365 = 1.951178 Cr a day; steps of 10 and 30 days
+Receivables (DSO)             NOT      CRISIL FY25 estimate (about 130 days), no stated basis, not an audited balance; process map only, never priced
+Contract assets / unbilled    NOT      no contract-asset figure published, no certification window published
+Retention                     NOT      NOT FOUND: only "a large portion of receivables"; no balance, no release basis
+Stock (DIO)                   NOT      about 115 days is an estimate; no materials-consumed or COGS cost base published
+Payables (DPO)                NOT      "over 220 days" is a lower bound on an unstated base; no vendor terms published; paying late is never cash released
+Combined scenario             NOT      only one priced base; nothing to run together
+Ranking (priceLevers)         NOT RUN  one priced base, so nothing to rank; needs positions, ledger and vendors that are not published
+Interest                      NONE     no borrowing rate published
+
+ALL ASSERTS PASSED

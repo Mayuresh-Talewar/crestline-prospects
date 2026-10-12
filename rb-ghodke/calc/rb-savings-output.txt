@@ -1,0 +1,95 @@
+=== BREAK=1 (deliberate break, must fail)
+Revenue per day = 313.5 / 365 = 0.858904 Cr
+valueOfADay: cash 0.858904 carry 0.0773013698630137
+Clamp read from simulate: dso min 0, max 99 (no payment term, so min 0)
+
+Step 10 days: DSO 69 -> 59; released 8.589041 Cr; carry 0.7730136986301369
+PASS  no negative release (10d)  released 8.589041
+ASSERT FAIL  interest is 0 (10d)  carry 0.7730136986301369
+PASS  cross-check days x per day (10d)  simulate 8.589041 vs 8.589041
+PRINT  10 days = Rs 8.59 Cr
+
+Step 30 days: DSO 69 -> 39; released 25.767123 Cr; carry 2.319041095890411
+PASS  no negative release (30d)  released 25.767123
+ASSERT FAIL  interest is 0 (30d)  carry 2.319041095890411
+PASS  cross-check days x per day (30d)  simulate 25.767123 vs 25.767123
+PRINT  30 days = Rs 25.77 Cr
+PASS  payables never release cash  dpo cash 0
+
+2 ASSERT(S) FAILED
+=== BREAK=2 (deliberate break, must fail)
+Revenue per day = 313.5 / 365 = 0.858904 Cr
+valueOfADay: cash 0.858904 carry 0
+Clamp read from simulate: dso min 0, max 99 (no payment term, so min 0)
+
+Step 10 days: DSO 69 -> 59; released 8.589041 Cr; carry 0
+PASS  no negative release (10d)  released 8.589041
+PASS  interest is 0 (10d)  carry 0
+ASSERT FAIL  cross-check days x per day (10d)  simulate 8.589041 vs 9.018493
+PRINT  10 days = Rs 8.59 Cr
+
+Step 30 days: DSO 69 -> 39; released 25.767123 Cr; carry 0
+PASS  no negative release (30d)  released 25.767123
+PASS  interest is 0 (30d)  carry 0
+ASSERT FAIL  cross-check days x per day (30d)  simulate 25.767123 vs 27.055479
+PRINT  30 days = Rs 25.77 Cr
+PASS  payables never release cash  dpo cash 0
+
+2 ASSERT(S) FAILED
+=== BREAK=3 (deliberate break, must fail)
+Revenue per day = 313.5 / 365 = 0.858904 Cr
+valueOfADay: cash 0.858904 carry 0
+Clamp read from simulate: dso min 0, max 99 (no payment term, so min 0)
+
+Step 10 days: DSO 69 -> 79; released -8.589041 Cr; carry 0
+ASSERT FAIL  no negative release (10d)  released -8.589041
+PASS  interest is 0 (10d)  carry 0
+ASSERT FAIL  cross-check days x per day (10d)  simulate -8.589041 vs 8.589041
+PRINT  10 days = Rs -8.59 Cr
+
+Step 30 days: DSO 69 -> 99; released -25.767123 Cr; carry 0
+ASSERT FAIL  no negative release (30d)  released -25.767123
+PASS  interest is 0 (30d)  carry 0
+ASSERT FAIL  cross-check days x per day (30d)  simulate -25.767123 vs 25.767123
+PRINT  30 days = Rs -25.77 Cr
+PASS  payables never release cash  dpo cash 0
+
+4 ASSERT(S) FAILED
+=== BREAK=4 (deliberate break, must fail)
+Revenue per day = 313.5 / 365 = 0.858904 Cr
+valueOfADay: cash 0.858904 carry 0
+Clamp read from simulate: dso min 0, max 99 (no payment term, so min 0)
+
+Step 10 days: DSO 69 -> 59; released 8.589041 Cr; carry 0
+PASS  no negative release (10d)  released 8.589041
+PASS  interest is 0 (10d)  carry 0
+PASS  cross-check days x per day (10d)  simulate 8.589041 vs 8.589041
+PRINT  10 days = Rs 8.59 Cr
+
+Step 30 days: DSO 69 -> 39; released 25.767123 Cr; carry 0
+PASS  no negative release (30d)  released 25.767123
+PASS  interest is 0 (30d)  carry 0
+PASS  cross-check days x per day (30d)  simulate 25.767123 vs 25.767123
+PRINT  30 days = Rs 25.77 Cr
+ASSERT FAIL  payables never release cash  dpo cash 25.767123287671232
+
+1 ASSERT(S) FAILED
+=== CLEAN RUN
+Revenue per day = 313.5 / 365 = 0.858904 Cr
+valueOfADay: cash 0.858904 carry 0
+Clamp read from simulate: dso min 0, max 99 (no payment term, so min 0)
+
+Step 10 days: DSO 69 -> 59; released 8.589041 Cr; carry 0
+PASS  no negative release (10d)  released 8.589041
+PASS  interest is 0 (10d)  carry 0
+PASS  cross-check days x per day (10d)  simulate 8.589041 vs 8.589041
+PRINT  10 days = Rs 8.59 Cr
+
+Step 30 days: DSO 69 -> 39; released 25.767123 Cr; carry 0
+PASS  no negative release (30d)  released 25.767123
+PASS  interest is 0 (30d)  carry 0
+PASS  cross-check days x per day (30d)  simulate 25.767123 vs 25.767123
+PRINT  30 days = Rs 25.77 Cr
+PASS  payables never release cash  dpo cash 0
+
+ALL ASSERTS PASS

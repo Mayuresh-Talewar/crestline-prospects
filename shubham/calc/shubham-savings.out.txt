@@ -1,0 +1,51 @@
+== inputs ==
+per day = 510.05 / 365 = 1.3974 cr (Shubham EPC Private Limited, standalone, CRISIL 02 Jul 2025, FY25 operating income)
+GCA band 155 to 200 days (Shubham EPC Private Limited, standalone, CRISIL 02 Jul 2025, gross current asset days, FY23 to FY25, on operating income)
+interest rate: 0% (none disclosed); terms passed: none
+ASSERT basis: days and per day share one entity: PASS
+
+== clamp bounds (no terms passed) ==
+dio at 155 days: min 0.00, max 232.50
+cad at 155 days: min 0.00, max 217.00
+dso at 155 days: min 0.00, max 217.00
+dio at 200 days: min 0.00, max 300.00
+cad at 200 days: min 0.00, max 280.00
+dso at 200 days: min 0.00, max 280.00
+
+== scenarios: days out of gross current assets (rows overlap, never added) ==
+start 155 days, step 10: to 145.00 days, moved -10.00, cash released 13.97 cr, interest 0.00 cr
+ASSERT leg choice irrelevant (155/10): PASS
+ASSERT no negative release (155/10): PASS
+ASSERT interest = 0 (155/10): PASS
+ASSERT cross-check 510.05 x 10 / 365 = 13.97 (155/10): PASS
+start 155 days, step 30: to 125.00 days, moved -30.00, cash released 41.92 cr, interest 0.00 cr
+ASSERT leg choice irrelevant (155/30): PASS
+ASSERT no negative release (155/30): PASS
+ASSERT interest = 0 (155/30): PASS
+ASSERT cross-check 510.05 x 30 / 365 = 41.92 (155/30): PASS
+start 200 days, step 10: to 190.00 days, moved -10.00, cash released 13.97 cr, interest 0.00 cr
+ASSERT leg choice irrelevant (200/10): PASS
+ASSERT no negative release (200/10): PASS
+ASSERT interest = 0 (200/10): PASS
+ASSERT cross-check 510.05 x 10 / 365 = 13.97 (200/10): PASS
+start 200 days, step 30: to 170.00 days, moved -30.00, cash released 41.92 cr, interest 0.00 cr
+ASSERT leg choice irrelevant (200/30): PASS
+ASSERT no negative release (200/30): PASS
+ASSERT interest = 0 (200/30): PASS
+ASSERT cross-check 510.05 x 30 / 365 = 41.92 (200/30): PASS
+
+== payables (no vendor terms disclosed) ==
+push DPO 0 -> 10: moved 0.00, cash 0.00 cr
+ASSERT payables never release cash (+10): PASS
+push DPO 0 -> 30: moved 0.00, cash 0.00 cr
+ASSERT payables never release cash (+30): PASS
+
+== levers (priceLevers at the disclosed rate: none) ==
+Take 10 days out of gross current assets: cash 13.97 cr, interest a year 0.00 cr
+Take 30 days out of gross current assets: cash 41.92 cr, interest a year 0.00 cr
+ASSERT levers: interest = 0: PASS
+ASSERT levers cash = simulator cash: PASS
+cost of financing at 0%: 0.00 cr
+ASSERT financing cost = 0 (no rate): PASS
+
+== summary == all asserts PASS

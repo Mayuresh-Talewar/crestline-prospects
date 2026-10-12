@@ -1,0 +1,72 @@
+Financial Statements                                                                                                                   Notes forming part of the Consolidated Financial Statements
+
+Notes forming part of the Consolidated Financial Statements                                                                            for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+11. OTHER ASSETS                                                                                                                       12. INVENTORIES
+
+Particulars                                                                                          As at          (H in Crores)      Particulars                                                                                       As at                      (H in Crores)
+                                                                                    31st March, 2026                           As at   Raw Materials and Components                                                     31st March, 2026                                       As at
+(i)Non-Current                                                                                                                         (including goods in transit I 0.05) (previous year I Nil)
+Capital Advances                                                                                     62.63    31st March, 2025         Work-in-progress Tower Parts                                                                    395.05                 31st March, 2025
+Prepaid Expenses                                                                                    39.48                              Finished goods Tower Parts                                                                                                            287.88
+VAT Credit and WCT Receivable                                                                                                  73.37   Store, Spares, Construction Materials and Tools                                                   70.92
+Amount Due from Customers under Construction and other Contracts (Contract assets)                    11.02                    33.30   Finished Goods of Real Estate Assets                                                            136.05                                 46.69
+TOTAL                                                                                                15.38                     26.52   TOTAL                                                                                          1,173.76                               102.66
+(ii)Current                                                                                         128.51                     14.92                                                                                                                                          982.12
+Taxes and duties Recoverable                                                                                                  148.11   12.1 Refer note 4 (H) for accounting policy related to valuation of inventories                    0.49
+VAT Credit and WCT Receivable                                                                       63.80                                                                                                                            1,776.27                                    9.41
+GST Receivable                                                                                      127.37                     27.34                                                                                                                                      1,428.76
+Export Benefits Receivable                                                                          818.70                     115.23
+Taxes Paid Under Protest                                                                                                     764.34    13. CASH AND CASH EQUIVALENTS                                                                     As at                      (H in Crores)
+Advance to Suppliers                                                                                  5.96                                                                                                              31st March, 2026
+Prepaid Expenses                                                                                       13.11                    0.48   Particulars                                                                                                                             As at
+Amount Due from Customers under Construction and other Contracts (Contract assets)                 732.43                       5.62   Balances With Banks                                                                                                    31st March, 2025
+Others                                                                                              174.70                   709.47    In Current Accounts
+TOTAL                                                                                            8,138.86                     125.78   In Fixed Deposit
+                                                                                                      5.68                 6,918.39    (with original maturity of less than 3 months)
+                                                                                               10,080.61                         1.34  Cash on hand
+                                                                                                                          8,667.99     TOTAL
+
+11.1Amount due from / (to) Customers under Construction Contracts in progress at the end of the reporting                                                                                                               1,056.53                              1,131.97
+      period                                                                                                                                                                                                             452.90                               467.19
+
+Particulars                                                                                          As at          (H in Crores)                                                                                           2.35                                   2.53
+                                                                                    31st March, 2026                                                                                                                    1,511.78                              1,601.69
+Recognised as amount due:                                                                                                      As at
+from Customers under Construction Contract                                                                    31st March, 2025
+to Customers under Construction Contract (Refer Note 22)
+Advances from Customer (Refer Note 22)                                               8,225.37                  6,997.96                14. OTHER BALANCES WITH BANKS
+Less: Allowance for expected credit losses - Current                                   (942.12)                 (565.20)
+Less: Allowance for expected credit losses - Non-Current                                                      (4,493.57)               Particulars                                                                                       As at                      (H in Crores)
+                                                                                    (5,290.76)                                                                                                                          31st March, 2026                                       As at
+                                                                                         (19.73)                   (13.36)             Unpaid Dividend Accounts
+                                                                                        (51.40)                    (51.29)             Deposits with original maturity more than 3 months but less than 12 months*                        0.79                31st March, 2025
+                                                                                                               1,874.54                TOTAL                                                                                                                                    0.75
+                                                                                      1,921.36                                                                                                                                         329.62
+                                                                                                                                                                                                                                                                             156.83
+11.2The contract assets represents amount due from customer, primarily relate to the Company's rights to consideration                                                                                                                 330.41                                157.58
+       for work executed but not billed at the reporting date. The contract assets are transferred to receivables when the rights
+       become unconditional, that is when invoice is raised on achievement of contractual milestones. This usually occurs              *Includes I 128.35 Crores (previous year I 154.98 Crores) held as margin money and towards other commitments.
+       when the Company issues an invoice to the customer. The contract liabilities represents amount due to customer,
+       primarily relate to invoice raised on customer on achievement of milestones for which revenue to be recognised over             15. CURRENT TAX                                                                                                              (H in Crores)
+       the period of time and it is not considered as a significant financing component since it is used to meet working capital
+       requirements at the time of project mobilisation stage.                                                                         Particulars                                                                                                                             As at
+                                                                                                                                       (i)Non-Current Tax Assets (net)                                                                                        31st March, 2025
+11.3Increase in contract assets is mainly due to increase in business activities and in certain contracts on account of                Advance Income Tax and TDS (net of provisions)                                                    As at
+       contractual milestones not achieved. During the year ended 31st March, 2026 I 6,928.88 Crores (previous year I 6,870.77         TOTAL                                                                            31st March, 2026
+       Crores) of contract assets as of 1st April, 2025 has been reclassified to Trade Receivables upon billing to customers on        (ii)Current Tax Assets (net)
+       completion of milestones.                                                                                                       Advance Income Tax and TDS (net of provisions)                                                                 0.20    2.00
+                                                                                                                                       TOTAL                                                                                                          0.20    2.00
+                                                                                                                                       (iii)Current Tax Liabilities (net)
+11.4Revenue recognised for the current year includes I 1,826.33 Crores (previous year I 1,662.49 Crores), that was classified          Provisions for Tax (net of Advance Income Tax and TDS)                                                         193.08  191.85
+       as amount due to customer at the beginning of the year.                                                                         TOTAL                                                                                                          193.08  191.85
+
+11.5In case of EPC contracts, amount upto 20% of the contract value is received as an advance and upto 20% amount is                                                                                                                                  166.52  112.68
+       retained and released by the customer at the end of project and balance amount is paid progressively based on the                                                                                                                              166.52  112.68
+       agreed milestones in the contract.
+
+11.6There are no reconciliation items of revenue recognised from contracts with customers and contract price
+
+380 Kalpataru Projects International Limited                                                                                                                                                                            Integrated Annual Report 2025-26 381

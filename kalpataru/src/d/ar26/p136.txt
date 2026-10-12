@@ -1,0 +1,65 @@
+Financial Statements
+
+Independent Auditor's Report
+
+To                                                                                                                                Estimation of contract cost and revenue recognition            How the matter was addressed in our audit
+The Members of Kalpataru Projects International Limited
+Report on the Audit of the Standalone Financial Statements                                                                        The key audit matter                                           For sample contracts, we obtained the percentage of
+                                                                                                                                                                                                       completion calculations, agreed key contractual terms
+Opinion                                                          Basis for Opinion                                                Revenues, total estimated contract costs and profit                  back to signed contracts, tested the mathematical
+                                                                                                                                  recognition may deviate significantly from original                  accuracy of the cost to complete calculations and
+We have audited the standalone financial statements of           We conducted our audit in accordance with the Standards          estimates based on new knowledge about cost overruns                 re-performed the calculation of revenue recognized
+Kalpataru Projects International Limited (the "Company"),        on Auditing (SAs) specified under Section 143(10) of the Act.    and changes in scope / term of a construction contract.              during the year based on the percentage of
+which comprise the standalone balance sheet as at 31             Our responsibilities under those SAs are further described in                                                                         completion. For costs incurred to date, we tested
+March 2026, and the standalone statement of profit and           the Auditor's Responsibilities for the Audit of the Standalone   We identified contract accounting as a key audit matter              samples to appropriate supporting documentation
+loss (including other comprehensive income), standalone          Financial Statements section of our report. We are               because the estimation of total revenue and total cost to            and performed cut off procedures.
+statement of changes in equity and standalone statement          independent of the Company in accordance with the Code           complete involves significant management judgement
+of cash flows for the year then ended, and notes to the          of Ethics issued by the Institute of Chartered Accountants       which has a consequential impact on revenue recognition        To test the forecasted cost to complete, for sample
+standalone financial statements, including material              of India together with the ethical requirements that are         and profit.                                                          contracts, we obtained the breakdown of forecasted
+accounting policies and other explanatory information, in        relevant to our audit of the standalone financial statements                                                                          costs and tested elements of the forecast by
+which are included financial information of 3 joint operations   under the provisions of the Act and the Rules thereunder,                                                                             obtaining executed underlying documents, evaluating
+(hereinafter referred to as "Standalone Financial Statements").  and we have fulfilled our other ethical responsibilities in                                                                           reasonableness of management's judgements /
+                                                                 accordance with these requirements and the Code of Ethics.                                                                            and assumptions using past trends and comparing
+In our opinion and to the best of our information and            We believe that the audit evidence obtained by us along                                                                               the estimated costs to the actual costs incurred for
+according to the explanations given to us, and based on the      with the consideration of report of the other auditors referred                                                                       the completed projects. Verified the provisioning
+consideration of reports of the other auditors on financial      to in paragraph (a) of the "Other Matter" section below, is                                                                           requirement for loss making contracts / onerous
+statements of such joint operations as was audited by the        sufficient and appropriate to provide a basis for our opinion                                                                         obligations, if any.
+other auditors the aforesaid standalone financial statements     on the standalone financial statements.
+give the information required by the Companies Act, 2013                                                                                                                                         Considered the adequacy of the presentation and
+("Act") in the manner so required and give a true and fair       Key Audit Matters                                                                                                                     disclosures in the standalone financial statements.
+view in conformity with the accounting principles generally
+accepted in India, of the state of affairs of the Company as     Key audit matters are those matters that, in our professional    Recoverability of carrying value of loans and Investments in Subsidiaries
+at 31 March 2026, and its profit and other comprehensive         judgment, were of most significance in our audit of the
+income, changes in equity and its cash flows for the year        standalone financial statements of the current period. These     The key audit matter                                           How the matter was addressed in our audit
+ended on that date.                                              matters were addressed in the context of our audit of the
+                                                                 standalone financial statements as a whole, and in forming       As at 31 March 2026, the Company held investment with          In view of the significance of the matter we applied the
+                                                                 our opinion thereon, and we do not provide a separate            a carrying amount of H 1,238.62 crores (including H 563.62     following audit procedures in this area, among others to
+                                                                 opinion on these matters.                                        crores loan) in subsidiaries and joint venture of the          obtain sufficient appropriate audit evidence:
+                                                                                                                                  Company. This investment / loan is carried at cost less
+Estimation of contract cost and revenue recognition              How the matter was addressed in our audit                        accumulated impairment in the Company's Standalone             Evaluated the design and implementation and
+                                                                                                                                  Financial Statements.                                                testing operating effectiveness of controls over the
+The key audit matter                                             In view of the significance of the matter we applied the                                                                              management's process of impairment assessment.
+                                                                 following audit procedures in this area, among others to         The Company's management has tested this investment
+The Company's revenue is primarily from long terms               obtain sufficient appropriate audit evidence:                    for impairment in accordance with Ind AS 36 by comparing       Evaluated net worth and past performance of the
+Engineering Procurement and Construction (EPC)                                                                                    its recoverable amount with its carrying amount as at 31             companies to whom loans given or investment made.
+contract projects which are complex in nature, span              Obtained an understanding of the Company's                      March 2026 as applicable.
+over a number of reporting periods.                                    revenue recognition processes and evaluated the                                                                           Challenged the significant assumptions and
+                                                                       appropriateness of the Company's accounting policy         The management's assessment of impairment depends on                 judgements used in impairment analysis, such as
+The Company has construction contracts whose revenue                   for revenue recognition in accordance with Ind AS 115     the value in use and fair value which is derived by business         forecast revenue, margin, terminal growth, evaluating
+recognition is dependent on a high level of judgement                  Revenue from contracts with customers.                     plans, anticipating the future market conditions and cash            the external legal opinion received etc.
+over the percentage of completion. It is based on their                                                                           flows, which also includes key assumptions such as growth
+best estimate of the costs to complete, valuation of             Evaluated the design, implementation and operating              rates, weighted average cost of capital, estimated operating   With the assistance of our specialists as required,
+contractual variations, claims and ability to deliver the              effectiveness of key internal controls over the contract   margins, comparable considered for valuation of properties           evaluated the reasonableness of the methodology
+contract within the contractual time limit.                            revenue, contract cost and cost estimation process         including the location, accessibility and use / nature of            and assumptions used in the valuation report.
+                                                                       through the combination of procedures involving            property and expected outcome of claim. In addition,
+The Company uses an input method based on costs                        inquiry, observations, and inspection of evidence.         there is significant scope for judgement in determining the    Compared the previous forecast to actual results to
+incurred to measure progress of the performance                                                                                   assumptions underlying the forecasted results.                       assess the Company's ability to forecast accuracy.
+obligation identified in the projects. Under this approach,
+the Company recognizes revenue based on the costs                                                                                                                                                Performed sensitivity analysis on key assumptions.
+incurred to date relative to the estimated total costs
+to complete the performance obligation. Profit is not                                                                             Given the relative significance of investments and loans to    Evaluated the adequacy of presentation and
+recognised until the outcome of the contract is certain.                                                                          the standalone financial statements and the nature and               disclosures made in the Standalone financial
+                                                                                                                                  extent of audit procedures involved in assessing the carrying        statement.
+                                                                                                                                  value, we determined this to be a key audit matter.
+
+266 Kalpataru Projects International Limited                                                                                                                                                                 Integrated Annual Report 2025-26 267

@@ -1,0 +1,72 @@
+Statutory Reports
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+                                                                 systems and Flexible AC Transmission Systems                   OUTLOOK                                                               AFRICA
+                                                                 (FACTS) to maintain grid stability.
+                                                                                                                                 Investment in power infrastructure is entering a multi-            Africa's power transmission market is on a steady
+                                                               Energy Storage Integration: The rapid growth of                  decade expansion cycle across generation, storage,                 upward trajectory fuelled by rising electricity demand,
+                                                                 battery energy storage systems (BESS) is creating               and distribution of electricity, including renewable               the integration of renewables, and a push for regional
+                                                                 demand for new grid-level connections to shift                  assets, nuclear power plants (with growing momentum                interconnectivity. Key investments are currently targeting
+                                                                 energy from low-demand to peak-demand times.                    behind small modular reactors), transmission and                   power deficits to unlock broader economic growth across
+                                                                                                                                 distribution (T&D), and battery storage. This is creating          the continent.
+                                                              2. Electrification of Industries and Transportation                opportunities for infrastructure and construction
+                                                                                                                                 companies with established credentials to leverage                   EUROPE
+                                                               Electric Vehicle (EV) Adoption: The shift toward                 their existing footprints while capturing high-return
+                                                                 electric vehicles requires enhanced charging                    growth opportunities. According to PwC's Global                    After 15 years of declining demand, Europe's power demand
+                                                                 infrastructure, placing stress on local distribution            Infrastructure Outlook 2025-2050, annual global                    is forecasted to grow 1.5-2% annually from 2026 driven by
+                                                                 networks and necessitating increased capacity.                  investment in power infrastructure will expand from                widespread electrification as well as new industries such
+                                                                                                                                 USD 631 billion in 2024 to USD 1.1 trillion by 2050, implying      as electric vehicles and data centres. In addition, parts of
+                                                               Data Centre Growth: AI-driven computing and                      cumulative spending of USD 25 trillion by 2050. The                most European power grids are around 40-50 years old,
+                                                                                                                                 spending is expected to expand across three major                  and they need to be reconfigured to suit decentralised
+                                                              cloud services are driving massive demand for                      dimensions namely T&D, generation and storage.4                    generation and new customers. Capex on transmission and
+                                                                                                                                                                                                    distribution infrastructure is expected around 1.2-1.4 trillion
+INDUSTRY OVERVIEW                                                reliable, and uninterrupted power supply.                   Investment in Key International                                        over 2026-35.6
+                                                               Industrial Electrification: Industries are adopting          T&D Markets
+                                                                                                                                                                                                      LATIN AMERICA & CARIBBEAN
+Global Power Transmission & Distribution                      electric machinery to reduce carbon emissions,                   MIDDLE EAST                                                            COUNTRIES
+(T&D)                                                         requiring higher-voltage connections and
+                                                              strengthened substation infrastructure.
+
+The global power transmission & distribution (T&D) sector
+
+is seeing a surge in demand, fuelled by the growth in         3. Grid Modernisation and Ageing
+
+demand for electricity, urgent need to modernise aging grid   Infrastructure
+
+infrastructure and integrate renewable energy. Following a     Replacement of Legacy Systems: A significant                 The Gulf Cooperation Council (GCC) region is undergoing a              Latin America and the Caribbean are advancing in the
+3% growth in 2025, global electricity demand is projected        percentage of transmission lines and transformers           significant transformation in its power infrastructure as part         energy transition by adding new energy capacity from solar
+to rise at an average annual rate of 3.6% through 2030.          in developed regions (like the US and Europe)               of its transition to lower carbon emission energy sources              and wind resources. Latin America and the Caribbean (LAC)
+This growth is driven by industrial expansion, electric          are over 2540 years old, demanding urgent                  and enhanced regional grid interconnection. Majority                   is rich in renewable energy resources and generates nearly
+mobility, cooling systems, urbanisation, and the rapid rise      replacement and upgrading to ensure                         of GCC countries has set ambitious targets to increase                 70% of its electricity from clean sources  significantly
+of data centres. Over the next five years, annual demand         reliability. Further, utilities are investing in digital    the share of renewable energy in their power generation                above the global average. The region is already making
+growth is expected to be 50% higher than the average of          technologies including automated sensors, IoT,              mix. Additionally, strong capex for urban construction,                notable strides, with clean energy investment projected to
+the previous decade.3                                            and AI-driven predictive maintenance to optimise            industrial, and data centre growth, necessitates large                 reach approximately USD 70 Billion in 2025, a 25% increase
+                                                                                                                             scale transmission upgrades, renewables integration                    since 2015. To meet energy and climate targets, total annual
+Key trends generating demand for power transmission &         efficiency, improve resilience, and enhance                    and expanding grid capacity, particularly in UAE and                   clean energy investment must rise to USD 150 Billion by 2030
+                                                                                                                             Saudi Arabia. The For instance, Saudi Arabia has planned               and continue to increase steadily through 2050. Within this,
+distribution:                                                 realtime monitoring.                                           expansion targets over 0.16 Million ckm of transmission                grid infrastructure alone will require around USD 30 Billion
+                                                                                                                             and nearly 1.1 Million ckm of distribution networks by 2030            per year until 2035.7
+1. Accelerated Integration of                                         Climate-related Events: Intensifying extreme          depicting long-term growth in the T&D sector. Further, the
+     Renewable Energy                                                   weather events are forcing utility companies         IEA projects that annual power sector investments will more              AUSTRALIA
+                                                                        to invest in hardening infrastructure, including     than triple to about USD 126 Billion in 2035 from 2023 levels
+        Remote Power Generation: With solar PV                         undergrounding cables and developing localised       with nearly 50% of that capex towards renewable capacity               Australia has set a national target for 82% of its electricity
+          generating record amounts of electricity,                     microgrids to ensure reliability.                    and 40% to power grids and storage.5                                   to be supplied from renewable sources by 2030, as part of
+          renewable output rose rapidly in 2025. Renewable                                                                                                                                          an orderly transition to net zero emissions by 2050. Solar
+          output is forecast to grow by about 1,000           4. Rapid Urbanisation and Economic Growth                      4 PwC Global Infrastructure Outlook 202550                            and wind is expected to contribute majorly of the new
+          terawatthours (TWh) annually through 2030,                                                                         5 ANB Capital Research, Press Articles                                 generating capacity in Australia. Australia's grid operator
+          with solar PV alone accounting for over 600 TWh.            Rising Peak Demand: Rapid urbanisation, particularly  6 G oldman Sachs Research Sep 2025, Reuters Article Dated 23 Sep       has laid out a plan to build 10,000 kilometres of new
+          In percentage terms, renewable generation is                  in emerging economies is driving a continuous rise                                                                          transmission lines given that the different location of source
+          forecast to rise at an annual rate of 8% per year.            in power consumption and peak loads.                   2025                                                                 of energy production and connection to the cities.8
+          Renewable energy sources (solar, wind) are often                                                                   7 World Economic Forum Report - Advancing Latin America's Power
+          located far from population centres, requiring              Infrastructure Development: Expanding cities,
+          extensive new transmission lines to bring power to            metro projects, and commercial hubs require           System Transformation, October 2025
+          the grid.3                                                    strengthening the last-mile distribution network,    8 Australian Energy Market Operator (AEMO) Integrated System Plan for
+                                                                        leading to increased demand for power
+        Grid Flexibility: The variable nature of renewables            transmission & substations.                            the National Electricity Market
+          necessitates upgrades to T&D infrastructure,
+          including high-voltage direct current (HVDC)
+
+3 IEA, Electricity 2026 Report                                                                                                                                                                      Integrated Annual Report 2025-26 139
+
+138 Kalpataru Projects International Limited

@@ -1,0 +1,8 @@
+Revenue FY26 (prov.) Rs 562.18 Cr / 365 = Rs 1.540219 Cr per day; debtor days 64 (receivable leg); rate 0%
+valueOfADay: cash 1.540219 carry 0
+10 days: 64 -> 54 days; released Rs 15.4022 Cr; carry Rs 0; cross-check 15.4022
+30 days: 64 -> 34 days; released Rs 46.2066 Cr; carry Rs 0; cross-check 46.2066
+DPO stretch with no terms: cash 0; with terms 50, asked 100: next 50
+ALL ASSERTS PASSED
+
+Break tests (each assert broken once, failed visibly): BREAK=neg -> "no negative release"; cross -> "cross-check days x per day"; basis -> "cross-check days x per day" (360-day basis caught); rate -> "interest must be 0"; dpo -> "payables never release cash". Clean run above.

@@ -1,0 +1,169 @@
+=== STANDALONE P&L (Rs crore) ===
+FY26 revenue from operations Cr: 5,066.56
+FY26 EBITDA computed (revenue less material, construction, employee, other exp) Cr: 659.43
+FY26 EBITDA margin %: 13.02
+FY26 finance cost Cr: 290.61
+FY26 PAT Cr: 284.96
+FY25 revenue from operations Cr: 5,007.64
+FY25 EBITDA computed (revenue less material, construction, employee, other exp) Cr: 691.26
+FY25 EBITDA margin %: 13.80
+FY25 finance cost Cr: 318.78
+FY25 PAT Cr: 262.21
+FY24 revenue from operations Cr: 4,412.04
+FY24 EBITDA computed (revenue less material, construction, employee, other exp) Cr: 620.11
+FY24 EBITDA margin %: 14.05
+FY24 finance cost Cr: 356.79
+FY24 PAT Cr: 285.60
+check: EBITDA plus other income less finance less depreciation = PBT before exceptional (FY26, FY25): OK
+Revenue growth FY26 vs FY25 % (standalone, AR FY26 vintage): 1.18
+Finance cost / revenue FY26 %: 5.74
+
+=== CONSOLIDATED P&L (Rs crore) ===
+FY26 revenue Cr: 5,102.74
+FY26 net profit after associates (continuing) Cr: 269.17
+FY26 finance cost Cr: 296.44
+FY25 revenue Cr: 5,093.36
+FY25 net profit after associates (continuing) Cr: 247.85
+FY25 finance cost Cr: 322.42
+FY24 revenue Cr: 4,544.11
+FY24 net profit after associates (continuing) Cr: 302.21
+FY24 finance cost Cr: 362.09
+Consolidated revenue growth FY25 vs FY24 %: 12.09
+Consolidated revenue growth FY26 vs FY25 %: 0.18
+Q4 FY25 vs Q4 FY24 consolidated net profit change %: -72.81
+
+=== STANDALONE WORKING-CAPITAL BALANCES (Rs crore) ===
+FY26 trade receivables net Cr: 813.54
+FY26 receivable days on standalone revenue: 58.6
+FY26 gross receivables more than 3 years Cr: 286.65
+FY26 share of gross receivables older than 3 years %: 34.1
+FY26 share of gross receivables older than 1 year %: 48.7
+FY26 advances received against arbitration awards/claims netted off receivables Cr: 404.24
+FY25 trade receivables net Cr: 992.60
+FY25 receivable days on standalone revenue: 72.3
+FY25 gross receivables more than 3 years Cr: 270.42
+FY25 share of gross receivables older than 3 years %: 26.2
+FY25 share of gross receivables older than 1 year %: 43.6
+FY25 advances received against arbitration awards/claims netted off receivables Cr: 357.39
+FY24 trade receivables net Cr: 752.49
+FY24 receivable days on standalone revenue: 62.3
+FY24 gross receivables more than 3 years Cr: 187.40
+FY24 share of gross receivables older than 3 years %: 24.9
+FY24 share of gross receivables older than 1 year %: 63.7
+FY24 advances received against arbitration awards/claims netted off receivables Cr: 491.41
+check: ageing buckets sum to filed gross totals (FY26, FY25, FY24): OK
+check: non-current + current contract assets = contract-balance table (FY26, FY25): OK
+FY26 contract assets Cr: 3,675.78
+FY26 contract asset days on standalone revenue: 264.8
+FY26 non-current contract assets Cr: 1,207.06
+FY26 non-current contract asset days: 87.0
+FY26 current contract assets Cr: 2,468.72
+FY26 current contract asset days: 177.8
+FY26 contract liabilities (client advances) Cr: 620.23
+FY26 contract liability days: 44.7
+FY25 contract assets Cr: 3,294.35
+FY25 contract asset days on standalone revenue: 240.1
+FY25 non-current contract assets Cr: 895.89
+FY25 non-current contract asset days: 65.3
+FY25 current contract assets Cr: 2,398.46
+FY25 current contract asset days: 174.8
+FY25 contract liabilities (client advances) Cr: 667.47
+FY25 contract liability days: 48.7
+Contract assets 1 Apr 2024 (AR FY26 roll-forward) Cr: 2,956.16
+Contract assets growth 1 Apr 2024 to 31 Mar 2026 %: 24.3
+Non-current contract assets growth FY25 to FY26 %: 34.7
+FY26 trade payables Cr: 2,821.68
+FY26 payable days on standalone revenue: 203.3
+FY25 trade payables Cr: 2,815.68
+FY25 payable days on standalone revenue: 205.2
+FY26 payable days on material + construction cost: 273.9
+FY26 payables unbilled / not due Cr: 1,264.48
+FY26 share of payables unbilled / not due %: 44.8
+FY26 share of payables more than 3 years past due %: 7.0
+FY26 MSME dues Cr: 87.03
+FY25 MSME dues Cr: 46.11
+FY26 MSME paid beyond appointed day Cr: 161.35
+FY25 MSME paid beyond appointed day Cr: 54.11
+FY26 MSME interest accrued and unpaid at year end Cr: 16.28
+MSME late payments growth FY25 to FY26 (multiple): 2.98
+
+=== STANDALONE TRADE WORKING CAPITAL (formula stated) ===
+FY26 trade WC (rec + contract assets + inventory less trade payables less contract liabilities) Cr: 1,838.83
+FY26 trade WC days on standalone revenue: 132.5
+FY26 same excluding stock of land, days: 123.4
+FY25 trade WC (rec + contract assets + inventory less trade payables less contract liabilities) Cr: 1,711.55
+FY25 trade WC days on standalone revenue: 124.8
+FY25 same excluding stock of land, days: 107.5
+Retention Rs 200 Cr as days of FY26 standalone revenue: 14.4
+Retention Rs 250 Cr as days of FY26 standalone revenue: 18.0
+
+=== BORROWINGS AND CASH ===
+FY26 standalone borrowings Cr: 1,124.00
+FY25 standalone borrowings Cr: 1,533.24
+Standalone borrowings change FY25 to FY26 Cr: -409.24
+FY26 consolidated borrowings from deck balance sheet Cr: 1,186.90
+Standalone operating cash flow FY26 Cr: 564.12
+Standalone operating cash flow FY25_ar26 Cr: 283.92
+Standalone operating cash flow FY25_ar25 Cr: 368.32
+Standalone operating cash flow FY24_ar25 Cr: 454.38
+FY26 standalone OCF / computed EBITDA %: 85.5
+FY25 OCF restatement, AR FY26 minus AR FY25 vintage Cr: -84.40
+Consolidated OCF FY26 Cr: 560.10
+Bank guarantees / surety bonds outstanding FY26 Cr: 2,398.80
+Bank guarantees as multiple of FY26 standalone revenue: 0.47
+
+=== ORDER BOOK ===
+Order book FY24 Cr: 18,663.00
+Order book FY25 Cr: 15,217.60
+Order book FY26 Cr: 15,119.30
+Order book Q1FY27 Cr: 14,635.60
+Order book change FY24 to FY26 %: -19.0
+Book to bill FY26: order book / consolidated FY26 revenue: 2.96
+FY26 order inflow (deck ~44,000 Mn) Cr: 4,400.00
+
+=== PROMISE CHECKS ===
+FY26 inflow vs Rs 8,000 Cr target (Aug 2025) %: 55.0
+FY26 non-core monetisation Rs 185 Cr vs Rs 150-200 Cr band: inside band (1=yes): 1
+Term debt FY25 601 Cr to FY26 340 Cr, reduction Cr (call figures): 261
+
+=== CONVERSIONS (Rs Mn -> Rs Cr) ===
+Q1 FY27 standalone revenue (R1Q27 p4) Cr: 1,273.73
+Q1 FY27 standalone PAT Cr: 85.77
+Q1 FY27 standalone finance cost Cr: 61.01
+Contract liabilities 1 Apr 2024 (AR26 p138) Cr: 765.66
+Secured deposit, note 6, non-current + current FY26 Cr: 495.11
+Inventories FY26 Cr: 791.43
+Inventories FY25 (AR26 vintage) Cr: 907.75
+Stock of land FY26 Cr: 126.52
+Inventories FY25 (AR25 vintage, includes unbilled WIP) Cr: 4,202.10
+Piece rate wages payable, current FY26 Cr: 995.40
+Piece rate wages payable, current FY25 Cr: 667.51
+MSME interest accrued and unpaid FY25 Cr: 7.90
+Listed NCD issued FY26 Cr: 90.00
+Term loan from banks FY26 Cr: 84.95
+Foreign currency term loan FY26 Cr: 28.20
+Term loan from others FY26 Cr: 30.44
+Supplier finance from others FY26 Cr: 51.57
+Supplier finance from banks FY26 Cr: 18.98
+Unsecured loan from others at 10% FY26 Cr: 32.94
+S7 contingent: service tax and GST in appeal FY26 (AR26 p136) Cr: 202.08
+S7 contingent: income tax in appeal FY26 Cr: 280.74
+S7 US surety settlement (AR26 p128, Rs 469.35 Mn) Cr: 46.94
+S9 loans to related parties non-current FY26 (AR26 p121) Cr: 394.88
+S9 loans to related parties current FY26 Cr: 77.74
+S9 ACP Tollways impairment FY26 (AR26 p122) Cr: 29.95
+S9 ACP Tollways held for sale, net FY26 Cr: 55.00
+S10 irrecoverable debts and advances written off FY26 (R4Q26 p12) Cr: 152.69
+S10 irrecoverable debts and advances written off FY25 (AR26 vintage) Cr: 291.52
+S10 excess credit written back FY26 Cr: 102.26
+S10 exceptional items FY26 standalone Cr: 117.57
+S10 exceptional items FY25 standalone Cr: 141.80
+S10 bad debts written off incl. Vivad se Vishwas FY26 (AR26 p138) Cr: 66.92
+S10 bad debts written off incl. Vivad se Vishwas FY25 Cr: 106.22
+S6 India Ratings fund-based limits (NSE 28 Apr 2025) Cr: 1,684.84
+S6 India Ratings non-fund-based limits Cr: 5,609.69
+S7 Acron settlement Rs 38,84,80,617 in Cr: 38.85
+S7 Acron stated total liability Rs 56,56,31,661 in Cr: 56.56
+Contract assets / net trade receivables FY26 (multiple): 4.52
+
+ALL CHECKS PASSED

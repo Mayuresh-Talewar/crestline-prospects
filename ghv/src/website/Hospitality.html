@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GHV</title>
+  <link href="img/favicon.ico" rel="shortcut icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- header css file link -->
+<link rel="stylesheet" type="text/css" href="css/header.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300' rel='stylesheet' type='text/css' />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<style type="text/css">
+  #myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #172959;
+  color: white;
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid white;
+  opacity: 0.8;
+}
+</style>
+</head>
+<body>
+    <script>
+// $('body').fadeOut();
+</script>
+<style>
+.preloader {
+    margin-top: 10%;
+    margin-left: 32%;
+    position: absolute;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #172959;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.backDes{
+    height: 1080px;
+    width: 1920px;
+    background-color: #fff;
+    position: absolute;
+    z-index: 9999;
+    transition:1s;
+}
+
+</style>
+
+<div class="backDes">
+<div class = "preloader"></div>
+</div>
+<!-- scroll up button on scroll -->
+
+<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-arrow-up" aria-hidden="true"></i>
+</button>
+
+<div class="row" id="float">
+  <div class="left">
+    <a href="index.php"><img src="img/logo2.png"></a>
+  </div>
+  
+  <div class="right" style="font-family: Source Sans Pro">
+    <ul class="top">
+      <li><a href="collaterals.php" style="color:#172959">Media Center &nbsp; &nbsp;</a> </li> 
+      <li> <a href="Contact.php" style="color:#172959">Contact Us  &nbsp;  &nbsp;</a></li>
+      <li> <a href="vendor_registration.php" style="color:#172959">Vendor Registration</a> </li>
+      </ul>
+
+      <ul>
+     <a href="https://www.facebook.com/ghvgroup" target="_blank" rel="noopener noreferrer">
+      <li class="s_icon icon_f"></li></a> &nbsp;
+      <!-- <li class="icon twitter"><i class="fa fa-twitter" aria-hidden="true"></i></li> &nbsp;
+      <li class="icon youtube"><i class="fa fa-youtube-play" aria-hidden="true"></i></li> -->
+    </ul>
+  </div>
+</div>
+
+
+<!-- popup form start  -->
+<style type="text/css">
+.s_icon{
+  background-size: cover;
+  height:33px;
+  width: 33px; 
+  transition: 0.2s;
+}
+li.icon_f{
+    background-image: url("./img/f1.png");
+}
+li.icon_t{
+ background-image: url("./img/t1.png");
+}
+li.icon_y{
+ background-image: url("./img/y1.png");
+}
+li.icon_f:hover{
+    background-image: url("./img/f2.png");
+    transition: 0.2s;
+}
+li.icon_t:hover{
+ background-image: url("./img/t2.png");
+ transition: 0.2s;
+}
+li.icon_y:hover{
+ background-image: url("./img/y2.png");
+ transition: 0.2s;
+}
+     input.w3-input {
+    padding: 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+}
+  .w3-row .s6 {
+     height: 50px; 
+     padding-bottom: 0px; 
+}
+input.w3-input {
+    padding: 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+    background-color: white;
+    border-radius: 0px;
+}
+input{
+
+}
+input.w3-blue{
+  margin-bottom: 20px;
+  color: #fff!important;
+  background-color:#172959!important;
+}
+span.w3-display-topright{
+}
+header.w3-teal, .w3-hover-teal:hover {
+    color: #fff!important;
+    background-color:#172959!important;
+}
+</style>
+
+
+
+
+<style type="text/css">
+  .w3-input {
+    padding: 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+}
+</style>
+
+
+
+
+<!-- popup form end -->
+<!-- --------------------------------- dropdown----------------- -->
+<div class="topnav" id="myTopnav">
+  <div class="dropdown">
+    <button class="dropbtn hBar" style="border-left: none;">About Us 
+   <!--    <i class="fa fa-caret-down"></i> -->
+    </button>
+
+    <div class="h_line"></div>
+    
+    <div class="dropdown-content">
+      <div>
+      <a href="Overview.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>
+       Overview</a>
+      <!-- <a href="Milestone.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Milestone</a> -->
+         <a href="OurPresence.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Our Presence</a>
+      </div>
+      <div>
+      <!-- <hr style="margin: 0px;padding: 0px"> -->
+      <a href="Values&Beliefs.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Vision, Values & Beliefs</a>
+      </div>
+      <div>
+      <!-- <hr style="margin: 0px;padding: 0px"> -->
+      <!-- <a href="BoardOfDirectors.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Board Of Directors</a> -->
+      <a href="Policies.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Policies</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn hBar">Core Business
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content">
+      <div>
+      <a href="RoadConstruction.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Road Construction</a>
+      <a href="AirportRunway.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Airport Runway / Parking Bay</a>
+      </div>
+       <!-- <hr style="margin: 0px;padding: 0px"> -->
+       <div>
+      <a href="Railway.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Railways</a>
+      <a href="DamConstruction.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Dam Construction</a>
+      </div>
+       <!-- <hr style="margin: 0px;padding: 0px"> -->
+       <div>
+      <a href="Hospitality.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Hospitality</a>   
+      </div>
+    </div>
+  </div>
+<div class="dropdown">
+    <button class="dropbtn hBar">Key Projects
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content">
+      <div>
+      <a href="OngoingProjects.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Ongoing Projects</a>
+      </div>
+      <div>
+      <a href="CompletedProjects.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Completed Projects</a>
+      </div>
+       <!-- <hr style="margin: 0px;padding: 0px"> -->
+       <div>
+      <span><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Gallery</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn hBar">Sustainability
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content dropdown-csr">
+      <div>
+      <a href="CSR.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>CSR</a>
+      </div>
+
+      <div>
+      <a href="CSR_I.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>CSR Initiatives</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn hBar" onclick="openURL('Clients.php')">Clients
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+  </div>
+
+  <!-- <a href="CSR.php" class="underline hBar">Sustainability</a>
+
+  <a href="Clients.php" class="underline hBar">Clients</a> -->
+
+  <div class="dropdown">
+    <button class="dropbtn hBar">Media 
+     <!--  <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content" id="media" >
+      <div class="media" style="width: 100%">
+      <a href="collaterals.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Collaterals</a>
+      </div>
+       <div class="media" style="width: 100%">
+      <a href="recent_post.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>News Update</a>
+      </div>
+       <div class="media" style="width: 100%">
+      <a href="achievement.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Achievements</a>
+      </div>
+    </div>
+  </div> 
+
+  <div class="dropdown">
+    <button class="dropbtn hBar" onclick="openURL('Careers.php')">Careers
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+  </div>
+
+  <div class="dropdown" style="border-right: none;">
+    <button class="dropbtn hBar" onclick="openURL('Contact.php')">Contact
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+  </div>
+
+  <!-- <a href="Careers.php" class="underline hBar" >Careers</a>
+ 
+  <a href="Contact.php" class="underline hBar" style="border-right: none;">Contact</a> -->
+
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+
+<!-- loader -->
+
+<script>
+
+  function openURL(str) {
+    window.location.href=str;
+  }
+
+// $(document).ready(function() {
+//   if ($(window).width() < 640) {
+//     alert($(window).width());
+//     $(".underline").css('display','none');
+//   }
+// });
+
+// $(document).ready(function(){
+//   alert($(window).width());
+//   if ($(window).width() < 640) {
+//     if ($("#remDrop").hasClass("dropdown")) {
+//       alert('Hello');
+//       for(var i = 0; i< 3; i++) {
+//           $("#remDrop").removeClass("dropdown");
+//         }
+//     }
+//   }
+// });
+
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script><!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>GHV</title>
+    <link rel="stylesheet" type="text/css" href="css/about_us.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <link rel="stylesheet" type="text/css" href="css/core_business.css">
+    <style>
+    
+    .mySlides {display:none;}
+            div#button{
+              background-image: url("./img/hosp/h5.jpg");
+              z-index: 1;
+              background-size: cover;
+
+    background-position-y: 90%;
+        }
+    </style>
+    <!-- ======================= -->
+    <div class="w3-container" id="frame">
+      <div class="w3-container w3-display-container" id="button">
+        <button class="w3-button w3-display-bottomleft"> <a href="Hospitality.php"> Hospitality  </a> </button>
+        <button class="w3-button w3-display-bottomright"><a  href="index.php"> Home </a> &nbsp; > &nbsp; <a href="Hospitality.php"> Hospitality</a></button>
+      </div>
+    </div>
+    <div class="w3-container">
+      <hr>
+      <!-- =============================== -->
+      <style type="text/css">
+      div#overview_slider{
+      background-color: rgba(0,0,0,0.5);
+      /*background-image: url("../img/header3.jpg");*/
+      }
+
+          section#left_tabs div.tabs_d5{
+        display: block;
+         }
+       section#left_tabs div.tabs_d1,
+       section#left_tabs div.tabs_d2,
+       section#left_tabs div.tabs_d4,
+       section#left_tabs div.tabs_d3{
+       display: none;
+       }
+      </style>
+      <div class="w3-conatiner" id="overview_slider">
+        
+      </div>
+      <!-- <div id="animate_part">
+        <div class="w3-row mySlides" id="img_text_2">
+          <div class="w3-col m4">
+            <img src="img/frame/road.JPG">
+          </div>
+          <div class="w3-col m8 w3-center ">
+            <p class="text">ROAD CONSTRUCTION
+            </p>
+          </div>
+        </div>
+       
+      </div> -->
+    </div>
+
+    <!-- OUR HISTORY -->
+
+    <style type="text/css">
+    div.left_li{
+      position:sticky:
+      top:0px;
+    }
+     </style>
+    
+    <h2 id="heading"><strong>HOSPITALITY</strong></h2>
+    <!-- <hr> -->
+    <div class="w3-container" id="our_history">
+      <div class="left_li">
+       <ul id="tabs">
+  <li class="tabs_1"><a href="RoadConstruction.php">ROAD CONSTRUCTION</a></li>
+  <li class="tabs_2"><a href="AirportRunway.php">AIRPORT RUNWAY</a></li>
+  <li class="tabs_3"><a href="Railway.php">RAILWAYS</a></li>
+  <li class="tabs_4"><a href="DamConstruction.php">DAM CONSTRUCTION</a></li>
+  <li class="tabs_5 active"><a href="Hospitality.php">HOSPITALITY</a></li>
+</ul>
+      </div>
+       <section id="left_tabs">
+        <div class="tabs_d1">
+          <div class="data_1">
+            <img src="img/frame/road.JPG">
+            <p>
+            India has the second largest road network with a total route length of approximately 5.40 million km. Road transportation has gradually increased over the years with the improvement in connectivity between cities, towns and villages in the country. The Indian roads carry almost 90 per cent of the country’s passenger traffic and around 65 per cent of its freight. 
+            </p>
+            <p>
+            Our strong execution and implementation skills has enabled us to undertake large road projects, GHV has successfully acquired road projects individually and together with reputed companies as joint venture partner.
+            </p>
+            <p>
+            As part of the highways vertical, we are primarily engaged in the execution of highways and road construction projects and undertake design, widening, strengthening, operation and maintenance of highways, roads, carriageways, culverts, major bridges and road over bridges. We also undertake widening and strengthening of existing carriageways, rehabilitation and upgrading of existing highways and roads, construction of bridges and bypasses. GHV has successfully completed numerous highway projects in various states Gujrat, Maharshtra, Rajasthan, Madhya pradesh, Karnataka, Kerala, Bihar, Uttar Pradesh, Himachal Pradesh, Delhi, Assam. All roads made by the group meet stringent safety norms that are of global standards
+            </p>
+          </div>
+        </div>
+        <div class="tabs_d2">
+          <div class="data_2">
+            <img src="img/frame/Core business airport.jpg">
+            <p>Airports being gateways to the respective regions are critical in creating the right impression on the visitors to our country. They also play a major role in the development of business activities and growth of the areas catered by these airports. Airlines and their passengers and cargo need safe, functional and affordable airport infrastructure for their operations to thrive.</p>
+            <p>With its vast array of expertise in the construction business, GHV(India) has become a prime stakeholder in developing runways and parking bays. It has expertise in building state-of-the-art runways, resurfacing, construction of parking bays and taxi ways, all of which enable smooth operations of air traffic.
+              The company has worked with airports in Mumbai, Pune, Vadodara, Udaipur, Patna, Guwahati, Belgaum, Diu and Cochin.
+              </p>
+            </div>
+        </div>
+        <div class="tabs_d3">
+          <div class="data_3">
+          <img src="img/frame/Core business railways.jpg">
+            <p>During FY 13 to FY-17, the investments in Indian Railways have almost doubled from ₹ 572 billion to ₹ 1,099 billion. Especially, in 2015-16, the investments have jumped by about 52% from ₹ 616 billion to ₹ 935 billion. This was led by an increased thrust on raising funds through new channels such as LIC, Multilateral agencies etc. The revised estimates for 2017-18 stood at ₹ 1.2 trillion whereas for 2018-19 the budget estimates stood at ₹ 1.46 trillion. This shows a continued upward bias in infrastructure investments in railways.</p>
+            <p>Indian Railway Construction Company Limited (IRCON) has awarded GHV with the project in connection with construction of Western Dedicated Freight Corridor Phase II Vaitarna in the state of Maharashtra and also in Karnataka.</p>
+            </div>
+        </div>
+
+
+        <div class="tabs_d4">
+        <div class="data_4">
+            <img src="img/frame/Core Business Dam Irrigation.jpg">
+            <p>CRISIL Research believes construction spend in irrigation will rise sharply to ₹ 4,242 billion till Fiscal 2022 compared with ₹ 2,448 billion over the past five years (Fiscals 2012 to 2017). As much as ₹ 72.8 billion was released in Fiscal 2016 and ₹ 77.7 billion in Fiscal 2017 under the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) scheme. A new micro-irrigation fund with a corpus of ₹ 50 billion is to be set up.</p>
+          <p>The GHV group has been one of the pioneers of irrigation technology within the country. It ventured into this field in 1977 in partnership with the State Government of Gujarat. After that, the group has successfully completed numerous irrigation projects with various state governments. </p>
+          
+          <p>Under the water and irrigation vertical, we undertake construction of Dam, canals, water supply projects and sewage drainage pipelines.</p>
+          <p>Our recent projects include Constructing a Reservoir At Saputara ( Navagam) In Dang District under Narmada, Water Resources, Water Supply and Kalpsar Deptt. and also Maintenance and Repairing works of Vadodara Br. Canal, Kundhel Br. Canal, Jambusar Br. Canal, Distributaries & Minors under Sardar Sarovar Narmada Nigam Limited.</p>
+
+
+          </div>
+        </div>
+
+
+        <div class="tabs_d5">
+         <div class="data_5">
+      <div class="w3-content w3-display-container hospitality-carousel">
+  <img class="mySlides" src="img/hosp/h1.jpg" style="width:100%">
+  <img class="mySlides" src="img/hosp/h2.jpg" style="width:100%">
+  <img class="mySlides" src="img/hosp/h3.jpg" style="width:100%">
+  <img class="mySlides" src="img/hosp/h4.jpg" style="width:100%">
+  <img class="mySlides" src="img/hosp/h5.jpg" style="width:100%">
+
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+   
+<p>GHV (India) strives to become an established player in the hospitality industry. It already has the Hyatt Place to its credit, which is centrally located within the Hinjawadi IT Park in Pune. Its state-of-the-art rooms equipped with modern amenities are the perfect abode for the busy traveller. The hotel was awarded “The Best Debut Hotel” by World Achievers at the Business Leader Summit & Awards 2015 and at the Hospitality India and Explore the World Annual International Travel Awards 2015.</p>
+<p>Enthused by the success of Hyatt Place, GHV (India) is now opened a five-star hotel in association with Radisson in MIDC Andheri Mumbai. The property having 111 rooms is an oasis of tranquillity and serenity within the bustling metropolis of Mumbai.</p>
+
+
+          </div>
+        </div>
+        
+      </section>
+      <br>
+    </div>
+  </div>
+  <!-- ---------------------- -->
+  
+  <!-- for hide and show conatiner with   -->
+   <script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+  <script>
+  var myIndex = 0;
+  carousel();
+  function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+  x[i].style.display = "none";
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 6000); // Change image every 2 seconds
+  }
+  </script>
+  
+</body>
+</html>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<!-- -----footer css link-------------------- -->
+<link rel="stylesheet" type="text/css" href="css/footer.css">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"> -->
+<footer class="w3-container">
+  <div class="w3-row">
+    <div class="w3-col m4 w3-left">
+      <div class="f_title">
+        <h3 style="font-family: Source Sans Pro">About Us</h3>
+      </div>
+      <div class="link_widget">
+        <ul>
+          <li><a href="collaterals.php">Company Profile</a></li>
+            <li><a href="index.php"> Message From MD </a></li>
+          <li><a href="Values&Beliefs.php"> Our Mission</a></li>
+          <!-- <li><a href="BoardOfDirectors.php"> Board of Director</a></li> -->
+          <!-- <li><a href="index.php">  Our Founder</a></li> -->
+          <!-- <li><a href="BoardOfDirectors.php"> Chairmain's Profile</a></li> -->
+          <!-- <li><a href="achievement.php"> Awards and Achievements</a></li> -->
+          <li><a href="OurPresence.php">Our Presence</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="w3-col m4">
+      <div class="f_title">
+        <h3 style="font-family: Source Sans Pro">Business Segments</h3>
+      </div>
+      <div class="link_widget">
+        <ul>
+          <li><a href="RoadConstruction.php"> Roads</a></li>
+          <li><a href="AirportRunway.php"> Airport Runway / Parking Bay</a></li>
+          <li><a href="Railway.php"> Railways</a></li>
+          <li><a href="DamConstruction.php"> Dam Construction</a></li>
+          <li><a href="Hospitality.php"> Hospitality</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    
+    <div class="w3-col m4">
+      <div class="f_title">
+        <h3 style="font-family: Source Sans Pro"> News & Media</h3>
+      </div>
+      <div class="link_widget">
+        <ul>
+          <li><a href="recent_post.php"> News Update</a></li>
+          <li><a href="collaterals.php"> Media Kit</a></li>
+          <!-- <li><a href="Contact.php">  Press Contact</a></li> -->
+          <!-- <li><a href="Careers.php"> Journalist Registration</a></li> -->
+          <!-- <li><a href="recent_post.php"> GHV in News</a></li> -->
+                <li><a href="achievement.php"> Awards and Achievements</a></li>
+        </ul>
+      </div>
+      
+      
+    </div>
+  
+    
+  </div>
+  
+  <!--<div style="text-align:center; color: white;">&copy; 1965-2026  |  Designed & Developed By: <a href="https://www.intelligic.org" target="_blank">Intelligic Solutions</a></a></div>-->
+
+<style>
+  .preloader, .backDes {
+      display: none;
+   }
+</style>
+<script>
+// $('body').fadeIn();
+</script>
+</footer>

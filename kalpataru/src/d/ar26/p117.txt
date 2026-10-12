@@ -1,0 +1,67 @@
+Statutory Reports
+
+Business Responsibility and Sustainability Report (BRSR)
+
+  Principle 2                                                                                                                      3.Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at
+Businesses should provide goods and services in a manner that is sustainable and safe.                                                   the end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+
+ESSENTIAL INDICATORS                                                                                                               Product                                                                  Process to safely reclaim the product*
+                                                                                                                                   Plastics (Including packaging                                                                    NA
+1. Percentage of R&D and capital expenditure (CAPEX) investments in specific technologies to improve the                           E- Waste                                                                                         NA
+      environmental and social impacts of product and processes to total R&D and capex investments made                            Hazardous Waste                                                                                  NA
+      by the entity, respectively.                                                                                                 Other Waste                                                                                      NA
+
+S.   Segment          FY 2026                 FY 2025 Details of improvements in environmental and social impacts                  *(NA - Not Applicable): As KPIL is an EPC company engaged in sectors such as Power Transmission and Distribution, Buildings & Factories,
+No.                                                                                                                                Water, Railways, Oil & Gas, and Urban Infrastructure, it does not deal with consumer goods that require reclamation at the end of their
+                       3.44%                    3.42% KPIL has advanced environmental and social impact by investing               lifecycle. Nonetheless, KPIL implements suitable procedures to recycle, reuse, and dispose of waste generated during project execution,
+                        4.70%                  4.38% in innovative technologies such as formwork systems, ecofriendly              adhering to regulatory standards.
+
+1 R&D                                                     curing compounds, renewable energy integration (solar PV, biomass        4.Whether Extended Producer Responsibility (EPR) is applicable to the entity's activities (Yes/No). If
+                                                          efficiency upgrades) and rainwater harvesting structures. These                yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan
+2 CAPEX                                                   innovations delivered measurable gains in energy conservation,                 submitted to Pollution Control Boards? If not, provide steps taken to address the same.
+                                                          water efficiency, reduced landfill impact, and enhanced ecological
+                                                          resilience, while also supporting employee wellbeing, community          Yes, Extended Producer Responsibility (EPR) is expected to become applicable to the Company's activities under the
+                                                          engagement, and supplier capacity building under KalpaSetu.                     Environment (Construction and Demolition) Waste Management Rules, 2025, notified by the Ministry of Environment,
+                                                                                                                                          Forest and Climate Change (MoEFCC), which have come into effect from April 1, 2026. In anticipation of the forthcoming
+2. a.Does the entity have procedures in place for sustainable sourcing? (Yes/No)                                                          regulations, the Company has initiated preparatory actions to align its waste management practices with the
+                                                                                                                                          EPR framework.
+Yes, KPIL has robust procedures in place for sustainable sourcing, anchored in its newly launched KalpaSetu-
+              KPIL's Sustainable Supply Chain Program 2026. This initiative demonstrates a structured and multi-dimensional        During the reporting year, the Company was in the planning and readiness stage, which included development of an
+              approach to embedding sustainability across the supply chain, guided by KPIL's Sustainable Procurement Policy.              EPR compliance roadmap, exploration of engagements with authorized recyclers and waste management agencies,
+                                                                                                                                          internal capacitybuilding through training and awareness initiatives for project teams, and formulation of monitoring
+ Key Procedures for Sustainable Sourcing                                                                                                  and compliance mechanisms to support effective implementation. These preparatory measures are intended to enable
+                                                                                                                                          a smooth transition once the EPR provisions become enforceable and to support sustainable construction practices.
+Supplier Code of Conduct
+                                                                                                                                   LEADERSHIP INDICATORS
+All supply chain partners must sign and adhere to a comprehensive code that enforces compliance with
+              sustainability policies and responsible business practices. This ensures that sustainability is embedded right at    1.Has the entity conducted Life Cycle Perspective/Assessments (LCA) for any of its products (for manufacturing
+              the onboarding stage.                                                                                                      industry) or for its services (for service industry)? If yes, provide details in the following format?
+
+Kalpataru Supplier Code of Conduct (KSCC)                                                                                          The Company has initiated a Life Cycle Assessment (LCA) for Galvanised Steel Lattice Transmission Towers manufactured
+                                                                                                                                          at its domestic facilities in Gandhinagar (Gujarat) and Raipur (Chhattisgarh). The assessment aims to systematically
+E SG Assessments                                                                                                                          evaluate and quantify the environmental impacts across the product life cycle, enhance transparency at the product
+                                                                                                                                          level, and support informed decision-making for clients and stakeholders.
+Through collaboration with a third party ESG platform, KPIL systematically evaluates suppliers' ESG performance.
+              This helps identify gaps, drive continuous improvement, and align suppliers with KPIL's sustainability commitments.  NIC Code   Name of Product/          % of total         Boundary for     Whether conducted by             Results
+                                                                                                                                                      Service           Turnover           which the Life   independent external    communicated in
+ Digital Monitoring and Governance                                                                                                                                    contributed      Cycle Perspective /                         public domain (Yes/
+                                                                                                                                                                                        Assessment was          agency (Yes/No)     No) If yes, provide
+Advanced dashboards and analytics provide end-to-end visibility into supplier compliance and sustainability
+              performance. Suppliers meeting defined criteria are integrated into the MIS for ongoing evaluation and governance.                                                             conducted                                  the web-link.
+
+Capacity Building                                                                                                                  2511 (Manufacture 400 kV Galvanised Export product  Cradle to extended Yes (assessment No (results not yet
+
+KPIL is equipping 50 MSME suppliers with 10 e-learning modules on sustainability, circular economy, and carbon                     of structural metal Steel Lattice   % turnover     gate (raw material   aligned with ISO published in public
+              footprint management via the Digital LMS platform. This strengthens supplier capabilities and awareness.
+                                                                                                                                   products)  Transmission            contribution     extraction to tower 14040/14044 standards,  domain)
+b. If yes, what percentage of inputs were sourced sustainably?
+                                                                                                                                                          Tower       under            assembly at site) external validation
+Upon onboarding to the digital monitoring and governance platform for supplier compliance and sustainability,
+              KPIL will gain enhanced visibility into the sourcing of sustainably procured inputs. In line with our commitment                                        assessment                            involved)
+              to reducing embodied carbon in our developments, we have already initiated the procurement and use of
+              slag-based (GGBS) cement.
+
+Additional details on such material procurements have been provided under Principle 2 Leadership Indicators
+              (Clause 3).
+
+228 Kalpataru Projects International Limited                                                                                                                                                                Integrated Annual Report 2025-26 229

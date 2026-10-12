@@ -1,0 +1,54 @@
+GHV (India) Pvt Ltd - savings scenarios (Crestline pure functions). Rs crore.
+Scenarios, not promises. Rows overlap and are never added. No interest figure: no disclosed rate.
+
+1. ONE DAY OF OPERATING INCOME (valueOfADay, cash only)
+   A. GHV (India) standalone FY24: 3361/365 = Rs 9.21 cr per day (CRISIL 7-Jan-25)
+      at A: 10 days = Rs 92.1 cr, 30 days = Rs 276.2 cr (scale only: no FY24 balance to apply it to)
+   B. combined (GHV India + GHV Infra, CRISIL) FY25: 2431/365 = Rs 6.66 cr per day (CRISIL 11-Feb-26)
+   A and B are never mixed: B prices every combined balance below; A only states scale.
+   Interest: none printed. The only rate CRISIL states is the 18% coupon on the Rs 140 cr OCD (Authum), treated as
+   quasi-equity and accrued (11-Feb-26); it is not the cost of the working-capital lines, so it is not used. carry = 0.
+
+2. GROSS CURRENT ASSET DAYS (CRISIL)
+   FY20: 222 days - GHV (India), CRISIL 15-Sep-23
+   FY21: 193 days - GHV (India), CRISIL 15-Sep-23
+   FY22: 161 days - GHV (India), CRISIL 15-Sep-23
+   FY23: 125 days - GHV (India), CRISIL 15-Sep-23
+   FY24: 116 days - GHV (India), CRISIL 11-Feb-26
+   FY25: 287 days - combined (GHV India + GHV Infra, CRISIL 11-Feb-26)
+   Implied GCA 31-Mar-25 = 287 x 6.66 = Rs 1,911.5 cr (Computed, combined)
+   Receivables + unbilled 31-Mar-25 = Rs 1,190.0 cr = 178.7 days of FY25 combined income (Computed); 62% of implied GCA
+   Receivables + unbilled 30-Sep-25 = Rs 660.0 cr (combined): Rs 530.0 cr came out in six months. Not converted to days: no H1 FY26 income is published.
+
+3. STEP SCENARIOS, combined basis B (simulate; each row stands alone)
+   Receivables + unbilled: -10 days (178.7 -> 168.7) releases Rs 66.6 cr
+   Receivables + unbilled: -30 days (178.7 -> 148.7) releases Rs 199.8 cr
+   GCA days (generic asset leg): -10 days (287.0 -> 277.0) releases Rs 66.6 cr
+   GCA days (generic asset leg): -30 days (287.0 -> 257.0) releases Rs 199.8 cr
+
+4. GCA BACK TO AN EARLIER CRISIL LEVEL (combined balance, priced at basis B)
+   Target days are CRISIL's GHV (India) standalone readings; CRISIL itself sets 287 against 116 in one sentence (11-Feb-26).
+   287 -> 116 days (FY24 level): -171 days, releases Rs 1,138.9 cr
+   287 -> 161 days (FY22 level): -126 days, releases Rs 839.2 cr
+
+5. VISIBILITY: AGAINST THE DEBT CRISIL WATCHES AND THE FUND-BASED LINE
+   Debt 30-Sep-25 Rs 618.0 cr (combined, excl OCD) vs CRISIL's expected ~Rs 400.0 cr by 31-Mar-26: gap Rs 218.0 cr
+   = 32.7 days of FY25 combined income. Only if released cash repays debt.
+   Fund-based utilisation (CRISIL):
+     12 months to Jun-23: 66% (GHV India, CRISIL 15-Sep-23)
+     12 months to Jan-24: 65% (GHV India, CRISIL 18-Mar-24)
+     12 months from Oct-23: 78% (GHV India, CRISIL 7-Jan-25)
+     12 months to Jan-26: 87%, peak 99% Q2 FY26, 90% Q3 FY26 (combined, CRISIL 11-Feb-26)
+   Sanctioned fund-based limit Jan-26: Rs 97.0 cr (cut from 173 Oct-24, 166 Sep-25, at the group's request).
+   One day of B = 7% of that limit; a 10-day step = 0.69x the whole limit.
+   No drawn balance is computed: the 87% average ran over a limit that was cut twice (173 -> 166 -> 97).
+
+6. priceLevers (financingRatePct 0): rows listed, NOT ranked - ranking needs a carry rate nobody disclosed
+   Receivables + unbilled: 178.7 -> 168.7 days: Rs 66.6 cr cash, 10 days
+   Receivables + unbilled: 178.7 -> 148.7 days: Rs 199.8 cr cash, 30 days
+   GCA days (generic asset leg): 287.0 -> 277.0 days: Rs 66.6 cr cash, 10 days
+   GCA days (generic asset leg): 287.0 -> 257.0 days: Rs 199.8 cr cash, 30 days
+   GCA 287 -> 116 days (FY24 level): Rs 1,138.9 cr cash, 171 days
+   GCA 287 -> 161 days (FY22 level): Rs 839.2 cr cash, 126 days
+
+Self-checks passed: no negative release, no carry without a disclosed rate, no row totals.

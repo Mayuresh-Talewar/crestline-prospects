@@ -1,0 +1,24 @@
+rev growth FY25 vs FY24 %: 14.57
+rev growth FY26 est vs FY25 (524.35) %: 33.5
+rev growth FY26 est vs FY25 (524 as printed) %: 33.59
+PAT margin FY25 %: 5.77
+PAT margin FY24 %: 6.09
+PAT growth FY25 vs FY24 %: 8.55
+CAGR FY22->FY26 (4 yrs implied by 'nearly 20%') needs FY22: not in doc: n/a
+BG lenders sum: 164.5
+CC lenders sum: 100.0
+DLOD lenders sum: 81
+fund-based facilities (CC+DLOD+proposed CC): 182
+non-fund (BG+proposed): 165.0
+total rated: 347.0
+check vs printed 347: True
+DLOD share of fund-based %: 44.5
+EPC order book / FY26 revenue (years): 3.71
+EPC + toll book Rs Cr: 3220
+revenue per day FY26 est Rs Cr: 1.918
+debtors 100d / 140d at that rate Rs Cr (illustrative, basis of days not stated): (191.8, 268.5)
+inventory 70d / 90d Rs Cr (illustrative): (134.2, 172.6)
+GCA days change FY25->FY26: 63
+GCA 250d at rate Rs Cr (illustrative): 479.5
+cash accruals 60 vs term debt 24-33: cover x: (1.82, 2.5)
+interest cover FY25 doc table vs text: (4.79, 5.1)

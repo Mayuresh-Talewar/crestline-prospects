@@ -1,0 +1,175 @@
+== 1. Revenue, PAT, EBITDA (standalone, Rs Cr) ==
+Revenue from operations FY24: 1,169.21
+PAT FY24: 4.29
+Net cash from operating activities FY24: 195.37
+Finance costs FY24: 18.53
+Revenue from operations FY25: 2,598.24
+PAT FY25: 15.46
+Net cash from operating activities FY25: 69.13
+Finance costs FY25: 53.51
+Revenue from operations FY26: 2,791.58
+PAT FY26: 26.95
+Net cash from operating activities FY26: 21.09
+Finance costs FY26: 63.42
+PAT FY26 CONSOLIDATED: 20.28
+Net cash from operating activities FY26 CONSOLIDATED: 21.09
+Revenue FY26 / FY24 (times): 2.39
+Revenue growth FY26 vs FY25 (%): 7.44
+PAT margin FY26 standalone (% of revenue): 0.97
+EBITDA incl. other income FY25 (PBT pre-exceptional + finance + D&A): 90.17
+EBITDA incl. other income FY26 (PBT pre-exceptional + finance + D&A): 124.69
+Interest on mobilisation advances FY26: 15.20
+Interest on mobilisation advances FY25: 10.78
+
+== 2. Receivables (net of ECL unless stated) ==
+Trade receivables FY26 total net: 1,849.05
+Trade receivables FY25 total net: 1,258.65
+Trade receivables FY24 total net: 735.41
+Increase FY25 to FY26: 590.39
+Gross trade receivables FY26 (before ECL): 1,929.48
+Gross trade receivables FY25 (before ECL): 1,331.11
+[Days, three bases, 365-day year]
+A. Dossier basis: CURRENT receivables / revenue, FY25: 136.4
+A. Dossier basis: CURRENT receivables / revenue, FY26: 213.6
+B. Closing TOTAL net receivables / revenue, FY25: 176.8
+B. Closing TOTAL net receivables / revenue, FY26: 241.8
+C. Company basis 365 / stated turnover, FY24: 182.5
+C. Company basis 365 / stated turnover, FY25: 139.8
+C. Company basis 365 / stated turnover, FY26: 202.8
+Check: revenue / average total receivables FY26 (times): 1.797
+Check: revenue / average total receivables FY25 (times): 2.606
+[Overdue vs not due, AR26 vintage, gross]
+Not due FY25: 882.77
+Overdue (all buckets) FY25: 448.34
+Not due share FY25 (%): 66.32
+Overdue more than 1 year FY25: 253.87
+Not due FY26: 1,530.12
+Overdue (all buckets) FY26: 399.35
+Not due share FY26 (%): 79.30
+Overdue more than 1 year FY26: 206.18
+[Vintage conflict: FY25 ageing as published twice]
+FY25 not due, AR25 vintage: 169.94
+FY25 not due, AR26 vintage: 882.77
+FY24 not due, AR25 vintage: 135.18
+FY24 overdue, AR25 vintage: 649.74
+[CFO's bridge of the rise, call, Rs Cr as spoken]
+Named items: billing + holdback + retention: 519
+Unexplained remainder of the stated 590: 71
+Spoken 1,849 less 1,258: 591
+
+== 3. Working capital lines (Rs Cr) ==
+Inventories FY25: 127.61
+Contract assets FY25: 90.99
+Contract liabilities FY25: 418.70
+Trade payables total FY25: 546.28
+MSE share of trade payables FY25 (%): 4.70
+MSME principal unpaid at year end FY25: 25.36
+MSME interest accrued unpaid FY25: 0.30
+Days of payables, 365 / stated payables turnover FY25: 80.6
+Inventories FY26: 138.51
+Contract assets FY26: 18.86
+Contract liabilities FY26: 465.32
+Trade payables total FY26: 881.56
+MSE share of trade payables FY26 (%): 5.08
+MSME principal unpaid at year end FY26: 44.31
+MSME interest accrued unpaid FY26: 0.48
+Days of payables, 365 / stated payables turnover FY26: 113.0
+[Dossier 'WC days' reconstruction]
+Current assets less cash less other bank balances less current liabilities FY25: -89.62
+  as days of revenue FY25: -12.6
+Net current assets (all) FY25: 178.21
+  as days of revenue FY25: 25.0
+Current assets less cash less other bank balances less current liabilities FY26: 174.07
+  as days of revenue FY26: 22.8
+Net current assets (all) FY26: 357.28
+  as days of revenue FY26: 46.7
+
+== 4. Borrowings (Rs Cr) ==
+Borrowings FY25 (AR26 vintage): 356.59
+Lease liabilities FY25: 19.01
+Borrowings + lease liabilities FY25: 375.60
+Borrowings FY26 (AR26 vintage): 349.96
+Lease liabilities FY26: 16.85
+Borrowings + lease liabilities FY26: 366.81
+FY25 borrowings as originally reported (AR25): 121.00
+FY25 trade credits reclassified into borrowings (AR26 Note 49): 235.59
+FY26 vendor bill discounting total: 318.96
+FY26 working capital facilities (secured, banks): 31.00
+Vendor bill discounting share of FY26 borrowings (%): 91.14
+
+== 5. Concentration and geography ==
+Power Grid (incl. group) share of revenue FY25 (%): 61.53
+Revenue outside India FY25 (Rs Cr): 64.82
+Revenue outside India share FY25 (%): 2.49
+Power Grid (incl. group) share of revenue FY26 (%): 64.31
+Revenue outside India FY26 (Rs Cr): 22.81
+Revenue outside India share FY26 (%): 0.82
+
+== 6. Orders and Q1 FY27 ==
+Order book growth Jun 2025 to Jun 2026 (%): 12.26
+Order book Jun 2026 / FY26 revenue (years): 1.45
+Q1 FY27 revenue growth YoY (%): -6.70
+
+== 7. Value of one day (scenario input, not a saving) ==
+FY26 revenue per day (Rs Cr): 7.65
+Interest on one day of revenue at 6.5% a year (Rs Cr): 0.50
+Interest on one day of revenue at 10% a year (Rs Cr): 0.76
+Cap: FY26 borrowings that carry the disclosed 6.5% to 10% rate (Rs Cr): 349.96
+
+== 8. Other lakh to crore conversions ==
+Advance to suppliers FY26 (AR26 p284 Note 14): 7.42
+Advance to suppliers FY25 (AR26 p284 Note 14): 33.37
+Fixed deposits under lien FY26 (AR26 p284 Note 12): 100.70
+Other bank balances FY26 (AR26 p284 Note 12): 159.49
+Receivables under arbitration, net, FY26, three customers (AR26 p281 Note 6(d)): 85.95
+Receivables under arbitration, net, FY25, two customers (AR25 p214 Note 4(d)): 50.20
+Receivables on operationally closed projects, net, FY25 (AR25 p214 Note 4(e)): 126.76
+Impairment on those closed-project receivables FY25 (AR25 p214 Note 4(e)): 28.20
+ECL allowance FY26 (AR26 p280): 80.43
+ECL allowance FY25 (AR26 p280): 72.46
+Unsatisfied performance obligations 31 Mar 2026 (AR26 p317 Note 42): 3,441.82
+Unsatisfied performance obligations 31 Mar 2025 (AR26 p317 Note 42): 2,984.41
+Unbilled on account of work under certification FY26 (AR26 p316 Note 42): 72.13
+Unearned revenue FY26 (AR26 p316 Note 42): 129.36
+Interest on borrowings FY26 (AR26 p297 Note 29): 46.36
+Interest payable to MSME vendors FY26 (AR26 p297 Note 29): 0.18
+Provision for onerous contracts FY26 (AR26 p294 Note 21A): 3.26
+Exceptional item, labour codes, FY26 (AR26 p257, p298 Note 32): 7.72
+Interest paid FY26 (AR26 p258): 59.34
+Interest paid FY25 (AR26 p258): 52.01
+Increase in trade receivables, cash flow FY26 (AR26 p258): 599.82
+Increase in trade receivables, cash flow FY25 (AR26 p258): 549.43
+Contract assets FY24 (AR25 p188): 165.74
+Contract liabilities FY24 (AR25 p188): 226.31
+Inventories FY24 (AR25 p188): 101.05
+Trade credits FY24, separate line (AR25 p188): 135.87
+FY25 trade credits line as originally reported (AR25 p188): 337.28
+Revenue outside India FY26 (AR26 p312): 22.81
+Revenue India FY26 (AR26 p312): 2,768.76
+Revenue India FY25 (AR26 p312): 2,533.42
+Trade receivables current FY26 (AR26 p256): 1,633.78
+Trade receivables non-current FY26 (AR26 p256): 215.27
+Trade receivables current FY25 (AR26 p256): 970.66
+Trade receivables non-current FY25 (AR26 p256): 288.00
+Trade receivables current FY24 (AR25 p188): 607.12
+Trade receivables non-current FY24 (AR25 p188): 128.29
+Gross trade receivables FY24 (AR25 p213): 784.92
+Dues to micro and small enterprises FY26 (AR26 p292): 44.80
+Dues to micro and small enterprises FY25 (AR26 p292): 25.66
+Interest on borrowings FY25 (AR26 p297 Note 29): 41.29
+Working capital facilities secured banks FY25 (AR26 p291): 100.00
+Working capital facilities financial institutions FY25 (AR26 p291): 21.00
+Vendor bill discounting FIs FY25 (AR26 p291): 147.48
+Vendor bill discounting banks FY25 (AR26 p291): 88.10
+Unbilled on account of work under certification FY25 (AR26 p316): 74.75
+KAM: undisputed receivables net FY26 (AR26 p246 to 247): 1,816.30
+KAM: impairment on undisputed receivables FY26 (AR26 p246 to 247): 53.21
+GST demand Karnataka, intimation 24 Jan 2025 (Reg 30 filing): 2.39
+GST tax interest penalty Karnataka, SCN 18 Feb 2025 (Reg 30 filing): 2.62
+GST demand Bihar, intimation 13 Mar 2025 (Reg 30 filing): 3.91
+GST tax interest penalty Bihar, SCN 21 Jul 2025 (Reg 30 filing 22 Jul 2025): 2.37
+TDS credit not granted AY 2023-24, Rs 4,04,60,648 (Reg 30 filing 20 Feb 2024): 4.05
+Arbitration claim against the Company, Rs 2,00,00,000 (Reg 30 filing 24 Jan 2025): 2.00
+Vendor bill discounting total FY25: 235.59
+
+self-checks passed: ageing sums, ageing less ECL = balance sheet, borrowings split, Note 49 bridge, turnover recompute

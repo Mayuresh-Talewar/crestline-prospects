@@ -1,0 +1,25 @@
+year  revG%  coreEBITDA  marg%  fin/rev%  TR+CA   (TR+CA)/rev*365  TP_total  TP/rev*365  gross_borr  adv  CFO  CFO/EBITDA
+FY22r    nan     852.7   6.87   1.96    7787.8    229.1     4082.4    120.1    2655.1   1908.7   376.4  0.44
+FY23    15.6    1161.5   8.10   2.05   10019.2    255.1     4743.9    120.8    2934.6   3024.9   559.4  0.48
+FY24    16.9    1365.2   8.15   2.01   11606.9    252.8     5351.6    116.5    3263.5   3544.4   713.6  0.52
+FY25    12.7    1587.0   8.40   2.02   13499.3    260.9     6170.9    119.2    3392.3   4435.1   837.1  0.53
+FY26    22.9    2028.7   8.74   1.59   14989.3    235.7     6550.1    103.0    2839.9   4817.3   764.5  0.38
+FY26 avg TR 7602.1 debtor days 119.6
+FY25 avg TR 6411.4 debtor days 123.9
+FY26 gross TR (ageing table) 8162.44 over 1y 1311.12 16.1% over 6m 1539.37 18.9% not due 4906.33
+FY25 gross TR (ageing table) 7454.91 over 1y 961.06 12.9% over 6m 1421.99 19.1% not due 4897.23
+candidate NWC days FY26 (own formula, not KPIL) 78.7 vs KPIL stated standalone 90
+standalone PBT margin ex-exc FY26 6.46 ex VEPL dividend 123.41: 5.93
+consol rev growth FY26 21.6 | consol FY25 growth 13.7 | standalone PAT growth FY25 21.6 | consol PAT growth FY25 9.9
+standalone intl share of revenue FY26 30.0 FY25 30.5 | consol 38.5 39.3
+PSU India share standalone FY26 (9656.03 as printed) 41.6 | (9565.03 as printed in consolidated note, vs consolidated rev) 35.2
+gross debt standalone FY26 BS minus interest-free loan 369.53 2470.41 company 2,470
+WC facilities FY26 1411.51 / total borrowings 49.7 %
+unbilled payables share FY26 30.5 % of trade payables 6550.11 | MSME share 6.6
+Q1FY27 standalone fin cost/rev 1.24 | Q1FY26 1.67
+cash from ops FY22-FY26 standalone sum 3250.9
+consol PAT growth FY26 81.7 | consol PBT before exc growth FY26 62.1
+standalone NWC days change Q4FY26->Q1FY27 4 consol 5
+order book water FY24->FY26 change -29.8 % ; T&D+B&F share FY26 71.6
+trade payables consol total 7167.68 borrowings consol 3306.96
+Fasttel impairment+VEPL gain+labour code -356.16 vs exceptional printed -356.16

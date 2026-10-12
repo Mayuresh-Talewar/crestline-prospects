@@ -1,0 +1,17 @@
+FY24: operating profit before WC changes 230.63 Cr; cash generated 77.07 Cr; taken up by WC 153.56 Cr
+FY25: operating profit before WC changes 381.09 Cr; cash generated 104.94 Cr; taken up by WC 276.15 Cr
+FY26: operating profit before WC changes 481.73 Cr; cash generated 244.74 Cr; taken up by WC 236.99 Cr
+FY26 WC lines sum -2369.91 ; 4817.31 + (-2369.91) = 2447.40 (printed 2447.40)
+Trade receivables FY24 156.62, FY25 250.17, FY26 455.82 Cr
+Construction expenses FY26 2946.72 Cr = 2946.721; per day 8.0732
+Material consumed FY26 1384.83 Cr; per day 3.7940
+Revenue per day 3600.25/365 = 9.8637
+DSO = 46.21; CAD = 54.22; DIO = 65.35; DPO = 32.27
+Receivable rise FY26 205.66 Cr; revenue growth 23.4%
+Receivables x2.91; revenue x1.48
+Cash and bank FY26 460.62, FY25 311.87 (printed total A+B; parts 1028.45+2090.23=3118.68), FY24 131.01
+Payables FY26: MSME 47.92, LC 98.60, others 114.02; sum 260.54
+Unbilled + receivables 990.65 Cr; CAD + DSO days 54.2 + 46.2 = 100.4
+Stage output: sum of 8 pre-invoice stage values 54.3 ; plus 46.2 = 100.5
+Combined certification+materials: 10d 136.58 Cr, 30d 409.73 Cr; certification alone 10d 98.64, 30d 295.91; cycle 133.4-20 = 113.4, 133.4-60 = 73.4
+Order book multiple 2.21

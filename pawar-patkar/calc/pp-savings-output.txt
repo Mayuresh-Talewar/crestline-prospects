@@ -1,0 +1,120 @@
+=== BREAK=1 (expect FAIL, exit 1)
+revenue 552.35 Cr (FY25 prov., standalone) / 365 = 1.513288 Cr per day
+valueOfADay: cash 1.513288 carry 0
+GCA days now 106
+
+Step 10 days: 106 -> 96 days
+  released 15.132877 Cr (15.13)  independent 15.132877  carry 0
+FAIL  10d: no negative release
+PASS  10d: interest = 0
+PASS  10d: simulate equals days x per day (1e-9)
+PASS  10d: valueOfADay x days equals simulate (1e-9)
+
+Step 30 days: 106 -> 76 days
+  released 45.398630 Cr (45.40)  independent 45.398630  carry 0
+FAIL  30d: no negative release
+PASS  30d: interest = 0
+PASS  30d: simulate equals days x per day (1e-9)
+PASS  30d: valueOfADay x days equals simulate (1e-9)
+
+Stretch vendor credit 40 -> 70 requested: lands at 40, cash 0
+PASS  payables: stretching releases no cash
+
+2 ASSERT(S) FAILED
+exit 1
+=== BREAK=2 (expect FAIL, exit 1)
+revenue 552.35 Cr (FY25 prov., standalone) / 365 = 1.513288 Cr per day
+valueOfADay: cash 1.513288 carry 0
+GCA days now 106
+
+Step 10 days: 106 -> 96 days
+  released 15.132877 Cr (15.13)  independent 15.132877  carry 0
+PASS  10d: no negative release
+FAIL  10d: interest = 0
+PASS  10d: simulate equals days x per day (1e-9)
+PASS  10d: valueOfADay x days equals simulate (1e-9)
+
+Step 30 days: 106 -> 76 days
+  released 45.398630 Cr (45.40)  independent 45.398630  carry 0
+PASS  30d: no negative release
+FAIL  30d: interest = 0
+PASS  30d: simulate equals days x per day (1e-9)
+PASS  30d: valueOfADay x days equals simulate (1e-9)
+
+Stretch vendor credit 40 -> 70 requested: lands at 40, cash 0
+PASS  payables: stretching releases no cash
+
+2 ASSERT(S) FAILED
+exit 1
+=== BREAK=3 (expect FAIL, exit 1)
+revenue 552.35 Cr (FY25 prov., standalone) / 365 = 1.513288 Cr per day
+valueOfADay: cash 1.513288 carry 0
+GCA days now 106
+
+Step 10 days: 106 -> 96 days
+  released 15.132877 Cr (15.13)  independent 15.132877  carry 0
+PASS  10d: no negative release
+PASS  10d: interest = 0
+FAIL  10d: simulate equals days x per day (1e-9)
+FAIL  10d: valueOfADay x days equals simulate (1e-9)
+
+Step 30 days: 106 -> 76 days
+  released 45.398630 Cr (45.40)  independent 45.398630  carry 0
+PASS  30d: no negative release
+PASS  30d: interest = 0
+FAIL  30d: simulate equals days x per day (1e-9)
+FAIL  30d: valueOfADay x days equals simulate (1e-9)
+
+Stretch vendor credit 40 -> 70 requested: lands at 40, cash 0
+PASS  payables: stretching releases no cash
+
+4 ASSERT(S) FAILED
+exit 1
+=== BREAK=4 (expect FAIL, exit 1)
+revenue 552.35 Cr (FY25 prov., standalone) / 365 = 1.513288 Cr per day
+valueOfADay: cash 1.513288 carry 0
+GCA days now 106
+
+Step 10 days: 106 -> 96 days
+  released 15.132877 Cr (15.13)  independent 15.132877  carry 0
+PASS  10d: no negative release
+PASS  10d: interest = 0
+PASS  10d: simulate equals days x per day (1e-9)
+PASS  10d: valueOfADay x days equals simulate (1e-9)
+
+Step 30 days: 106 -> 76 days
+  released 45.398630 Cr (45.40)  independent 45.398630  carry 0
+PASS  30d: no negative release
+PASS  30d: interest = 0
+PASS  30d: simulate equals days x per day (1e-9)
+PASS  30d: valueOfADay x days equals simulate (1e-9)
+
+Stretch vendor credit 40 -> 70 requested: lands at 40, cash 0
+FAIL  payables: stretching releases no cash
+
+1 ASSERT(S) FAILED
+exit 1
+=== CLEAN RUN
+revenue 552.35 Cr (FY25 prov., standalone) / 365 = 1.513288 Cr per day
+valueOfADay: cash 1.513288 carry 0
+GCA days now 106
+
+Step 10 days: 106 -> 96 days
+  released 15.132877 Cr (15.13)  independent 15.132877  carry 0
+PASS  10d: no negative release
+PASS  10d: interest = 0
+PASS  10d: simulate equals days x per day (1e-9)
+PASS  10d: valueOfADay x days equals simulate (1e-9)
+
+Step 30 days: 106 -> 76 days
+  released 45.398630 Cr (45.40)  independent 45.398630  carry 0
+PASS  30d: no negative release
+PASS  30d: interest = 0
+PASS  30d: simulate equals days x per day (1e-9)
+PASS  30d: valueOfADay x days equals simulate (1e-9)
+
+Stretch vendor credit 40 -> 70 requested: lands at 40, cash 0
+PASS  payables: stretching releases no cash
+
+ALL ASSERTS PASS
+exit 0

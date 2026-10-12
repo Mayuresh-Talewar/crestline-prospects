@@ -1,0 +1,959 @@
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Rating Rationale</title>
+    <link href="/BLRHTML/Content/CSS/bootstrap.css" rel="stylesheet" />
+    <link href="/BLRHTML/Content/CSS/ratingrationale-theme.css" rel="stylesheet" />
+    <style type="text/css">
+        body {
+            font-family: Arial;
+        }
+
+        tr {
+            page-break-inside: avoid;
+            page-break-inside: auto !important;
+        }
+
+        td {
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            border-collapse: collapse;
+            padding-left: 5px;
+            padding-right: 3px;
+        }
+
+        table.outer {
+            border: 0px;
+            padding-right: 10px;
+            border-spacing: 0;
+            border-collapse: collapse;
+            width: 700px;
+            page-break-inside: avoid;
+        }
+
+        .heading {
+            font-family: arial;
+            font-size: 14pt;
+            font-weight: bold;
+        }
+
+        .title {
+            font-family: Arial;
+            font-size: 16pt;
+            font-weight: bold;
+        }
+
+        .title1 {
+            font-family: Arial;
+            font-size: 12pt;
+            font-weight: bold;
+        }
+
+        .text {
+            font-family: Arial;
+            font-size: 12px
+        }
+
+        .textsmall {
+            font-family: Arial;
+            font-size: 10px
+        }
+
+        .textsmalll {
+            font-family: Arial;
+            font-size: 7.5pt
+        }
+
+        .textsmallb {
+            font-family: Arial;
+            font-size: 10px
+        }
+
+        .textdate {
+            font-family: Arial;
+            font-size: 9pt
+        }
+
+        .textsmallg {
+            font-family: Arial;
+            font-size: 11px
+        }
+
+        .textsmallbc {
+            font-family: Arial;
+            font-size: 7pt
+        }
+
+        table {
+            page-break-inside: auto;
+        }
+
+        tr, td {
+            page-break-inside: avoid !important;
+            margin-top: 30px;
+        }
+
+        thead {
+            display: table-header-group;
+            padding-bottom: 20px;
+            height: 2.1cm;
+        }
+
+        tfoot {
+            display: table-footer-group;
+        }
+
+        .facilityHeading {
+            text-align: center !important;
+        }
+
+        .hrline {
+            margin-top: 15px;
+            margin-bottom: 15px;
+            border: 0;
+            height: 1px;
+            border-bottom: 1px dashed black;
+        }
+
+        .amountAlign {
+            text-align: right !important;
+        }
+    </style>
+
+
+    <script src="/BLRHTML/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="/BLRHTML/Scripts/jquery-ui-1.12.1.min.js" type="text/javascript"></script>
+    <script src="/BLRHTML/Scripts/jquery-migrate-3.0.0.min.js"></script>
+    <div>
+    <div class="alert alert-info alert-fixed" style="display: none;">
+        <a href="#" class="close" data-hide="alert">&times;</a> <strong>Info!</strong> <span>
+            Info Alert</span>
+    </div>
+    <div class="alert alert-success alert-fixed" style="display: none;">
+        <a href="#" class="close" data-hide="alert">&times;</a> <strong>Success!</strong>
+        <span>Success Alert</span>
+    </div>
+    <div class="alert alert-warning alert-fixed" style="display: none;">
+        <a href="#" class="close" data-hide="alert">&times;</a> <strong>Warning!</strong>
+        <span>Warning Alert</span>
+    </div>
+    <div class="alert alert-danger alert-fixed" style="display: none;">
+        <a href="#" class="close" data-hide="alert">&times;</a> <strong>Error!</strong>
+        <span>Error Alert</span>
+    </div>
+</div>
+<script language="javascript" type="text/javascript">
+
+    $(function () {
+        $('.alert-fixed').hide();
+
+        $("[data-hide]").on("click", function () {
+            $(this).closest("." + $(this).attr("data-hide")).hide();
+        });
+
+    });
+
+    function ShowInfoMessage(message) {
+        ShowAlert(".alert-info", message);
+    }
+
+    function ShowSuccessMessage(message) {
+        ShowAlert(".alert-success", message);
+    }
+
+    function ShowErrorMessage(message) {
+        ShowAlert(".alert-danger", message);
+    }
+
+    function ShowWarningMessage(message) {
+        ShowAlert(".alert-warning", message);
+    }
+
+    function ShowAlert(alertID, message) {
+        $(alertID + " span").html(message);
+        $(alertID).slideDown();
+        window.setTimeout(function () {
+            // $("#InfoAlert").fadeOut();
+            $(alertID).slideUp();
+        }, 5000);
+
+    }
+
+    //Below methods with the suffix "NoFade" are used to show the message with out disappearing until user closes them.
+    //Added by SreenivasKV:01Sep17
+    function ShowInfoMessageNoFade(message) {
+        ShowAlertNoFade(".alert-info", message);
+    }
+
+    function ShowSuccessMessageNoFade(message) {
+        ShowAlertNoFade(".alert-success", message);
+    }
+
+    function ShowErrorMessageNoFade(message) {
+        ShowAlertNoFade(".alert-danger", message);
+    }
+
+    function ShowWarningMessageNoFade(message) {
+        ShowAlertNoFade(".alert-warning", message);
+    }
+
+    function ShowAlertNoFade(alertID, message) {
+        $(alertID + " span").html(message);
+        $(alertID).slideDown();
+    }
+
+    $(document).ready(function () {
+        var successmsg = '';
+        var errormsg = '';
+
+        if (successmsg == '') {
+            successmsg = '';
+        }
+        if (errormsg == '') {
+            errormsg = '';
+        }
+
+        if (successmsg != '') {
+            ShowSuccessMessage(successmsg);
+        }
+        if (errormsg != '') {
+            ShowErrorMessage(errormsg);
+        }
+    });
+
+</script>
+
+    <script>
+
+        $(document).ready(function () {
+
+            if ($('#IsRationalePublished').val() == 'True') {
+
+                //Prevent content selection on page
+                $('body').attr('onselectstart', 'return false');
+                $('body').attr('onmousedown', 'return false');
+
+                //Prevent context menu and keydown events on page
+                $(document).on('contextmenu keydown', function (e) {
+                    e.preventDefault();
+                });
+            }
+
+        });
+
+    </script>
+</head>
+
+<body class="preview_body">
+    <input data-val="true" data-val-required="The IsRationalePublished field is required." id="IsRationalePublished" name="IsRationalePublished" type="hidden" value="False" />
+    <div class="container_body">
+
+
+        <div class="header_section">
+            <div class="header_text">
+                <h6>RATING RATIONALE</h6>
+                <span>07Mar2023</span>
+            </div>
+            <div class="header_logo">
+                    <img src="/BLRHTML/Content/Images/brickworkrating-logo.jpg" width="160" height="71" alt="Brickwork Ratings" />
+
+            </div>
+        </div>
+
+        <div class="content_section">
+            <h1>Khilari Infrastructure Pvt. Ltd.</h1>
+
+                <p class="main_sub" style="font-size:16px !important; padding:10px 0 !important;"><b>Brickwork Ratings downgrades the Long-term ratings and reaffirms the short-term ratings for the Bank Loan Facilities of Rs. 100.00 Crs. of Khilari Infrastructure Pvt. Ltd. based on best available information, as the issuer did not cooperate.</b></p>
+
+
+            
+            <strong>Particulars</strong>
+            
+                <table class="table table-bordered bwrtable">
+                    <thead class="thead-light">
+                        <tr>
+                                <th scope="col" rowspan="2">Facilities**</th>
+                            <th scope="col" colspan="2" style="text-align:center!important;">Amount (Rs.Crs.)</th>
+                            <th scope="col" rowspan="2">Tenure</th>
+                                    <th scope="col" colspan="2" style="text-align:center!important;">Rating#</th>
+                                                    </tr>
+                        <tr>
+                            <th scope="col">Previous</th>
+                            <th scope="col">Present</th>
+                            <th scope="col">Previous<br>(09 Mar 2022) </th>
+                            <th scope="col">Present</th>
+                        </tr>
+
+                    </thead>
+                    <tbody>
+                            <tr>
+                                    <td rowspan="1">
+                                        Fund Based
+                                    </td>
+                                <td class='amountAlign'>
+5.00                                </td>
+                                <td class='amountAlign'>
+5.00                                </td>
+                                    <td rowspan="1">
+                                        Long Term
+                                    </td>
+                                    <td rowspan="1">
+                                            <strong>BWR BB/Stable</strong>
+                                            <br />
+Downgrade/<b>ISSUER NOT COOPERATING</b>*                                    </td>
+                                    <td rowspan="1">
+                                                    <strong>
+                                                         BWR B 
+                                                        
+                                                    </strong>
+/Stable                                                    <br />
+Continues to be in <b>ISSUER NOT COOPERATING</b>* category/Downgraded                                    </td>
+
+                            </tr>
+                            <tr>
+                                    <td rowspan="1">
+                                        Non Fund Based
+                                    </td>
+                                <td class='amountAlign'>
+95.00                                </td>
+                                <td class='amountAlign'>
+95.00                                </td>
+                                    <td rowspan="1">
+                                        Short Term
+                                    </td>
+                                    <td rowspan="1">
+                                            <strong> BWR A4        </strong>
+                                            <br />
+Downgrade/<b>ISSUER NOT COOPERATING</b>*                                    </td>
+                                    <td rowspan="1">
+                                                    <strong>  BWR A4  </strong>
+                                                    <br />
+Continues to be in <b>ISSUER NOT COOPERATING</b>* category/Reaffirmed                                    </td>
+
+                            </tr>
+
+                        <tr style="font-size: 10pt;">
+                            <td><strong>Grand Total</strong></td>
+                            
+                                <td class='amountAlign'><b>100.00</b> </td>
+
+                                <td class='amountAlign'><b>100.00</b> </td>
+                                <td colspan="4"><strong>(Rupees  One Hundred  Crores Only)</strong></td>
+                        </tr>
+                    </tbody>
+                </table>
+            <span class="impnot">
+                    <span>
+                        #Please refer to BWR website <a href="https://www.brickworkratings.com">www.brickworkratings.com</a> for definition of the ratings<br>
+                        **Details of Bank Loan facilities,consolidation or instruments are provided in Annexure
+                    </span>
+                <br />
+                <span>*<b>Issuer did not cooperate</b>; based on best available information.</span>
+
+
+                
+            </span>
+            <br /><br />
+                                        <strong>RATING ACTION / OUTLOOK / NATURE OF NON-COOPERATION</strong>
+                <p><p dir="ltr"><strong>Nature of cooperation</strong></p>
+
+<p dir="ltr">The rating was due for review in March 2022.&nbsp;<span id="docs-internal-guid-572426e8-7fff-9f8d-96cb-c8d732223eb7">The client has been under the INC category since December 2021</span>. The client has remained non-cooperative since the last rating exercise. BWR took up with the issuer to provide the required information over emails and through telephone calls. Despite the best efforts of Brickwork Ratings to get the minimum required information for a review through emails, the entity has not provided the same. In the absence of adequate information from the issuer/company, BWR is unable to assess the issuer&rsquo;s/company&rsquo;s financial performance and its ability to service its debt.</p>
+
+<p>&nbsp;</p>
+<p>The lenders/investors may note to exercise due caution while using the above rating which mentions "Issuer Not Cooperating" since the rating lack any projections or forward looking component as it is arrived at based on the best available information without any management/banker's interaction.</p></p>
+                            <strong>LIMITATIONS OF THE RATING </strong>
+                <p>
+                    <p>Information availability risk is a key factor in the assessment of credit risk as generally, non-cooperation by the rated entities to provide required information for a review of the assigned rating may also be accompanied by financial stress. Users of the credit rating should therefore take into account possible deterioration in the credit quality of the rated entity arising from its non-transparency withholding of information required for a review of the rating.</p>
+
+                </p>
+                            <strong>ABOUT THE ENTITY</strong>
+                <p><p dir="ltr">Khilari Infrastructure Pvt. Ltd. (KIPL or the &lsquo;Company&rsquo;) was initially established as a proprietorship concern in the year 1998 under the name &lsquo;Khilari S. S&rsquo;. Later, in the year 2005, the constitution of the company was converted into a private limited company under the name Ask Infrastructure Pvt. Ltd. Subsequently, in the same year the name of the Company was changed to Khilari Infrastructure Pvt. Ltd. The administrative office of the Company is located in CBD Belapur, Navi Mumbai. KIPL is a major player in the construction of landfills for sanitary &amp; hazardous industrial waste with closure, operation &amp; maintenance of dumping ground, STP and all types of UGD sewer lines. The Company is engaged in providing EPC work for Sewage Treatment Plant, O &amp; M of Sewage Treatment Plant, Scientific closure of Dump yard as per MSW Rule-2000, Hazardous waste Management. The Company also has started a New Project under the guidance of Navi Mumbai Municipal Corporation to prepare compost from Waste/Garbage.</p>
+</p>
+
+            <input data-val="true" data-val-required="The IsGreenFieldMandate field is required." id="IsGreenFieldMandate" name="IsGreenFieldMandate" type="hidden" value="False" />
+
+            <!-- Key Financial Indicators are not displayed for INC mandates.   [SreenivasKV:07-Dec-2023]-->
+            <!-- Ref:https://stackoverflow.com/questions/49706868/browser-adds-my-website-url-as-prefix-to-all-links-in-my-page-content -->
+            <div>
+                <strong>KEY FINANCIAL INDICATORS</strong>
+                <p>
+                    Please refer to the following link for the previous detailed rationale that captures the Key Financials Drivers and their Description,
+                    Liquidity Position. Rating Sensitivities, Key Financial Indicators.
+
+                            <a title='View Previous Document' href='https://www.brickworkratings.com/Admin/PressRelease/Khilari-Infrastructure-15Dec2020.pdf' target="_blank">View Previous Document</a>
+                </p>
+            </div>
+
+                <strong>STATUS OF NON-COOPERATION WITH PREVIOUS CRA</strong>
+                <p><p>NIL</p>
+</p>
+
+                <strong>ANY OTHER INFORMATION</strong>
+                <p><p>NIL</p>
+</p>
+            <strong>RATING HISTORY FOR THE PREVIOUS THREE YEARS  (including withdrawal and suspended)</strong>
+
+
+
+            <table class="table table-bordered" style="font-size:10px;table-layout: fixed!important;">
+                <thead class="thead-light">
+                    <tr>
+                        <th>Facilities</th>
+                        <th colspan="3">Current Rating  (2023)</th>
+                        <th colspan="2">2022</th>
+                        <th colspan="2">2021</th>
+                        <th colspan="2">2020</th>
+                    </tr>
+                </thead>
+                <tr style="background-color:#F0F0F0">
+                    <th>Type</th>
+                    <th>Tenure</th>
+                    <th>Amount <br /> (Rs.Crs.)</th>
+                    <th>Rating</th>
+                    <th>Date</th>
+                    <th>Rating</th>
+                    <th>Date</th>
+                    <th>Rating</th>
+                    <th>Date</th>
+                    <th>Rating</th>
+                </tr>
+                    <tr style="font:10px arial!important">
+                        <td>
+                            Fund Based
+                        </td>
+                        <td>
+                            LT
+                        </td>
+                        <td class='amountAlign'>
+                            5.00
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word;">
+                                BWR B/Stable
+
+                                    <br />
+(Continues to be in ISSUER NOT COOPERATING* category/Downgraded)                            </div>
+                        </td>
+                        <td>
+                            09Mar2022
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word;">
+                                BWR BBStable
+                                    <br />
+(Downgrade/ISSUER NOT COOPERATING*)                            </div>
+                        </td>
+                        <td>
+                            NA
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word">
+                                NA
+                            </div>
+                        </td>
+                        <td>
+                            31Mar2020
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word">
+                                BWR BBBStable
+                                    <br />
+(Reaffirmed/INC)                            </div>
+                        </td>
+                    </tr>
+                    <tr style="font:10px arial!important">
+                        <td>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                        <td class='amountAlign'>
+                            0.00
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word;">
+                                NA
+
+                            </div>
+                        </td>
+                        <td>
+                            NA
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word;">
+                                NA
+                            </div>
+                        </td>
+                        <td>
+                            NA
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word">
+                                NA
+                            </div>
+                        </td>
+                        <td>
+                            15Dec2020
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word">
+                                BWR BBBStable
+                                    <br />
+(Reaffrimed)                            </div>
+                        </td>
+                    </tr>
+                    <tr style="font:10px arial!important">
+                        <td>
+                            Non Fund Based
+                        </td>
+                        <td>
+                            ST
+                        </td>
+                        <td class='amountAlign'>
+                            95.00
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word;">
+                                BWR A4
+
+                                    <br />
+(Continues to be in ISSUER NOT COOPERATING* category/Reaffirmed)                            </div>
+                        </td>
+                        <td>
+                            09Mar2022
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word;">
+                                BWR A4        
+                                    <br />
+(Downgrade/ISSUER NOT COOPERATING*)                            </div>
+                        </td>
+                        <td>
+                            NA
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word">
+                                NA
+                            </div>
+                        </td>
+                        <td>
+                            31Mar2020
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word">
+                                BWR A3+
+                                    <br />
+(Reaffirmed/INC)                            </div>
+                        </td>
+                    </tr>
+                    <tr style="font:10px arial!important">
+                        <td>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                        <td class='amountAlign'>
+                            0.00
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word;">
+                                NA
+
+                            </div>
+                        </td>
+                        <td>
+                            NA
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word;">
+                                NA
+                            </div>
+                        </td>
+                        <td>
+                            NA
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word">
+                                NA
+                            </div>
+                        </td>
+                        <td>
+                            15Dec2020
+                        </td>
+                        <td>
+                            <div style="word-wrap: break-word">
+                                BWR A3+
+                                    <br />
+(Reaffrimed)                            </div>
+                        </td>
+                    </tr>
+                <tr>
+                    <td style="text-align:right" colspan="2"><b>Grand Total</b></td>
+                    <td class='amountAlign'>
+                        100.00
+                    </td>
+                    <td colspan='7'><b>(Rupees  One Hundred  Crores Only)</b></td>
+                </tr>
+            </table>
+
+                                                    <strong>COMPLEXITY LEVELS OF THE INSTRUMENTS - Simple</strong>
+                <p>
+                    BWR complexity levels are meant for educating investors. The BWR complexity levels are available at <a href='https://www.brickworkratings.com/download/ComplexityLevels.pdf' target='_blank'>www.brickworkratings.com / download / ComplexityLevels.pdf</a>. Investors queries can be sent to <a href='mailto:info@brickworkratings.com'>info@brickworkratings.com</a>.
+                </p>
+
+
+                    <strong>Hyperlink/Reference to applicable Criteria</strong>
+                    <ul>
+                            <li>
+                                <a href="https://www.brickworkratings.com/download/Criteria-FinancialRatiosUpdated.pdf" target="_blank">Approach to Financial Ratios</a>
+                            </li>
+                            <li>
+                                <a href="https://www.brickworkratings.com/download/Criteria-GeneralCriteriaUpdated.pdf" target="_blank">General Criteria</a>
+                            </li>
+                            <li>
+                                <a href="https://www.brickworkratings.com/download/PolicyOnINC.pdf" target="_blank">What Constitutes Non-Cooperation</a>
+                            </li>
+                            <li>
+                                <a href="https://www.brickworkratings.com/download/Criteria-ShortTermDebtUpdated.pdf" target="_blank">Short Term Debt</a>
+                            </li>
+                    </ul>
+
+            
+
+
+            
+            
+            <table class="table table-bordered bwrtable3">
+                <thead class="thead-light">
+                    <tr>
+                        <th scope="col" colspan="2" style="text-align:center!important;"> Analytical Contacts </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <p><strong>Umamaheswari Venkatesh</strong></p>
+                            <span>Senior Rating Analyst</span>
+
+                            <span><a href="mailto:uma.mv@brickworkratings.com">uma.mv@brickworkratings.com</a></span>
+                        </td>
+
+                        <td>
+                            <p><strong>RamaKrishna</strong></p>
+                            <span>Director - Ratings</span>
+                            <span><a href="mailto:ramakrishna@brickworkratings.com">ramakrishna@brickworkratings.com</a></span>
+                        </td>
+                    </tr>
+                    <tr></tr>
+                    <tr>
+                        
+                                <td colspan="2" class="tdstrong">
+                                    <strong>
+                                        1-860-425-2742 | <a href="mailto:media@brickworkratings.com">media@brickworkratings.com</a>
+                                    </strong>
+                                </td>
+
+
+                    </tr>
+
+                </tbody>
+            </table>
+
+
+            <div style=" text-align:center;">
+                <b>Khilari Infrastructure Pvt. Ltd.</b>
+            </div>
+            <div style=" text-align:center;">
+                <strong>ANNEXURE-I</strong>
+            </div>
+            <div style="text-align:center;"><b>Details of Bank Facilities rated by BWR</b></div>
+            <table class="table table-bordered bwrtable">
+                <thead class="thead-light">
+                    <tr>
+                        <th scope="col">
+                            SL.No.
+                        </th>
+                            <th scope="col" style="text-align:center!important;">
+                                Name of the Bank/Lender
+                            </th>
+                        <th scope="col" style="text-align:center!important;">
+                            Type Of Facilities
+                        </th>
+                        <th scope="col" style="text-align:center!important;">
+                            Long Term(Rs.Crs.)
+                        </th>
+                        <th scope="col" style="text-align:center!important;">
+                            Short Term(Rs.Crs.)
+                        </th>
+                        <th scope="col" style="text-align:center!important;">
+                            Total(Rs.Crs.)
+                        </th>
+
+                        
+                    </tr>
+                </thead>
+                <tbody>
+
+                        <tr>
+                            <td rowspan="1.ToString()">
+                                1
+                            </td>
+                                <td style="text-align:center!important;border-bottom:none;">
+                                    Axis Bank Ltd.
+                                </td>
+
+
+
+                            <td style="border-bottom:none;">
+Over Draft<label for=""> - </label>Sanctioned
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+3.00
+
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+                                    <span> _ </span>
+
+                            </td>
+                            <td style="text-align:center!important;" rowspan="1.ToString()">
+                                <strong>
+                                    3.00
+                                </strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1.ToString()">
+                                2
+                            </td>
+                                <td style="text-align:center!important;border-bottom:none;">
+                                    Axis Bank Ltd.
+                                </td>
+
+
+
+                            <td style="border-bottom:none;">
+Bank Guarantee<label for=""> - </label>Sanctioned
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+                                    <span> _ </span>
+
+
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+20.00
+                            </td>
+                            <td style="text-align:center!important;" rowspan="1.ToString()">
+                                <strong>
+                                    20.00
+                                </strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1.ToString()">
+                                3
+                            </td>
+                                <td style="text-align:center!important;border-bottom:none;">
+                                    NKGSB Co-operative Bank Ltd.
+                                </td>
+
+
+
+                            <td style="border-bottom:none;">
+Bank Guarantee<label for=""> - </label>Sanctioned
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+                                    <span> _ </span>
+
+
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+50.00
+                            </td>
+                            <td style="text-align:center!important;" rowspan="1.ToString()">
+                                <strong>
+                                    50.00
+                                </strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1.ToString()">
+                                4
+                            </td>
+                                <td style="text-align:center!important;border-bottom:none;">
+                                    Punjab National Bank
+                                </td>
+
+
+
+                            <td style="border-bottom:none;">
+Bank Guarantee<label for=""> - </label>Sanctioned
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+                                    <span> _ </span>
+
+
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+25.00
+                            </td>
+                            <td style="text-align:center!important;" rowspan="1.ToString()">
+                                <strong>
+                                    25.00
+                                </strong>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1.ToString()">
+                                5
+                            </td>
+                                <td style="text-align:center!important;border-bottom:none;">
+                                    Un tied portion
+                                </td>
+
+
+
+                            <td style="border-bottom:none;">
+Term Loan<label for=""> - </label>Proposed
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+2.00
+
+                            </td>
+                            <td style="text-align:center!important;border-bottom:none;">
+
+                                    <span> _ </span>
+
+                            </td>
+                            <td style="text-align:center!important;" rowspan="1.ToString()">
+                                <strong>
+                                    2.00
+                                </strong>
+                            </td>
+                        </tr>
+                    <tr style="font-size: 10pt;">
+                            <td colspan="3"><b> Total</b></td>
+                            <td style="text-align:center!important;">
+                                <b>5.00</b>
+                            </td>
+                            <td style="text-align:center!important;">
+                                <b>95.00</b>
+                            </td>
+                            <td style="text-align:center!important;">
+                                <b>100.00</b>
+                            </td>
+                    </tr>
+                    <tr>
+                        <td colspan="7" style="text-align:center!important;">
+                            <strong>TOTAL (Rupees  One Hundred  Crores Only) </strong>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+
+            <div role="tabpanel" class="tab-pane" id="Annexure3">
+                <div>
+                </div>
+
+            </div>
+
+            <div class="bwrcon_section">
+
+                                    <strong>Print and Digital Media</strong>
+                    <p>
+                        The Rating Rationale is sent to you for the sole purpose of dissemination through your print, digital or electronic media. While it may be used by you acknowledging credit to BWR, please do not change the wordings in the rationale to avoid conveying a meaning different from what was intended by BWR. BWR alone has the sole right of sharing (both direct and indirect) its rationales for consideration or otherwise through any print or electronic or digital media.
+                    </p>
+                <strong>About Brickwork Ratings</strong>
+                <p>
+                    Brickwork Ratings (BWR), a Securities and Exchange Board of India [SEBI] registered Credit Rating Agency and accredited by Reserve Bank of India [RBI], offers credit ratings of Bank Loan, Non- convertible / convertible / partially convertible debentures and other capital market instruments and bonds, Commercial Paper, perpetual bonds, asset-backed and mortgage-backed securities, partial guarantees and other structured / credit enhanced debt instruments, Security Receipts, Securitization Products, Municipal Bonds, etc. BWR has rated over 12,000 medium and large corporates and financial institutions’ instruments. BWR has also rated NGOs, Educational Institutions, Hospitals, Real Estate Developers, Urban Local Bodies and Municipal Corporations.  BWR has Canara Bank, a leading public sector bank, as one of the promoters and strategic partner. BWR has its corporate office in Bengaluru and a country-wide presence with its offices in Ahmedabad, Chandigarh, Chennai, Hyderabad, Kolkata, Mumbai and New Delhi along with representatives in 150+ locations.
+                </p>
+
+                
+                <strong>Disclaimer</strong>
+                <p>
+                    Brickwork Ratings India Pvt. Ltd. (BWR), a Securities and Exchange Board of India [SEBI] registered Credit Rating Agency and accredited by the Reserve Bank of India [RBI], offers credit ratings of Bank Loan facilities, Non- convertible / convertible / partially convertible debentures and other capital market instruments and bonds, Commercial Paper, perpetual bonds, asset-backed and mortgage-backed securities, partial guarantees and other structured / credit enhanced debt instruments, Security Receipts, Securitization Products, Municipal Bonds, etc. [ hereafter referred to as "Instruments"].  BWR also rates NGOs, Educational Institutions, Hospitals, Real Estate Developers, Urban Local Bodies and Municipal Corporations.<br/><br/>BWR wishes to inform all persons who may come across Rating Rationales and Rating Reports provided by BWR that the ratings assigned by BWR are based on information obtained from the issuer of the instrument and other reliable sources, which in BWR's best judgment are considered reliable. The Rating Rationale / Rating Report & other rating communications are intended for the jurisdiction of India only.  The reports should not be the sole or primary basis for any investment decision within the meaning of any law or regulation (including the laws and regulations applicable in Europe and also the USA).<br/><br/>BWR also wishes to inform that access or use of the said documents does not create a client relationship between the user and BWR.<br/><br/>The ratings assigned by BWR are only an expression of BWR's opinion on the entity / instrument and should not in any manner be construed as being a recommendation to either, purchase, hold or sell the instrument.<br/><br/>BWR also wishes to abundantly clarify that these ratings are not to be considered as an investment advice in any jurisdiction nor are they to be used as a basis for or as an alternative to independent financial advice and judgment obtained from the user's financial advisors. BWR shall not be liable to any losses incurred by the users of these Rating Rationales, Rating Reports or its contents. BWR reserves the right to vary, modify, suspend or withdraw the ratings at any time without assigning reasons for the same.<br/><br/>BWR's ratings reflect BWR's opinion on the day the ratings are published and are not reflective of factual circumstances that may have arisen on a later date. BWR is not obliged to update its opinion based on any public notification, in any form or format although BWR may disseminate its opinion and analysis when deemed fit.<br/><br/>Neither BWR nor its affiliates, third party providers, as well as the directors, officers, shareholders, employees or agents (collectively, <b>"BWR Party"</b>) guarantee the accuracy, completeness or adequacy of the Ratings, and no BWR Party shall have any liability for any errors, omissions, or interruptions therein, regardless of the cause, or for the results obtained from the use of any part of the Rating Rationales or Rating Reports. Each BWR Party disclaims all express or implied warranties, including, but not limited to, any warranties of merchantability, suitability or fitness for a particular purpose or use. In no event shall any BWR Party be liable to any one for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the Rating Rationales and/or Rating Reports even if advised of the possibility of such damages. However, BWR or its associates may have other commercial transactions with the company/entity. BWR and its affiliates do not act as a fiduciary.<br/><br/>BWR keeps certain activities of its business units separate from each other in order to preserve the independence and objectivity of the respective activity. As a result, certain business units of BWR may have information that is not available to other BWR business units. BWR has established policies and procedures to maintain the confidentiality of certain non-public information received in connection with each analytical process.<br/><br/>BWR clarifies that it may have been paid a fee by the issuers or underwriters of the instruments, facilities, securities etc., or from obligors. BWR's public ratings and analysis are made available on its web site, <a href='https://www.brickworkratings.com' target='_blank'>www.brickworkratings.com</a>. More detailed information may be provided for a fee. BWR's rating criteria are also generally made available without charge on BWR's website.<br/><br/>This disclaimer forms an integral part of the Ratings Rationales / Rating Reports or other press releases, advisories, communications issued by BWR and circulation of the ratings without this disclaimer is prohibited.<br/><br/>BWR is bound by the Code of Conduct for Credit Rating Agencies issued by the Securities and Exchange Board of India and is governed by the applicable regulations issued by the Securities and Exchange Board of India as amended from time to time.
+                </p>
+            </div>
+
+        </div>
+    </div>
+    <script type="text/javascript">
+
+        //var seen = {};
+        //$('#history td').each(function () {
+        //    var $this = $(this);
+        //    var index = $this.index();
+        //    var prevtxt = $this.parent().prev().find("td:first span").text();
+        //    var txt = $this.text();
+
+        //    if (seen[index] === txt && prevtxt === txt) {
+        //        $($this.parent().prev().children()[index]).attr('rowspan', 2);
+        //        $this.hide();
+        //    }
+        //    else {
+        //        seen[index] = txt;
+        //    }
+        //});
+
+        $(document).ready(function () {
+            SummerizeTable($('#particular'));
+            SummerizeTable($('#history'));
+        });
+
+        function SummerizeTable(table) {
+            $(table).each(function () {
+                $(table).find('td').each(function () {
+                    var $this = $(this);
+
+                    if ($this.attr('class') !== 'amount') {
+
+                        var col = $this.index();
+                        var html = $this.html();
+                        var row = $(this).parent()[0].rowIndex;
+                        var span = 1;
+                        var cell_above = $($this.parent().prev().children()[col]);
+                        //console.log($this.parent());
+                        // look for cells one above another with the same text
+                        while (cell_above.html() === html) { // if the text is the same
+                            span += 1; // increase the span
+                            cell_above_old = cell_above; // store this cell
+                            cell_above = $(cell_above.parent().prev().children()[col]); // and go to the next cell above
+                        }
+
+                        // if there are at least two columns with the same value,
+                        // set a new span to the first and hide the other
+                        if (span > 1) {
+                            $(cell_above_old).attr('rowspan', span);
+                            $this.hide();
+                        }
+                    }
+                });
+            });
+        }
+
+        $(document).ready(function () {
+            $($('#tblAnnexure').parent().prev().children()[index]).attr('rowspan', 2);
+            $this.hide();
+        });
+
+    </script>
+</body>
+</html>
+
+
+
+

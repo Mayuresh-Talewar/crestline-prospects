@@ -1,0 +1,29 @@
+Per day = 755.55 / 365 = 2.070000 Cr (valueOfADay cash 2.070000, carry 0)
+Lever bounds (no terms passed):
+  cad now 60 min 0 max 84 side ours
+  dso now 60 min 0 max 90 side theirs
+  dpo now 60 min 0 max 60 side theirs
+
+Scenarios (one wait at a time; rows overlap and are never added):
+days | lever | simulate cash Cr | cross-check Cr | interest Cr
+10 | cad | 20.70 | 20.70 | 0.00
+PASS  no negative release: cad 10 days = 20.70
+PASS  interest = 0: cad 10 days carry 0
+PASS  cross-check cad 10 days: simulate 20.7 vs 20.7
+10 | dso | 20.70 | 20.70 | 0.00
+PASS  no negative release: dso 10 days = 20.70
+PASS  interest = 0: dso 10 days carry 0
+PASS  cross-check dso 10 days: simulate 20.7 vs 20.7
+30 | cad | 62.10 | 62.10 | 0.00
+PASS  no negative release: cad 30 days = 62.10
+PASS  interest = 0: cad 30 days carry 0
+PASS  cross-check cad 30 days: simulate 62.099999999999994 vs 62.1
+30 | dso | 62.10 | 62.10 | 0.00
+PASS  no negative release: dso 30 days = 62.10
+PASS  interest = 0: dso 30 days carry 0
+PASS  cross-check dso 30 days: simulate 62.099999999999994 vs 62.1
+PASS  payables never release cash: request 90 days gives 0.00
+PASS  payables never release cash: request 160 days gives 0.00
+PASS  payables never release cash: request 50 days gives -20.70
+
+ALL ASSERTS PASSED

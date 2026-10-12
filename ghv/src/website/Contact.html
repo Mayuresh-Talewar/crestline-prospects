@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GHV</title>
+  <link href="img/favicon.ico" rel="shortcut icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- header css file link -->
+<link rel="stylesheet" type="text/css" href="css/header.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300' rel='stylesheet' type='text/css' />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<style type="text/css">
+  #myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #172959;
+  color: white;
+  cursor: pointer;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 1px solid white;
+  opacity: 0.8;
+}
+</style>
+</head>
+<body>
+    <script>
+// $('body').fadeOut();
+</script>
+<style>
+.preloader {
+    margin-top: 10%;
+    margin-left: 32%;
+    position: absolute;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #172959;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.backDes{
+    height: 1080px;
+    width: 1920px;
+    background-color: #fff;
+    position: absolute;
+    z-index: 9999;
+    transition:1s;
+}
+
+</style>
+
+<div class="backDes">
+<div class = "preloader"></div>
+</div>
+<!-- scroll up button on scroll -->
+
+<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-arrow-up" aria-hidden="true"></i>
+</button>
+
+<div class="row" id="float">
+  <div class="left">
+    <a href="index.php"><img src="img/logo2.png"></a>
+  </div>
+  
+  <div class="right" style="font-family: Source Sans Pro">
+    <ul class="top">
+      <li><a href="collaterals.php" style="color:#172959">Media Center &nbsp; &nbsp;</a> </li> 
+      <li> <a href="Contact.php" style="color:#172959">Contact Us  &nbsp;  &nbsp;</a></li>
+      <li> <a href="vendor_registration.php" style="color:#172959">Vendor Registration</a> </li>
+      </ul>
+
+      <ul>
+     <a href="https://www.facebook.com/ghvgroup" target="_blank" rel="noopener noreferrer">
+      <li class="s_icon icon_f"></li></a> &nbsp;
+      <!-- <li class="icon twitter"><i class="fa fa-twitter" aria-hidden="true"></i></li> &nbsp;
+      <li class="icon youtube"><i class="fa fa-youtube-play" aria-hidden="true"></i></li> -->
+    </ul>
+  </div>
+</div>
+
+
+<!-- popup form start  -->
+<style type="text/css">
+.s_icon{
+  background-size: cover;
+  height:33px;
+  width: 33px; 
+  transition: 0.2s;
+}
+li.icon_f{
+    background-image: url("./img/f1.png");
+}
+li.icon_t{
+ background-image: url("./img/t1.png");
+}
+li.icon_y{
+ background-image: url("./img/y1.png");
+}
+li.icon_f:hover{
+    background-image: url("./img/f2.png");
+    transition: 0.2s;
+}
+li.icon_t:hover{
+ background-image: url("./img/t2.png");
+ transition: 0.2s;
+}
+li.icon_y:hover{
+ background-image: url("./img/y2.png");
+ transition: 0.2s;
+}
+     input.w3-input {
+    padding: 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+}
+  .w3-row .s6 {
+     height: 50px; 
+     padding-bottom: 0px; 
+}
+input.w3-input {
+    padding: 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+    background-color: white;
+    border-radius: 0px;
+}
+input{
+
+}
+input.w3-blue{
+  margin-bottom: 20px;
+  color: #fff!important;
+  background-color:#172959!important;
+}
+span.w3-display-topright{
+}
+header.w3-teal, .w3-hover-teal:hover {
+    color: #fff!important;
+    background-color:#172959!important;
+}
+</style>
+
+
+
+
+<style type="text/css">
+  .w3-input {
+    padding: 2px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 90%;
+}
+</style>
+
+
+
+
+<!-- popup form end -->
+<!-- --------------------------------- dropdown----------------- -->
+<div class="topnav" id="myTopnav">
+  <div class="dropdown">
+    <button class="dropbtn hBar" style="border-left: none;">About Us 
+   <!--    <i class="fa fa-caret-down"></i> -->
+    </button>
+
+    <div class="h_line"></div>
+    
+    <div class="dropdown-content">
+      <div>
+      <a href="Overview.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>
+       Overview</a>
+      <!-- <a href="Milestone.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Milestone</a> -->
+         <a href="OurPresence.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Our Presence</a>
+      </div>
+      <div>
+      <!-- <hr style="margin: 0px;padding: 0px"> -->
+      <a href="Values&Beliefs.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Vision, Values & Beliefs</a>
+      </div>
+      <div>
+      <!-- <hr style="margin: 0px;padding: 0px"> -->
+      <!-- <a href="BoardOfDirectors.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Board Of Directors</a> -->
+      <a href="Policies.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Policies</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn hBar">Core Business
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content">
+      <div>
+      <a href="RoadConstruction.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Road Construction</a>
+      <a href="AirportRunway.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Airport Runway / Parking Bay</a>
+      </div>
+       <!-- <hr style="margin: 0px;padding: 0px"> -->
+       <div>
+      <a href="Railway.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Railways</a>
+      <a href="DamConstruction.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Dam Construction</a>
+      </div>
+       <!-- <hr style="margin: 0px;padding: 0px"> -->
+       <div>
+      <a href="Hospitality.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Hospitality</a>   
+      </div>
+    </div>
+  </div>
+<div class="dropdown">
+    <button class="dropbtn hBar">Key Projects
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content">
+      <div>
+      <a href="OngoingProjects.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Ongoing Projects</a>
+      </div>
+      <div>
+      <a href="CompletedProjects.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Completed Projects</a>
+      </div>
+       <!-- <hr style="margin: 0px;padding: 0px"> -->
+       <div>
+      <span><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Gallery</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn hBar">Sustainability
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content dropdown-csr">
+      <div>
+      <a href="CSR.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>CSR</a>
+      </div>
+
+      <div>
+      <a href="CSR_I.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>CSR Initiatives</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn hBar" onclick="openURL('Clients.php')">Clients
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+  </div>
+
+  <!-- <a href="CSR.php" class="underline hBar">Sustainability</a>
+
+  <a href="Clients.php" class="underline hBar">Clients</a> -->
+
+  <div class="dropdown">
+    <button class="dropbtn hBar">Media 
+     <!--  <i class="fa fa-caret-down"></i> -->
+    </button>
+    <div class="dropdown-content" id="media" >
+      <div class="media" style="width: 100%">
+      <a href="collaterals.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Collaterals</a>
+      </div>
+       <div class="media" style="width: 100%">
+      <a href="recent_post.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>News Update</a>
+      </div>
+       <div class="media" style="width: 100%">
+      <a href="achievement.php"><i class="fa fa-square-o" aria-hidden="true"> &nbsp; </i>Achievements</a>
+      </div>
+    </div>
+  </div> 
+
+  <div class="dropdown">
+    <button class="dropbtn hBar" onclick="openURL('Careers.php')">Careers
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+  </div>
+
+  <div class="dropdown" style="border-right: none;">
+    <button class="dropbtn hBar" onclick="openURL('Contact.php')">Contact
+      <!-- <i class="fa fa-caret-down"></i> -->
+    </button>
+  </div>
+
+  <!-- <a href="Careers.php" class="underline hBar" >Careers</a>
+ 
+  <a href="Contact.php" class="underline hBar" style="border-right: none;">Contact</a> -->
+
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+
+<!-- loader -->
+
+<script>
+
+  function openURL(str) {
+    window.location.href=str;
+  }
+
+// $(document).ready(function() {
+//   if ($(window).width() < 640) {
+//     alert($(window).width());
+//     $(".underline").css('display','none');
+//   }
+// });
+
+// $(document).ready(function(){
+//   alert($(window).width());
+//   if ($(window).width() < 640) {
+//     if ($("#remDrop").hasClass("dropdown")) {
+//       alert('Hello');
+//       for(var i = 0; i< 3; i++) {
+//           $("#remDrop").removeClass("dropdown");
+//         }
+//     }
+//   }
+// });
+
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script><!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>GHV</title>
+		<link rel="stylesheet" type="text/css" href="css/about_us.css">
+		<link rel="stylesheet" type="text/css" href="css/contact_us.css">
+		<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300' rel='stylesheet' type='text/css' />
+		<!-- <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
+		
+	</head>
+	<body>
+		<style>
+				*{
+					font-family: Source Sans Pro;
+				}
+				.mySlides {display:none;
+				}
+				div#button{
+              /*background-image: url("./img/frame/f_2.jpg");*/
+              padding: 0px;
+              background-image: none;
+                }
+		</style>
+		<!-- ======================= -->
+		<div class="w3-container" id="frame">
+			<div class="w3-container w3-display-container" id="button">
+				
+
+				<button class="w3-button w3-display-bottomleft">Contact Us</button>
+				<button class="w3-button w3-display-bottomright"><a href="index.php"> Home ></a> Contact Us</button>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.7001467679997!2d72.86062821437753!3d19.120806055532505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c82f83b3d021%3A0x3109dd9fee019274!2sGHV+India!5e0!3m2!1sen!2sin!4v1556099260950!5m2!1sen!2sin" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</div>
+		</div>
+		<div class="w3-container" style="padding: 0px">
+			<hr>
+			<!-- =============================== -->
+			<style type="text/css">
+				h1 strong{
+					text-decoration: underline #F60002;
+                     text-underline-position: under;
+                     font-size: 30px;
+				}
+				
+				div#overview_slider{
+					background-color: rgba(0,0,0,0.8);
+					/*background-image: url("../img/header.jpg");*/
+					background:none;
+				}
+				@media only screen and (max-width: 768px){
+					h3 span{
+						display: none;
+					}
+					.m6{
+			        padding: 0px 0px;
+		            }
+				}
+			</style>
+			<div class="w3-conatiner" id="overview_slider">
+				
+			</div>
+			<!-- <div id="animate_part">
+				<div class="w3-row mySlides" id="img_text_2">
+					<div class="w3-col m4 ">
+						<img src="img/header2.jpg">
+					</div>
+					<div class="w3-col m8 w3-center ">
+						<p class="text">CONTACT US<br>
+						
+					</div>
+				
+			</div> -->
+		</div>
+		<hr>
+		<!-- OUR HISTORY -->
+		<style type="text/css">
+		#contact_us_c{
+			padding: 0px;
+		}
+		.fa-map-marker{
+			padding-right: 20px;
+			font-size: 30px;
+			position: relative;
+			top: 20px;
+		}
+		.fa-mobile{
+			padding-right: 20px;
+			font-size: 36px;
+			position: relative;
+			top: 6px;
+
+		}
+		.fa-fax{
+			    padding-right: 20px;
+                font-size: 24px;
+                position: relative;
+                 top: 12px;
+                 left: -6px;
+
+		}
+		.fa-envelope{
+			padding-right: 15px;
+			font-size: 23px;
+			position: relative;
+			top: 10px;
+            left: -3px;
+		}
+
+		div.i_t{
+			display: flex;
+			
+		}
+		/*div.i_t i{
+			position: relative;
+			top: 10px;
+			font-size: 30px;
+			padding-right: 10px; 
+			
+		}*/
+
+		@media only screen and (max-width: 768px){
+			.fa-map-marker{
+			padding-right: 20px;
+			font-size: 30px;
+			position: relative;
+			top: 20px;
+		}
+		.fa-mobile{
+			padding-right: 20px;
+			font-size: 36px;
+			position: relative;
+			top: 6px;
+
+		}
+
+		.fa-envelope{
+			padding-right: 15px;
+			font-size: 23px;
+			position: relative;
+			top: 10px;
+
+
+		}
+		.fa-fax{
+			padding-right: 15px;
+			font-size: 23px;
+			position: relative;
+			top: 10px;
+
+
+		}
+		div.i_t{
+			text-align: left;
+			padding-right: 20px;
+			/*height: 100px;*/
+			padding-bottom: 10px;
+		}
+
+		}
+
+		/*div.i_t i{
+			position: relative;
+			top: 40px;
+			/*font-size: 25px;*/
+		}*/
+
+		</style>
+		<!-- accordion button -->
+		<div class="w3-container" id="contact_us_c">
+					<!-- <h2><strong> Contact Us </strong></h2> -->
+			<div class="w3-row">
+				<!-- <hr> -->
+				<br>
+			<div class="w3-col m6 contactus_text">
+			<h1 style="font-family:Source Sans Pro" ><strong> Contact Info </strong></h1>
+			<h4 style="text-align:center; font-family:Source Sans Pro ">Our Street Address , Phone And Email</h4>
+			<div class="contact_us_info">
+      <div class="i_t">
+				<i class="fa fa-map-marker" aria-hidden="true"></i>
+			<h6 style="font-family:Source Sans Pro;"> GHV (India) Pvt. Ltd. , First Floor, AML Center - 1, Mahakali  Caves Road, Andheri (East), 	Mumbai - 400093 India. </h6>
+	</div>
+
+	<div class="i_t">
+<i class="fa fa-mobile"></i>
+			<h6 style="font-family:Source Sans Pro">
+			 (022) 67250014 / 15 </h6>
+
+			 </div>
+			 	<div class="i_t">
+<i class="fa fa-fax"></i>
+			<h6 style="font-family:Source Sans Pro; position: relative; left: -8px">
+			 (022) 67250016 </h6>
+
+			 </div>
+
+			 <div class="i_t">
+			 <i class="fa fa-envelope"></i>
+			<h6 style="font-family:Source Sans Pro">
+			 info@ghvgroup.com</h6>
+			</div>
+			</div>
+
+			</div>
+
+
+
+
+				
+				<div class="w3-col m6">
+					<div class="container">
+						<div class="row">
+							<h1 style="font-family:Source Sans Pro"> <strong> Contact Us </strong></h1>
+						</div>
+						<div class="row">
+							<h4 style="text-align:center; font-family: Source Sans Pro">We'd love to hear from you!</h4>
+						</div>
+						<div class="row input-container">
+					    	<form action="" method="POST" enctype="multipart/form-data">
+							<div class="col-xs-12">
+								<div class="styled-input wide">
+									<input type="text" name="name" required />
+									<label>Full Name</label>
+								</div>
+							</div>
+							<div class="col-md-6 col-sm-12">
+								<div class="styled-input">
+									<input type="text" name="email" required />
+									<label>Email</label>
+								</div>
+							</div>
+							<div class="col-md-6 col-sm-12">
+								<div class="styled-input" style="float:right;">
+									<input type="text" name="mobileno" required />
+									<label>Phone Number</label>
+								</div>
+							</div>
+							<div class="col-xs-12">
+								<div class="styled-input wide">
+									<textarea name="message" required></textarea>
+									<label>Message</label>
+								</div>
+							</div>
+							<div class="col-xs-12">
+								<input type="submit" class="btn-lrg submit-btn" name="contact_submit" value="Send Message"/>
+
+							</div>
+							<br>
+				         </form>
+						 <!-- php code  -->
+
+						 
+
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		<!-- <hr> -->
+		<!-- ---------------------- -->
+		
+		<!-- for hide and show conatiner with   -->
+		<script>
+		var myIndex = 0;
+		carousel();
+		function carousel() {
+		var i;
+		var x = document.getElementsByClassName("mySlides");
+		for (i = 0; i < x.length; i++) {
+		x[i].style.display = "none";
+		}
+		myIndex++;
+		if (myIndex > x.length) {myIndex = 1}
+		x[myIndex-1].style.display = "block";
+		setTimeout(carousel, 6000); // Change image every 2 seconds
+		}
+		</script>
+		<script type="text/javascript"></script>
+		
+	</body>
+</html>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<!-- -----footer css link-------------------- -->
+<link rel="stylesheet" type="text/css" href="css/footer.css">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"> -->
+<footer class="w3-container">
+  <div class="w3-row">
+    <div class="w3-col m4 w3-left">
+      <div class="f_title">
+        <h3 style="font-family: Source Sans Pro">About Us</h3>
+      </div>
+      <div class="link_widget">
+        <ul>
+          <li><a href="collaterals.php">Company Profile</a></li>
+            <li><a href="index.php"> Message From MD </a></li>
+          <li><a href="Values&Beliefs.php"> Our Mission</a></li>
+          <!-- <li><a href="BoardOfDirectors.php"> Board of Director</a></li> -->
+          <!-- <li><a href="index.php">  Our Founder</a></li> -->
+          <!-- <li><a href="BoardOfDirectors.php"> Chairmain's Profile</a></li> -->
+          <!-- <li><a href="achievement.php"> Awards and Achievements</a></li> -->
+          <li><a href="OurPresence.php">Our Presence</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="w3-col m4">
+      <div class="f_title">
+        <h3 style="font-family: Source Sans Pro">Business Segments</h3>
+      </div>
+      <div class="link_widget">
+        <ul>
+          <li><a href="RoadConstruction.php"> Roads</a></li>
+          <li><a href="AirportRunway.php"> Airport Runway / Parking Bay</a></li>
+          <li><a href="Railway.php"> Railways</a></li>
+          <li><a href="DamConstruction.php"> Dam Construction</a></li>
+          <li><a href="Hospitality.php"> Hospitality</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    
+    <div class="w3-col m4">
+      <div class="f_title">
+        <h3 style="font-family: Source Sans Pro"> News & Media</h3>
+      </div>
+      <div class="link_widget">
+        <ul>
+          <li><a href="recent_post.php"> News Update</a></li>
+          <li><a href="collaterals.php"> Media Kit</a></li>
+          <!-- <li><a href="Contact.php">  Press Contact</a></li> -->
+          <!-- <li><a href="Careers.php"> Journalist Registration</a></li> -->
+          <!-- <li><a href="recent_post.php"> GHV in News</a></li> -->
+                <li><a href="achievement.php"> Awards and Achievements</a></li>
+        </ul>
+      </div>
+      
+      
+    </div>
+  
+    
+  </div>
+  
+  <!--<div style="text-align:center; color: white;">&copy; 1965-2026  |  Designed & Developed By: <a href="https://www.intelligic.org" target="_blank">Intelligic Solutions</a></a></div>-->
+
+<style>
+  .preloader, .backDes {
+      display: none;
+   }
+</style>
+<script>
+// $('body').fadeIn();
+</script>
+</footer>

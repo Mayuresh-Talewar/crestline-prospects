@@ -1,0 +1,54 @@
+STANDALONE (Rs Cr)  [revenue = revenue from operations as first reported; EBITDA ex other income = rev - (total exp - finance - D&A)]
+yr   rev    OI     PBT    PAT   EBITDAxOI  EBITDA%rev  OI%totinc  CFO   TR(c+nc)  TRdays  payables(total) MSME%  ret   adv   CA     CL
+FY22   236.6   75.3  131.2  105.6     61.1     25.8%     24.2%   15.9    78.5    121      20.3    0.0%   4.2   4.3   0.0  61.2
+FY23   797.8   83.2  208.8  166.0    136.9     17.2%      9.4%   24.8   277.1    127     107.0    1.1%  61.5  18.5   0.7  71.8
+FY24   708.3   96.5  244.3  195.5    159.8     22.6%     12.0%  230.2    67.2     35      48.9   31.0%   6.7  59.6   9.2  28.1
+FY25   394.7  123.4  202.5  156.8     90.8     23.0%     23.8%   15.4    61.2     57      46.1   27.9%   4.2  27.7   0.0   7.3
+FY26   285.6  152.2  201.0  154.8     62.5     21.9%     34.8%   46.8    37.9     48      18.7   34.6%   3.6   0.0  11.6  74.6
+payable days on (revenue) is NOT computed: no cost-base denominator reconciled; use balances only
+
+STANDALONE revenue change YoY
+FY23 237.2%
+FY24 -11.2%
+FY25 -44.3%
+FY26 -27.7%
+FY26 vs FY23 peak -64.2%
+
+FY26 STANDALONE receivable ageing (Rs lakh, current): not-due-as-printed 180.46, <6m 3054.84, 6m-1y 170.27, 1-2y 206.23, 2-3y 0.29, >3y 1.39, undisputed good total 3613.48
+sum 3613.48 {'nd': '5.0%', 'm6': '84.5%', 'y1': '4.7%', 'y2': '5.7%', 'y3': '0.0%', 'y3p': '0.0%'}
+over 6 months past due (6m-1y + 1-2y + 2-3y + >3y) = 3.78 Cr = 10.5%
+FY25 ageing (current): <6m 5581.56 / 6m-1y 118.66 / total 5909.47 + not due 209.25 => over-6m share 2.0%
+
+RELATED-PARTY CONTRACT REVENUE (standalone, Rs lakh) vs contract revenue and revenue from operations
+FY22 RPT contract rev  196.5 Cr =  89.7% of contract revenue  219.1; =  83.0% of revenue from ops
+FY23 RPT contract rev  156.3 Cr =  19.9% of contract revenue  786.0; =  19.6% of revenue from ops
+FY24 RPT contract rev   97.2 Cr =  14.2% of contract revenue  682.4; =  13.7% of revenue from ops
+FY25 RPT contract rev   16.1 Cr =   4.5% of contract revenue  357.8; =   4.1% of revenue from ops
+FY26 RPT contract rev   14.9 Cr =   6.1% of contract revenue  241.9; =   5.2% of revenue from ops
+FY26 external contract revenue (contract rev - RPT) = 227.0 Cr; FY23 = 629.7 Cr; change -63.9%
+FY26 RPT trade receivables 639.60 lakh of total TR 37.94 Cr = 16.9% ; Atmosphere Realty 548.72 = 14.5% of TR; vs its FY26 contract revenue 1439.01 = 139 days of its annual billing
+Receivables from directors-linked firms/companies (note 2.04, FY26) 590.53 lakh = 16.3% of current TR
+
+CONSOLIDATED (Rs Cr, as first reported; FY26 as in AR 13 May 2026 before the interest reclassification)
+yr   rev    TI     PAT   PAT-owners  EPCseg-rev  RE-rev  EPC share of seg rev  EPC result  EPC assets  EPC liab  EPC net assets  gross borrowings
+FY22   961.5  1162.7  298.5    216.4     493.3    641.6     43.5%     128.9     193.2     167.2      26.1     557.3
+FY23  1890.3  1938.3  289.0    258.6    1024.8    973.4     51.3%     135.5     434.7     329.3     105.5     205.9
+FY24  1263.5  1360.2  303.3    300.4     803.3    530.4     60.2%     157.7     204.3     211.4      -7.0     130.8
+FY25  1108.1  1231.2  312.8    282.7     413.4    698.5     37.2%     106.3     154.6     120.9      33.8      35.6
+FY26   630.5   792.0  211.0    200.6     303.8    329.4     48.0%      79.9     138.1     119.1      18.9      57.9
+consol rev FY26 vs FY25 -43.1% | total PAT -32.5% | PAT owners -29.1% | TI -35.7%
+EPC segment revenue FY26 vs FY23 -70.4% | FY26 vs FY25 -26.5%
+Reclass of interest into revenue: FY26 consol 71469.77-63046.14 = 84.24 Cr; standalone 36644.42-28555.19 = 80.89 Cr
+Q1 FY27 EPC segment: rev 8206.89 vs Q1FY26 10224.21 = -19.7% ; EPC net assets Jun-26 33.79 Cr
+
+EPC ORDER BOOK (Rs Cr, company statements): Mar-23 980+, Mar-24 823, Mar-25 503, Dec-25 300, Mar-26 392, Jun-26 305
+Mar-23 -> Jun-26 -69% ; Mar-25 -> Mar-26 -22% ; Mar-26 -> Jun-26 -22%
+Jun-26 infra share 61% = 186 Cr; residential 39% = 119 Cr; Mar-26 52% infra = 204 Cr; Mar-25 26% infra = 131 Cr
+standalone RPO (Ind AS 115 note) Mar-26 28786 lakh = 287.86 Cr; 0-1y 23230 = 232.3 ; FY26 standalone contract revenue 241.9171
+
+Buyback 169.29 Cr vs standalone cash+bank+current investments Mar-26 (2129.25+34227.22+19427.29 lakh) = 557.8 Cr
+Standalone loans+advances to related/others Mar-26 82121.13 lakh = 821.2113 Cr =  37.0% of standalone total assets 2,220.20 Cr
+Standalone total TR Mar-26 as % of total assets 1.7%
+Dividends: 0.72 x 40,36,66,505 sh = 29.06 Cr
+Bank limits (CARE, 11 Nov 2025): fund-based 32.50 + non-fund 387.00 = 419.5 Cr; standalone BG & commitment charges FY26 4.20 Cr (420.40 lakh); fixed deposits pledged 54.78 Cr (5478.05 lakh)
+MICL Q4FY26 call: FY26 collections 990 / sales 1800 = 55% (real estate, group-wide; not EPC)

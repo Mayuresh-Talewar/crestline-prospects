@@ -1,0 +1,24 @@
+=== BREAK=nonneg-10
+FAIL nonneg-10: release 6.9395 >= 0 [deliberately broken]
+FAILED: nonneg-10
+exit 1
+=== BREAK=interest
+FAIL interest: interest 0 [deliberately broken]
+FAIL interest: interest 0 [deliberately broken]
+FAILED: interest
+exit 1
+=== BREAK=crosscheck-30
+FAIL crosscheck-30: simulate 20.818356 vs 30 x per day 20.818356 [deliberately broken]
+FAILED: crosscheck-30
+exit 1
+=== BREAK=payables
+FAIL payables: dpo to 0: cash -20.00 <= 0 [deliberately broken]
+FAIL payables: dpo to 10: cash -15.00 <= 0 [deliberately broken]
+FAIL payables: dpo to 40: cash 0.00 <= 0 [deliberately broken]
+FAIL payables: dpo to 200: cash 0.00 <= 0 [deliberately broken]
+FAILED: payables
+exit 1
+=== BREAK=basis
+FAIL basis: receivables/revenue x 365 = 185.474; per day x days = 128.727 vs 128.71 [deliberately broken]
+FAILED: basis
+exit 1

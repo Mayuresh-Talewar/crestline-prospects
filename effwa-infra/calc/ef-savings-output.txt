@@ -1,0 +1,22 @@
+Inputs: revenue 253.29 Cr, receivables 128.71 Cr, per day 0.693945 Cr, days 185.5
+Lever bounds (no terms passed): min 0, max 259.70
+valueOfADay: cash 0.6939 Cr, carry 0
+
+Step 10 days: 185.5 -> 175.5 days; cash released 6.9395 Cr (6.94); carry 0
+PASS nonneg-10: release 6.9395 >= 0
+PASS interest: interest 0
+PASS crosscheck-10: simulate 6.939452 vs 10 x per day 6.939452
+PASS stepvalue: valueOfADay x 10
+
+Step 30 days: 185.5 -> 155.5 days; cash released 20.8184 Cr (20.82); carry 0
+PASS nonneg-30: release 20.8184 >= 0
+PASS interest: interest 0
+PASS crosscheck-30: simulate 20.818356 vs 30 x per day 20.818356
+PASS stepvalue: valueOfADay x 30
+PASS payables: dpo to 0: cash -20.00 <= 0
+PASS payables: dpo to 10: cash -15.00 <= 0
+PASS payables: dpo to 40: cash 0.00 <= 0
+PASS payables: dpo to 200: cash 0.00 <= 0
+PASS basis: receivables/revenue x 365 = 185.474; per day x days = 128.727 vs 128.71
+
+ALL ASSERTS PASS

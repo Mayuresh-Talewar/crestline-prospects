@@ -1,0 +1,80 @@
+Statutory Reports
+
+MANAGEMENT DISCUSSION AND ANALYSIS
+
+RISK AND CONCERNS                                                                                                                    Risks/Threats Risk Description                                   Mitigation Strategy
+
+Kalpataru Projects International Limited has established a robust risk management framework overseen by the Board,                   Solid Waste    Increasing regulatory stringency and               Segregation & monitoring: Source-level segregation with
+ensuring alignment with its strategic objectives.                                                                                    Management     generation of hazardous and non-                     defined handling protocols
+                                                                                                                                     Risk           hazardous waste from construction
+The framework focuses on identifying, assessing and mitigating key risks arising from a dynamic operating environment                               activities create compliance and                   Review mechanisms: Periodic cross-functional
+characterised by regulatory changes, market volatility and execution complexities. Through strong governance, internal                              operational challenges. New regulations              assessments
+controls and proactive risk management practices, the Company aims to safeguard business continuity and long-term                                   further necessitate adaptive waste
+sustainability.                                                                                                                                     management systems.                                Circularity roadmap: Target to achieve C&D waste
+                                                                                                                                                                                                         circularity by 2035
+
+                                                                                                                                                                                                       3R principles: Focus on Reduce, Reuse and Recycle to
+                                                                                                                                                                                                         minimise environmental impact
+
+Risks/Threats Risk Description                                    Mitigation Strategy                                                Cyber          Increased digitisation exposes the Company         Cyber Security Assurance Framework covering people,
+                                                                                                                                     Security Risk  to cybersecurity threats that may impact             process and technology
+Operational      EPC operations are exposed to execution           Standardised policies and controls across project lifecycle                     business continuity and data integrity.
+Risk             delays, supply chain disruptions and site-        Project-level risk assessments using                                                                                               Employee awareness programmes and
+                 level challenges, potentially leading to cost                                                                                                                                           mandatory certifications
+                 overruns and revenue impact                         structured frameworks
+                                                                   Early identification and mitigation of execution risks                                                                             Periodic system upgrades and application testing
+                                                                                                                                                                                                       Continuous monitoring of security logs and data
+Financial Risk   Exposure to interest rate fluctuations, foreign   Diversified funding sources with varied maturities
+                 exchange volatility and liquidity constraints.    Natural hedging through diversified global order book                                                                                protection measures
+                 Project delays and unfavourable payment           Use of currency forward contracts.
+                 terms may increase working capital                Strong banking relationships and liquidity access                People Risk    Challenges in attracting, retaining and            Continuous employee engagement and
+                 requirements.                                     Continuous cash flow monitoring and corrective actions                          engaging skilled talent in a competitive             feedback mechanisms.
+                                                                                                                                                    environment may impact operational
+                                                                                                                                                    performance                                        Structured recruitment processes.
+                                                                                                                                                                                                       Training, mentoring and leadership
+Commodity        Volatility in prices of key inputs such as        Price escalation clauses in contracts.
+Price Variation  steel, cement, copper and aluminium               Commodity hedging through forward contracts                                                                                          development programmes
+& Currency       can impact project costs and profitability,       Back-to-back vendor contracts
+Fluctuations     especially under fixed-price contracts.           Contingency provisioning based on market trends                  Internal Control                                                 framework and are subject to periodic review by IT
+                 Currency fluctuations further affect financial                                                                                                                                       specialists and the Statutory Auditors.
+                 performance.                                                                                                        The Company has devised a robust internal control
+                                                                                                                                     framework in accordance with the nature and size of the          The statutory auditors of the Company have issued an
+Client           Risk of delays in payments or failure             Engagement with reputed government and                           business and complexity of its operations. The Company           attestation report on the Company's internal control
+Counterparty     of counterparties to meet contractual               institutional clients.                                          has implemented robust internal controls, which inter alia,      over financial reporting, as defined in Section 143 of the
+Risk             obligations, especially in long-cycle projects                                                                      ensure adherence to rules and regulations, safeguarding of       Companies Act, 2013. The Company's Group Assurance
+                 or volatile geographies                           Rigorous credit assessment for private clients.                  assets, timely preparation of reliable financial statements,     department, supported by an external firm acting as an
+                                                                   Contractual safeguards and continuous                            accurate and complete account keeping, and prevention            independent internal auditor, develops and executes
+                                                                                                                                     and detection of fraud and errors. The Company has put           an internal audit plan covering corporate functions,
+                                                                     exposure monitoring.                                            in place strong policies and procedures to ensure that           core business operations and support functions. The
+                                                                   Cost mitigation strategies for delay-related impacts             it conducts business with integrity amidst the dynamic           Audit Committee reviews the annual internal audit plan.
+                                                                                                                                     corporate environment. The company thrives to ensure             Independent audits are conducted by Corporate Audit
+Geopolitical     Company has footprints in over 75 countries       Company monitors its exposure to various geographies             continuous assessment of the efficacy of various policies.       Services, with significant observations and management's
+risks            with active projects in over 30 countries.          it operates into on regular basis. Company also closely                                                                          progress on remedial actions presented quarterly to the
+                 Unstable geopolitical situations impact its         monitors developments arising in any country or region.         Internal Control at the Company has been designed to             Committee. During the year, both statutory and internal
+                 project execution cycle and project costs.          Company ensures that contracts entered into by it have          further the interest of all stakeholders by providing an         auditors evaluated the effectiveness of internal controls
+                 Due to political instability in a country or a      adequate provisions in place to protect Company's               environment which is conducive to conduct its operations         through documentation reviews, inquiries, and testing.
+                 region, Company is exposed to risk delays in        interest in adverse situations relating to political            and at the same time putting in the appropriate checks           No reportable material weaknesses were identified in
+                 collections or non payment default.                 uncertainties. Company also obtains relevant insurances         and balances.                                                    either design or operation. The evaluation included
+                                                                     to protect its credit risks as per its Risk Management Policy.                                                                   documentation review, enquiries, testing, and other
+                                                                                                                                     The Company has aligned its internal controls with               procedures considered appropriate in the circumstances.
+Environment,     Operating across diverse infrastructure           Regulatory compliance: Adherence to global and local             the requirements of the Companies Act, 2013 and is a
+Health and       sectors and geographies exposes the                 EHS regulations to safeguard workforce and communities.         combination of entity-level controls (including Internal         Cautionary Statement
+Safety (EHS)     Company to EHS risks. Projects in remote                                                                            Audit, Anti-Fraud Mechanisms such as Ethics Framework,
+Risks            or high-risk terrains and varying regulatory      Governance framework: Structured oversight ensuring              Code of Conduct, Whistle-Blower Policy and Anti-Bribery          This report includes facts, figures, assumptions, strategies,
+                 environments require strict adherence to            accountability and enforcement.                                 and Anti-Corruption Policy etc.), process level controls,        goals, and intentions of the Company, which may be
+                 evolving norms. Any lapse may lead to                                                                               information technology-based controls, period end                forward-looking. The actual results and performance
+                 legal liabilities, operational disruptions,       Process excellence & training: Tailored safety protocols,        financial reporting and closing controls. Further, the Internal  of the Company may differ significantly from those
+                 reputational damage and increased costs.            continuous monitoring and training programmes to                Control Systems have been designed to provide reasonable         presented herein. The Company's performance depends
+                                                                     embed a strong safety culture.                                  assurance with regard to recording and providing reliable        on global and national economic conditions, commodity
+                                                                                                                                     financial and operational information. IT security controls      prices, business risks, changes in government rules and
+Loss of          Project execution in ecologically sensitive       Project-level biodiversity screening: Ecological                 form an integral part of the Company's internal control          regulations, and other factors.
+Biodiversity     areas may disrupt ecosystems and                    assessments prior to project initiation.
+Risk             endanger flora and fauna. This can lead to
+                 regulatory scrutiny, project delays and legal     Integrated environmental planning: Incorporation of
+                 implications affecting business continuity.         biodiversity considerations into execution plans.
+
+                                                                   Stakeholder engagement: Continuous coordination
+                                                                     with regulators and stakeholders to ensure compliance
+                                                                     and sustainability.
+
+154 Kalpataru Projects International Limited                                                                                                                                                                               Integrated Annual Report 2025-26 155

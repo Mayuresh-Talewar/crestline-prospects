@@ -1,0 +1,52 @@
+=== DAYS (Crestline arithmetic on the published accounts) ===
+FY24: DSO 23.4  CAD 48.6  DIO 35.7  DPO 30.3  WCdays 30.99 (printed 31)
+FY25: DSO 31.3  CAD 57.8  DIO 54.6  DPO 15.7  WCdays 52.12 (printed 52)
+FY26: DSO 46.2  CAD 54.2  DIO 65.3  DPO 32.3  WCdays 66.85 (printed 67)
+FY26 printed legs: DSO 46.2 CAD 54.2 DIO 65.3 DPO 32.3; cycle DIO+CAD+DSO-DPO = 133.4
+
+revenue per day  = 3,600.25 / 365 = 9.8637 Cr  (36,002.52 mn check: 9.8637)
+materials per day = 1,384.83 / 365 = 3.7940 Cr  (13,848.27 mn consumed, Note 28 printed p295)
+construction expenses per day (vendor-credit base, never priced) = 8.0732 Cr
+
+=== CLAMP BOUNDS (leversFor, no terms passed) ===
+dio: now 65.3 min 0 max 97.95 target null
+cad: now 54.2 min 0 max 75.88 target null
+dso: now 46.2 min 0 max 76.20 target null
+dpo: now 32.3 min 0 max 32.30 target null
+
+=== LEVERS: cash released once, INR crore (Scenario, not a forecast) ===
+Certification (unbilled revenue): 54.2 -> 44.2 (10 d) cash 98.64 | -> 24.2 (30 d) cash 295.91 | per day 9.8637 | cycle 133.4 -> 123.4 / 103.4 | carry 0
+Project materials (stock, DIO): 65.3 -> 55.3 (10 d) cash 37.94 | -> 35.3 (30 d) cash 113.82 | per day 3.7940 | cycle 133.4 -> 123.4 / 103.4 | carry 0
+
+=== ONE COMBINED RUN (simulate: certification + project materials moved together; collection NOT priced) ===
+10 days each on two legs: released 136.58 Cr once | cycle (DIO+DSO-DPO) 79.2 -> 69.2 | full cycle 133.4 -> 113.4 | carry 0
+30 days each on two legs: released 409.73 Cr once | cycle (DIO+DSO-DPO) 79.2 -> 49.2 | full cycle 133.4 -> 73.4 | carry 0
+
+=== VENDOR CREDIT held: request DPO 90 days ===
+dpo requested 90 -> next 32.3 (max 32.3), cash 0
+
+=== valueOfADay (rate 0) ===
+revenue day: cash 9.8637 Cr, carry 0
+
+PASS 1 no negative release 
+PASS 2 interest = 0 (no single disclosed rate) 
+PASS 3 days x per day cross-check vs simulate 
+PASS 4 payables never release cash (next 32.3, cash 0)
+PASS 5 basis matches (balance / per day = printed days within 0.06) 
+PASS 6 revenue legs at revenue per day, stock at materials per day, vendor credit not priced 
+PASS 7 collection NOT priced (receivables inside the 45 to 90 day credit period) 
+
+=== CHART DATA (INR crore = million / 10) ===
+Revenue: 2,438.91 | 2,918.29 | 3,600.25  PAT: 122.00 | 223.63 | 286.44
+Cash generated from operations before tax: FY24 77.07 | FY25 104.94 | FY26 244.74
+Company WC days printed: 31 / 52 / 67  receivable days: 23.4 / 31.3 / 46.2
+Cash and bank balances: FY24 131.01 | FY25 311.87 | FY26 460.62
+Working capital (company table): FY24 207.05 | FY25 416.69 | FY26 659.35
+No-clock ranking (Cr): Unbilled revenue 534.83 | Trade receivables 455.82 | Trade payables 260.54 | Stock (inventories) 247.93 | Mobilisation advances from customers 30.04
+Rooms: unbilled + receivables = 990.65 Cr; 54.2 + 46.2 = 100.4 days
+Growth FY24 to FY26: revenue x 1.48  receivables x 2.91  unbilled x 1.65
+Index (FY24=100) revenue: 100.0 / 119.7 / 147.6  receivables: 100.0 / 159.7 / 291.0
+Receivable rise FY26: 205.66 Cr; revenue rise FY26: 23.4%
+Ageing (undisputed, from due date) Cr: FY26 <6m 452.85 6m-1y 8.61 | FY25 <6m 256.30 6m-1y 0.03 | FY24 <6m 157.88 6m-1y 2.25
+Payables FY26 Cr: MSME 47.92  LC credit 98.60  others 114.02  total 260.54
+Order book Cr 7,953.18  multiple of FY26 revenue 2.21

@@ -1,0 +1,58 @@
+Financial Statements
+
+c.The standalone balance sheet, the standalone                         invested (either from borrowed funds or share                  f.Based on our examination which included test               C.With respect to the matter to be included in the Auditor's
+              statement of profit and loss (including other            premium or any other sources or kind of funds)                        checks, the Company has used an accounting                   Report under Section 197(16) of the Act:
+              comprehensive income), the standalone                    by the Company to or in any other person(s)                           software for maintaining its books of account,
+              statement of changes in equity and the standalone        or entity(ies), including foreign entities                            which along with an access management tool            In our opinion and according to the information and
+              statement of cash flows dealt with by this Report        ("Intermediaries"), with the understanding,                           as applicable, has a feature of recording audit              explanations given to us, the remuneration paid by the
+              are in agreement with the books of account and           whether recorded in writing or otherwise, that                        trail (edit log) facility and the same has operated          Company to its directors during the current year is in
+              with the returns received from the joint operations      the Intermediary shall directly or indirectly lend                    throughout the year for all relevant transactions            accordance with the provisions of Section 197 of the Act.
+              not visited by us.                                       or invest in other persons or entities identified                     recorded in the software. Further, during the                The remuneration paid to any director by the Company
+                                                                       in any manner whatsoever by or on behalf                              course of our audit, we did not come across any              is not in excess of the limit laid down under Section
+d.In our opinion, the aforesaid standalone financial                   of the Company ("Ultimate Beneficiaries") or                          instance of audit trail feature being tampered with.         197 of the Act. The Ministry of Corporate Affairs has not
+              statements comply with the Ind AS specified under        provide any guarantee, security or the like on                        Additionally, the audit trail has been preserved by          prescribed other details under Section 197(16) of the Act
+              Section 133 of the Act.                                  behalf of the Ultimate Beneficiaries.                                 the Company as per the statutory requirements for            which are required to be commented upon by us.
+                                                                                                                                             record retention.
+e.On the basis of the written representations                          (ii)The management has represented to us that,
+              received from the directors as on 31 March 2026                 to the best of their knowledge and belief, as
+              taken on record by the Board of Directors, none of              disclosed in the Note 48(c) to the standalone                                                                                                          For B S R & Co. LLP
+              the directors is disqualified as on 31 March 2026               financial statements, no funds have been                                                                                                      Chartered Accountants
+              from being appointed as a director in terms of                  received by the Company from any person(s)                                                                           Firm's Registration No.:101248W/W-100022
+              Section 164(2) of the Act.                                      or entity(ies), including foreign entities
+                                                                              ("Funding Parties"), with the understanding,                                                                                                      Bhavesh Dhupelia
+f.With respect to the adequacy of the internal                                whether recorded in writing or otherwise, that          Place: Mumbai                                                                                                 Partner
+              financial controls with reference to financial                  the Company shall directly or indirectly, lend          Date: 14 May 2026
+              statements of the Company and the operating                     or invest in other persons or entities identified                                                                                            Membership No.: 042070
+              effectiveness of such controls, refer to our separate           in any manner whatsoever by or on behalf of                                                                                        ICAI UDIN:26042070PBNFZN8518
+              Report in "Annexure B".                                         the Funding Parties ("Ultimate Beneficiaries")
+                                                                              or provide any guarantee, security or the like
+B.With respect to the other matters to be included in                         on behalf of the Ultimate Beneficiaries.
+       the Auditor's Report in accordance with Rule 11 of
+       the Companies (Audit and Auditors) Rules, 2014, in              (iii)Based on the audit procedures that have
+       our opinion and to the best of our information and                     been considered reasonable and appropriate
+       according to the explanations given to us:                             in the circumstances, nothing has come to
+                                                                              our notice that has caused us to believe that
+a.The Company has disclosed the impact of                                     the representations under sub-clause (i) and
+              pending litigations as at 31 March 2026 on its                  (ii) of Rule 11(e), as provided under (i) and (ii)
+              financial position in its standalone financial                  above, contain any material misstatement.
+              statements - Refer Note 30 to the standalone
+              financial statements.
+
+b.The Company has made provision, as required                        e.The final dividend paid by the Company during
+              under the applicable law or accounting standards,             the year, in respect of the same declared for
+              for material foreseeable losses, if any, on long-             the previous year, is in accordance with Section
+              term contracts including derivative contracts                 123 of the Act to the extent it applies to payment
+               Refer Note 33 and 42 to the standalone                      of dividend.
+              financial statements.
+                                                                     As stated in Note 60 to the standalone financial
+c.There has been no delay in transferring amounts,                                 statements, the Board of Directors of the Company
+              required to be transferred, to the Investor Education                has proposed final dividend for the year which
+              and Protection Fund by the Company.                                  is subject to the approval of the members at the
+                                                                                   ensuing Annual General Meeting. The dividend
+d  (i)The management has represented to us                                         declared is in accordance with Section 123 of
+          that, to the best of their knowledge and belief,                         the Act to the extent it applies to declaration
+          other than as disclosed in the Note 48(a)                                of dividend.
+          to the standalone financial statements, no
+          funds have been advanced or loaned or
+
+270 Kalpataru Projects International Limited                                                                                                                                                       Integrated Annual Report 2025-26 271

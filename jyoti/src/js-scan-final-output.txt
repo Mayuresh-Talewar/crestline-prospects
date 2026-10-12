@@ -1,0 +1,7 @@
+[planted] dash (em): fires on planted text OK
+[planted] dash (spaced hyphen): fires on planted text OK
+[planted] company names: fires on planted text OK
+data.md: 20961 chars, dash lines 0, other-company lines 0
+fact-check.md: 6635 chars, dash lines 0, other-company lines 0
+depth.md: 9696 chars, dash lines 0, other-company lines 0
+sensitive-garvis.md: 4932 chars, dash lines 0, other-company lines 0

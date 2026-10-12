@@ -1,0 +1,72 @@
+AFCONS INFRASTRUCTURE · AF-5 savings scenarios (₹ Cr, FY26 consolidated)
+Run on Crestline's own pure functions: simulate / leversFor (lib/finance/cycle-simulation.ts),
+valueOfADay (lib/finance/working-capital-cycle.ts), priceLevers (lib/insights/levers.ts).
+Rows OVERLAP and are NEVER added. Scenarios, not promises. Interest saved only if the cash repays debt.
+
+Per day = revenue from operations 11,948.4 / 365 = 32.735 Cr a day
+  (Afcons' FY26 NWC-days definition is not published, so one revenue rate is used for every leg.)
+Interest: disclosed cash credit / WCDL range 7.55% to 9.95% a year (AR26 p.362-367). Both ends shown.
+Our computation, NOT their rate: finance costs 673.6 / average borrowings ((2,235.7 + 3,538.3) / 2 = 2,887.0) = 23.3%
+  (finance costs include interest on customer advances and other charges, so this is not a borrowing rate and is not used below)
+
+Days implied by FY26 closing balances / per day (Computed; Afcons does not publish these):
+  DIO  Stock on site                    1,016.6 / 32.735 = 31.1 days
+  CAD  Built, waiting to be certified   7,731.5 / 32.735 = 236.2 days
+  DSO  Invoiced, waiting to be paid     4,038.1 / 32.735 = 123.4 days
+  DPO  Vendor credit taken              4,470.7 / 32.735 = 136.6 days
+  Receivables include GST; revenue does not. A receivable day therefore holds MORE than one day of revenue,
+  so every receivable cash row below is conservative.
+
+1. STEPS (simulate(): cash = days moved x per day; interest = cash x rate)
+   Leg                              Step   Days now -> next     Cash released   Interest a year (7.55% .. 9.95%)
+   Built, waiting to be certified   -10d  236.2 -> 226.2           327.4        24.7 .. 32.6
+   Built, waiting to be certified   -30d  236.2 -> 206.2           982.1        74.1 .. 97.7
+   Invoiced, waiting to be paid     -10d  123.4 -> 113.4           327.4        24.7 .. 32.6
+   Invoiced, waiting to be paid     -30d  123.4 -> 93.4            982.1        74.1 .. 97.7
+   Check: receivables after the 30-day step = 93.4 days, still above the disclosed 45-60 day credit period; the floor does not bind.
+   Overall net working capital      -10d  143 -> 133               327.4        24.7 .. 32.6
+   Overall net working capital      -30d  143 -> 113               982.1        74.1 .. 97.7
+
+2. NET WORKING CAPITAL DAYS (cash = days x per day)
+   143 -> 120, the 120 days the CFO named on the Q4 call, without committing to it
+     23 days x 32.735 = 752.9 Cr; interest 56.8 .. 74.9 Cr a year
+   143 -> 113, FY25's own figure (AR26 p.18)
+     30 days x 32.735 = 982.1 Cr; interest 74.1 .. 97.7 Cr a year
+   Note: 143 -> 113 is 30 days, the same figure as the 30-day NWC step above. One row, not two.
+
+3. THE ~1,000 CR 'BLOCKED-UP' ASSET (CFO, Q4 call: 'INR 1000 odd crores'; Q1 call: 'no material movement')
+   Cash 1,000.0 Cr = 30.5 days of revenue (1,000 / 32.735); interest 75.5 .. 99.5 Cr a year
+   Management describes it as receivable plus unbilled, so it overlaps rows 1 and 2.
+
+4. RECEIVABLES MORE THAN 1 YEAR PAST DUE, BACK TO THE FY25 SHARE (gross basis throughout, AR26 p.354)
+   Today 2,102.3 of 4,319.8 gross = 48.7%; FY25 38.4%
+   Collect x from that bucket: (2,102.3 - x) / (4,319.8 - x) = 38.37%  =>  x = 722.0 Cr
+   = 22.1 days of revenue; interest 54.5 .. 71.8 Cr a year. Assumes the other buckets stay where they are.
+   Part of this bucket is disputed (27.0% of gross is disputed) and part is provided for (ECL 281.70): not all of it is collectable cash.
+
+5. priceLevers at 7.55% (30-day step on each leg; equal days at one rate, so equal cash: a tie):
+   Built, waiting to be certified, 30 days      cash 982.1  carry 74.1 a year  client's act (ours: measure, prepare, submit)
+   Invoiced, waiting to be paid, 30 days        cash 982.1  carry 74.1 a year  client's act (ours: measure, prepare, submit)
+5. priceLevers at 9.95% (30-day step on each leg; equal days at one rate, so equal cash: a tie):
+   Built, waiting to be certified, 30 days      cash 982.1  carry 97.7 a year  client's act (ours: measure, prepare, submit)
+   Invoiced, waiting to be paid, 30 days        cash 982.1  carry 97.7 a year  client's act (ours: measure, prepare, submit)
+   With one revenue rate for every leg, a day is worth the same on each; the ranking needs per-project SAP data.
+   No early-payment lever (no vendor due dates in the filings) and no retention lever (retention FY26 NOT FOUND).
+
+6. MARGIN LENS: interest saved as a share of FY26 PAT (250.74) and PBT (386.79)
+   Interest is a pre-tax saving below EBITDA: it does NOT move EBITDA or EBITDA margin. It adds to PBT in full;
+   PAT rises by less after tax. Shares of PAT below are pre-tax interest over PAT, so they overstate the PAT effect.
+   Row                                                                                     Interest a year       % of PAT          % of PBT
+   Built, waiting to be certified, 10 days                                                 24.7 .. 32.6       9.9% .. 13.0%     6.4% .. 8.4%
+   Built, waiting to be certified, 30 days                                                 74.1 .. 97.7       29.6% .. 39.0%    19.2% .. 25.3%
+   Invoiced, waiting to be paid, 10 days                                                   24.7 .. 32.6       9.9% .. 13.0%     6.4% .. 8.4%
+   Invoiced, waiting to be paid, 30 days                                                   74.1 .. 97.7       29.6% .. 39.0%    19.2% .. 25.3%
+   Net working capital, 10 days                                                            24.7 .. 32.6       9.9% .. 13.0%     6.4% .. 8.4%
+   Net working capital, 30 days                                                            74.1 .. 97.7       29.6% .. 39.0%    19.2% .. 25.3%
+   143 -> 120, the 120 days the CFO named on the Q4 call, without committing to it         56.8 .. 74.9       22.7% .. 29.9%    14.7% .. 19.4%
+   143 -> 113, FY25's own figure (AR26 p.18)                                               74.1 .. 97.7       29.6% .. 39.0%    19.2% .. 25.3%
+   The ~1,000 Cr blocked-up asset                                                          75.5 .. 99.5       30.1% .. 39.7%    19.5% .. 25.7%
+   Receivables >1 year back to the FY25 share                                              54.5 .. 71.8       21.7% .. 28.7%    14.1% .. 18.6%
+
+All asserts passed: DPO never stretched past terms; terms null => no clamps; simulate cash = step x per day;
+30-day receivable step stays above the 60-day credit period; >1y receivable formula re-checks to the FY25 share.

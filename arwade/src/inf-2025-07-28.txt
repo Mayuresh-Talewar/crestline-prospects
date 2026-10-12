@@ -1,0 +1,277 @@
+                     Arwade Infrastructure Limited
+                                 July 28, 2025
+
+            Ratings
+
+Instrument       /       Amount              Current            Previous        Rating Action      Complexity
+                        (Rs. crore)          Ratings             Ratings                            Indicator
+Facility                                                                       Rating upgraded;
+                           30.00        IVR BBB/ Stable         IVR BBB-/       long-term rating      Simple
+Long Term Bank       (enhanced from     (IVR triple B with       Positive       outlook revised
+Facilities           Rs.11.00 crore)     Stable outlook)                       from `Positive' to
+                                                               (IVR triple B
+                                                               minus with            `Stable'
+                                                            positive outlook)
+
+Short Term Bank            122.00          IVR A3+              IVR A3         Rating upgraded                Simple
+Facilities           (enhanced from     (IVR A Three        (IVR A three)
+                     Rs. 70.00 crore)
+                                             Plus)
+
+Total                       152.00
+                     (INR one hundred
+
+                       fifty-two crore
+                             only)
+
+            Details of Facilities/Instruments are in Annexure 1. Facility wise lender details are at
+            Annexure 2. Detailed explanation of covenants is at Annexure 3
+
+            Detailed Rationale
+            The upgrade of the ratings assigned to the bank facilities of Arwade Infrastructure Limited
+            (AIL) considers growth in operating income coupled with satisfactory profitability during FY25
+            (refers to period April 1st, 2024, to March 31st, 2025). Further, the ratings continue to derive
+            strength from experienced promoters with long track record, moderate order book position
+            leading to revenue visibility in the near term and moderate capital structure and adequate
+            coverage indicators. However, these rating strengths remain constrained due to moderate
+            client and geographical concentration risks and tender driven nature of business in highly
+            fragmented & competitive operating scenario.
+
+            The long-term rating outlook revised to Stable from Positive. The long-term rating is stable
+            due to stable business operation, long track record of the promoters and favourable industry
+            outlook.
+
+                                        1
+Key Rating Sensitivities:
+Upward Factors
+
+    · Growth in scale of business with improvement in profitability metrics thereby leading
+         to overall improvement in cash accruals on a sustained basis.
+
+    · Improvement in the debt protection metrics of the company with interest coverage
+         sustained
+
+Downward Factors
+    · Moderation in the scale of operation and/or moderation in profitability on a sustained
+         basis.
+    · Moderation in capital structure with deterioration in overall gearing and moderation in
+         the debt protection metrics with deterioration in interest coverage
+    · Elongation in the operating cycle impacting liquidity.
+    · Any liability arising out of corporate guarantee extended to group company.
+
+List of Key Rating Drivers with Detailed Description
+
+Key Rating Strengths
+
+Experienced promoters and established relationship with reputed players in the market
+Mr. Nitin Arwade, the director of the company having two more than two decades of
+experience in construction of green field & brown field projects. With long presence in the
+industry and timely execution of projects, the management has enlarged its customer base
+and have been working with majority of them for a long time.
+
+Steady business risk profile
+The total operating revenue of the company witnessed a y-o-y growth of ~61.61% to Rs.
+261.12cr in FY25 from 162.03cr in FY24 (refers to period April 1st, 2023, to March 31st, 2024)
+on account of increase in new contract and tenders. The increase in topline is also due to
+completion of unexecuted work in hand. Further, operating profitability of the company
+remained satisfactory over the years, EBIDTA margin was at 13.48% and PAT margin was at
+7.21% in FY25.
+
+                                                             2
+Moderate order book position leading to revenue visibility in the near term
+The company's unexecuted order book position as on June 25, 2025, stood at Rs.337.90 crore
+which is expected to be executed within a period of 12 months. The unexecuted orders in
+hand are equivalent to 1.29 x of the turnover of FY25. The work orders indicate revenue
+visibility in the near term. However, timely execution of orders will remain a key rating
+monitorable.
+
+Moderate capital structure and adequate coverage indicators.
+The capital structure of the company remained moderate with its satisfactory net worth base.
+The company adjusted tangible net worth witnessing steady growth on the back of increasing
+profit and healthy accretion of reserves and stood at Rs.60.66 crore as on March 31, 2025, as
+against Rs. 42.07 crore as on March 31, 2024. Further, the overall gearing slightly moderated
+at 1.10x as on March 31, 2025, from 0.92x as on March 31, 2024. Long term debt to equity
+stood at 0.53x as on March 31, 2025, from 0.52x as on March 31, 2024. Overall indebtedness
+of the company marked by TOL/ATNW stood at 1.72x as on March 31, 2025, against 1.72x
+as on March 31, 2024.
+Considering the outstanding corporate guarantee of Rs.5.09 crore as on March 31, 2025, the
+adjusted overall gearing stood at 1.19x as on March 31, 2025, and adjusted TOL/TNW stood
+at 1.80x as on March 31, 2025
+Debt protection metrics remained comfortable with interest coverage to 4.33x as on March 31,
+2025, from 4.06x as on March 31, 2024. DSCR stood at 2.19x as on March 31, 2025, from
+1.95x as on March 31, 2024.
+
+Key Rating Weaknesses
+
+Moderate client and geographical concentration risks
+The company has moderate client concentration risk, with the majority of revenues and order
+book contributed by few clients. The company participates in tenders and executes its projects
+mainly in Maharashtra, Karnataka and Delhi. However, the company is trying to expand its bid
+to new states thus exposing the company to moderate geographical concentration risk.
+
+                                                             3
+Tender driven nature of business in highly fragmented & competitive operating
+scenario
+AIL's business is dependent on the company's ability to successfully bid for the tenders.
+Further, the domestic infrastructure/construction sector is highly fragmented with presence of
+many players with varied statures & capabilities. This restricts AIL's operating and financial
+flexibility.
+
+Analytical Approach: Standalone
+
+Applicable Criteria:
+     Rating Methodology for Infrastructure Companies
+     Financial Ratios & Interpretation (Non-Financial Sector)
+     Criteria of assigning rating outlook
+     Policy on default recognition
+     Complexity level of rated Instruments/Facilities
+
+Liquidity ­ Adequate
+
+The liquidity of the company is expected to remain adequate in the near-to-medium term with
+sufficient accruals and to meet the term debt repayment in the period FY26-FY28. The current
+ratio stood comfortable at 1.52x as on March 31, 2025. The average fund-based utilisation for
+the past twelve months ended May 2025 remained moderate at ~39.46% indicating an
+adequate liquidity cushion.
+
+About the Company
+Arwade Infrastructure Limited (AIL) was incorporated in 2009. It is Pune-based company and
+is engaged in industrial construction and is ISO 9001 and ISO 45001 2015 certified company.
+The company specializes in construction of green field & brown field projects. AIL operates in
+core segment of industrial construction of Global MNCs and reputed Indian companies. The
+key business activities of AIL includes EPC work pertaining to heating, ventilation and air
+conditioning (HVAC), firefighting, transmission & distribution, electrical installations and civil
+
+                                                             4
+    work for factories and industrial facilities. AIL is promoted by Mr. Subhash Arwade, Mrs.
+    Soniya Arwade and Mr. Nitin Arwade.
+
+    Financials (Standalone):
+
+     For the year ended/ As on*                            31-03-2024         (Rs. crore)
+                                                             Audited    31-03-2025
+     Total Operating Income                                    162.03
+     EBITDA                                                     24.06     Audited
+     PAT                                                        11.63       261.12
+     Adj. Total Debt                                            41.55        35.21
+     Adj. Tangible Net Worth                                    42.02        18.96
+     EBITDA Margin (%)                                          14.85        69.24
+     PAT Margin (%)                                              7.13        58.21
+     Adj. Overall Gearing Ratio (x)                              0.99        13.48
+     Interest Coverage (x)                                       4.06         7.21
+                                                                              1.19
+    *Classification as per Infomerics' standards.                             4.33
+
+    Status of non-cooperation with previous CRA: Nil
+
+    Any other information: Nil
+
+    Rating History for last three years:
+
+                Current Ratings (Year 2025-26)             Rating History for the past 3 years
+
+Sr. Name of     Type     Amount                    Rating   Date(s) &    Date(s) &              Date(s) &
+No. Facilities  (Long  outstandin                           Rating(s)    Rating(s)              Rating(s)
+                Term/                                      assigned in  assigned in             assigned
+                Short     g (Rs.                             2024-25      2023-24               in 2022-23
+                Term)     Crore)
+
+                                                           (July 03, 2024) (May 17, 2023)       -
+
+1. Term Loan    Long           2.00       IVR BBB/         -            -                       -
+                Term          28.00         Stable
+2. Cash Credit  Long          122.00                       IVR BBB-/    IVR BBB-/               -
+                Term                      IVR BBB/          Positive      Stable
+                Short                       Stable
+3.  Bank        Term                                       IVR A3       IVR A3                  -
+    Guarantee                             IVR A3+
+
+      Analytical Contacts:
+    Name: Sandeep Khaitan
+
+    Tel: (033)- 46022266
+
+    Email: Sandeep.khaitan@infomerics.com
+
+                                                   5
+About Infomerics:
+
+Infomerics Valuation and Rating Limited (Infomerics) [Formerly Infomerics Valuation and
+
+Rating Pvt. Ltd] was founded in the year 1986 by a team of highly experienced finance
+
+professionals for research and risk evaluation. Infomerics commenced its activities as External
+
+Credit Assessment Institution after obtaining registration from Securities Exchange Board of
+
+India (SEBI) and accreditation from Reserve Bank of India (RBI).
+
+Adhering to best international practices and maintaining high degree of ethics, the team of
+
+analysts at Infomerics deliver quality credit ratings. Infomerics evaluates wide range of debt
+
+instruments which helps corporates access to financial markets and provides investors credit
+
+ratings backed by in-depth research. The transparent, robust, and credible ratings have gained
+
+the confidence of investors and the banks.
+
+Infomerics has a pan India presence with Head Office in Delhi and Corporate Office at
+
+Mumbai, with branches in major cities and representatives in several locations.
+
+Infomerics also has international presence with credit rating operations in Nepal through its
+
+JV subsidiary.
+
+For more information and definition of ratings please visit www.infomerics.com.
+
+Disclaimer: Infomerics ratings are based on information provided by the issuer on an `as is where is' basis.
+Infomerics credit ratings are an opinion on the credit risk of the issue / issuer and not a recommendation to buy,
+hold or sell securities. Infomerics reserves the right to change or withdraw the credit ratings at any point in time.
+Infomerics ratings are opinions on financial statements based on information provided by the management and
+information obtained from sources believed by it to be accurate and reliable. The credit quality ratings are not
+recommendations to sanction, renew, disburse or recall the concerned bank facilities or to buy, sell or hold any
+security. We, however, do not guarantee the accuracy, adequacy or completeness of any information, which we
+accepted and presumed to be free from misstatement, whether due to error or fraud. We are not responsible for
+any errors or omissions or for the results obtained from the use of such information. Most entities whose bank
+facilities/instruments are rated by us have paid a credit rating fee, based on the amount and type of bank
+facilities/instruments. In case of partnership/proprietary concerns/Association of Persons (AOPs), the rating
+assigned by Infomerics is based on the capital deployed by the partners/proprietor/ AOPs and the financial strength
+of the firm at present. The rating may undergo change in case of withdrawal of capital or the unsecured loans
+brought in by the partners/proprietor/ AOPs in addition to the financial performance and other relevant factors.
+
+Annexure 1: Instrument/Facility Details
+
+Name of Facility  ISIN   Date of Coupon        Maturity  Size of   Rating Assigned/
+                        Issuance Rate/ IRR       Date    Facility        Outlook
+
+Term Loan         -     -                   -  January,    (Rs.     IVR BBB/ Stable
+                                                 2027    Crore)
+
+                                                           2.00
+
+                                         6
+Cash Credit I      -  -     -                                   -  25.00*  IVR BBB/ Stable
+                                                                    3.00   IVR BBB/ Stable
+Cash Credit II     -  -     -                                   -  100.00
+                                                                   22.00        IVR A3+
+Bank Guarantee I   -  -     -                                   -               IVR A3+
+
+Bank Guarantee II  -  -     -                                   -
+
+*Letter of Credit of Rs. 8.00 crore as sublimit of Cash Credit
+
+Annexure 2: Facility wise lender details
+https://www.infomerics.com/admin/prfiles/Len-Arwade-Infrastructure-28july25.pdf
+
+Annexure 3: Detailed explanation of covenants of the rated Security/facilities: Not
+Applicable
+Annexure 4: List of companies considered for consolidated/Combined analysis: Not
+Applicable
+
+Note on complexity levels of the rated instrument: Infomerics has classified instruments
+rated by it on the basis of complexity and a note thereon is available at www.infomerics.com.
+
+                         7
+

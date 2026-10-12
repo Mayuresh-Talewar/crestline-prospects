@@ -1,0 +1,84 @@
+OVAL Projects Engineering Ltd: savings scenarios (OV-3), run on Crestline's pure functions
+Inputs Rs lakh from AR26 (FY26 standalone) unless noted; printed in Rs Cr (1 Cr = 100 lakh).
+Scenarios, not promises. Rows overlap and are never added. Paying vendors later is never a saving.
+
+== 1. Value of a day ==
+Revenue from operations FY26 Rs 153.14 Cr INCLUDES trading Rs 30.87 Cr (20.2%).
+Works revenue (oil & gas works + specialised infrastructure works) Rs 119.09 Cr (77.8%); other services Rs 3.18 Cr and trading excluded.
+One day, all revenue (incl. trading): Rs 0.420 Cr.  Cross-check AR26 E.2: 630 lakh / 15 days = Rs 0.420 Cr (agrees within 1%).
+One day, works-only basis (EPC scope):  Rs 0.326 Cr.
+Receivables carry GST and revenue does not, so cash figures on revenue per day are conservative.
+
+== 2. Opening position (31 Mar 2026, closing balances / revenue per day) ==
+Receivables Rs 35.07 Cr: unbilled Rs 16.86 Cr (48.1%), billed Rs 18.21 Cr.
+  Built, waiting to be certified: 40.2 days on all revenue; 51.7 days on works-only.
+  Invoiced, waiting to be paid: 43.4 days on all revenue; 55.8 days on works-only.
+Contract-terms scenario (toTerms): NOT AVAILABLE. OVAL discloses no client payment term or certification window, so there is no agreed line to move to.
+Company's own day counts (AR26 Note 37, turnover-implied, different basis): FY25 receivable 92 / inventory 149 / payable 148 / net 93; FY26 80 / 122 / 105 / 97.
+
+== 3. Cash released once (each row alone; rows overlap, NEVER add them) ==
+Scenario | days | cash, all-revenue basis | cash, works-only basis
+Unbilled: bill 10 days sooner | 10.0 | Rs 4.20 Cr | Rs 3.26 Cr
+Unbilled: bill 30 days sooner | 30.0 | Rs 12.59 Cr | Rs 9.79 Cr
+Billed receivables: collect 10 days sooner | 10.0 | Rs 4.20 Cr | Rs 3.26 Cr
+Billed receivables: collect 30 days sooner | 30.0 | Rs 12.59 Cr | Rs 9.79 Cr
+Net cycle back to FY25's 93 days (from 97) | 4.0 | Rs 1.68 Cr | Rs 1.31 Cr
+Unbilled down to one third of receivables (illustrative; FY25 ageing showed none) | 18.5 | Rs 7.76 Cr | Rs 7.76 Cr
+Unbilled down to one quarter of receivables (illustrative; FY25 ageing showed none) | 25.7 | Rs 10.79 Cr | Rs 10.79 Cr
+
+== 4. Interest, at the rate OVAL discloses ==
+Rate: working-capital facilities 9.75% to 10.2% p.a. (RHP, 21 Aug 2025, Financial Indebtedness). AR26 lists other loans at 9.10% to 19.00%; not used.
+Interest is saved ONLY if the cash repays cash credit. Bank loans repayable on demand at 31 Mar 2026: Rs 23.53 Cr; saving is capped at that balance.
+Scenario | interest a year at 9.75% | at 10.20% | as % of FY26 PAT | as % of FY26 PBT
+Unbilled: bill 10 days sooner | Rs 0.41 Cr | Rs 0.43 Cr | 2.8% to 2.9% | 1.9% to 2.0%
+Unbilled: bill 30 days sooner | Rs 1.23 Cr | Rs 1.28 Cr | 8.3% to 8.7% | 5.8% to 6.1%
+Billed receivables: collect 10 days sooner | Rs 0.41 Cr | Rs 0.43 Cr | 2.8% to 2.9% | 1.9% to 2.0%
+Billed receivables: collect 30 days sooner | Rs 1.23 Cr | Rs 1.28 Cr | 8.3% to 8.7% | 5.8% to 6.1%
+Net cycle back to FY25's 93 days (from 97) | Rs 0.16 Cr | Rs 0.17 Cr | 1.1% to 1.2% | 0.8% to 0.8%
+Unbilled down to one third of receivables (illustrative; FY25 ageing showed none) | Rs 0.76 Cr | Rs 0.79 Cr | 5.1% to 5.3% | 3.6% to 3.8%
+Unbilled down to one quarter of receivables (illustrative; FY25 ageing showed none) | Rs 1.05 Cr | Rs 1.10 Cr | 7.1% to 7.4% | 5.0% to 5.2%
+One day, all revenue: Rs 0.041 Cr to Rs 0.043 Cr a year in interest.
+Margin lens: FY26 PAT Rs 14.81 Cr, PBT Rs 21.04 Cr, finance cost Rs 6.43 Cr, EBITDA (AR26 definition) Rs 24.92 Cr.
+
+== 5. Ranked by priceLevers (10-day steps, all-revenue basis) ==
+1. Bill executed work 10 days sooner: cash Rs 4.20 Cr, interest Rs 0.41 Cr a year, ours to move
+2. Collect billed invoices 10 days sooner: cash Rs 4.20 Cr, interest Rs 0.41 Cr a year, needs the client
+Equal days are worth equal cash; the ranking keeps input order when carry is equal; it does not rank by who owns the step (billing is OVAL's own act, certification and payment are the client's).
+
+== 6. Against the limits (visibility only; cash does not change a sanctioned limit) ==
+Sanctioned limits Rs 104.72 Cr: cash credit Rs 26.50 Cr, bank guarantee Rs 75.00 Cr (AR26 p162).
+Cash credit drawn (loans repayable on demand) Rs 23.53 Cr = 88.8% of the cash-credit limit.
+Guarantees outstanding Rs 59.85 Cr = 79.8% of the BG limit; headroom Rs 15.15 Cr.
+Order book 796 Cr = 5.2x FY26 revenue.
+Scenario | cash as % of total limits | as % of cash-credit drawn
+Unbilled: bill 10 days sooner | 4.0% | 17.8%
+Unbilled: bill 30 days sooner | 12.0% | 53.5%
+Billed receivables: collect 10 days sooner | 4.0% | 17.8%
+Billed receivables: collect 30 days sooner | 12.0% | 53.5%
+Net cycle back to FY25's 93 days (from 97) | 1.6% | 7.1%
+Unbilled down to one third of receivables (illustrative; FY25 ageing showed none) | 7.4% | 33.0%
+Unbilled down to one quarter of receivables (illustrative; FY25 ageing showed none) | 10.3% | 45.9%
+
+== 7. Trend FY24 / FY25 / FY26 (FY24 restated consolidated, RHP; FY25-26 standalone, AR26) ==
+Cash from operations: Rs -1.13 Cr / Rs -15.75 Cr / Rs -29.96 Cr
+PAT: Rs 4.40 Cr / Rs 9.34 Cr / Rs 14.81 Cr
+CFO FY25+FY26 together: Rs -45.71 Cr against PAT Rs 24.15 Cr.
+Inventory (incl. WIP): Rs 39.88 Cr / Rs 43.69 Cr / Rs 59.07 Cr
+Trade receivables: Rs 17.82 Cr / Rs 43.07 Cr / Rs 35.07 Cr
+Advances to vendors and others: NA / Rs 11.09 Cr / Rs 29.10 Cr
+Trade payables, current: Rs 27.63 Cr / Rs 34.06 Cr / Rs 12.94 Cr
+Trade payables, long term: Rs 0.00 Cr / Rs 0.00 Cr / Rs 6.85 Cr
+Guarantees outstanding: NA / Rs 43.06 Cr / Rs 59.85 Cr
+Inventory FY25->FY26: +35.2%; vendor advances FY25->FY26: +162.3%; revenue +49.7%.
+Long-term share of trade payables FY26: 34.6%.
+Government-controlled share of revenue: FY24 77.73%, FY25 90.17%, FY26 not disclosed.
+
+== 8. Other lakh -> Cr conversions quoted in problems.md / solutions.md ==
+Financing inflow FY26 (AR26 p154): Rs 49.97 Cr
+Receivables fall FY25->FY26: Rs 7.99 Cr
+WIP in inventory FY25 (AR26 p167): Rs 27.00 Cr
+WIP in inventory FY26: Rs 34.11 Cr
+Other LD & withheld FY25 (AR26 p166): Rs 9.15 Cr
+Other LD & withheld FY26: Rs 10.50 Cr
+
+All checks passed: streams sum, per-day vs AR26 E.2, Note 37 cycle identities, no negative release, share scenario reconciles.

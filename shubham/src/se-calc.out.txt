@@ -1,0 +1,83 @@
+== 1. CRISIL operating income, year on year growth (same basis: CRISIL standalone) ==
+FY2020->FY2021 OI growth: 8.2%
+FY2021->FY2022 OI growth: 64.9%
+FY2022->FY2023 OI growth: 19.7%
+FY2023->FY2024 OI growth: 34.6%
+FY2024->FY2025 OI growth: 14.8%
+FY2023->FY2025 OI CAGR (2 yrs): 24.3%
+FY2020->FY2025 OI CAGR (5 yrs): 27.0%
+FY2022->FY2025 OI multiple (tests dossier '2-3x in 2-3 yrs'): 1.85x
+FY2020->FY2025 OI multiple: 3.30x
+FY2023->FY2025 OI multiple: 1.54x
+FY2024 actual OI minus CRISIL 'booked Rs 429 cr as of Feb-24': 15.39 cr
+
+== 2. CRISIL PAT margin recomputed vs printed ==
+FY2020 PAT/OI: 3.36% (printed 3.3%)
+FY2021 PAT/OI: 3.95% (printed 4.0%)
+FY2022 PAT/OI: 4.35% (printed 4.35%)
+FY2023 PAT/OI: 5.14% (printed 5.13%)
+FY2024 PAT/OI: 5.76% (printed 5.76%)
+FY2025 PAT/OI: 7.04% (printed 7.04%)
+
+== 3. Newsletter turnover in crore vs CRISIL operating income (different documents, same years) ==
+FY2023 newsletter 330.10 cr vs CRISIL 330.2 cr, diff: -0.10 cr (-0.03%)
+FY2024 newsletter 444.40 cr vs CRISIL 444.39 cr, diff: +0.01 cr (+0.00%)
+FY2025 newsletter 508.50 cr vs CRISIL 510.05 cr, diff: -1.55 cr (-0.30%)
+FY2026 provisional turnover: 680 cr
+FY2027 projected turnover: 1000 cr
+FY2025->FY2026 provisional growth (newsletter basis): 33.7%
+FY2026->FY2027 projected growth (newsletter basis): 47.1%
+
+== 4. Newsletter EBITDA margin recomputed vs label; 'EBIDTA' as printed ==
+FY2023 EBITDA 31.2 cr / turnover 330.1 cr: 9.45% (label 9%)
+FY2024 EBITDA 44.9 cr / turnover 444.4 cr: 10.10% (label 10%)
+FY2025 EBITDA 56.9 cr / turnover 508.5 cr: 11.19% (label 11%)
+FY2026 EBITDA 81.6 cr / turnover 680.0 cr: 12.00% (label 12%)
+FY2027 EBITDA 130.0 cr / turnover 1000.0 cr: 13.00% (label 13%)
+Net worth FY2025 (newsletter): 122.7 cr
+Net worth FY2026 provisional (newsletter): 166.9 cr
+
+== 5. What the printed 24.82% / 29.82% arrows could mean (test, not adopt) ==
+turnover CAGR FY2023->FY2025: 24.11%
+turnover CAGR FY2023->FY2026: 27.24%
+turnover CAGR FY2023->FY2027: 31.93%
+turnover CAGR FY2024->FY2027: 31.04%
+turnover CAGR FY2025->FY2027: 40.23%
+net worth CAGR FY2023->FY2025: 34.82%
+net worth CAGR FY2023->FY2026: 35.22%
+net worth CAGR FY2023->FY2027: 38.57%
+net worth CAGR FY2024->FY2027: 38.79%
+net worth CAGR FY2025->FY2027: 42.43%
+
+== 6. Gross current assets band (CRISIL 02 Jul 2025: 155 to 200 days, FY23 to FY25) on FY2025 OI ==
+GCA at 155 days of FY2025 OI: 216.6 cr
+GCA at 200 days of FY2025 OI: 279.5 cr
+Earlier band (CRISIL 03 Apr 2024: 145 to 201 days, FY22 to FY23) on FY2023 OI, low: 131.2 cr
+Earlier band on FY2023 OI, high: 181.8 cr
+
+== 7. Order book cover (order book date differs from revenue year: stated, not same-basis) ==
+Rs 1,400 cr (Jul 2025) / FY2025 OI: 2.74x
+Rs 1,000 cr (Apr 2024) / FY2023 OI: 3.03x
+Rs 1,000 cr (Apr 2024) / FY2024 OI: 2.25x
+Rs 1,400 cr spread over 24 months, per year: 700 cr
+Rs 1,400 cr spread over 30 months, per year: 560 cr
+
+== 8. Rated bank facilities, sums by type (CRISIL lender annexures) ==
+Jul 2025 total rated: 225 cr
+Jul 2025 fund based (CC, CC/OD, proposed FB, TL): 78.1 cr
+Jul 2025 non fund based: 146.9 cr
+Jul 2025 sanctioned CC and CC/OD only: 65.5 cr
+  Jul 2025 by lender: HDFC 54.1, Axis 50, ICICI 50, BoB 37, proposed 33.9
+Apr 2024 total rated: 165 cr
+Apr 2024 fund based (CC, CC/OD, proposed FB, TL): 50.6 cr
+Apr 2024 non fund based: 114.4 cr
+Apr 2024 sanctioned CC and CC/OD only: 44.5 cr
+  Apr 2024 by lender: HDFC 40.6, Axis 40, BoB 37, proposed 27.4, ICICI 20
+Rated amount growth Apr 2024 to Jul 2025: 36.4%
+
+== 9. Cross-source estimates (Weak: mixes CRISIL adjusted ratios with newsletter figures; never print) ==
+FY2025 implied debt = gearing 0.60 x newsletter net worth: 73.6 cr
+FY2025 implied interest = newsletter EBITDA / interest cover 5.82: 9.8 cr
+
+== self-check ==
+annexure sums tie to CRISIL rating history tables: OK

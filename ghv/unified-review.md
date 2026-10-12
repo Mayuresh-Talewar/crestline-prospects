@@ -1,0 +1,10 @@
+# GH-8 review: slots-unified.md (7 Oct 2026)
+Verdict: PASS WITH FIXES APPLIED.
+1. Completed: both readers (Jahid Vijapura, Managing Director; Farooq Vijapura, Director), letters 137 and 144 words, address as the Contact page prints it, "October 2026", thirty-minute call line; p7, p8, p11, p14, p15, p16 written in full from FIXED-PAGES; no placeholder left.
+2. Fixes applied: letter used 287 days beside 116 days (two perimeters); 116 removed from the letter and kept only in the p12 ceiling note. p13 second proof used 116 (FY24); changed to 222 to 125 days (FY20 to FY23, one CRISIL report, standalone). Address had an invented "8" and "1st"; now the website wording. p3 net cash accrual 175/200 and the 400 Cr quote were not in data.md; verified in the CRISIL 11 Feb 2026 text.
+3. Deviations from fixed copy (all to meet rules): p15 headline shortened to "Give us two or three projects and fourteen days." (12-word limit); p15 sources drop the interest clause (no interest figure); p8 footer says "CRISIL's published documents" not "published accounts"; {ACCOUNTING_SYSTEM} = "ERP" after "your".
+4. Trace: `python -I chk.py` (in the scratchpad) compares every number with data.md, calc output, verify-report and the CRISIL texts: untraced 5 = 2017 (website date), phone 76209 35398, postcode 400093. Not figures.
+5. Rulings: no 161 row (0 hits); 116 only in the ceiling note; GCA upper bound; debt gap "equivalent to 32.7 days, not a release"; limit ratio scale only; p13 leads 1,190 to 660; interest figures 0; entity label on every figure; GHV Infra orders and UAE absent; late founder absent; INR only.
+6. Scans after last edit: dashes 0; banned words 0; headlines 16, longest 12 words; "you said" 0; signed numbers 0 (the "+91" phone only); other-company strings 0; internal refs 0; "{" 0.
+7. Caveat: fixed p7 strip reads "NO AI-GENERATED NUMBERS" verbatim from the master; the word AI appears only there.
+8. Not verified: the design render; 2017 website client list is the company's own, stale statement.

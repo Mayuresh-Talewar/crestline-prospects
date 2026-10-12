@@ -1,0 +1,46 @@
+ASHOKA BUILDCON LIMITED - savings scenarios (AB-3), STANDALONE basis, Rs crore
+Run on Crestline pure functions: leversFor, simulate, toTerms (lib/finance/cycle-simulation.ts), valueOfADay (lib/finance/working-capital-cycle.ts), priceLevers (lib/insights/levers.ts)
+Days = year-end balance / revenue from operations x 365. Every row uses ONE base.
+
+TREND (STANDALONE)            FY22      FY23      FY24      FY25      FY26
+Revenue from operations          4,644.6   6,372.3   7,726.7   7,061.4   5,811.7
+Trade receivables (cur+non)      1,112.9   1,243.6   1,428.1   1,768.3   1,968.6
+Contract assets                    813.4   1,351.1   1,699.1   2,268.0   2,646.1
+Receivables days                    87.5      71.2      67.5      91.4     123.6
+Contract-asset days                 63.9      77.4      80.3     117.2     166.2
+Receivables + CA days              151.4     148.6     147.7     208.6     289.8
+Net operating WC                   592.0     644.8     620.4   1,606.3   2,391.4
+Net operating WC days               46.5      36.9      29.3      83.0     150.2
+Operating cash flow                161.1      72.8     410.1    -591.3    -291.6
+Finance cost                        85.6     141.0     228.1     296.4     313.0
+OCF FY25 + FY26 = -882.9
+Receivables + CA: FY24 3,127.2 -> FY26 4,614.7 (+1,487.5)
+Receivables past due > 6 months: FY25 639.9 of 1,912.4 = 33.5%; FY26 702.2 of 2,139.4 = 32.8%
+WC loan: 31 Mar 2026 757 -> 30 Jun 2026 1110 (+353, +46.6%)
+Finance cost FY22 -> FY26: 85.6 -> 313 (x3.7)
+
+SIMULATOR BASIS FY26 (STANDALONE)
+Per day = revenue from operations FY26 5,811.7 / 365 = 15.9 (valueOfADay.cash 15.922)
+Today: receivables 123.6 d, contract assets 166.2 d, receivables + CA 289.8 d, net operating WC 150.2 d; FY24 receivables + CA 147.7 d
+Levers from leversFor: cad now 166.2 floor 0.0; dso now 123.6 floor 90.0
+Rate: 9.5% = CFO's stated cost of standalone WC debt (Q4 FY25 call, 26 May 2025, p15). AR gives MCLR + spread, no number.
+Interest only up to the WC loan drawn, 1110 (30 Jun 2026). PAT FY26 320.4; PBT FY26 390.0 (= 225.3 before exceptional + 164.7 exceptional gain)
+
+SCENARIOS (overlap; NEVER add rows; scenarios, not promises; vendors never paid later)
+Scenario                                                                    From      To    Days      Cash   Int/yr   %PAT   %PBT  %PBTx
+Receivables, 10 days out                                                   123.6   113.6    10.0     159.2     15.1    4.7    3.9    6.7
+Receivables, 30 days out                                                   123.6    93.6    30.0     477.7     45.4   14.2   11.6   20.1
+Contract assets, 10 days out                                               166.2   156.2    10.0     159.2     15.1    4.7    3.9    6.7
+Contract assets, 30 days out                                               166.2   136.2    30.0     477.7     45.4   14.2   11.6   20.1
+Net operating WC, 10 days out                                              150.2   140.2    10.0     159.2     15.1    4.7    3.9    6.7
+Net operating WC, 30 days out                                              150.2   120.2    30.0     477.7     45.4   14.2   11.6   20.1
+Receivables + CA back to FY24's own level (standalone, FY24 and FY26)      289.8   147.7   142.1   2,262.6    105.5   32.9   27.0   46.8
+Receivables to 90 days (upper end of AR's 30-90 day terms)                 123.6    90.0    33.6     535.6     50.9   15.9   13.0   22.6
+NWC to 120 (CFO's words, his metric undefined; NOT a target)               150.2   120.0    30.2     480.7     45.7   14.3   11.7   20.3
+NWC to 110 (CFO's words, his metric undefined; NOT a target)               150.2   110.0    40.2     639.9     60.8   19.0   15.6   27.0
+%PBTx = share of PBT before exceptional items (225.3). Interest capped where cash > 1,110.
+Interest at 9.5% on the whole 1,110 WC loan = 105.5 = 33.7% of FY26 finance cost 313
+
+priceLevers ranking (30-day steps, carry uncapped): Take 30 days out of contract assets cash 477.7 carry 45.4 ours | Take 30 days out of receivables cash 477.7 carry 45.4 client's act
+
+Self-check: no lever floor above today; no negative release on any row; no clamping on step rows; priceLevers carry = cash x rate. ALL ASSERTS PASSED.

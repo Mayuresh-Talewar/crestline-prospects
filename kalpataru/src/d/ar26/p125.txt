@@ -1,0 +1,64 @@
+Statutory Reports
+
+Business Responsibility and Sustainability Report (BRSR)
+
+LEADERSHIP INDICATORS                                                                                                                             5. Provide details of any corrective actions taken or underway to address significant risks/concerns arising
+                                                                                                                                                        from the assessments at Question 4 above.
+1. D etails of a business process being modified/introduced as a result of addressing human rights
+      grievances/complaints.                                                                                                                      Corrective actions underway include strengthening supplier awareness on ESG requirements, reinforcing compliance
+                                                                                                                                                         with the Kalpataru Supplier Code of Conduct (KSCC), and initiating structured monitoring through the KalpaSetu ESG
+During the reporting year, KPIL continued to strengthen its human rights governance framework through established                                        assessment framework. These measures specifically address risks related to labour practices, workplace ethics, and
+       policies and structured grievance redressal mechanisms. The Company has in place comprehensive processes to                                       environmental performance, ensuring continuous improvement across the value chain.
+       address human rights concerns, including the Grievance Redressal Policy, Prevention of Sexual Harassment (POSH)
+       Policy, and Corporate Human Rights Policy, which collectively ensure timely identification, escalation, and resolution                       Principle 6
+       of complaints.                                                                                                                             Businesses should respect and make efforts to protect and restore the environment.
+
+2.Details of the scope and coverage of any Human rights due diligence                                                                             ESSENTIAL INDICATORS
+
+KPIL did not undertake a formal, standalone Human Rights Due Diligence assessment.                                                                1. Details of total energy consumption (in GJ) and energy intensity, in the following format
+
+However, the Company continues to address human rights considerations through its existing frameworks and                                         Parameter                                                                                           FY 2026        FY 2025
+       processes, including its Corporate Human Rights Policy, Code of Conduct, and supplier assessment mechanisms, which                                                                                                 From renewable sources
+       incorporate elements of human rights risk evaluation across operations and the value chain. Human rights aspects are                                                                                                                            68,124        51,655
+       also embedded within internal audits, compliance reviews, and supplier engagement processes, ensuring ongoing                              Total electricity consumption (A)                                                                                          -
+       oversight and risk mitigation.                                                                                                             Total fuel consumption (B)                                                                                  -              -
+                                                                                                                                                  Energy consumption through other sources (C)                                                        68,124
+3. Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the                                   Total energy consumed from renewable sources (A+B+C)                                                               51,655
+      Rights of Persons with Disabilities Act, 2016?                                                                                                                                                                                                 194,883
+                                                                                                                                                                                                                      From non-renewable sources  1,487,974         127,480
+Yes, the premises/offices of the Company are accessible to differently abled employees and workers, in line with the                              Total electricity consumption (D)                                                                                1,213,507
+       requirements of the Rights of Persons with Disabilities Act, 2016. The Company has taken necessary steps to ensure                         Total fuel consumption (E)                                                                                  -
+       accessibility, including provisions such as ramps, wheelchairs, accessible restrooms, and barrier-free entry/exit points.                  Energy consumption through other sources (F)                                                    1,682,857                  -
+       The Company remains committed to further enhancing accessibility standards across all locations.                                           Total energy consumed from non-renewable sources (D+E+F)                                        1,750,982      1,340,987
+                                                                                                                                                  Total energy consumed (A+B+C+D+E+F)                                                                            1,392,642
+4. Details on assessment of value chain partners:                                                                                                 Energy Intensity per rupee of turnover (Total energy consumed/Revenue from                             75.4
+                                                                                                                                                  operations) (in GJ/H Crore)                                                                                            73.7
+Sexual Harassment                                  % of value chain partners (by value of business                                                Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)                   153.45
+Discrimination at workplace                         done with such partners) that were assessed                                                   (Total energy consumed/Revenue from operations adjusted for PPP)                                                    152.33
+Child Labor                                                                                                                                       (in GJ/PPP Mn USD)                                                                                       NA
+Forced Labor/Involuntary Labor                                                   100                                                              Energy intensity in terms of physical output                                                           123.8             NA
+Wages                                                                            100                                                              Energy intensity (optional)- the relevant metric may be selected by the entity-                                       103.3
+Others                                                                           100                                                              GJ/Employee
+                                                                                 100
+                                                                                 100                                                              For FY 202526, the most recent IMF PPP conversion rate of 20.343 has been applied, accessed from the IMF DataMapper portal on April 22,
+                                                                                 100                                                                      2026. In October 2024, the IMF revised its PPP methodology and updated conversion rates. Accordingly, for FY 202425, the latest IMF PPP
+                                                                                                                                                          conversion rate of 20.66 was used. Link: IMF PPP Conversion Rate  India
+Note: Value chain partners, including material suppliers and contractors, are assessed at periodic intervals as part of KPIL's responsible
+        sourcing and supplier governance framework. Key suppliers--such as those providing critical raw materials, capital equipment, and high    The increase in energy intensity reflects KPIL's expansion into remote greenfield sites in Middle East countries, where reliance on temporary diesel
+        value inputs--are evaluated against the Kalpataru Supplier Code of Conduct (KSCC) and the Company's Supplier Sustainability initiatives.          based setups was unavoidable. Limited access to grid based renewable power further contributed to higher consumption per unit of turnover.
+                                                                                                                                                          Going forward, KPIL will prioritize solar deployment, efficiency upgrades, and sustainable mobility solutions to progressively reduce intensity.
+In addition, KPIL has instituted KalpaSetu, its dedicated ESG assessment programme for significant suppliers, which
+       provides a structured framework to evaluate, monitor, and enhance supplier performance across environmental, social,                       Note: Indicate if any independent assessment/ evaluation has been carried out by an external agency? (Y/N) If yes, name of the external
+       and governance parameters. These assessments comprehensively cover key social and ethical aspects, including                                       agency.
+       prevention of child labour, forced or involuntary labour, workplace discrimination, sexual harassment, fair wages, and
+       other relevant human rights considerations. The programme is designed to ensure alignment with KPIL's sustainability                       Yes, independent reasonable assurance has been undertaken by TV SD South Asia Pvt. Ltd.
+       expectations, promote responsible business conduct, and drive continuous improvement across the value chain.
+                                                                                                                                                  2. Does the entity have any sites/facilities identified as designated consumers (DCs) under the
+In FY 2026, KPIL initiated its Supply Chain Sustainability Initiative and identified 111+ significant suppliers. Sustainability                         Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether
+       engagement and assessment processes have already been launched for 28 of these suppliers, focusing on key ESG                                    targets set under the PAT scheme have been achieved. In case targets have not been achieved, provide
+       parameters. The Company plans to expand the scope of these assessments in the coming years to further integrate                                  the remedial action taken, if any.
+       ESG principles throughout its supply chain.
+                                                                                                                                                  No, KPIL does not have any sites or facilities identified as designated consumers (DCs) under the Government of India's
+                                                                                                                                                         PAT Scheme.
+
+244 Kalpataru Projects International Limited                                                                                                                            Integrated Annual Report 2025-26 245

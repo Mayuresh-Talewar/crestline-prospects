@@ -1,0 +1,61 @@
+== Rs crore conversions (restated consolidated)
+FY26: revenue 456.97 | total income 471.43 | EBITDA 105.20 | PAT 83.79 | other income 14.45 | finance cost 3.52
+FY25: revenue 278.33 | total income 288.14 | EBITDA 73.01 | PAT 57.51 | other income 9.81 | finance cost 3.59
+FY24: revenue 304.34 | total income 310.26 | EBITDA 54.70 | PAT 20.25 | other income 5.92 | finance cost 9.37
+Revenue growth FY26 vs FY25 64.2% | FY25 vs FY24 -8.5%
+PAT growth FY26 vs FY25 45.7%
+FY26: EBITDA margin 23.02% | PAT margin 18.34%
+FY25: EBITDA margin 26.23% | PAT margin 20.66%
+FY24: EBITDA margin 17.97% | PAT margin 6.65%
+
+== Working capital days, recomputed on the company's own formulas (RHP p38 notes)
+FY26 (365d): receivable 87.0 | payable 108.4 | inventory 65.0 | NWC 43.7 | company prints (88, 109, 66, 45)
+   check on 365 days: receivable 87.0
+FY25 (365d): receivable 66.6 | payable 106.6 | inventory 108.4 | NWC 68.4 | company prints (67, 107, 109, 69)
+   check on 365 days: receivable 66.6
+FY24 (366d): receivable 76.3 | payable 90.7 | inventory 70.5 | NWC 56.1 | company prints (77, 91, 71, 57)
+   check on 365 days: receivable 76.1
+
+== Days the company's NWC formula leaves out (contract assets incl. retention; advances)
+FY26: contract assets 49.15 Cr = 39.3 days of revenue | contract liabilities 88.00 Cr = 70.3 days | receivable + contract assets 158.12 Cr = 126.3 days
+FY25: contract assets 40.99 Cr = 53.8 days of revenue | contract liabilities 78.08 Cr = 102.4 days | receivable + contract assets 91.75 Cr = 120.3 days
+FY24: contract assets 53.68 Cr = 64.6 days of revenue | contract liabilities 83.74 Cr = 100.7 days | receivable + contract assets 117.12 Cr = 140.8 days
+Retention 31 Mar 2026: 15.38 + 20.58 = 35.96 Cr = 28.7 days of FY26 revenue; non-current share 42.8%
+Receivables Rs Cr: FY26 108.96 | FY25 50.77 | FY24 63.44
+Receivable growth FY26 vs FY25 114.6% vs revenue growth 64.2%
+FY26: past due > 6 months 11.95 Cr = 11.0% of receivables
+FY25: past due > 6 months 11.65 Cr = 23.0% of receivables
+FY24: past due > 6 months 14.84 Cr = 23.4% of receivables
+
+== Borrowings and cash
+FY26: borrowings 6.68 Cr | cash + other bank 85.93 Cr | net debt -79.25 Cr | net debt/equity -0.30 | debt/equity 0.03
+FY25: borrowings 8.46 Cr | cash + other bank 77.90 Cr | net debt -69.43 Cr | net debt/equity -0.40 | debt/equity 0.05
+FY24: borrowings 24.85 Cr | cash + other bank 31.63 Cr | net debt -6.78 Cr | net debt/equity -0.06 | debt/equity 0.21
+3 Aug 2026: cash credit drawn 5.31 Cr of 30.00 Cr sanctioned (17.7%); non-fund-based sanctioned 90.00 Cr
+
+== Order book
+31-Jul-26: 981.55 Cr
+31-Mar-26: 846.02 Cr
+31-Mar-25: 348.82 Cr
+31-Mar-24: 207.81 Cr
+Order book 31 Jul 2026 / FY26 revenue = 2.15x
+Order book growth 31 Mar 2026 vs 31 Mar 2025 142.5%
+
+== Q1 FY27 vs Q1 FY26 (unaudited consolidated)
+rev: 107.45 Cr vs 79.12 Cr (35.8%)
+pat: 17.29 Cr vs 18.73 Cr (-7.7%)
+other_inc: 2.50 Cr vs 4.80 Cr (-48.0%)
+fin: 0.85 Cr vs 0.49 Cr (70.9%)
+dep: 1.54 Cr vs 0.79 Cr (95.4%)
+
+== Operating cash flow (Q1 FY27 investor presentation, filed 6 Oct 2026, slide 28, Rs crore)
+FY26: operating cash flow 73.3 Cr = 87.5% of PAT | working capital change -17.7 Cr
+FY25: operating cash flow 73.0 Cr = 126.9% of PAT | working capital change 2.6 Cr
+FY24: operating cash flow 42.7 Cr = 210.9% of PAT | working capital change -21.4 Cr
+
+== Dossier claims vs filings (Rs crore)
+FY26 revenue: dossier 456.97 vs filing 456.97
+FY26 PAT: dossier 83.79 vs filing 83.79
+Order book: dossier 981.55 vs filing 981.55
+Q1 revenue: dossier 107 vs filing 107.45; Q1 PAT dossier 17 vs filing 17.29
+Dossier FY26 PAT margin 'about 18%': filing 18.34%

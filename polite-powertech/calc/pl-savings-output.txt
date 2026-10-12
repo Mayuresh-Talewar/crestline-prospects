@@ -1,0 +1,38 @@
+INPUTS (Rs Cr unless stated)
+revenue FY25 155.6301 | purchases FY25 113.7737 | retention 24.7792 | basis 360 days
+value of a day (revenue/360) 0.43231 Cr | purchases per day 0.31604 Cr
+valueOfADay: cash 0.43231 Cr, uncapped carry 0.03610 Cr a year (NOT printed: the rate is capped at the 1.99 Cr drawn)
+
+CLAMP BOUNDS (leversFor, no terms)
+dio: now 23 min 0 max 38 target null
+dso: now 118 min 0 max 165.2 target null
+levers present: dio, dso (cad and dpo have no days, so not drawn)
+No clamp applies: 108 and 100 sit inside [0, 165.2] for receivables, 13 inside [0, 38.0] for stock.
+
+Collection, 118 to 108 (10 days)
+  released once 4.3231 Cr | carry saved a year 0.1662 Cr (= min(cash, 1.99) x 8.35%) | simulator uncapped carry 0.3610 (not printed)
+  dso: 118 -> 108 (-10 days) cash 4.3231 Cr
+
+Collection, 118 to 100 (management's own target, 18 days)
+  released once 7.7815 Cr | carry saved a year 0.1662 Cr (= min(cash, 1.99) x 8.35%) | simulator uncapped carry 0.6498 (not printed)
+  dso: 118 -> 100 (-18 days) cash 7.7815 Cr
+
+Stock, 23 to 13 (10 days, at purchases per day)
+  released once 3.1604 Cr | carry saved a year 0.1662 Cr (= min(cash, 1.99) x 8.35%) | simulator uncapped carry 0.2639 (not printed)
+  dio: 23 -> 13 (-10 days) cash 3.1604 Cr
+
+COMBINED one run: collection to 108 and stock to 13
+  released once 7.4834 Cr | carry saved a year 0.1662 Cr (= min(cash, 1.99) x 8.35%) | simulator uncapped carry 0.6249 (not printed)
+  dio: 23 -> 13 (-10 days) cash 3.1604 Cr
+  dso: 118 -> 108 (-10 days) cash 4.3231 Cr
+
+RETENTION: balance only 24.7792 Cr. Release is after the defect liability period (typically 1 to 2 years) or against a bank guarantee (p.244). No speed assumed, not priced.
+
+PAYABLES test (no terms): asked to move 100 -> 200, simulator holds 100, cash 0.0000
+
+RANKING (cash released once; carry is equal under the cap)
+1. Collection, 118 to 100 (management's own target, 18 days): 7.78 Cr
+2. Collection, 118 to 108 (10 days): 4.32 Cr
+3. Stock, 23 to 13 (10 days, at purchases per day): 3.16 Cr
+
+ALL ASSERTS PASSED

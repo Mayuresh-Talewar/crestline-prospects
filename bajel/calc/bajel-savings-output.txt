@@ -1,0 +1,39 @@
+== Bajel Projects, standalone, AR26 vintage. Scenarios, not forecasts ==
+Revenue FY26 (Rs Cr): 2,791.58
+Value of one day = revenue / 365 (Rs Cr): 7.65
+Receivable days today, company basis 365 / 1.80: 202.8
+Interest cap, borrowings at 6.5%-10% (Rs Cr): 349.96
+Rates used: 6.5% and 10%
+Leg dso: now 202.8, bounds 0.0 to 283.9, target none
+Leg dpo: now 113.0, bounds 0.0 to 113.0, target none
+
+== Scenario a: 10-day step out of the receivable wait ==
+Receivable days: 202.8 to 192.8 (moved -10.0)
+Cash released once (Rs Cr): 76.48
+Cash counted for interest, capped at 349.96 (Rs Cr): 76.48
+Interest saved a year at 6.5% (Rs Cr): 4.97
+Interest saved a year at 10% (Rs Cr): 7.65
+priceLevers cash (Rs Cr): 76.48 | simulate cash: 76.48
+[chart] P1 receivable days with the step: 192.8
+[chart] P2 slice of the not-due bar (gross 1,530.12), drawn at its own length: 76.48
+[chart] P3 FY26 operating cash flow 21.09 + release, had the step held at 31 Mar 2026: 97.57
+[chart] P4 borrowings at 6.5%-10% 349.96 less capped release, if the cash repaid them: 273.48
+
+== Scenario b: 30-day step out of the receivable wait ==
+Receivable days: 202.8 to 172.8 (moved -30.0)
+Cash released once (Rs Cr): 229.44
+Cash counted for interest, capped at 349.96 (Rs Cr): 229.44
+Interest saved a year at 6.5% (Rs Cr): 14.91
+Interest saved a year at 10% (Rs Cr): 22.94
+priceLevers cash (Rs Cr): 229.44 | simulate cash: 229.44
+[chart] P1 receivable days with the step: 172.8
+[chart] P2 slice of the not-due bar (gross 1,530.12), drawn at its own length: 229.44
+[chart] P3 FY26 operating cash flow 21.09 + release, had the step held at 31 Mar 2026: 250.53
+[chart] P4 borrowings at 6.5%-10% 349.96 less capped release, if the cash repaid them: 120.52
+
+== Payables leg (proof only, never a saving) ==
+Ask +10 days of vendor credit: moved 0.0, cash 0.00
+Ask +30 days of vendor credit: moved 0.0, cash 0.00
+Ask -10 days of vendor credit: moved -10.0, cash -78.01
+
+All asserts passed: no negative release; interest only at 6.5% and 10% and within the cap; priceLevers cash = simulate cash; payables never release cash; no terms passed; no clamp on either step.

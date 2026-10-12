@@ -1,0 +1,35 @@
+placeholders: 0 []
+comments: 0 []
+company names: 0 []
+internal refs: 0 []
+dashes: 0 []
+kept out: 0 []
+interest figures: 0 []
+design to reproduce: 0 []
+PLANTED: {'placeholders': 2, 'comments': 1, 'company names': 2, 'internal refs': 2, 'dashes': 3, 'kept out': 2, 'interest figures': 1, 'design to reproduce': 1}
+ALL SCANS CLEAN, ALL PLANTS CAUGHT
+derived recomputed: {'1.44': '1.44', '14.37': '14.37', '43.10': '43.10'} | 34% from 700/524: 33.59
+calc output carries 14.3658 and 43.0973, clean run exit 0
+CRISIL 524.35: FOUND
+CRISIL 457.65: FOUND
+CRISIL 187 days: FOUND
+CRISIL about 250 days: FOUND
+CRISIL 100 to 140: FOUND
+CRISIL 70 to 90: FOUND
+CRISIL 700: FOUND
+CRISIL 34%: FOUND
+CRISIL 2,595: FOUND
+CRISIL 24 to 36: FOUND
+CRISIL 347: FOUND
+CRISIL BBB+/Stable: FOUND
+CRISIL Q4 + retention: FOUND
+CRISIL 30 June 2026: FOUND
+CRISIL quote 1: FOUND
+CRISIL quote 2: FOUND
+CRISIL NHAI, PWD, MORTH: FOUND
+CRISIL Based in Pune: FOUND
+planted figure 999.99 correctly NOT found
+content number tokens: 344 unique: 50 UNTRACED: []
+template-part numbers (rule text, not figures): ['1.', '10.', '11.', '12', '12.', '13.', '14', '14.', '15', '16', '16,', '2', '2.', '2013', '2014', '3.', '4', '4.', '5.', '6.', '7.', '8', '8.', '9.']
+no signed numbers in content
+QA OK

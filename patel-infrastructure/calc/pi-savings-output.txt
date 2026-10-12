@@ -1,0 +1,84 @@
+=== PATEL INFRASTRUCTURE LIMITED, standalone FY25, Rs Cr (lakh / 100), 365 days ===
+revenue per day = 3576.65/365 = 9.80 Cr; materials per day = 1277.6/365 = 3.50 Cr
+valueOfADay(revenue per day, 12.75) cash 9.80 Cr, uncapped carry 1.25 Cr per day
+valueOfADay(materials per day, 12.75) cash 3.50 Cr per day
+
+--- CLAMP BOUNDS (leversFor, no terms passed) ---
+dio Stock on site                    now 132.7  min 0  max 199.05  target null  lowerIsBetter true  perDay 3.50
+cad Built, waiting to be certified   now 67.1  min 0  max 93.94  target null  lowerIsBetter true  perDay 9.80
+dso Invoiced, waiting to be paid     now 32.3  min 0  max 62.30  target null  lowerIsBetter true  perDay 9.80
+dpo Vendor credit taken              now 38.9  min 0  max 38.90  target null  lowerIsBetter false  perDay 8.17
+toTerms (every leg to its stated term): {}  <- empty: no term is published
+
+--- SCENARIOS (simulate) ---
+Certification, 10 days less (67.1 to 57.1)
+   cash released once 97.99 Cr | cycle 193.2 to 183.2 days | accounting cycle DIO+DSO-DPO 126.1 to 126.1
+   simulate().carry uncapped at 12.75% = 12.49 Cr | CAPPED at 173.62 Cr of NCDs: min(97.99, 173.62) x 12.75% = 12.49 Cr a year (if used to retire the 12.75% NCDs)
+   legs: dio 132.7->132.7 cash 0.00 | cad 67.1->57.1 cash 97.99 | dso 32.3->32.3 cash 0.00 | dpo 38.9->38.9 cash 0.00
+PASS  no negative release [cad10]  released 97.99
+PASS  interest capped [cad10]  carry 12.49 <= 22.14
+PASS  cross-check days x per day [cad10]  independent 97.99 vs simulate 97.99
+Certification, 30 days less (67.1 to 37.1)
+   cash released once 293.97 Cr | cycle 193.2 to 163.2 days | accounting cycle DIO+DSO-DPO 126.1 to 126.1
+   simulate().carry uncapped at 12.75% = 37.48 Cr | CAPPED at 173.62 Cr of NCDs: min(293.97, 173.62) x 12.75% = 22.14 Cr a year (if used to retire the 12.75% NCDs)
+   legs: dio 132.7->132.7 cash 0.00 | cad 67.1->37.1 cash 293.97 | dso 32.3->32.3 cash 0.00 | dpo 38.9->38.9 cash 0.00
+PASS  no negative release [cad30]  released 293.97
+PASS  interest capped [cad30]  carry 22.14 <= 22.14
+PASS  cross-check days x per day [cad30]  independent 293.97 vs simulate 293.97
+Project materials, 10 days less (132.7 to 122.7)
+   cash released once 35.00 Cr | cycle 193.2 to 183.2 days | accounting cycle DIO+DSO-DPO 126.1 to 116.1
+   simulate().carry uncapped at 12.75% = 4.46 Cr | CAPPED at 173.62 Cr of NCDs: min(35.00, 173.62) x 12.75% = 4.46 Cr a year (if used to retire the 12.75% NCDs)
+   legs: dio 132.7->122.7 cash 35.00 | cad 67.1->67.1 cash 0.00 | dso 32.3->32.3 cash 0.00 | dpo 38.9->38.9 cash 0.00
+PASS  no negative release [dio10]  released 35.00
+PASS  interest capped [dio10]  carry 4.46 <= 22.14
+PASS  cross-check days x per day [dio10]  independent 35.00 vs simulate 35.00
+Project materials, 30 days less (132.7 to 102.7)
+   cash released once 105.01 Cr | cycle 193.2 to 163.2 days | accounting cycle DIO+DSO-DPO 126.1 to 96.1
+   simulate().carry uncapped at 12.75% = 13.39 Cr | CAPPED at 173.62 Cr of NCDs: min(105.01, 173.62) x 12.75% = 13.39 Cr a year (if used to retire the 12.75% NCDs)
+   legs: dio 132.7->102.7 cash 105.01 | cad 67.1->67.1 cash 0.00 | dso 32.3->32.3 cash 0.00 | dpo 38.9->38.9 cash 0.00
+PASS  no negative release [dio30]  released 105.01
+PASS  interest capped [dio30]  carry 13.39 <= 22.14
+PASS  cross-check days x per day [dio30]  independent 105.01 vs simulate 105.01
+Collection, 10 days less (32.3 to 22.3)
+   cash released once 97.99 Cr | cycle 193.2 to 183.2 days | accounting cycle DIO+DSO-DPO 126.1 to 116.1
+   simulate().carry uncapped at 12.75% = 12.49 Cr | CAPPED at 173.62 Cr of NCDs: min(97.99, 173.62) x 12.75% = 12.49 Cr a year (if used to retire the 12.75% NCDs)
+   legs: dio 132.7->132.7 cash 0.00 | cad 67.1->67.1 cash 0.00 | dso 32.3->22.3 cash 97.99 | dpo 38.9->38.9 cash 0.00
+PASS  no negative release [dso10]  released 97.99
+PASS  interest capped [dso10]  carry 12.49 <= 22.14
+PASS  cross-check days x per day [dso10]  independent 97.99 vs simulate 97.99
+ONE COMBINED RUN: certification, materials and collection, 10 days each
+   cash released once 230.98 Cr | cycle 193.2 to 163.2 days | accounting cycle DIO+DSO-DPO 126.1 to 106.1
+   simulate().carry uncapped at 12.75% = 29.45 Cr | CAPPED at 173.62 Cr of NCDs: min(230.98, 173.62) x 12.75% = 22.14 Cr a year (if used to retire the 12.75% NCDs)
+   legs: dio 132.7->122.7 cash 35.00 | cad 67.1->57.1 cash 97.99 | dso 32.3->22.3 cash 97.99 | dpo 38.9->38.9 cash 0.00
+PASS  no negative release [combo]  released 230.98
+PASS  interest capped [combo]  carry 22.14 <= 22.14
+PASS  cross-check days x per day [combo]  independent 230.98 vs simulate 230.98
+
+--- OTHER ASSERTS ---
+PASS  payables never release cash  DPO asked 90, held at 38.9, cash 0.00 Cr (max 38.9)
+PASS  payables lever untouched in every priced run  DPO 38.9 days stays; not priced
+PASS  basis matches [dso]  raw 32.267 vs printed 32.3
+PASS  basis matches [cad]  raw 67.097 vs printed 67.1
+PASS  basis matches [dio]  raw 132.653 vs printed 132.7
+PASS  basis matches [dpo]  raw 38.937 vs printed 38.9
+PASS  cycle identity DIO+CAD+DSO-DPO = 193.2  132.7+67.1+32.3-38.9
+PASS  no lever priced on a base it does not belong to  stock on materials 3.50/day (not revenue 9.80/day); certification and collection on revenue
+PASS  collection never below a published term  no client term published, so the move is held to the ruled 10 days only
+
+--- RANKING (priceLevers, each leg on its own base, cash then carry capped at 173.62 Cr) ---
+1. Collect 10 days sooner | cash 97.99 Cr | carry 12.49 Cr a year | ours false
+2. Certify 10 days sooner | cash 97.99 Cr | carry 12.49 Cr a year | ours true
+3. Hold 10 days less project materials | cash 35.00 Cr | carry 4.46 Cr a year | ours true
+PASS  ranking holds three legs only  3 levers
+
+--- LEVER TABLE ---
+Certification (contract assets, unbilled revenue) | PRICED 10 and 30 days | 67.1 days, revenue per day | no certification window published, so no 'to term' row
+Project materials (inventory, construction material) | PRICED 10 and 30 days | 132.7 days, materials consumed per day (never revenue) | no term exists for stock
+Collection (trade receivables) | PRICED 10 days ONLY | 32.3 days, revenue per day | 30 days would give 2.3 days, not credible (README); no client term published
+Combined | ONE run, 10 days on each of the three legs | a single simulate() call, never a sum of rows
+Vendor credit (trade payables, DPO 38.9) | NOT PRICED | no general vendor terms published (buyers' credit up to 90 days only); paying later is never cash released
+Retention | NOT PRICED | only a combined line with security deposits (asset 23,293.99 lakh; liability 18,916.89 lakh), no release basis
+Customer advances | NOT PRICED | a liability, no clock, no lever in the simulator
+Financing at 12.75% | only on the 173.62 Cr NCDs, capped; no other borrowing rate disclosed (term loans are a range, never used)
+
+ALL ASSERTS PASS

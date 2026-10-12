@@ -1,0 +1,24 @@
+per day (Rs Cr) = 96.57 / 365 = 0.264575
+debtor days = 4993.5 / 9656.65 x 365 = 188.74  (Crestline arithmetic on the published accounts)
+debtor days from printed Rs 49.9 Cr / per day = 188.60  (rounded-input cross-check)
+
+step 10 days: debtor days 188.7 -> 178.7 | clamp [0.0, 264.2] | cash released Rs 2.6458 Cr | carry 0
+PASS  no negative release (10d)  cash 2.6458
+PASS  interest = 0 (10d)  carry 0
+PASS  cross-check days x per day (10d)  2.645753 vs 2.645753
+PASS  valueOfADay agrees (10d)  2.645753
+
+step 30 days: debtor days 188.7 -> 158.7 | clamp [0.0, 264.2] | cash released Rs 7.9373 Cr | carry 0
+PASS  no negative release (30d)  cash 7.9373
+PASS  interest = 0 (30d)  carry 0
+PASS  cross-check days x per day (30d)  7.937260 vs 7.937260
+PASS  valueOfADay agrees (30d)  7.937260
+PASS  30d = 3 x 10d  7.9373 vs 7.9373
+PASS  payables never release cash  asked 200 days, held at 50, cash 0
+PASS  calc legs = receivable only  one lever
+PASS  basis match (both consolidated FY26)  consolidated FY26 vs consolidated FY26
+PASS  debtor days = 188.7  188.74
+PASS  printed Rs 49.9 Cr matches 4,993.50 lakh  49.935
+
+SUMMARY  per day Rs 0.26 Cr | 10 days Rs 2.65 Cr | 30 days Rs 7.94 Cr | interest 0
+ALL CHECKS PASSED

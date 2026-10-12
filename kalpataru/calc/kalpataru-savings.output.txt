@@ -1,0 +1,48 @@
+KPIL STANDALONE, KP-3 savings calculator. Rs crore. Basis AR FY26 (filed 22 Jun 2026).
+Per-day value = revenue 23,210.06 / 365 = 63.59 a day (valueOfADay)
+One day, interest a year at the 4% to 10% disclosed for WC facilities: 2.54 to 6.36
+Working-capital facilities drawn (cap on cash used for interest): 1,411.51
+
+SCENARIOS (rows overlap and are never added)
+id | scenario | days | cash released once | interest a year at 4% | at 10% | cash used for interest
+a | A 10-day step out of receivables plus contract assets | 10 | 635.89 | 25.44 | 63.59 | 635.89
+b | A 30-day step out of receivables plus contract assets | 30 | 1,907.68 | 56.46 | 141.15 | 1,411.51
+c | Undo the Q1 FY27 slip: standalone NWC 94 back to 90 days | 4 | 254.36 | 10.17 | 25.44 | 254.36
+d | Their own FY26 target "under 100 days" | MET at 90 (toTerms leaves it at 90; release 0.00). Not a savings scenario.
+Contract terms scenario: none. toTerms on the O2C legs returns {} because no payment or certification term is published.
+Rule 1 check: payables leg held at 103 days (min 0, max 103); asking for +30 days released 0.00.
+
+CHART VALUES, today and with Crestline (scenario, not a forecast)
+P1 receivables + contract assets, days of revenue (own formula, revenue basis)
+  FY23: 10,019.15 Cr = 255.1 days
+  FY24: 11,606.92 Cr = 252.8 days
+  FY25: 13,499.33 Cr = 260.9 days
+  FY26: 14,989.29 Cr = 235.7 days
+  with Crestline (a): 225.7 days, 14,353.40 Cr
+  with Crestline (b): 205.7 days, 13,081.61 Cr
+  split today: contract assets 111.4 days (7,083.61), receivables 124.3 days (7,905.68)
+P2 gross receivables overdue more than one year (ageing by due date)
+  FY24: 767.91 of 5,701.22 = 13.5%
+  FY25: 961.06 of 7,454.91 = 12.9%
+  FY26: 1,311.12 of 8,162.44 = 16.1%
+  with Crestline (a), if the 10-day step came from this bucket: 675.23 of 7,526.55 = 9.0%
+P3 operating cash flow against core EBITDA
+  FY23: CFO 559.38 | core EBITDA 1,161.54 | ratio 0.48 | PAT 531.95
+  FY24: CFO 713.61 | core EBITDA 1,365.25 | ratio 0.52 | PAT 533.00
+  FY25: CFO 837.07 | core EBITDA 1,586.99 | ratio 0.53 | PAT 647.95
+  FY26: CFO 764.46 | core EBITDA 2,028.68 | ratio 0.38 | PAT 831.75
+  FY26 vs FY25: CFO -8.7%, core EBITDA 27.8%, PAT 28.4%
+  with Crestline (a), one-off, if released inside the year: CFO 1,400.35, ratio 0.69
+P4 standalone NWC days (company figure)
+  year ends FY22..FY26: 121, 96, 99, 94, 90 | Q1 FY26 106 | Q1 FY27 94
+  Q1 FY27 vs Q4 FY26: +4 days; vs Q1 FY26: -12 days
+  with Crestline (c): 90 days, 254.36 Cr, interest 10.17 to 25.44 a year
+P5 payables to micro and small enterprises (current, BS)
+  FY23: 150.91 = 3.2% of trade payables 4,743.87
+  FY24: 222.45 = 4.2% of trade payables 5,351.57
+  FY25: 266.59 = 4.3% of trade payables 6,170.86
+  FY26: 432.39 = 6.6% of trade payables 6,550.11
+  FY26 vs FY25: +62.2%
+  FY26 billed MSME past due date: 41.02. With Crestline: paid on its due date, 41.02 of cash CONSUMED, never a saving.
+
+ASSERTS: all passed (A1 no negative release, A2 interest only at 4%..10%, A3 cap 1,411.51 (WC facilities), A4 priceLevers = simulate, A5 DPO never releases, A6 target met, A7 leg independence)

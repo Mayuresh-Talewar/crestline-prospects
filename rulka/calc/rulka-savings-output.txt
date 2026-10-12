@@ -1,0 +1,38 @@
+== Inputs (Rs Cr, AR26 standalone, closing basis) ==
+Revenue FY26: 110.20 | Receivables: 35.84 | Payables: 25.56
+DSO 118.69 | DIO 78.82 | DPO 110.46 | value of a day 0.3019 Cr (30.19 lakh)
+Terms passed: none. Interest rate passed: 0.
+
+== Clamp bounds read from leversFor ==
+dso: now 118.69, min 0.00, max 166.17, side theirs, target none
+dpo: now 110.46, min 0.00, max 110.46, side theirs, target none
+PASS  basis match: receivables / value of a day = 118.69 days vs DSO 118.69
+
+== Scenario: receivables 10 days faster ==
+Receivable days 118.69 to 108.69 (moved -10.00)
+Cash released once: Rs 3.02 Cr
+Receivables after: Rs 32.82 Cr
+Cash cycle 87.05 to 77.05 days
+Carry (interest) a year: 0.00
+PASS  no negative release: released 3.02
+PASS  interest = 0: simulate carry 0.00, lever carry 0.00
+PASS  independent cross-check: 10 x 110.20 / 365 = 3.02; DSO rebuilt from receivables after = 108.69
+
+== Scenario: receivables 30 days faster ==
+Receivable days 118.69 to 88.69 (moved -30.00)
+Cash released once: Rs 9.06 Cr
+Receivables after: Rs 26.78 Cr
+Cash cycle 87.05 to 57.05 days
+Carry (interest) a year: 0.00
+PASS  no negative release: released 9.06
+PASS  interest = 0: simulate carry 0.00, lever carry 0.00
+PASS  independent cross-check: 30 x 110.20 / 365 = 9.06; DSO rebuilt from receivables after = 88.69
+
+== Payables never release cash ==
+Asked DPO +10: held at 110.46, cash from payables 0.00
+PASS  payables never release cash: dpo cash 0.00
+Asked DPO +30: held at 110.46, cash from payables 0.00
+PASS  payables never release cash: dpo cash 0.00
+PASS  cycle matches RE-1: 87.05 vs 87.05
+
+ALL ASSERTS PASSED

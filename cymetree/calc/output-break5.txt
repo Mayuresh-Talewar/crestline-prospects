@@ -1,0 +1,26 @@
+Basis: FY25 operating income Rs 154.5 crore / 365
+Value of a day: Rs 0.4232876712328767 crore (carry at 0%: 0)
+cad 10 days: released Rs 4.2329 crore, carry 0
+PASS 1 no negative release cad 10: 4.232876712328767
+PASS 2 interest zero cad 10: 0
+PASS 3 cross-check days x per day cad 10: 4.232876712328767 vs 4.232876712328767
+FAIL 5 basis matches cad 10: 0.4232876712328767
+cad 30 days: released Rs 12.6986 crore, carry 0
+PASS 1 no negative release cad 30: 12.698630136986301
+PASS 2 interest zero cad 30: 0
+PASS 3 cross-check days x per day cad 30: 12.698630136986301 vs 12.698630136986301
+FAIL 5 basis matches cad 30: 0.4232876712328767
+dso 10 days: released Rs 4.2329 crore, carry 0
+PASS 1 no negative release dso 10: 4.232876712328767
+PASS 2 interest zero dso 10: 0
+PASS 3 cross-check days x per day dso 10: 4.232876712328767 vs 4.232876712328767
+FAIL 5 basis matches dso 10: 0.4232876712328767
+dso 30 days: released Rs 12.6986 crore, carry 0
+PASS 1 no negative release dso 30: 12.698630136986301
+PASS 2 interest zero dso 30: 0
+PASS 3 cross-check days x per day dso 30: 12.698630136986301 vs 12.698630136986301
+FAIL 5 basis matches dso 30: 0.4232876712328767
+PASS 4 payables never release cash: released 0
+PASS 4 payables shortened consumes, never releases: released -12.698630136986301
+10 days = Rs 4.23 crore; 30 days = Rs 12.70 crore; day = Rs 0.4233 crore
+4 FAILED

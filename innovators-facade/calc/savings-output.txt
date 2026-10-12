@@ -1,0 +1,45 @@
+INNOVATORS FACADE SYSTEMS IF-S23 savings calculator  (break mode: none)
+Basis: STANDALONE, AR 2025-26 (FY ending 31 Mar 2026), closing balances, Rs lakh converted to Rs crore. Scenario, not a forecast.
+Value of a day: revenue 22751.51 / 365 = Rs 62.33 lakh = Rs 0.62 cr (valueOfADay cash: 62.33 lakh, carry 0)
+Materials consumed per day: 11844.29 / 365 = Rs 32.45 lakh = Rs 0.32 cr
+
+---- Day measures, every year (closing balance / base x 365) ----
+FY23: DSO 69.6 | contract-asset days 37.1 | DIO 311.9 | DPO 162.3 | CCC 256.3 | operating WC Rs 7661.16 lakh = 76.61 cr | cash and bank 15.82 cr | cash from operations 17.76 cr
+FY24: DSO 62.5 | contract-asset days 29.8 | DIO 229.6 | DPO 175.4 | CCC 146.5 | operating WC Rs 7758.56 lakh = 77.59 cr | cash and bank 23.91 cr | cash from operations 35.46 cr
+FY25: DSO 90.2 | contract-asset days 37.7 | DIO 182.7 | DPO 111.1 | CCC 199.6 | operating WC Rs 10261.90 lakh = 102.62 cr | cash and bank 31.06 cr | cash from operations 4.74 cr
+FY26: DSO 67.2 | contract-asset days 68.0 | DIO 271.1 | DPO 152.8 | CCC 253.5 | operating WC Rs 10851.24 lakh = 108.51 cr | cash and bank 40.54 cr | cash from operations 41.82 cr
+Printed day figures reproduce to one decimal in all four years.
+
+---- Single legs: 10 and 30 days off, one lever at a time (simulate) ----
+Unbilled work (certification wait), 10 days off: 68.01 to 58.01 days | cash released once Rs 623.33 lakh = Rs 6.23 cr | cycle 253.5 to 243.5 days | carry 0 | priceLevers cash 6.23 cr | side: ours
+Unbilled work (certification wait), 30 days off: 68.01 to 38.01 days | cash released once Rs 1869.99 lakh = Rs 18.70 cr | cycle 253.5 to 223.5 days | carry 0 | priceLevers cash 18.70 cr | side: ours
+Receivables (collection), 10 days off: 67.24 to 57.24 days | cash released once Rs 623.33 lakh = Rs 6.23 cr | cycle 253.5 to 243.5 days | carry 0 | priceLevers cash 6.23 cr | side: theirs
+Receivables (collection), 30 days off: 67.24 to 37.24 days | cash released once Rs 1869.99 lakh = Rs 18.70 cr | cycle 253.5 to 223.5 days | carry 0 | priceLevers cash 18.70 cr | side: theirs
+Project materials (stock), 10 days off: 271.08 to 261.08 days | cash released once Rs 324.50 lakh = Rs 3.25 cr | cycle 253.5 to 243.5 days | carry 0 | priceLevers cash 3.25 cr | side: ours
+Project materials (stock), 30 days off: 271.08 to 241.08 days | cash released once Rs 973.50 lakh = Rs 9.74 cr | cycle 253.5 to 223.5 days | carry 0 | priceLevers cash 9.74 cr | side: ours
+
+---- Combined: ONE simulate run, all three legs moved together (not a sum of rows) ----
+All three, 10 days each: cash released once Rs 1571.16 lakh = Rs 15.71 cr | cycle 253.5 to 223.5 days | DPO leg moved 0.00 days, cash 0.00 | carry 0
+All three, 30 days each: cash released once Rs 4713.48 lakh = Rs 47.13 cr | cycle 253.5 to 163.5 days | DPO leg moved 0.00 days, cash 0.00 | carry 0
+
+Vendor credit guard: asked +10 days, moved 0.00, cash 0.00 lakh. Terms published: none. Never priced.
+toTerms: {} (no certification window, no payment term, no vendor term published)
+
+---- Ranking: by cash released once (priceLevers cannot rank here, see lever-table.md) ----
+1. Unbilled work (certification wait): Rs 6.23 cr per 10 days (Rs 18.70 cr per 30 days)
+2. Receivables (collection): Rs 6.23 cr per 10 days (Rs 18.70 cr per 30 days)
+3. Project materials (stock): Rs 3.25 cr per 10 days (Rs 9.74 cr per 30 days)
+Tie at the top: certification and collection are both priced at revenue per day. Certification is ours to move, collection is the client's.
+
+---- Chart 1 data: the cash cycle, FY26 ----
+Position: project materials 271.1 | built, waiting to be certified 68.0 | billed, waiting to be paid 67.2 | vendor credit 152.8 | cycle 253.5
+Simulate, ten days less on each of the three legs (one run): cycle 223.5 days, Rs 15.71 cr released once
+Simulate, thirty days less on each of the three legs (one run): cycle 163.5 days, Rs 47.13 cr released once
+
+---- Chart 2 data: balances ranked by size, FY26, Rs cr (no cost figure) ----
+Project materials held (inventories): 87.97
+Trade payables: 63.76
+Unbilled revenue (contract asset): 42.39
+Trade receivables: 41.91
+
+---- Assert summary: no negative release, interest 0, independent cross-check, payables never release cash, basis matches: all passed ----

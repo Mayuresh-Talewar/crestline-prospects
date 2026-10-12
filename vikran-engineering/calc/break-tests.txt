@@ -1,0 +1,20 @@
+--- BREAK=1 (exit 1 expected)
+FAIL  no negative release [dso10]  released 34.23
+FAIL  no negative release [dso30]  released 102.68
+FAIL  no negative release [dsoT]  released 836.96
+--- BREAK=2 (exit 1 expected)
+FAIL  interest = 0 [dso10]  carry 0
+FAIL  interest = 0 [dso30]  carry 0
+FAIL  interest = 0 [dsoT]  carry 0
+--- BREAK=3 (exit 1 expected)
+FAIL  cross-check days x per day vs simulate [dso10]  34.73 vs 34.23
+--- BREAK=4 (exit 1 expected)
+FAIL  payables never release cash: no vendor lever exists  released 0
+--- BREAK=5 (exit 1 expected)
+FAIL  collection and certification both priced at revenue per day
+--- BREAK=6 (exit 1 expected)
+FAIL  published days reproduce: DSO 304.5, CAD 252.4, DIO 31.8
+--- BREAK=7 (exit 1 expected)
+FAIL  collection cannot go below the 60-day term (request 20 clamps to 60)  next 60
+--- BREAK=8 (exit 1 expected)
+FAIL  combined run equals independent arithmetic  93.61 vs 93.61

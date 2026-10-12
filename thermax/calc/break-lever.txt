@@ -1,0 +1,31 @@
+THERMAX TH-3 savings calculator  (break mode: lever)
+Basis: Industrial Infra SEGMENT, consolidated segment note, AR26 vintage. Rs crore.
+Value of a day = 4348.05 / 365 = Rs 11.91 cr
+(Footnote only: Q1 FY27 recast revenue 4088.34 would give Rs 11.20 cr; not used, never mixed.)
+Simulator opening (headroom only, not printed): segment assets 2490.28 / 11.91 = 209.05 days
+Financing rate passed: 0% (no interest printed)
+
+Scenario (a): a 10-day step. Rows overlap; never added.
+node:internal/modules/run_main:123
+    triggerUncaughtException(
+    ^
+
+AssertionError [ERR_ASSERTION]: priceLevers cash must equal simulate cash
+    at run (C:\Users\asus\Desktop\process-automation-crestline\scripts\_tmp-thermax-savings.ts:91:10)
+    at assert (C:\Users\asus\Desktop\process-automation-crestline\scripts\_tmp-thermax-savings.ts:124:27)
+    at Object.<anonymous> (C:\Users\asus\Desktop\process-automation-crestline\scripts\_tmp-thermax-savings.ts:151:33)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object.transformer (C:\Users\asus\Desktop\process-automation-crestline\node_modules\tsx\dist\register-OY9cqBEN.cjs:9:3619)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function._load (node:internal/modules/cjs/loader:1282:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at cjsLoader (node:internal/modules/esm/translators:266:5) {
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: false,
+  expected: true,
+  operator: '=='
+}
+
+Node.js v22.17.0

@@ -1,0 +1,512 @@
+                                                          KEC INTERNATIONAL LTD.
+                                                          RPG House
+                                                          463, Dr. Annie Besant Road
+                                                          Worli, Mumbai 400030, India
+                                                          +91 22 66670200
+                                                          kecindia@kecrpg.com
+                                                          www.kecrpg.com
+
+July 26, 2024
+
+National Stock Exchange of India Limited                  BSE Limited
+Exchange Plaza                                            Phiroze Jeejeebhoy Towers
+Bandra Kurla Complex                                      Dalal Street, Fort
+Bandra (East), Mumbai - 400 051                           Mumbai ­ 400 001
+
+Symbol: KEC                                               Scrip Code: 532714
+
+Dear Sir/Madam,
+
+Ref: Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+       Regulations, 2015
+
+Subject: Investor Presentation ­ Financial Results
+
+Please find enclosed herewith the Investor Presentation on the Unaudited Financial Results of
+the Company for the quarter ended on June 30, 2024.
+
+The above is for your information and records.
+
+Thanking you,
+
+Yours sincerely,
+For KEC International Limited
+
+Rajeev  Digitally signed by
+        Rajeev Aggarwal
+
+Aggarwal Date: 2024.07.26
+                        21:23:21 +05'30'
+
+Rajeev Aggarwal
+Chief Financial Officer
+
+Encl: as above
+
+Registered Office: RPG House, 463, Dr. Annie Besant Road  An                         Company
+Worli, Mumbai 400030, CIN: L45200MH2005PLC152061, India.
+                    KEC International Limited
+
+                                Investor Presentation ­ Q1 FY25
+
+                                                                                          26 July 2024
+
+Power T & D  Civil  Railways  Oil & Gas Pipelines  Renewables  Cables
+Disclaimer
+
+This presentation may include statements which may constitute forward-looking statements. All statements that address expectations or projections about the future,
+including, but not limited to, statements about the strategy for growth, business development, market position, expenditures, and financial results, are forward looking
+statements. Forward looking statements are based on certain assumptions and expectations of future events and involves known and unknown risks, uncertainties and
+other factors. The Company cannot guarantee that these assumptions and expectations are accurate or exhaustive or will be realised. The actual results, performance or
+achievements, could thus differ materially from those projected in any such forward-looking statements. No obligation is assumed by the Company to update the forward-
+looking statements contained herein.
+
+The information contained in these materials has not been independently verified. None of the Company, its Directors, Promoter or affiliates, nor any of its or their
+respective employees, advisers or representatives or any other person accepts any responsibility or liability whatsoever, whether arising in tort, contract or otherwise, for
+any errors, omissions or inaccuracies in such information or opinions or for any loss, cost or damage suffered or incurred howsoever arising, directly or indirectly, from any
+use of this document or its contents or otherwise in connection with this document, and makes no representation or warranty, express or implied, for the contents of this
+document including its accuracy, fairness, completeness or verification or for any other statement made or purported to be made by any of them, or on behalf of them, and
+nothing in this document or at this presentation shall be relied upon as a promise or representation in this respect, whether as to the past or the future. The information and
+opinions contained in this presentation are current, and if not stated otherwise, as of the date of this presentation. The Company relies on information obtained from sources
+believed to be reliable but does not guarantee its accuracy or completeness. The Company undertake no obligation to update or revise any information or the opinions
+expressed in this presentation as a result of new information, future events or otherwise. Any opinions or information expressed in this presentation are subject to change
+without notice.
+
+This presentation does not constitute or form part of any offer or invitation or inducement to sell or issue, or any solicitation of any offer to purchase or subscribe for, any
+securities of KEC International Limited (the "Company"), nor shall it or any part of it or the fact of its distribution form the basis of, or be relied on in connection with, any
+contract or commitment or to be relied in connection with an investment decision in relation to the securities of the Company therefore any person/ party intending to provide
+finance / invest in the shares/businesses of the Company shall do so after seeking their own professional advice and after carrying out their own due diligence procedure to
+ensure that they are making an informed decision. Neither the delivery of this document nor any further discussions by the Company with any of the recipients shall, under
+any circumstances, create any implication that there has been no change in the affairs of the Company since that date. This presentation is strictly confidential and may not
+be copied or disseminated, in whole or in part, and in any manner or for any purpose. No person is authorized to give any information or to make any representation not
+contained in or inconsistent with this presentation and if given or made, such information or representation must not be relied upon as having been authorized by any
+person. Failure to comply with this restriction may constitute a violation of the applicable securities laws. The distribution of this document in certain jurisdictions may be
+restricted by law and persons into whose possession this presentation comes should inform themselves about and observe any such restrictions. By participating in this
+presentation or by accepting any copy of the slides presented, you agree to be bound by the foregoing limitations.
+
+                                                                                                                                                                                                                                                                                                                   2
+765kV Digital Substation project at Navsari, Gujarat           1
+                                                         Overview ­
+                                                        RPG Group &
+                                                      KEC International
+
+                                                                                                                                              3
+RPG Group: Powered by Passion, Driven by Ethics
+
+UNLEASHTALENT      RPG Enterprises was founded in 1979. The group currently operates various businesses in Infrastructure,
+  TOUCHLIVES       Technology, Life Sciences, Plantations and Tyre industries. The group has business history dating back to
+ OUTPERFORM        1820 AD in banking, textiles, jute and tea. The Group grew in size and strength with several acquisitions
+      AND          in the 1980s and 1990s. RPG Group is one of India's fastest growing conglomerates with 31,000+
+                   employees, presence in 135+ countries and annual gross revenues of USD 4.8 Bn
+
+  EPC major in     One of India's        Global           Integrated     Technology     One of India's
+ infrastructure     leading tyre      technology      pharma company      solutions         largest
+  segments like    manufacturers   consulting and IT   in formulations    company
+T&D, Civil, Urban                                                        catering to      plantation
+ Infrastructure                         services        and synthetic    energy and       companies
+ Railways, Oil &                       company                APIs      infrastructure  producing tea,
+Gas, Renewables                                                                          rubber, etc.
+
+     & Cables                                                                                                                       4
+KEC International : Building Infrastructure for the World of Tomorrow
+
+ 7+              FOOTPRINT IN  300+         $2.4         83         7500+ 40+
+
+DECADES         110+               ONGOING  BILLION      HAPPINESS  EMPLOYEES   NATIONALITIES
+                                                            SCORE
+                 COUNTRIES        PROJECTS   GLOBAL EPC
+                                                 MAJOR
+
+Transmission    Civil          Urban Infra  Railways     Oil & Gas  Renewables  Cables
+& Distribution
+                                                                                                       5
+Diverse Portfolio of Offerings
+
+Transmission Lines  Factories              Underground Cabling  Water                 Airports             Hospitals
+
+Substations         Residential Buildings  S&T                  Metros ­ Civil        Metros - Tech        Commercial Buildings
+
+OHE                 Track Laying           Railway Bridges      Data Centre           TCAS - Kavach        Automatic Signalling
+
+Solar               Tunnel Ventilation     Warehouses           Defence               Speed Upgradation    Converter Stations
+
+Cables              Depot & Workshops      Smart City           Stations & Platforms  Oil & Gas Pipelines  Logistics
+
+                                                                                                                                      6
+Board of Directors
+
+                                                         H. V. Goenka
+                                            Chairman, Non Executive Director
+
+  Vimal Kejriwal          Arvind Singh      M.S. Unnikrishnan          Neera Saggi         Nirupama Rao
+Managing Director         Non Executive         Non Executive         Non Executive         Non Executive
+                      Independent Director                        Independent Director  Independent Director
+       & CEO                                Independent Director
+
+   Shirish Sankhe        Vikram Gandhi      Vimal Bhandari  Vinayak Chatterjee  D. G.Piramal*                       S. M. Trehan*
+    Non Executive         Non Executive                                                                             Non Executive
+Independent Director  Independent Director  Non Executive   Non-Executive       Non Executive                   Independent Director
+
+                                            Independent Director Non-Independent Director Independent Director
+
+*Mr. D.G. Piramal and Mr. S.M. Trehan will cease to be Directors with effect from 28 July 2024
+
+                                                                                                                                                                                                                                                                                                 7
+Management Team
+
+                                                                         Vimal Kejriwal
+                                                                  Managing Director & CEO
+
+          Rajeev Agarwal                       Milind Apte          Anand Kulkarni            Neeraj Nanda          Ganesh Srinivasan
+       Chief Financial Officer                 Chief Human        Executive Director -          President -               President ­
+                                            Resources Officer     Business Operations                                          T&D
+                                                                                           Emerging Business
+
+Nagesh Veeturi        Kaushal Kodesia       Manjit Singh Sethi    Mayank Agrawal           Sanjeev Agrawal          Rakesh Gaur           Rajinder Gupta
+
+Executive Director -  Executive Director -  Executive Director ­  Chief Executive -     ED ­ International T&D      CEO - SAE & ED ­ T&D  Chief Executive ­
+
+Civil                 Railways              Cables                Oil & Gas Pipelines   (Middle East, EAP & SAARC)  (Africa & CIS)        T&D (India & Sri Lanka)  8
+                     2
+                    Key
+              Performance
+                Highlights
+
+Cement silo for Ultratech Cement at Dhar, Madhya Prade9sh
+Financial Highlights Q1 FY25 ­ Healthy Performance
+
+Revenues                       EBITDA                           PAT                              Order Intake
+
+6%                                   20%                            107%                         70%
+YoY                                  YoY                             YoY                         YoY
+
+4,512 Cr                       % 6.5%                           % 1.9%                           7,664 Cr
+                                       294 Cr                           88 Cr
+
+ Delivering consistent growth  Sequential improvement in         Robust growth in bottom line     YTD order intake growth of
+                                                                    - PAT grows more than two        over 70% YoY with inflows of
+in Revenues                    EBITDA margin quarter on             times                            Rs. 7,664 Cr ­ Contributed by
+                                                                                                     T&D, Civil, Renewables,
+ Acute shortage of manpower    quarter over the last seven       PAT margins have increased          Railways and Cables
+                               quarters                             by 90 bps to 1.9% from 1.0%
+owing to workers returning                                          in Q1 FY24                    Highest ever Order Book + L1
+to their native places during   EBITDA margins have                                                  Pipeline of over Rs. 42,000 Cr
+the elections impacted             increased by 70 bps to 6.5%
+Revenues                           from 5.8% in Q1 FY24                                                                                                                   10
+Improving Trajectory of Quarterly Performance
+
+          Revenue ( Crore)                                EBITDA ( Crore) and EBITDA Margin (%)
+
+          Q1 Revenue CAGR of 17%                          EBITDA Margins Improved by 140 bps; CAGR 32%
+
+          4,244                   4,512                                     6.5%
+                                                                            294
+3,318                                                     5.1%     5.8%
+                                                          168      244
+
+Q1 FY23   Q1 FY24                 Q1 FY25                 Q1 FY23  Q1 FY24  Q1 FY25
+
+            Order Intake ( Crore)                                PAT ( Crore) and PAT Margin (%)
+
+          Q1 Order Intake CAGR of 50%                     PAT Margins Improved by 100 bps; CAGR 68%
+
+                                                   7,664                                                      1.9%
+
+3,472     4,497                                            0.9%     1.0%
+                                                             31       42
+YTD FY23  YTD FY24                YTD FY25                                     88
+                                                          Q1 FY23  Q1 FY24
+                                                                            Q1 FY25
+
+                                                                                                                   11
+Key Business Highlights ­ Q1 FY25
+
+                     T&D                                                Civil                                         Railways
+
+· Revenues of Rs. 2,499 Cr, strong growth of     · Revenues of Rs. 1,059 Cr, a growth of 11%     · Revenues of Rs. 471 Cr for the quarter
+ 17% YoY                                          YoY                                            · Secured new orders of over Rs. 500 Cr in the
+· Significant traction in order intake with a    · Order intake of over Rs. 1,000 Cr in the       conventional and emerging areas of metros
+ staggering growth of over two times and          residential building and Defence segments      · Focus on fast-tracking completion of
+ new orders of ~Rs. 5,000 Cr                     · Largest order in the residential building      existing projects, optimizing working capital
+· Record order book & L1 of over Rs. 26,500 Cr    segment, marking entry in NCR                   and selectively bidding for opportunities in
+ across India, Middle East, SAARC, Africa,       · Strong order book of ~Rs. 10,000 Cr            India as well as international
+ Americas, East Asia Pacific, CIS and Australia
+
+                   Oil & Gas                                        Renewables                                        Cables
+
+· Revenues of Rs. 126 Cr with a growth of        · Secured its largest order for BOS Package of  · Revenues of Rs. 363 Cr for the quarter
+ 21% YoY                                          a 625 MWp Solar PV project in Rajasthan        · Progressing well on setting up the fully
+· Commenced execution of its first               · Enhanced Order book to over Rs. 1,300 Cr       integrated manufacturing line for Aluminium
+ international project in Africa                 · Focus is on building future growth engines     conductors, already secured orders for the
+· Sustained focus on enhancing pre-               in other areas of energy transition, such as    same
+ qualifications to expand the size of             Wind and Green Hydrogen                        · Obtained UL approvals for cable exports to
+ addressable market                                                                               the US, which is expected to drive additional
+                                                                                                  growth in the future
+
+                                                                                                                                                                                           12
+       3
+
+  Financial
+Performance
+
+             Ballastless Track Works at Ahmedabad Metro Project
+                                                                                                                                                    13
+Profit and Loss Summary
+
+                Particulars  Q1 FY25  Consolidated  Growth                                 Q1 FY25  Standalone  Growth   ( crore)
+Revenues                      4,512     Q1 FY24     (Y-o-Y)                                 3,888     Q1 FY24   (Y-o-Y)
+                                         4,244                                                         3,701                                14
+                                                      6%                                                          5%
+                                                                                                        169       17%
+EBITDA*                      294      244           20%                                    198          4.6%
+EBITDA Margins                                                                             5.1%                   1%
+(+) Other Income             6.5%     5.8%                                                  20            4      693%
+(-) Depreciation                                                                            38           33
+(-) Interest                 19       3                                                    137          135      752%
+Interest as % to sales                                                                     3.5%         3.7%
+                             47       42
+                                                                                                          5
+                             155      159           -2%                                                 0.1%
+
+                             3.4%     3.7%                                                                2
+                                                                                                       30.5%
+PBT                          112       47           140%                                    43
+PBT Margins                  2.5%     1.1%                                                 1.1%           4
+                                                                                                        0.1%
+Tax                            24       4                                                    11
+Tax Rate %                   21.8%    9.4%                                                 25.4%
+
+PAT                           88       42           107%                                    32
+PAT Margins                  1.9%     1.0%                                                 0.8%
+
+*EBITDA for Q1 FY25 includes an amount of Rs. 24 Cr received towards an arbitration award
+Businesswise Revenue Performance (Consolidated)
+
+                  Particulars    Q1 FY25  Q1 FY24  Growth   ( crore)
+                                                   (Y-o-Y)
+T&D:                              2,499    2,140                               15
+ - T&D (KEC)                      2,153    1,831     17%
+  - SAE Towers                     346      309      18%
+                                                     12%
+
+Non T&D:                         2,092    2,260    -7%
+  - Civil                        1,059     955     11%
+  - Railways                      471      764     -38%
+  - Oil & Gas Pipelines           126      104     21%
+  - Cables                        363      389     -7%
+  - Others*                                49      50%
+                                  73
+
+Inter SBU:                       -79      -156
+Total Net Sales
+T&D Share                        4,512    4,244    6%
+Non T&D Share
+ *Others include Solar/ Cabling  55%      50%
+
+                                 45%      50%
+Borrowings & Working Capital (Consolidated)
+
+                                                                                  ( crore)
+
+Particulars     30-Jun-24 30-Jun-23            Increase/   31-Mar-24  Increase/
+                                               (Decrease)             (Decrease)
+
+I) Net Debt     3,973                   3,699  273         3,553      420
+
+II) Interest Bearing Acceptances 1,624  2,015  -391        1,537      87
+
+Total (I + II)  5,596                   5,714  -117        5,090      507
+
+ Net debt including acceptances stand at Rs. 5,596 Cr as of Jun 30, 2024, a reduction of more than Rs. 100 Cr vis-à-vis Jun 30, 2023,
+    despite a Revenue growth of ~Rs 2,000 Cr, i.e., 11% in trailing 12 months
+
+ Net Working Capital (NWC) stands at 122 days as on 30th Jun'24 vis-à-vis 119 days as on 30th Jun'23. We continue to focus on below
+    initiatives to optimize working capital:
+
+       Monitoring of working capital through daily/weekly war rooms
+       Setting up Cross Functional teams for collection of high value AR especially retention
+       Concerted efforts on expediting commercial closure of projects
+       Enhancing digitalisation efforts
+
+                                                                                                                                                                                                                                                                                                                 16
+Order Intake & Order Book (Consolidated)
+
+    Order Intake ­ YTD FY25                            Order Book ­ YTD FY25
+
+                  T&D : 57%  SAE : 8%                                     T&D: 48%    SAE : 3%
+
+              4%                                                    2%2%
+    11%                                                       4%
+                                                       10%
+7%
+
+                 Order Intake                          Order Book
+                 Rs 7,664 Cr.
+              (Growth of 70%)                          Rs 32,715 Cr.                  51%
+
+13%                                               31%
+                                             65%
+
+T&D Civil Railways Renewables Cables              T&D Civil Railways Renewables Cables Oil & Gas
+
+Domestic : 67% International : 33%                Domestic : 74% International : 26%
+
+                           Highest ever Order Book + L1 of over Rs 42,000 Crore
+                   Tenders under Evaluation and in Pipeline of over Rs. 1,50,000 Crore
+
+                                                                                                                                                                                                                                                         17
+Infrastructure Sector ­ A Multi Decadal Opportunity
+
+T&D                        Civil                        Urban                 Renewables              Railways
+                                                    Infrastructure
+
+· Large opportunities      · Real estate boom:      · Infrastructure          · India's ambition to   · Highest-ever
+  owing to generation        Residential and          development key for       achieve 500 GW of       allocation of INR 2.5
+  capacity addition,         commercial               India's US$ 5 trillion    renewable energy        Lakh Crore in budget
+  rising adoption of                                  economy vision            capacity by 2030
+  renewables &             · Increasing allocation                                                    · Govt.'s focus on
+  upgradation of grid        for Jal Jeevan         · Infra spend estimated   · Globally, renewable     increasing capacity,
+  infrastructure             Mission (Rural as        to be Rs. 143 bn          energy share to         speed & safety by
+                             well as Urban) of        between FY24-30           increase from 28% in    upgradation of OHE
+· Investments of Rs.         Government for                                     2021 to 38% in 2027     network and
+  4.75 lac Cr. by 2027 to    water supply           · Substantial                                       implementation of
+  develop transmission                                investments planned     · Market becoming         Automatic Block
+  network in India         · Massive investments      across Metros, High       more conducive for      Signalling and
+                             in Data Centres          Speed Rail, Airports,     EPC players             Kavach technologies
+· Significant uptick in                               Ports, Roads,
+  international markets    · PLI scheme, China+1      Highways, etc.          · Substantial           · International
+  ­ Middle East,             Strategy driving                                   opportunities in        opportunities
+  Americas, Africa,          industrial                                         Solar, Wind and
+  SAARC, EAP, CIS            opportunities                                      Green Hydrogen                                                        18
+             4
+    Environmental,
+
+       Social and
+      Governance
+
+          (ESG)
+
+Pehlay Akshar Schooling
+ESG & Sustainability Goals and Status
+
+               Happiness                         Diversity &                    Occupational                    Corporate Social
+               Quotient                           Inclusion                   Heath & Safety                     Responsibility
+
+Target: Increase Happiness      Target: Increase in diversity by  Target: Work towards the        Target: Reach 2 lac CSR
+Quotient to 85% by FY26         25% by FY26                       goal of achieving Zero           beneficiaries by FY 26
+                                                                  accidents
+Status:                         Status:                                                           Status:
+Happiness Quotient for FY24     Diversity has increased by 31%    Status:                         CSR beneficiaries for FY24 are 3.2
+has increased to 83% vis-à-vis  in FY24 vis-à-vis FY21            LTIFR has reduced to 0.22 in    lakh
+80% for FY21                                                      FY24 vis-à-vis 0.68 in FY21, a
+                                                                  reduction of 68%
+
+           Circularity           Water Positive                  Energy                  Carbon                  Sustainable
+                                    Approach                 Consumption                Emission                Procurement
+Target: Zero waste to
+landfill by FY 26 for   Target: Reduce water      Target: Reduce energy     Target: Reduce           Target: 100% of key
+manufacturing plants    consumption intensity in  consumption intensity of  Greenhouse Gas (GHG)     suppliers to be assessed
+                        manufacturing plants by   manufacturing plants by   emissions intensity of   under ESG criteria by
+Status:                 20% by FY26               15% by FY26               manufacturing plants by  FY23
+Waste to landfill has                                                       20% by FY26
+reduced by 53% in FY24  Status:                   Status:                                            Status:
+vis-à-vis FY21          Water consumption         Energy consumption        Status:                  100% of key suppliers
+                        intensity has reduced by  intensity has reduced by  GHG emission intensity   assessed under ESG Criteria
+                        20% in FY24 vis-à-vis     28% in FY24 vis-à-vis     has reduced by 25% in
+                        FY21                      FY21                      FY24 vis-à-vis FY21                                                                    20
+Sustainability Roadmap ­ Key Initiatives and Approach
+
+Happiness       · Launched a holistic wellness initiative, KECARES, for  Circularity      · Established zero-based material consumption
+Quotient         employees                                                                 guidelines
+
+                · Introduced the Project Management Excellence                            · Using rejected concrete in casting, crash barriers,
+                 certification program in collaboration with NICMAR                        and gardening brick walls
+                 to enhance project managers' proficiency
+
+Diversity &     · Specialised programs such as Women                     Water Positive   · Implemented 26 structures across plants to capture
+ Inclusion       Mentoring and Womenocity provide valuable                  Approach       and reuse rainwater, replenishing groundwater
+                 insights and support to our female employees
+Occupational                                                                              · Enhancing water efficiency onsite by collecting
+   Heath &      · 100+ female Engineering leadership trainees                              water from batching plants and reusing them for
+    Safety       hired last year                                                           dust suppression.
+
+                · EHS Minimum Mandatory Requirements (MMR)               Decarbonisation  Reducing energy consumption & carbon emission
+                  have been revised and are implemented                                   · Procuring green energy through open access in
+
+                · EHS digital transformation initiatives - QR code                         Vadodara and Mysuru
+                  Safety Induction Feedback & EHS Assessment
+                  scoresheet                                                              · Utilizing biofuels as an alternative to diesel
+
+  Corporate     · Swayam Farm: 500 farmers are undergoing                                     · Formulated the Code of Conduct (CoC) based on
+     Social      organic cultivation process training in Katol,          Sustainable sustainability / ESG criteria
+                 Nagpur                                                  Procurement · Formulated Sustainable Procurement Policy
+Responsibility
+                · Illumination of religious buildings, signage                                                                                                                                                        21
+                 installation, and installation of artificial reefs
+Transmission line in Saudi Arabia          5
+                                    Key Strategic
+                                   Developments
+
+                                                                                                                        22
+Subsidiarisation of Cables Business
+
+· Cables business has achieved a significant uptick in performance          To capitalize on this strong performance and
+     over last few years with highest ever Revenues, Profitability and    market potential, and bring sharper focus to our
+     Order Intake in FY24
+                                                                                     cables business, we intend to:
+· Continuous capex being invested into the business will result in
+     increase in scale and size of business                                    `Transfer the Cable business into a
+                                                                               subsidiary without any dilution of
+· The cable industry is set for significant growth, projected to grow at     economic interest of the stakeholders'
+     a CAGR of 10%+ till FY28, driven by government infrastructure
+     investments, green energy initiatives, and rising demand in real
+     estate and industrial sectors
+
+ EPC and Cables businesses have different risk and return profiles
+ The strong credit profile of the Cable Business will enable it to secure funding at more favorable terms
+ Enable optimal capital allocation and value unlocking for stakeholders
+ Realignment will drive continued growth for the Cables business in both Revenue & Profitability
+
+                                                                                                                                                                                                                                                                                                                 23
+Seize the Future
+
+                                               Our Aspirations
+
+Amongst the Top 3 in    Well Diversified with  Industry Leading              Resilient   Sustainable Value
+the Infrastructure EPC  Multiple Engines of    Profitable Growth          Balance Sheet   Creation for all
+                                                                                            Stakeholders
+        Industry                Growth
+
+                                                                Enablers
+
+                      Organic Opportunities                                          Inorganic Opportunities
+
+· Sustained focus on Profitable growth in Existing businesses:  · Leapfrog growth
+
+      o Maintain leadership position in mature businesses       · Broaden the addressable market and client base
+           such as T&D, Civil and Railways
+                                                                · Expand Geographical footprint
+      o Enhance capabilities in emerging businesses such as
+           Renewables (Solar, Wind & Green Hydrogen)            · Acquire Pre-Qualifications, specialised skills, technical know-
+                                                                    how, experienced manpower & best in class equipment for
+      o Scale up Cables business                                    complex/ large projects
+
+      o Build Pre-Qualifications for addressing the complex/
+           large projects
+
+                         Explore avenues of Organic and Inorganic growth
+
+ Well Positioned to Seize the Multi Decadal Opportunities for Exponential Growth                                                   24
+Follow us on:                                         THANK YOU
+
+               A logo of a camera                   Global Footprint in
+               Description automatically generated    110+ countries*
+
+                                                              *Includes EPC and Supply
+
+                                                                                                              Registered Office
+                                                    RPG House, 463, Dr. Annie Besant Road, Worli, Mumbai - 400 030.
+
+                                                                Phone: +91-22-6667 0200 Email: kecindia@kecrpg.com
+                                                                                                                       www.kecrpg.com
+

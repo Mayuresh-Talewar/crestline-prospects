@@ -1,0 +1,1 @@
+Filed 2026-10-09 AS IS on client order: p8 'e.g.' stage days and EXAMPLE cause box not fixed (fix-p8-prompt.md in scon-projects/).

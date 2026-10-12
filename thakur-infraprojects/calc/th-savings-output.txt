@@ -1,0 +1,12 @@
+levers the simulator can move: dso now 42 min 0 max 72
+value of a day: 2.0172 Cr (736.28 / 365); carry per day at 0%: 0
+DSO 42 -> 32 (10 days less): released Rs 20.1721 Cr once; cycle 42 -> 32; carry 0
+DSO 42 -> 12 (30 days less): released Rs 60.5162 Cr once; cycle 42 -> 12; carry 0
+clamp check: asked 500, taken to 72 (bound 72)
+priceLevers: action-collection cash 20.1721 carry 0
+
+SUMMARY (Rs crore, Crestline's arithmetic on the published accounts, scenario not a forecast)
+DSO 10 days less: DSO 42 -> 32; cycle 42 -> 32; cash released once 20.17
+DSO 30 days less: DSO 42 -> 12; cycle 42 -> 12; cash released once 60.52
+GCA 194 days is Infomerics' own figure: not priced, not added.
+ALL ASSERTS PASSED

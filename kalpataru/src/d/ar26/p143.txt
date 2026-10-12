@@ -1,0 +1,93 @@
+Financial Statements                                                                                                                           Standalone Statement of Profit and Loss
+
+Standalone Balance Sheet                                                                                                                       for the year ended 31st March, 2026
+
+as at 31st March, 2026
+
+Particulars                                                                            Note                     As at        (H in Crores)     Particulars                                                              Note    For the Year ended                   (H in Crores)
+                                                                                               31st March, 2026                         As at                                                                            23         31st March, 2026       For the Year ended
+ASSETS                                                                              5 (a) (i)                                                  Revenue from Operations                                                   24                23,210.06
+       Non-Current Assets                                                          5(b) & 46            2,278.08       31st March, 2025        Other Income                                                              25                    233.46          31st March, 2025
+       (a) Property, Plant and Equipment                                                                    68.27                              TOTAL INCOME                                                              26               23,443.52                    18,887.91
+       (b) Capital Work in Progress                                                     52                  20.07                1,782.50      EXPENSES                                                                  35                                                 97.94
+       (c) Goodwill                                                                5 (a) (ii)                 4.48                  26.47      Cost of Materials Consumed                                                 27                8,338.26
+       (d) Other Intangible Assets                                                                         178.03                   20.07      Changes in Inventories of Finished goods and Work in Progress             28                    (57.62)               18,985.85
+       (e) Right of Use Assets                                                          36                                             8.21    Erection, Sub-Contracting and other Project Expenses                       5
+       (f) Financial Assets                                                                               675.00                    101.64     Employee Benefits Expense                                                 29                 9,502.39                   7,655.20
+              (i)Investments                                                           6 (i)                66.27                              Finance Costs                                                             56                   1,818.40                      (3.73)
+              (ii)Trade Receivables                                                    7 (i)                                      1,012.86     Depreciation and Amortization Expense                                                           368.03
+              (iii)Loans                                                               8 (i)              288.05                    80.50      Other Expenses                                                            34                    394.83                   7,087.84
+              (iv)Others                                                               9 (i)               273.45                  337.87      TOTAL EXPENSES                                                          1 to 60               1,579.95                    1,395.51
+       (g) Deferred Tax Assets (net)                                                                       158.28                              PROFIT BEFORE EXCEPTIONAL ITEMS AND TAX                                                                                    380.65
+       (h) Other Non-Current Assets                                                     10                                        285.90       Exceptional Items - Gain / (Loss)                                                          21,944.24                       374.85
+                                                                                       11 (i)                126.11                195.25      PROFIT BEFORE TAX                                                                           1,499.28                       1,166.10
+                                                                                                        4,136.09                   146.62      TAX EXPENSE                                                                                                           18,056.42
+Current Assets                                                                       12                                        3,997.89        Current Tax                                                                                    (356.16)                  929.43
+(a) Inventories                                                                                          1,762.60                              Deferred Tax                                                                                 1,143.12                      (33.00)
+(b) Financial Assets                                                               6 (ii)                                         1,370.81     TOTAL TAX EXPENSE                                                                                                        896.43
+                                                                                   7 (ii)                          -                           PROFIT FOR THE YEAR                                                                             387.26
+       (i)Investments                                                                                    7,839.41                    150.11    OTHER COMPREHENSIVE INCOME                                                                      (75.89)                      271.10
+       (ii)Trade Receivables                                                         13                   1,221.76                7,218.01     Items that will not be reclassified subsequently to Profit or Loss                               311.37                     (22.62)
+       (iii)Cash and Cash Equivalents                                                14                                          1,432.83      Re-measurement of defined benefit plan                                                         831.75                     248.48
+       (iv)Bank Balances other than (iii) above                                    8 (ii)                  330.14                  155.66      Income tax on Actuarial Gain / (Loss)                                                                                    647.95
+       (v)Loans                                                                    9 (ii)                 290.57                  638.84                                                                                                          (4.15)
+       (vi)Others                                                                    15                   602.35                   379.39      Items that will be reclassified subsequently to Profit or Loss                                      1.04                     (8.26)
+(c) Current Tax Assets (net)                                                       11 (ii)                 182.99                              Gain / (Loss) on Exchange differences in translating foreign operation                             (3.11)                     2.08
+(d) Other Current Assets                                                            6.2                 8,687.65                    152.13     Income tax on Exchange differences in translating foreign operation                                                          (6.18)
+(e) Assets classified as held for sale                                                                    284.68                 7,668.15      Gain / (Loss) on hedging instruments                                                              99.29
+                                                                                                       21,202.15                               Income tax on hedging instruments                                                               (24.99)                    (55.22)
+TOTAL ASSETS                                                                         16              25,338.24                    302.35                                                                                                       374.70                       13.90
+EQUITY AND LIABILITIES                                                               17                                       19,468.28        Total Other Comprehensive Income                                                                 (94.31)
+                                                                                                             34.16            23,466.17        TOTAL COMPREHENSIVE INCOME FOR THE YEAR                                                        354.69                      (29.82)
+       Equity                                                                      18 (i)                8,180.38                              Earnings per Equity Share (of  2 each)                                                          351.58                          7.51
+       (a) Equity Share Capital                                                      36                 8,214.54                     34.16     Basic and Diluted ()                                                                          1,183.33
+       (b) Other Equity                                                                                                          7,150.75      Notes forming part of the Standalone Financial Statements                                                                  (63.63)
+       Total Equity                                                                19 (i)                 565.62                 7,184.91                                                                                                         48.71                   (69.81)
+       Liabilities                                                                                          114.46                                                                                                                                                        578.14
+       Non-Current Liabilities                                                     22 (i)                                        1,282.68
+       (a) Financial Liabilities                                                   21 (i)                          -                33.88                                                                                                                                   39.30
+
+              (i)Borrowings                                                                                 96.72                          -
+              (ia)Lease Liabilities
+              (ii)Trade Payables                                                                             75.16                  79.43
+              (a)total outstanding dues of micro enterprises and small                                        7.98
+                                                                                                          859.94                    52.49
+                             enterprises                                                                                              6.33
+              (b)total outstanding dues of creditors other than micro enterprises                       2,274.32
+                                                                                                            40.34               1,454.81
+                             and small enterprises
+       (b) Provisions                                                                                     432.39                 2,109.64
+       (c) Other Non-Current Liabilities                                                                                            34.70
+                                                                                                         6,021.00
+Current Liabilities                                                                18 (ii)                                        266.59       In terms of our report attached           Ram Patodia                            For and on behalf of the Board of Directors
+(a) Financial Liabilities                                                            36                  1,244.22                              For B S R & Co. LLP                       Chief Financial Officer
+                                                                                                        5,454.07                5,824.84       Chartered Accountants                                                            Manish Mohnot
+       (i)Borrowings                                                               19 (ii)                                                     Firm Registration No. : 101248W/W-100022                                         Managing Director & CEO
+       (ia)Lease Liabilities                                                                              704.84                   981.25                                                                                       DIN : 01229696
+       (ii)Trade Payables                                                          20 (i)                   92.58               4,948.44
+       (a)total outstanding dues of micro enterprises and small                    21 (ii)                                                     Bhavesh Dhupelia                          Shweta Girotra                         Shailendra Kumar Tripathi
+                                                                                   22 (ii)            16,263.76                   588.62       Partner                                   Company Secretary                      Deputy Managing Director
+                      enterprises                                                                    25,338.24                       72.37     Membership No. : 042070                                                          DIN : 03156123
+       (b)total outstanding dues of creditors other than micro enterprises           15                                                        Mumbai : 14th May, 2026                                                          Mumbai : 14th May, 2026
+                                                                                                                              14,826.45
+                      and small enterprises                                                                                   23,466.17
+       (iii)Other Financial Liabilities
+(b) Other Current Liabilities
+(c) Provisions
+(d) Current Tax Liabilities (net)
+
+TOTAL EQUITY AND LIABILITIES                                                       1 to 60
+Notes forming part of the Standalone Financial Statements
+
+In terms of our report attached           Ram Patodia                                          For and on behalf of the Board of Directors
+For B S R & Co. LLP                       Chief Financial Officer
+Chartered Accountants                                                                          Manish Mohnot
+Firm Registration No. : 101248W/W-100022  Shweta Girotra                                       Managing Director & CEO
+                                          Company Secretary                                    DIN : 01229696
+Bhavesh Dhupelia
+Partner                                                                                        Shailendra Kumar Tripathi
+Membership No. : 042070                                                                        Deputy Managing Director
+Mumbai : 14th May, 2026                                                                        DIN : 03156123
+                                                                                               Mumbai : 14th May, 2026
+
+280 Kalpataru Projects International Limited                                                                                                                                                                                    Integrated Annual Report 2025-26 281

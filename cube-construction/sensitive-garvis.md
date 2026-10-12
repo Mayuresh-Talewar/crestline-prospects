@@ -1,0 +1,9 @@
+# Cube: sensitive items, GARVIS ONLY (never in any client-facing file)
+
+1. Managing Director arrested in a graft case. CRISIL 05-Jun-2024 rationale, rating-history note: "Sanjay Shah, Managing Director of the company was arrested in connection with the graft case on his individual capacity. The case pertains to the transactions which happened in 2001. CRISIL Ratings has taken the cognizance of the same. Further, the banker had also taken the cognizance of the same and no adverse impact given by the banks." Not repeated in the 02-May-2025 rationale (checked; no mention). Personal capacity, 2001 transactions. Do not address Sanjay Shah in an edition without Garvis deciding; consider a CFO/finance-head reader instead, but none is named.
+2. Dossier mentions an investigative outlet alleging promoter political links: unverified, not used.
+3. Related party / group exposure: Rs 74 Cr invested in group companies at 31-Mar-2024 (25% of net worth); further exposure is a CRISIL rating sensitivity. Promoter/family unsecured loans Rs 64.99 Cr treated as neither debt nor equity; promoters expected to support via equity and unsecured loans. Subsidiary Sancube (SIPPL) had operating losses that hurt margin. Hotel businesses demerged to Arved Ajwa Theme Park.
+4. Concentration: ~64% of order book one client via four orders; ~84% Gujarat; fresh orders only Rs 130 Cr in 12-18 months.
+5. Margin slide 11.8% (FY23) to ~9% (FY25e); PAT fell FY23 35.87 to FY24 28.97 despite higher revenue. Rating was A-/Negative briefly (31-May-2022), Stable from 24-04-2023.
+6. Namesake risk: Shiwalay Infra Projects Pvt Ltd (also "SIPPL", FY26 revenue Rs 870.4 Cr), Cube Highways Trust, Cube Engineering (Ireland) are unrelated; never mix figures.
+7. Auditor, IPO, tax, disputes, arbitration: NOT FOUND (no filings accessible).

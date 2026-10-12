@@ -1,0 +1,132 @@
+=== BREAK=neg
+Basis: FY24 operating income Rs 963.4 cr / 365 = Rs 2.639452 cr per day
+No baseline days published: baseline 60 is a calc device only. Interest rate: none (0).
+valueOfADay: cash 2.639452, carry 0
+
+cad 10 days: moved 10, cash -26.394521, carry 0
+FAIL  no negative release cad 10  cash -26.3945
+PASS  interest zero cad 10  carry 0
+FAIL  cross-check days x per day cad 10  -26.394521 vs 26.394521
+FAIL  value of a day agrees cad 10  valueOfADay
+cad 30 days: moved 24, cash -63.346849, carry 0
+FAIL  no negative release cad 30  cash -63.3468
+PASS  interest zero cad 30  carry 0
+FAIL  cross-check days x per day cad 30  -63.346849 vs 79.183562
+FAIL  value of a day agrees cad 30  valueOfADay
+dso 10 days: moved 10, cash -26.394521, carry 0
+FAIL  no negative release dso 10  cash -26.3945
+PASS  interest zero dso 10  carry 0
+FAIL  cross-check days x per day dso 10  -26.394521 vs 26.394521
+FAIL  value of a day agrees dso 10  valueOfADay
+dso 30 days: moved 30, cash -79.183562, carry 0
+FAIL  no negative release dso 30  cash -79.1836
+PASS  interest zero dso 30  carry 0
+FAIL  cross-check days x per day dso 30  -79.183562 vs 79.183562
+FAIL  value of a day agrees dso 30  valueOfADay
+
+dpo +10 requested: cash 0
+PASS  payables never release cash  cash 0
+
+10 days = Rs 26.39 cr; 30 days = Rs 79.18 cr; per day Rs 2.6395 cr
+
+FAILED: no negative release cad 10; cross-check days x per day cad 10; value of a day agrees cad 10; no negative release cad 30; cross-check days x per day cad 30; value of a day agrees cad 30; no negative release dso 10; cross-check days x per day dso 10; value of a day agrees dso 10; no negative release dso 30; cross-check days x per day dso 30; value of a day agrees dso 30
+exit 1
+=== BREAK=interest
+Basis: FY24 operating income Rs 963.4 cr / 365 = Rs 2.639452 cr per day
+No baseline days published: baseline 60 is a calc device only. Interest rate: none (0).
+valueOfADay: cash 2.639452, carry 0
+
+cad 10 days: moved -10, cash 26.394521, carry 1.3197260273972602
+PASS  no negative release cad 10  cash 26.3945
+FAIL  interest zero cad 10  carry 1.3197260273972602
+PASS  cross-check days x per day cad 10  26.394521 vs 26.394521
+PASS  value of a day agrees cad 10  valueOfADay
+cad 30 days: moved -30, cash 79.183562, carry 3.959178082191781
+PASS  no negative release cad 30  cash 79.1836
+FAIL  interest zero cad 30  carry 3.959178082191781
+PASS  cross-check days x per day cad 30  79.183562 vs 79.183562
+PASS  value of a day agrees cad 30  valueOfADay
+dso 10 days: moved -10, cash 26.394521, carry 1.3197260273972602
+PASS  no negative release dso 10  cash 26.3945
+FAIL  interest zero dso 10  carry 1.3197260273972602
+PASS  cross-check days x per day dso 10  26.394521 vs 26.394521
+PASS  value of a day agrees dso 10  valueOfADay
+dso 30 days: moved -30, cash 79.183562, carry 3.959178082191781
+PASS  no negative release dso 30  cash 79.1836
+FAIL  interest zero dso 30  carry 3.959178082191781
+PASS  cross-check days x per day dso 30  79.183562 vs 79.183562
+PASS  value of a day agrees dso 30  valueOfADay
+
+dpo +10 requested: cash 0
+PASS  payables never release cash  cash 0
+
+10 days = Rs 26.39 cr; 30 days = Rs 79.18 cr; per day Rs 2.6395 cr
+
+FAILED: interest zero cad 10; interest zero cad 30; interest zero dso 10; interest zero dso 30
+exit 1
+=== BREAK=cross
+Basis: FY24 operating income Rs 963.4 cr / 365 = Rs 2.639452 cr per day
+No baseline days published: baseline 60 is a calc device only. Interest rate: none (0).
+valueOfADay: cash 2.639452, carry 0
+
+cad 10 days: moved -10, cash 26.658466, carry 0
+PASS  no negative release cad 10  cash 26.6585
+PASS  interest zero cad 10  carry 0
+FAIL  cross-check days x per day cad 10  26.658466 vs 26.394521
+FAIL  value of a day agrees cad 10  valueOfADay
+cad 30 days: moved -30, cash 79.975397, carry 0
+PASS  no negative release cad 30  cash 79.9754
+PASS  interest zero cad 30  carry 0
+FAIL  cross-check days x per day cad 30  79.975397 vs 79.183562
+FAIL  value of a day agrees cad 30  valueOfADay
+dso 10 days: moved -10, cash 26.394521, carry 0
+PASS  no negative release dso 10  cash 26.3945
+PASS  interest zero dso 10  carry 0
+PASS  cross-check days x per day dso 10  26.394521 vs 26.394521
+PASS  value of a day agrees dso 10  valueOfADay
+dso 30 days: moved -30, cash 79.183562, carry 0
+PASS  no negative release dso 30  cash 79.1836
+PASS  interest zero dso 30  carry 0
+PASS  cross-check days x per day dso 30  79.183562 vs 79.183562
+PASS  value of a day agrees dso 30  valueOfADay
+
+dpo +10 requested: cash 0
+PASS  payables never release cash  cash 0
+
+10 days = Rs 26.39 cr; 30 days = Rs 79.18 cr; per day Rs 2.6395 cr
+
+FAILED: cross-check days x per day cad 10; value of a day agrees cad 10; cross-check days x per day cad 30; value of a day agrees cad 30
+exit 1
+=== BREAK=payables
+Basis: FY24 operating income Rs 963.4 cr / 365 = Rs 2.639452 cr per day
+No baseline days published: baseline 60 is a calc device only. Interest rate: none (0).
+valueOfADay: cash 2.639452, carry 0
+
+cad 10 days: moved -10, cash 26.394521, carry 0
+PASS  no negative release cad 10  cash 26.3945
+PASS  interest zero cad 10  carry 0
+PASS  cross-check days x per day cad 10  26.394521 vs 26.394521
+PASS  value of a day agrees cad 10  valueOfADay
+cad 30 days: moved -30, cash 79.183562, carry 0
+PASS  no negative release cad 30  cash 79.1836
+PASS  interest zero cad 30  carry 0
+PASS  cross-check days x per day cad 30  79.183562 vs 79.183562
+PASS  value of a day agrees cad 30  valueOfADay
+dso 10 days: moved -10, cash 26.394521, carry 0
+PASS  no negative release dso 10  cash 26.3945
+PASS  interest zero dso 10  carry 0
+PASS  cross-check days x per day dso 10  26.394521 vs 26.394521
+PASS  value of a day agrees dso 10  valueOfADay
+dso 30 days: moved -30, cash 79.183562, carry 0
+PASS  no negative release dso 30  cash 79.1836
+PASS  interest zero dso 30  carry 0
+PASS  cross-check days x per day dso 30  79.183562 vs 79.183562
+PASS  value of a day agrees dso 30  valueOfADay
+
+dpo +10 requested: cash 26.394520547945206
+FAIL  payables never release cash  cash 26.394520547945206
+
+10 days = Rs 26.39 cr; 30 days = Rs 79.18 cr; per day Rs 2.6395 cr
+
+FAILED: payables never release cash
+exit 1

@@ -1,0 +1,284 @@
+                                                February 20, 2026
+
+                           KEC International Limited: Change in Limits
+
+Summary of rating action
+
+ Instrument*                                    Previous rated  Current rated  Ratings outstanding
+                                                    amount         amount      [ICRA]A+ (Stable); Outstanding
+ Long term ­fund based ­working capital           (Rs. crore)     (Rs. crore)
+ facilities                                        3,000.00
+ Long-term/ Short -term-Non-fund Based                             3,000.00
+ Limits                                            16,800.00
+ Long term/Short term -Fund-based ­Term                         16,800.00      [ICRA]A+ (Stable)/ [ICRA]A1+; Outstanding
+ loan                                               137.50
+ Long Term/Short Term ­Unallocated                              137.50         [ICRA]A+ (Stable)/ [ICRA]A1+; Outstanding
+ Limits                                             287.50
+ Short term ­bills discounting                                    87.50        [ICRA]A+ (Stable)/ [ICRA]A1+; Outstanding
+                                                   3,875.00      4075.00       [ICRA]A1+; Outstanding
+ Total                                             24,100.00    24,100.00
+
+*Instrument details are provided in Annexure-I
+
+Rationale
+
+This rationale is being released to convey the change in the rated limits as depicted in the table above, based on the latest
+information received from the entity.
+Please refer to the following link for the previous detailed rationale that captures key rating drivers and their description, the
+liquidity position and rating sensitivities: Click here.
+
+Analytical approach
+
+ Analytical Approach                            Comments
+ Applicable rating methodologies
+ Parent/Group support                           Corporate Credit Rating Methodology
+ Consolidation/Standalone                       Construction
+                                                Not applicable
+About the company                               The ratings are based on the consolidated financial profile of the company. The list of
+                                                companies that are consolidated to arrive at the rating are given in Annexure 2 below.
+
+KEC was established in 1945 and was taken over by R. P. Goenka (RPG) Enterprises in 1982 and renamed KEC International
+Limited in 1984. The company executes power transmission and distribution, railways, civil and solar projects on an EPC basis.
+It also manufactures power and telecom cables. KEC is one of the largest power transmission EPC companies in the world with
+presence in over 70 countries and a strong presence in India, the Middle East, Africa, South Asia the Americas and Central Asia.
+In September 2010, KEC acquired SAE Towers LLC, headquartered in Houston (USA), which is involved in the business of design,
+manufacture and supply of transmission towers. At present, KEC has three tower manufacturing facilities in India (Nagpur,
+Jaipur and Jabalpur) and one tower manufacturing facility each in Mexico, Brazil and Dubai, with a combined manufacturing
+capacity of ~4.7 lakh metric tonnes per annum (MTPA) since Mar-2025, including for railway structures, solar structures, and
+telecom towers. KEC also has cable and conductors manufacturing (power and telecom) facilities in Mysore and near Vadodara
+with a combined capacity of ~95,000 MTPA since March 2025.
+
+www.icra.in                                     Sensitivity Label : Public                                     Page | 1
+Key financial indicators (audited):
+
+KEC (consolidated)                                    FY2024                      FY2025    9MFY2026
+
+Operating income                                      19,914.2                    21,846.7  17,115.8
+
+PAT                                                   346.8                       570.7     412.8
+
+OPBDITA/OI                                            6.78%                       7.65%     7.07%
+
+PAT/OI                                                1.74%                       2.61%     2.41%
+
+Total outside liabilities/Tangible net worth (times)         3.6                  3.1       -
+
+Net debt/OPBDITA (times) (including acceptances)             3.9                  2.9       -
+
+Interest coverage (times)                             1.69                        1.99      2.45
+
+Source: Company, ICRA Research; All ratios as per ICRA's calculations; Amount in Rs. crore; PAT: Profit after tax; OPBDIT: Operating profit before depreciation,
+interest, taxes and amortisation
+
+Status of non-cooperation with previous CRA: Not applicable
+Any other information: None
+
+www.icra.in                                           Sensitivity Label : Public            Page | 2
+Rating history for past three years
+
+                                      Current (FY2026)                                        Chronology of rating history for the past 3 years
+                                            FY2026
+                                                                                      FY2025                     FY2024                          FY2023
+
+ Instrument      Type      Amount     Date     Rating     Date       Rating   Date      Rating          Date             Rating  Date            Rating
+              Long Term     Rated
+Fund based-               (Rs Crore)  Feb 20,  [ICRA]A+   Nov 25,  [ICRA]A+   May 06,   [ICRA]A+        Dec 26,  [ICRA]AA-       Jun 21,         [ICRA]AA-
+  Working     Long term/  3,000.00     2026     (Stable)   2025     (Stable)   2024      (Stable)        2023    (Negative)       2022             (Stable)
+   Capital    Short term                                           [ICRA]A+   July 02,  [ICRA]A+        Feb 05,  [ICRA]AA-       Feb 21,         [ICRA]AA-
+  Facilities              16,800.00   Feb 20,  [ICRA]A+   Aug 29,   (Stable)   2024      (Stable)        2024    (Negative)       2023           (Negative)
+              Long term                2026    (Stable)/   2025    [ICRA]A+             [ICRA]A+                                 Mar 27,
+  Non-fund                     -               [ICRA]A1+            (Stable)  Nov 01,    (Stable)       Dec 26,  [ICRA]AA-        2023           [ICRA]AA-
+based Limits  Short term                                  Jul 23,  [ICRA]A+    2024     [ICRA]A+         2023    (Negative)/                     (Negative)
+                               -                           2025    (Stable)/            (Stable)/                [ICRA]A1+       Jun 21,
+Fund based ­                                                       [ICRA]A1+  May 06,   [ICRA]A1+       Feb 05,  [ICRA]AA-        2022           [ICRA]AA-
+ Term loan                                                Nov 25,  [ICRA]A+    2024     [ICRA]A+         2024    (Negative)/                      (Stable)/
+                                                           2025    (Stable)/            (Stable)/                [ICRA]A1+       Feb 21,         [ICRA]A1+
+Short Term -                                                       [ICRA]A1+  July 02,  [ICRA]A1+       Dec 26,                   2023
+ Fund based                                               Aug 29,  [ICRA]A+    2024     [ICRA]A+         2023    [ICRA]AA-                       [ICRA]AA-
+                                                           2025    (Stable)/            (Stable)/       Feb 05,  (Negative)      Mar 27,         (Negative)/
+                                                                   [ICRA]A1+  Nov 01,   [ICRA]A1+        2024    [ICRA]AA-        2023           [ICRA]A1+
+                                                          Jul 23,              2024     [ICRA]A+                 (Negative)
+                                                           2025         -                (Stable)       Dec 26,                  Jun 21,         [ICRA]AA-
+                                                                              May 06,   [ICRA]A+         2023          -          2022           (Negative)/
+                                                          Nov 25,       -      2024      (Stable)       Feb 05,                  Feb 21,         [ICRA]A1+
+                                                           2025               July 02,  [ICRA]A+         2024          -          2023
+                                                                   [ICRA]A+    2024      (Stable)                                Mar 27,         [ICRA]AA-
+                                                          Aug 29,   (Stable)                                                      2023             (Stable)
+                                                           2025               Nov 01,        -                                   Jun 21,         [ICRA]AA-
+                                                                        -      2024                                               2022           (Negative)
+                                                          Jul 23,                            -                                   Feb 21,         [ICRA]AA-
+                                                           2025         -     May 06,                                             2023           (Negative)
+                                                                               2024          -                                   Mar 27,
+                                                          Nov 25,       -     July 02,                                            2023           [ICRA]A1+
+                                                           2025                2024
+                                                                                                                                                 [ICRA]A1+
+                                                          Aug 29,             Nov 01,
+                                                           2025                2024                                                              [ICRA]A1+
+                                                          Jul 23,
+                                                           2025
+
+www.icra.in                                               Sensitivity Label : Public          Page | 3
+                                               Current (FY2026)                                        Chronology of rating history for the past 3 years
+                                                     FY2026
+                                                                                               FY2025                     FY2024                          FY2023
+
+Instrument        Type              Amount     Date     Rating     Date       Rating    Date      Rating         Date             Rating  Date            Rating
+                                     Rated
+                  Long term/       (Rs Crore)  Feb 20,  [ICRA]A+   Nov 25,   [ICRA]A+   May 06,   [ICRA]A+       Dec 26,  [ICRA]AA-       Jun 21,         [ICRA]AA-
+                  Short term         87.50      2026    (Stable)/   2025     (Stable)/   2024     (Stable)/       2023    (Negative)/      2022            (Stable)/
+                                                        [ICRA]A1+           [ICRA]A1+             [ICRA]A1+               [ICRA]A1+                       [ICRA]A1+
+                                        -                                               July 02,                 Feb 05,  [ICRA]AA-       Feb 21,
+    Long                                                           Aug 29,   [ICRA]A+    2024     [ICRA]A+        2024    (Negative)/      2023           [ICRA]AA-
+term/Short                          4075.00                         2025     (Stable)/            (Stable)/               [ICRA]A1+                       (Negative)
+                                                                            [ICRA]A1+   Nov 01,   [ICRA]A1+      Dec 26,                  Mar 27,
+   term ­                           137.50                         Jul 23,   [ICRA]A+    2024     [ICRA]A+        2023    [ICRA]AA-        2023           [ICRA]AA-
+Unallocated                                                         2025     (Stable)/            (Stable)/               (Negative)                      (Negative)
+                                                                            [ICRA]A1+   May 06,   [ICRA]A1+                               Jun 21,
+   Limits                                                          Nov 25,               2024                                              2022           [ICRA]AA-
+                                                                    2025          -               [ICRA]A+                                                 (Stable)
+                        Long term                                                                  (Stable)
+                                                                             [ICRA]A+
+    Foreign                                                        Aug 29,   (Stable);  July 02,  [ICRA]A+       Feb 05,  [ICRA]AA-       Feb 21,         [ICRA]AA-
+currency term                                                       2025    reaffirmed   2024     (Stable)        2024    (Negative)       2023           (Negative)
+
+  loan (ECB)                                                                    and
+                                                                            withdrawn
+                  Short term                   Feb 20,  [ICRA]A1+  Jul 23,   [ICRA]A+   Nov 01,   [ICRA]A+       Dec 26,  [ICRA]A1+       Mar 27,         [ICRA]AA-
+                                                2026                2025                 2024      (Stable)       2023    [ICRA]A1+        2023           (Negative)
+ Short Term ­                                           [ICRA]A+             (Stable)             [ICRA]A1+
+Bill Discounting                               Feb 20,  (Stable)/  Nov 25,              May 06,                  Feb 05,                  Jun 21,              -
+                                                2026    [ICRA]A1+   2025    [ICRA]A1+    2024     [ICRA]A1+       2024                     2022
+                                                                                        July 02,                                          Feb 21,              -
+                                                                   Aug 29,  [ICRA]A1+    2024     [ICRA]A1+                                2023
+                                                                    2025                                                                  Mar 27,         [ICRA]A1+
+                                                                   Jul 23,  [ICRA]A1+   Nov 01,                                            2023
+                                                                    2025                 2024
+                                                                             [ICRA]A+
+Fund-based ­      Long term/                                       Nov 25,   (Stable)/
+  Term loan       Short term                                        2025    [ICRA]A1+
+                                                                             [ICRA]A+
+                                                                   Aug 29,   (Stable)/
+                                                                    2025    [ICRA]A1+
+
+www.icra.in                                                        Sensitivity Label : Public          Page | 4
+Complexity level of the rated instruments
+
+Instrument                                           Complexity indicator
+Long term ­ fund based ­ working capital facilities  Simple
+Long-term/ Short -term-Non-fund Based Limits         Simple
+Long term/Short term -Fund-based ­Term loan          Simple
+Long Term/Short Term ­Unallocated Limits             NA
+Short term ­ bills discounting                       Simple
+
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA's website: Click here
+
+www.icra.in                                          Sensitivity Label : Public  Page | 5
+Annexure I: Instrument details
+
+ISIN Instrument name                 Date of   Coupon rate  Maturity             Amount rated   Current rating and outlook
+                                     issuance                                      (Rs. crore)
+                                                    NA         NA
+             Long term - Fund           NA          NA
+                                                    NA         NA
+NA based- Working Capital               NA          NA      FY2026-              3,000.00 [ICRA]A+ (Stable)
+                                     FY2026         NA       FY2027
+             Facilities
+                                        NA                     NA
+NA           Long term/Short term -     NA                     NA                16,800.00      [ICRA]A+ (Stable)/ [ICRA]A1+
+             Non-fund based Limits                                                137.50        [ICRA]A+ (Stable)/ [ICRA]A1+
+                                                                                   87.50        [ICRA]A+ (Stable)/ [ICRA]A1+
+NA           Long term/Short term -                                               4075.00       [ICRA]A1+
+             Fund-based ­Term loan
+
+NA           Long term/Short term
+             ­ Unallocated Limits
+
+NA           Short Term ­ Bill
+             Discounting
+
+Source: Company
+
+Please click here to view details of lender-wise facilities rated by ICRA
+
+Annexure II: List of entities considered for consolidated analysis               KEC Ownership    Consolidation
+ Company Name                                                                        100.00%        Approach
+                                                                                     100.00%
+ KEC Asian Cables Limited                                                            100.00%    Full Consolidation
+ RPG Transmission Nigeria Limited                                                    100.00%    Full Consolidation
+ KEC Investment Holdings, Mauritius                                                  100.00%    Full Consolidation
+ KEC Global Mauritius                                                                100.00%    Full Consolidation
+ KEC Power India Private Limited                                                     100.00%    Full Consolidation
+ SAE Towers Holdings LLC, United States (along with step-down subsidiaries)           51.1%     Full Consolidation
+ KEC International (Malaysia) SDN BHD                                                100.00%    Full Consolidation
+ Al-Sharif Group and KEC Ltd. Co, Saudi Arabia                                       100.00%
+ KEC Towers LLC, Dubai, UAE                                                                            Equity
+ KEC EPC LLC, Dubai, UAE                                                             100.00%    Full Consolidation
+ KEC Spur Infrastructure Private Limited (formerly known as Spur Infrastructure                 Full Consolidation
+ Private Limited)
+Source: Company data                                                                            Full Consolidation
+
+www.icra.in                                    Sensitivity Label : Public                       Page | 6
+ANALYST CONTACTS                Prashant Vasisht
+                                +91 124 4545 322
+ Girishkumar Kashiram Kadam     prashant.vasisht@icraindia.com
+ +91 22 6114 3441
+ girishkumar@icraindia.com      Himani Sanghvi
+                                +91 796 9233 3048
+ Anubha Rustagi                 himani.sanghvi@icraindia.com
+ +91 22 6114 3456
+ anubha.rustagi2@icraindia.com
+
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+
+HELPLINE FOR BUSINESS QUERIES
+
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+
+ABOUT ICRA LIMITED
+
+ICRA Limitedwas set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody's Investors Serviceis ICRA's largest shareholder.
+
+For more information, visitwww.icra.in
+
+www.icra.in                     Sensitivity Label : Public      Page | 7
+ICRA Limited
+
+          Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+
+         Branches
+
+© Copyright, 2026 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA's current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided `as is' without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+
+                                                             Sensitivity Label : Public
+

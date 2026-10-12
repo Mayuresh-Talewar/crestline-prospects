@@ -1,0 +1,28 @@
+THERMAX TH-3 savings calculator  (break mode: none)
+Basis: Industrial Infra SEGMENT, consolidated segment note, AR26 vintage. Rs crore.
+Value of a day = 4348.05 / 365 = Rs 11.91 cr
+(Footnote only: Q1 FY27 recast revenue 4088.34 would give Rs 11.20 cr; not used, never mixed.)
+Simulator opening (headroom only, not printed): segment assets 2490.28 / 11.91 = 209.05 days
+Financing rate passed: 0% (no interest printed)
+
+Scenario (a): a 10-day step. Rows overlap; never added.
+  DSO leg "Invoiced, waiting to be paid": moved -10.00 days | cash released once Rs 119.12 cr | simulate.released 119.12 | priceLevers.cash 119.12 | carry 0
+  CAD leg "Built, waiting to be certified": moved -10.00 days | cash released once Rs 119.12 cr | simulate.released 119.12 | priceLevers.cash 119.12 | carry 0
+Scenario (b): a 30-day step. Rows overlap; never added.
+  DSO leg "Invoiced, waiting to be paid": moved -30.00 days | cash released once Rs 357.37 cr | simulate.released 357.37 | priceLevers.cash 357.37 | carry 0
+  CAD leg "Built, waiting to be certified": moved -30.00 days | cash released once Rs 357.37 cr | simulate.released 357.37 | priceLevers.cash 357.37 | carry 0
+  DPO guard: asked +10 days, moved 0.00, cash 0.00 (payables never release cash)
+
+Scenario (c), CONTEXT ONLY, NOT A SAVINGS CLAIM (bucket is consolidated, not segment-split):
+  More than one year past due, consolidated FY26 = 377.27 cr = 31.67 days of Industrial Infra revenue
+
+Trend figures, consolidated, AR26 vintage (FY25 as restated in AR26):
+  FY25: gross 2315.24 | past due 1434.88 (62.0%) | over one year 335.56 (14.5%) | 6 months to 1 year 202.51
+  FY26: gross 2500.19 | past due 1443.42 (57.7%) | over one year 377.27 (15.1%) | 6 months to 1 year 135.06
+  Over one year past due change FY25 to FY26: 41.71 cr (12.4%)
+  Operating cash flow: FY25 1079.79 to FY26 541.55 (-49.8%); OCF/PAT FY25 172.3%, FY26 75.2%
+  Contract assets (net): FY25 640.56 to FY26 773.08 (20.7%)
+
+Summary (rows overlap, never added):
+  10-day step: Rs 119.12 cr released once | 30-day step: Rs 357.37 cr released once | interest: none printed
+ALL ASSERTS PASSED

@@ -1,0 +1,14 @@
+PER DAY = 393.63 / 365 = 1.0784 Cr
+levers offered: dso now=22 min=0 max=52 target=null
+10-day cut: 22 -> 12 days, moved -10, cash 10.7844 Cr, released 10.7844, carry 0.0000
+30-day cut asked: -8 -> clamped to 0 days, moved -22, cash 23.7256 Cr (a true 30 days would be 32.3532 Cr)
+to terms: {} (no term published)
+value of a day: {"cash":1.0784383561643835,"carry":0}
+Retention balance only: 26.55 Cr (not priced, no release basis)
+ok  no negative release (10 and 30)
+ok  interest = 0 (no rate published)
+ok  cross-check 10 x per day = simulate
+ok  30-day cut clamped to 0 days, releases only 22 days' worth
+ok  payables stretched past terms release nothing (synthetic leg, not Swastik's)
+ok  basis: one lever, dso, at revenue per day
+ALL ASSERTS PASSED

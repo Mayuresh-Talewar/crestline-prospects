@@ -1,0 +1,110 @@
+=== RUN NP_BREAK=neg ===
+Per day (242.39 / 365): 0.664082 Cr
+valueOfADay cash: 0.6640821917808218 carry: 0
+Step 10 days on GCA days 282: 282 -> 272; clamp [0, 394.8]; cash released -6.6408 Cr; interest 0
+Step 30 days on GCA days 282: 282 -> 252; clamp [0, 394.8]; cash released -19.9225 Cr; interest 0
+FAIL  step 10: no negative release
+PASS  step 10: interest = 0
+FAIL  step 10: independent cross-check (days x per day = simulate)
+PASS  step 10: lands at 272
+FAIL  step 30: no negative release
+PASS  step 30: interest = 0
+FAIL  step 30: independent cross-check (days x per day = simulate)
+PASS  step 30: lands at 252
+PASS  10 days is a third of 30 days
+PASS  payables: no payable leg exists for NP
+PASS  payables: asking for vendor credit releases nothing
+PASS  payables: synthetic leg held at ceiling, cash 0
+
+Values for the pack: 10 days = Rs -6.64 Cr; 30 days = Rs -19.92 Cr; one day = Rs 0.66 Cr
+
+4 ASSERT(S) FAILED: step 10: no negative release; step 10: independent cross-check (days x per day = simulate); step 30: no negative release; step 30: independent cross-check (days x per day = simulate)
+exit=1
+=== RUN NP_BREAK=interest ===
+Per day (242.39 / 365): 0.664082 Cr
+valueOfADay cash: 0.6640821917808218 carry: 0
+Step 10 days on GCA days 282: 282 -> 272; clamp [0, 394.8]; cash released 6.6408 Cr; interest 0.05
+Step 30 days on GCA days 282: 282 -> 252; clamp [0, 394.8]; cash released 19.9225 Cr; interest 0.05
+PASS  step 10: no negative release
+FAIL  step 10: interest = 0
+PASS  step 10: independent cross-check (days x per day = simulate)
+PASS  step 10: lands at 272
+PASS  step 30: no negative release
+FAIL  step 30: interest = 0
+PASS  step 30: independent cross-check (days x per day = simulate)
+PASS  step 30: lands at 252
+PASS  10 days is a third of 30 days
+PASS  payables: no payable leg exists for NP
+PASS  payables: asking for vendor credit releases nothing
+PASS  payables: synthetic leg held at ceiling, cash 0
+
+Values for the pack: 10 days = Rs 6.64 Cr; 30 days = Rs 19.92 Cr; one day = Rs 0.66 Cr
+
+2 ASSERT(S) FAILED: step 10: interest = 0; step 30: interest = 0
+exit=1
+=== RUN NP_BREAK=cross ===
+Per day (242.39 / 365): 0.664082 Cr
+valueOfADay cash: 0.6640821917808218 carry: 0
+Step 10 days on GCA days 282: 282 -> 272; clamp [0, 394.8]; cash released 6.7072 Cr; interest 0
+Step 30 days on GCA days 282: 282 -> 252; clamp [0, 394.8]; cash released 20.1217 Cr; interest 0
+PASS  step 10: no negative release
+PASS  step 10: interest = 0
+FAIL  step 10: independent cross-check (days x per day = simulate)
+PASS  step 10: lands at 272
+PASS  step 30: no negative release
+PASS  step 30: interest = 0
+FAIL  step 30: independent cross-check (days x per day = simulate)
+PASS  step 30: lands at 252
+PASS  10 days is a third of 30 days
+PASS  payables: no payable leg exists for NP
+PASS  payables: asking for vendor credit releases nothing
+PASS  payables: synthetic leg held at ceiling, cash 0
+
+Values for the pack: 10 days = Rs 6.71 Cr; 30 days = Rs 20.12 Cr; one day = Rs 0.66 Cr
+
+2 ASSERT(S) FAILED: step 10: independent cross-check (days x per day = simulate); step 30: independent cross-check (days x per day = simulate)
+exit=1
+=== RUN NP_BREAK=payables ===
+Per day (242.39 / 365): 0.664082 Cr
+valueOfADay cash: 0.6640821917808218 carry: 0
+Step 10 days on GCA days 282: 282 -> 272; clamp [0, 394.8]; cash released 6.6408 Cr; interest 0
+Step 30 days on GCA days 282: 282 -> 252; clamp [0, 394.8]; cash released 19.9225 Cr; interest 0
+PASS  step 10: no negative release
+PASS  step 10: interest = 0
+PASS  step 10: independent cross-check (days x per day = simulate)
+PASS  step 10: lands at 272
+PASS  step 30: no negative release
+PASS  step 30: interest = 0
+PASS  step 30: independent cross-check (days x per day = simulate)
+PASS  step 30: lands at 252
+PASS  10 days is a third of 30 days
+PASS  payables: no payable leg exists for NP
+PASS  payables: asking for vendor credit releases nothing
+FAIL  payables: synthetic leg held at ceiling, cash 0
+
+Values for the pack: 10 days = Rs 6.64 Cr; 30 days = Rs 19.92 Cr; one day = Rs 0.66 Cr
+
+1 ASSERT(S) FAILED: payables: synthetic leg held at ceiling, cash 0
+exit=1
+=== RUN NP_BREAK=none ===
+Per day (242.39 / 365): 0.664082 Cr
+valueOfADay cash: 0.6640821917808218 carry: 0
+Step 10 days on GCA days 282: 282 -> 272; clamp [0, 394.8]; cash released 6.6408 Cr; interest 0
+Step 30 days on GCA days 282: 282 -> 252; clamp [0, 394.8]; cash released 19.9225 Cr; interest 0
+PASS  step 10: no negative release
+PASS  step 10: interest = 0
+PASS  step 10: independent cross-check (days x per day = simulate)
+PASS  step 10: lands at 272
+PASS  step 30: no negative release
+PASS  step 30: interest = 0
+PASS  step 30: independent cross-check (days x per day = simulate)
+PASS  step 30: lands at 252
+PASS  10 days is a third of 30 days
+PASS  payables: no payable leg exists for NP
+PASS  payables: asking for vendor credit releases nothing
+PASS  payables: synthetic leg held at ceiling, cash 0
+
+Values for the pack: 10 days = Rs 6.64 Cr; 30 days = Rs 19.92 Cr; one day = Rs 0.66 Cr
+
+ALL ASSERTS PASSED
+exit=0

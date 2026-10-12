@@ -1,0 +1,58 @@
+Capitals that Power Our Value Creation
+
+INTELLECTUAL CAPITAL
+
+PORTABLE ACCESS LADDER  IN HOUSE INNOVATION                                                                                 Data Privacy and Information Security                         Next-gen Technologies for Project Monitoring
+                                                                                                                                                                                           and Training
+Challenge: Conventional cuplock pipe access systems,              Cost Savings: ~INR 20 Lakh saved compared to              KPIL is committed to safeguarding information assets
+though widely used, required time consuming erection                 conventional systems.                                   and ensuring uninterrupted business operations through        KPIL continues to invest in emerging technologies to
+and dismantling, multiple components, and skilled                                                                            robust cybersecurity practices. Oversight by the Board and    strengthen execution and capability building:
+labour. This led to higher workman hours and reduced              Sustainability: Modular, reusable design                  Executive Management, supported by the Chief Information       Computer Vision & 360 Monitoring: Use of 3D helmet
+efficiency, especially for repetitive access needs                   reduced material usage and promoted resource            Security Officer, drives implementation of comprehensive
+across sites.                                                        optimisation.                                           policies, employee awareness programsme, and                      camera solutions enables real-time tracking of interior
+                                                                                                                             continuous monitoring. Our framework emphasises risk              project progress through immersive visualisation.
+Solution: KPIL's DCOE EW Heavy Civil Team designed and           Highlight                                                   management, access controls, workforce training, audits,       Virtual Reality (VR) Training: VR-based training
+developed a portable ladder system in-house using                                                                            data protection, regulatory compliance, and ongoing               modules, developed in multiple local languages,
+structural steel. The ladder was engineered for:                 By replacing conventional scaffolding with a modular,       improvement, supported by a formal Cybersecurity Policy           provide immersive, on-site-like learning experiences,
+                                                                 portable ladder system, KPIL demonstrated how               available on our website.                                         enhancing safety and-skill development at scale.
+ Quick assembly and dismantling with simple bolted              inhouse innovation can deliver safer, faster, and
+    connections (no welding or special tools).                   more cost-effective solutions while enhancing site          Please refer to the sections in our Annual Report titled      Digital Technologies Transforming
+                                                                 productivity.                                               'Governance and Risk Oversight' and 'Report on Corporate      Project Execution
+ Lightweight yet durable construction for easy                                                                              Governance' (on page no. 114 and page no. 179 respectively).
+    handling and safe use.                                                                                                                                                                 KPIL is leveraging advanced digital technologies to
+                                                                                                                             Initiatives Undertaken                                        enhance decision-making and execution precision across
+ Reusability and flexibility across multiple site                                                                                                                                         the project lifecycle.
+    conditions, including direct ground level access.                                                                        Driving Productivity through Mechanisation
+                                                                                                                                                                                           IoT-enabled Asset Performance Management
+Impact                                                                                                                       KPIL is actively adopting global best practices in
+                                                                                                                             mechanisation to enhance labour productivity, optimise        KPIL has deployed IoT-based telematics systems across
+ Productivity Gains: Faster turnaround and reduced                                                                          resource deployment, and accelerate project timelines.        project equipment, enabling real-time monitoring of
+    dependency on skilled labour.                                                                                            Mechanisation initiatives have been scaled across             plant and machinery (P&M) through GPS and fuel sensors.
+                                                                                                                             multiple business divisions, covering key activities such     This has improved equipment utilisation, reduced fuel
+ Efficiency: Significant savings in workman hours                                                                           as concreting, formwork and reinforcement, pre-cast           consumption, and enhanced operational efficiency.
+    and improved coordination at sites.                                                                                      construction, erection and stringing, and material movement.
+                                                                                                                                                                                           Smart Workforce Management
+KalpaGyaan: Knowledge                                            KalpaGyaan has seen strong adoption across the              This transition towards mechanised operations is
+Management Platform                                              organisation:                                               not only reducing dependency on manual labour                 To enhance workforce productivity and transparency, KPIL
+                                                                                                                             but also ensuring improved quality, consistency               has implemented a mobile-based attendance system
+KalpaGyaan is KPIL's in-house Knowledge Management               Documents available  Users access the                       and faster turnaround across projects.                        powered by facial recognition and GIS technology. This
+platform, developed to capture, store, and share knowledge       on the platform      platform every month                                                                                 ensures accurate attendance tracking within defined
+across the organisation. It serves as a central digital library                                                                                                                            project locations, significantly improving workforce
+where employees can easily access important project              3,100+               ~ 3,300                                                                                              availability, especially in geographically dispersed and
+learnings and technical information.                                                                                                                                                       linear projects.
+
+The platform brings together a wide range of knowledge           Knowledge contributions from
+resources such as project learnings, best practices,             multiple functions and divisions
+drone videos, standard operating procedures (SOPs),
+work methods, testing standards, training materials, and         Through KalpaGyaan, KPIL continues to strengthen a culture
+execution processes. It also captures case studies, lessons      of knowledge sharing, continuous learning, and innovation,
+learned, leadership insights, and industry trends, helping       enabling teams to work more efficiently and deliver
+teams learn from past experiences and improve future             projects with greater excellence.
+project execution.
+
+KalpaGyaan also uses Generative AI features to make
+knowledge easier to find and use. These features provide
+better search results, curated insights and multilingual
+support.
+
+74 Kalpataru Projects International Limited                                                                                                                                                Integrated Annual Report 2025-26 75

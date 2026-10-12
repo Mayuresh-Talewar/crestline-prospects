@@ -1,0 +1,611 @@
+ <!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+<link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/cwap/css/bootstrap.min.css">
+
+<!-- <link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/cwap/css/font-awesome.min.css" /> -->
+
+<link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/font-awesome/css/font-awesome.min.css" />
+
+<link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/cwap/css/form-style.css">
+<link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/cwap/css/style.css">
+<link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/cwap/css/animate.min.css">
+<link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/cwap/css/style_new.css">
+<link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/cwap/css/datepicker.css">
+<link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/cwap/css/responsive.css">
+<link rel="stylesheet" type="text/css" href="https://amrut.mohua.gov.in/assets/cwap/css/dropify.min.css">
+<link rel="icon" href="https://amrut.mohua.gov.in/assets/images/favicon.ico" type="image/x-icon" />
+<link href='https://fonts.googleapis.com/css?family=Yeseva One' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Aleo' rel='stylesheet'>
+<style type="">
+ .dropdown-content {
+  display: none;
+      position: absolute;
+    background-color: #ffffff;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+    z-index: 9999;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 7px 8px;
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+   body, html {
+    font-family: 'Yeseva One';
+    font-family: 'Aleo' !important;
+    }
+     .amrut_logo h1 {
+    font-family: 'Yeseva One' !important;
+    width: 500px !important;
+    font-weight: 900 !important;
+    font-size: 26px !important;
+    margin: 0;
+    align-items: center;
+    vertical-align: middle;
+    font-size: 22px;
+    line-height: 83px;
+    font-weight: 600;
+    color: white;
+    /* font-style: italic; */
+}
+</style>        
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <title></title>
+        <link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/irma/style.css">
+        <link rel="stylesheet" href="https://amrut.mohua.gov.in/assets/forms/css/jquery.dataTables.min.css" />
+        <script src="https://amrut.mohua.gov.in/assets/cwap/js/jquery-3-5-0.min.js"></script>
+        <script type="text/javascript" src="https://amrut.mohua.gov.in/assets/cwap/js/jquery_dataTables.js"></script>
+    </head>
+<style>
+/* .projectListTable .bg-light-orange{ background: #f1a84d!important } */
+.bg-navy { background: var(--navy); }
+.menu_section{ height:6px;}
+
+table.dataTable tbody tr { background-color: transparent; }
+ .dataTables_wrapper .dataTables_filter{ margin-bottom: 10px !important; }
+ .dataTables_wrapper .dataTables_paginate { color: #FFF; }
+ .z-100{z-index: 100;}
+ .dataTables_wrapper .dataTables_paginate .paginate_button {  color: #FFF !important;}
+ .dataTables_wrapper .dataTables_paginate .paginate_button.disabled, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active { color: #FFF !important; }
+ .table > thead tr th{border-top: solid 1px var(--navy) !important}
+.table{ background:#fff}
+.table td, .table td a{
+    color:#222
+
+}
+.table td{border: solid 1px #888}
+.table>:not(caption)>*>* {
+    padding: 5px !important;
+    border: 1px solid #7d7d7d33 !important;
+}
+.table tr:nth-child(odd) td{
+    background-color:#e7f1fd;
+
+}
+.dataTables_filter,.dataTables_paginate{
+    padding-right:20px
+}
+.dataTables_scrollBody thead{
+    display:none;
+}
+.dataTables_scrollHead >div{
+    background-color: #ed9221;
+}
+.dataTables_scrollHead table{margin-bottom:0px !important}
+.dataTables_wrapper{
+    overflow-x:hidden;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  border-radius:30px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  background-color:#f1a84d;
+  border-radius:30px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ed9221;
+}
+.dataTables_wrapper .dataTables_filter input {background-color: white; }
+.dataTables_paginate {margin-top: 5px !important; margin-bottom: 12px; }
+.dataTables_wrapper .dataTables_paginate .paginate_button.current{
+    color: #000000 !important;
+}
+</style>
+<body>
+<link href='https://fonts.googleapis.com/css?family=Yeseva One' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Aleo' rel='stylesheet'>
+<style type="text/css">
+   .header_component{
+   width: 33.33% !important;
+   }
+   
+   .main_heading {
+   font-size: 14px !important;
+   line-height: 8px !important;
+   display: inline-grid !important;
+   }
+   .dropdown-content{
+   min-width: 185px !important;
+   }
+   /*.bg_head{height:57px;}*/
+   body{
+   background: rgb(23,28,54);
+   background: linear-gradient(85deg, rgb(23 29 54) 0%, rgb(23 29 54) 43%, rgb(30 45 84) 100%);
+   }
+   #notification .dropdown:hover .dropdown-content {
+   display: block;
+   }
+   #notification .dropdown-content{
+   display: none;
+   top: 42px !important;
+   }
+   .active_mn {
+   border: none;
+   outline: none;
+   padding: 10px 16px;
+   background-color: transparent;
+   cursor: pointer;
+   font-size: 18px;
+   }
+   .active, .active_mn:hover {
+   background-color:  #ed9221;
+   color: white;
+   }
+   .newmanagement {
+   padding: 10px 6px 10px 17px !important;
+   }
+   section.main_header {
+    padding: 0px !important;
+    border-bottom: 2px solid transparent;
+}
+.menu_section {
+    border-bottom: 2px solid #ec9121 !important;
+}
+.icon{display: flex !important;}
+   body, html {
+    font-family: 'Yeseva One';
+    font-family: 'Aleo' !important;
+    }
+     .amrut_logo h1 {
+    font-family: 'Yeseva One' !important;
+    width: 500px !important;
+    font-weight: 400 !important;
+    font-size: 26px !important;
+    margin: 0;
+    align-items: center;
+    vertical-align: middle;
+    font-size: 22px;
+    line-height: 83px;
+    font-weight: 600;
+    color: white;
+    /* font-style: italic; */
+}
+
+  
+.mainHeaderUp .text_home p {
+    width: auto!important;
+    font-size: 13px !important;
+    text-align: center;
+    padding: 10px 14px 10px 14px !important;
+}
+
+.mainHeaderUp .menu_section{
+    display: block;
+}
+
+
+.icon {
+    width: 100%;
+}
+  /*meena style */
+      .right_side_menu {
+      width: auto !important;
+}
+      .right_side_menu.gtyrre {
+      width: auto !important;
+      /*background: #192947;*/
+      height: auto;
+      overflow: hidden;
+      }
+     
+      .text-right {
+      float: right;
+      }
+      .border_line:after {
+      content: '';
+      position: absolute;
+      width: 1px;
+      height: 33px;
+      display: inline-block;
+      background: #ffffff;
+      margin: 0 0 0 12px;
+      top: 10px;
+      right: 100px;
+      }
+      .border_line_1 {
+      content: '';
+      position: absolute;
+      width: 1px;
+      height: 33px;
+      display: inline-block;
+      background: #ffffff;
+      margin: 0 0 0 12px;
+      top: 10px;
+      right: 50px;
+      }
+      .heading_section h3 {
+      color: white;
+      font-size: 18px;
+      margin-bottom: 0px !important;
+      }
+      .chart_heading h3 {
+      font-size: 12px;
+      color: white;
+      }
+      .legend li:before {
+      content: "";
+      margin-right: 0.5em;
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      background-color: #6993ff;
+      border-radius: 50px;
+      }
+      .legend_new li:before {
+      content: "";
+      margin-right: 0.5em;
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      background-color: #ffffff;
+      border-radius: 50px;
+      }
+      .legend_new1 li:before {
+      content: "";
+      margin-right: 0.5em;
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      background-color: #ffffff;
+      border-radius: 50px;
+      }
+      .legend li:nth-of-type(2):before {
+      background-color: #e7432c;
+      }
+      .legend li:nth-of-type(3):before {
+      background-color: #dbe000;
+      }
+      .legend li:nth-of-type(4):before {
+      background-color: #5abd0a;
+      }
+      .legend_new li:nth-of-type(2):before {
+      background-color: #54b053;
+      }
+      .legend_new1 li:nth-of-type(2):before {
+      background-color: #f1b43b;
+      }
+      .list-inline {
+      padding-top: 47px;
+      margin-left: -24px;
+      }
+      .highcharts-credits {
+      display: none !important;
+      }
+      .hr_style {
+      background: #19681f;
+      opacity: 1;
+      margin-top: 0px !important;
+      margin-bottom: 4px !important;
+      }
+      .hr_style1 {
+      background: #19681f;
+      opacity: 1;
+      margin-bottom: 0px !important;
+      margin-top: 4px;
+      }
+      .p_d {
+      padding-top: 10px;
+      padding-left: 20px;
+      font-size: 14px;
+      color: white;
+      }
+      /*.ght{
+      margin-left: 47px !important;
+      }
+      .ght_1{
+      margin-left:111px !important;
+      }*/
+      .hgyt {
+      padding-top: 0px !important;
+      }
+      .chart_second h3 {
+      font-size: 14px;
+      color: white;
+      padding-left: 20px;
+      padding-top: 20px;
+      }
+      /*meena style end*/
+      .menu_section {
+      background: #192947;
+      display: flex;
+      }
+      .text_home p {
+      color: white;
+      font-size: 16px;
+      padding: 10px 20px 10px 20px;
+      width: 250px;
+      margin-bottom: 0px !important;
+      }
+     
+      .main_heading{
+         text-align: left;
+      }
+
+.icon i {
+    font-weight: 100;
+    font-size: 16px;
+    padding: 0px;
+    position: unset;
+}
+.logo-lg {
+    text-align: center !important;
+}
+.swatch-india img {
+
+    margin-right: 0px !important;
+}
+</style>
+<div class="wrapper">
+<section class="main_header mainHeaderUp">
+   <div class="">
+      <header>
+         <div class="header_container">
+            <div class="header_component main_logo">
+               <div class="logo-lg">
+                  <img src="https://amrut.mohua.gov.in/assets/images/enbI.png" height="80">
+                  <h5 class="main_heading"><strong>Ministry of Housing & Urban Affairs</strong> <br><strong>Government of India</strong>
+                  </h5>
+               </div>
+            </div>
+            <div class="header_component amrut_logo">
+               <div class="text-center">
+                  <h1>AMRUT 2.0 Collaboration Platform</h1>
+               </div>
+            </div>
+            <div class="header_component">
+               <div class="swatch-india">
+                  <a href="http://amrut.gov.in/content/" target="_blank" rel="noopener noreferrer">
+                  <img src="https://amrut.mohua.gov.in/assets/forms/images/amrut-logo.png" class="amrut">
+                  </a>
+               </div>
+            </div>
+         </div>
+         <div class="menu_section">
+            <div class="container-fluid overflow-hidden">
+               <div class="row">
+                  <div class="col-md-12 text-center">
+                    <p class="text-light mt-3 font-weight-bold" style='font-weight: 700'>&nbsp;</p>
+                  </div>
+                  
+               </div>
+            </div>
+        </div>
+      </header>
+    
+    
+   </div>
+
+<!-- <header>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-3">
+                <div class="d-flex align-items-center">
+                    <div>
+                        <img src="https://amrut.mohua.gov.in/assets/images/enbI.png" height="80">
+                    </div>
+                    <div>
+                        <h6 class="mb-0 ms-2 fs-14">Ministry of Housing & Urban Affairs<br/>Government of India</h6>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-8">
+                <div class="text-center">
+                  <h1>AMRUT 2.0 Collaboration Platform</h1>
+                </div>
+            </div>
+
+            <div class="col-1">
+                <div>
+                    <a href="http://amrut.gov.in/content/" target="_blank" rel="noopener noreferrer">
+                        <img class="w-100" src="https://amrut.mohua.gov.in/assets/forms/images/amrut-logo.png" class="amrut">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</header> -->
+
+</section>
+  
+
+<!-- City Profile​ page starts -->
+<section class="px-5 pb-3">
+
+    <div class="container-fluid bg-navy rounded-3 overflow-hidden  pt-2 mt-3 city-profile-container">
+        <div class="row m-0  g-0">  
+            <div class="col-12">
+                <div class="d-flex justify-content-center">
+                    <div class="col-auto d-flex w-auto text-white fs-5 mb-2">List of Approved Projects</div>
+                </div>  
+            </div>
+        </div>
+        
+        <div class="row position-relative">
+            <div class="zzz">
+                <a href="https://amrut.mohua.gov.in/approvedProjects/ulb/TTN2eVhpdTRLYWVxbjFYdEllaWROQT09/TURTTHBLUDNCL2ZRTUFiR0dvOUJ5Zz09" class="position-absolute" style="background: #192947;top: -37px;z-index: 4 !important;padding: 4px 8px;border-radius: 6px;">
+                    <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                    <span>Back </span> 
+                </a> 
+            </div>
+            
+            <div class="col-12 table-responsive p-0" style="height:calc(100vh - 129px); margin-top: -40px;">
+                <table class="table text-white projectListTable" id="example">
+                    <thead>
+                        <tr>
+                            <th>S.No.</th>
+                            <th>Project Title</th>
+                            <th>Project Type</th>
+                            <th>Project Cost <br/>(in ₹ Cr.)</th>
+							<th>Milestone</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                                                <tr>
+                            <td class="text-center">1</td>
+                            <td class="text-left">24 x 7 water supply system for belapur ward navi mumbai</td>
+                            <td class="text-left">Water Supply</td>
+                            <td class="text-center">
+                            162.22                            </td>
+							<td class="text-left">Contract Awarded</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">2</td>
+                            <td class="text-left">Augementation of SCADA system for navi mumbai water supply scheme</td>
+                            <td class="text-left">Water Supply</td>
+                            <td class="text-center">
+                            143.28                            </td>
+							<td class="text-left">Contract Awarded</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">3</td>
+                            <td class="text-left">Construction of New sewage treatment plant of 2 MLD Capacity at Yadavnagar in airoli ward</td>
+                            <td class="text-left">Sewerage/Septage</td>
+                            <td class="text-center">
+                            10.38                            </td>
+							<td class="text-left">Contract Awarded</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">4</td>
+                            <td class="text-left">replacement of pumping machinery at sector 1A & sector 2A Koperkhirane in Koperkhirane  ward</td>
+                            <td class="text-left">Sewerage/Septage</td>
+                            <td class="text-center">
+                            3.58                            </td>
+							<td class="text-left">Project Completed</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">5</td>
+                            <td class="text-left">Construction of sewage pumping stations at sector-9 Sanpada, & replacement of pumping machinery at sector 30 vashi in Turbhe ward</td>
+                            <td class="text-left">Sewerage/Septage</td>
+                            <td class="text-center">
+                            14.1                            </td>
+							<td class="text-left">Project Completed</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">6</td>
+                            <td class="text-left">Construction of sewage pumping stations at sector-1A Shiravane Nerul, & replacement of pumping machinery at sector 4 nerul in nerul ward</td>
+                            <td class="text-left">Sewerage/Septage</td>
+                            <td class="text-center">
+                            13.9                            </td>
+							<td class="text-left">Project Completed</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">7</td>
+                            <td class="text-left">Construction of sewage pumping stations at sector-03 sector-12 & sector-28  at vashi node</td>
+                            <td class="text-left">Sewerage/Septage</td>
+                            <td class="text-center">
+                            39.01                            </td>
+							<td class="text-left">Project Completed</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">8</td>
+                            <td class="text-left">Construction of sewage pumping stations at sector-20, sector-25 and replacement of pumping machinery at sector -6 in belapur ward</td>
+                            <td class="text-left">Sewerage/Septage</td>
+                            <td class="text-center">
+                            26.92                            </td>
+							<td class="text-left">Project Completed</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">9</td>
+                            <td class="text-left">Recycle & reuse of treated wastewater for belapur ward ( Tertiary treatment plant of 10 MLD capacity)</td>
+                            <td class="text-left">Sewerage/Septage</td>
+                            <td class="text-center">
+                            43.16                            </td>
+							<td class="text-left">Project Completed</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">10</td>
+                            <td class="text-left">Beautification of Dharan lake sector 19 Koparkhairane ward under Amrit Sarowar proposal</td>
+                            <td class="text-left">WB Rejuvenation</td>
+                            <td class="text-center">
+                            11.57                            </td>
+							<td class="text-left">Project Completed</td>
+                        </tr>
+                                                <tr>
+                            <td class="text-center">11</td>
+                            <td class="text-left">Rejuvenation of water body at the Jewel of Navi Mumbai, NMMC</td>
+                            <td class="text-left">WB Rejuvenation</td>
+                            <td class="text-center">
+                            22.96                            </td>
+							<td class="text-left">Project Completed</td>
+                        </tr>
+                                                <!-- Add more rows as needed -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+       
+
+
+    </div>
+
+
+</section>
+<!-- City Profile​ page starts -->
+
+
+        <script src="https://amrut.mohua.gov.in/assets/cwap/js/bootstrap.bundle.min.js"></script>
+        <script>
+            var theight =window.window.innerHeight - 390;
+             
+           $(document).ready(function() {       
+            console.log(theight);
+              $('#example').dataTable({                    
+                    ordering: false,               
+                    "bLengthChange" : false,                    
+                    "bInfo":false,   
+                    // scrollY: theight,
+                    pageLength: 20            
+                 });
+});
+        </script>
+</body>
+
+</html> 

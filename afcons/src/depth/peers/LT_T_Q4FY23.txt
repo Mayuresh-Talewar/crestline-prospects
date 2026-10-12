@@ -1,0 +1,1136 @@
+                 "Larsen & Toubro Limited
+           Q4 FY '23 Earnings Conference Call"
+
+                         May 10, 2023
+
+  .
+
+MANAGEMENT: MR. R. SHANKAR RAMAN - WHOLE-TIME DIRECTOR
+                     AND CHIEF FINANCIAL OFFICER ­ LARSEN & TOUBRO
+                     LIMITED
+                     MR. P. RAMAKRISHNAN ­ VICE PRESIDENT ­ LARSEN
+                     & TOUBRO LIMITED
+
+                                                 Page 1 of 24
+                  Larsen & Toubro Limited
+                                May 10, 2023
+
+Moderator:        Ladies and gentlemen, good day and welcome to the Larsen & Toubro Limited Q4 FY `23
+P. Ramakrishnan:  Earnings Conference Call. As a reminder, all participant lines will be in the listen-only mode,
+                  and there will be an opportunity for you to ask questions after the presentation concludes. Should
+                  you need assistance during the conference call, please signal an operator by pressing star, then
+                  zero on your touchtone phone. Please note that this conference is being recorded.
+
+                  I now hand the conference over to Mr. P. Ramakrishnan. Thank you and over to you, sir.
+
+                  Thank you, Faizan. Good evening, ladies and gentlemen. A very warm welcome to all of you
+                  into the Q4 and FY `23 earnings call of Larsen & Toubro Limited. We will have with us on the
+                  call today our Whole-Time Director and Group Chief Financial Officer, Mr. R Shankar Raman.
+                  The earnings presentation was uploaded to the Stock Exchange at our website around 6 p.m.
+                  Hope you had a chance to look at the numbers and the presentation content as well. As per usual
+                  practice, instead of going through the entire presentation, I will take you through the key
+                  highlights for the quarter in the next 30 minutes or so, and post which myself and Mr. Shankar
+                  Raman will take the Q&A.
+
+                  Before I start, a brief disclaimer, the presentation which we have uploaded on the Stock
+                  Exchange and our website today, including the discussions that we will have in this call, contain
+                  or may contain certain forward-looking statements concerning L&T Group's business prospects
+                  and profitability, which are subject to several risks and uncertainties and the actual results could
+                  materially differ from those in such forward-looking statements.
+
+                  During Q4 FY `23, the Indian economy continued to display a surprising resilience despite the
+                  continuing geopolitical uncertainties globally. Most of the Indian high-frequency economic
+                  indicators are continuing to exhibit growth momentum. PMIs and industrial activity, power
+                  demand, credit growth, investment indicators, mobility indicators, passenger and cargo traffic
+                  data, etcetera, are all pointing towards a stable macroeconomic environment. However, the
+                  discretionary consumption spends have continued to remain a bit of lackluster. The tax
+                  collections for the government have continued to remain strong and the balance sheets of the
+                  banks as well as private corporates are healthier. Clearly, most of the Indian macro indicators,
+                  be it growth, current account, fiscal deficit, as well as inflation, are relatively better vis-à-vis
+                  other countries in the world. Within GCC, one of our primary geographies besides India, we also
+                  see many countries are building their non-oil economy by investing in areas like water, green
+                  energy, and at the same time, continuing to ramp-up their spend on oil and gas investments.
+                  These are definitely interesting times where despite the continuing global turmoil, both India
+                  and GCC remain relatively stable.
+
+                  Before I get into the details of the financial performance parameters, I would like to share a few
+                  important milestones and highlights for the year. For the first time ever, our group order inflows
+                  for the year FY `23 has crossed Rs 2 trillion. Secondly, our order book at around Rs 4 trillion is
+                  obviously at a record high. Our group revenues for the year FY `23 at Rs 1.83 trillion has
+                  registered a growth of 17% on a Y-on-Y basis, once again a five-year high.
+
+                                        Page 2 of 24
+                                                                        Larsen & Toubro Limited
+                                                                                       May 10, 2023
+
+We have reported an NWC to revenue, this excludes financial services segment, the NWC to
+revenue at 16.1% as on March `23 is again the best reported in the last five financial years.
+Finally, our recurring PAT for the year has crossed the Rs 100 billion mark, again an important
+milestone for our group. A few other important highlights for the year are, we successfully
+concluded the merger of L&T Infotech and MindTree in Q3 FY `23. The combined entity, which
+is LTIMindtree, with an annualized revenue currently at USD 4 billion, possesses the capabilities
+of a Tier 1 company and yet retaining the agility of a next tier firm. Similarly, our technology
+services company, LTTS, also crossed the revenue run rate of USD 1 trillion during the last
+quarter.
+
+Further, LTTS has successfully absorbed the Smart World and Communications business of the
+parent. The transaction got completed on April 1, 2023. The expertise of Smart World and the
+Communications business in communications, envisioning and creating smart and safe cities,
+power and cyber security services and 5G enterprise solutions offer ideal synergies for LTTS
+and three out of its six bets they are placing in the future, which are electrical, autonomous and
+connected vehicles, 5G, medical technologies, digital products & artificial intelligence, digital
+manufacturing and sustainability.
+
+During the year, the company commissioned a pilot green hydrogen plant at its Hazira campus,
+marking its entry into the Green Hydrogen business. The pilot plant produces 45 kgs of high
+purity green hydrogen daily. Additionally, the company has entered into a technology license
+agreement with McPhy Energy France for manufacture of pressurized alkaline electrolyzers.
+The company has also entered into MOU to develop floating green ammonia projects for
+industrial scale applications with the Norway based H2 carrier.
+
+With the conclusion of the sale of the mutual fund business and a phased reduction of the
+wholesale loan assets book, L&T Finance, a listed subsidiary, will also transform into a full scale
+retail oriented digitally enabled business.
+
+The Realty business of the group, in addition to development and monetization of existing land
+banks, will continue to pursue growth in residential and commercial through multiple formats.
+During the year, the company entered into an agreement with CapitaLand India for developing
+6 million square feet of prime office space in Mumbai, Chennai and Bengaluru. Finally, the
+IDPL divestment was also announced during Q3 FY `23. The transaction closure, however, is
+subject to regulatory approvals and should get concluded in the next one or two quarters.
+
+I will now cover the various financial performance parameters for Q4 FY `23. Our group order
+inflows for Q4 FY `23 at Rs 761 billion registered a Y-on-Y growth of 3%. Within that, our
+Projects and Manufacturing business secured order inflows of Rs 611 billion for Q4 around the
+same levels as that of the Q4 of the previous year. Our Q4 order inflows in the Projects and
+Manufacturing portfolio are mainly from Infrastructure, Hydrocarbon and Defense segments.
+
+During the current quarter, our share of international orders in the Projects and Manufacturing
+portfolio is at 43% vis-à-vis 39% in Q4 of last year. Our share of private orders within the
+
+                      Page 3 of 24
+                                                                        Larsen & Toubro Limited
+                                                                                       May 10, 2023
+
+Projects and Manufacturing portfolio is at 18% for Q4 FY `23 vis-à-vis 22% in the corresponding
+quarter of the previous year.
+
+Coming to FY `23 as a full year, our group order inflows at Rs 2,305 billion has registered a
+strong growth of 19% over the previous year. We had given a guidance of 12% to 15% at the
+start of the year and our actuals has been in higher of 19%. Within this total order inflow, our
+Projects and Manufacturing businesses have secured orders of Rs 1,722 billion for the year,
+growing by 19% on a Y-on-Y basis. The share of private orders for FY `23 in this portfolio that
+is the Projects and Manufacturing is at 27% vis-à-vis 22% in the previous year and the share of
+international orders is at 28% as against 37% in the previous year.
+
+The year witnessed booking of some noteworthy orders in domestic irrigation projects and
+wastewater project in the Water and Effluent treatment business, a project in public spaces
+business in the Buildings and Factories vertical, a few orders in the hydel and tunnel business
+including a lift irrigation project and a strategic order in the Heavy Civil Infrastructure business.
+Apart from this, a couple of orders in ferrous metal space, some select large orders in the defence
+business and a large order in the onshore vertical and multiple orders in the offshore vertical of
+the Hydrocarbon engineering business were all secured.
+
+Moving on to the prospects pipeline for FY `24, we have a total prospects pipeline of Rs 9.73
+trillion for FY `24 as against Rs 8.53 trillion that we had announced at the start of FY `23. This
+by itself represents an increase in the prospects of almost 14%. The broad breakup of the overall
+prospects pipeline that I just now mentioned at Rs 9.73 trillion, Infrastructure comprises Rs 6.5
+trillion, Hydrocarbon at Rs 2.44 trillion, Power at Rs 0.5 trillion and Hi-Tech Manufacturing at
+Rs 0.29 trillion.
+
+Moving on to order book. Our order book is at Rs 3.99 trillion as on March `23. As our Projects
+and Manufacturing is largely India-centric, 72% of our order book is domestic and 28% is
+outside India. Of the international order book of Rs 1.11 trillion, around 87% is from the Middle
+East countries, 4% is from Africa and the remaining 9% from various countries including
+Southeast Asia. As is evident from the statistic, GCC capex for both Infrastructure and
+Hydrocarbon sectors is on an upswing post the recovery in oil prices. The breakdown of the
+domestic order book of Rs 2.88 trillion which is 72% of our order book, the breakup is as
+follows: the share of Central Government orders 14%, State Government 30%, Public Sector
+units or State-Owned Enterprises at 36% and Private Sector at 20%. Around 22% of our total
+order book of Rs 3.99 trillion is funded by bilateral and multilateral funding agencies. Around
+89% of our order book is from Infrastructure and Energy. You may refer to the presentation
+slides for further details. During Q4, FY `23 and FY `23, we have deleted orders of Rs 53 billion
+and Rs 103 billion respectively from the order book. As of March `23, our slow moving orders
+in the order book is around 1%.
+
+Coming to revenues, our group revenues for Q4, FY `23 at Rs 583 billion registered a Y-on-Y
+growth of 10%. International revenues constituted 39% of the revenues during the quarter. The
+IT and TS portfolio continue to report an industry leading growth in Q4 as well. In the Projects
+and Manufacturing businesses, our revenues for Q4, FY `23 were at Rs 433 billion registering a
+
+                      Page 4 of 24
+                                                                        Larsen & Toubro Limited
+                                                                                       May 10, 2023
+
+Y-on-Y growth of 8%. For the full year, we reported group revenues of Rs 1.83 trillion, a growth
+of 17%, largely achieved on the back of a pickup in the execution momentum in the Projects and
+Manufacturing businesses and a healthy growth in the IT and Technology Services business. For
+revenues, if you may recall, we had given indicated a guidance of 12% to 15% growth at the
+beginning of the year.
+
+Moving on to EBITDA margin. Our group level EBITDA margin without other income for Q4,
+FY `23 is 11.7%, a drop of 60 basis points over Q4 of FY `22. This drop of 60 basis points is
+mainly due to cost pressures in the projects part of the portfolio. For FY `23, this drop is 30 basis
+points that is from 11.6% in FY `22 to 11.3% in the current year FY `23. The detailed breakup
+of the EBITDA margin business-wise is also given in the annexures to the earnings presentation.
+You would have noticed that EBITDA margin in the Projects and Manufacturing business for
+Q4, FY `23 is at 9.2% vis-à-vis 10.3% in Q4, FY `22 and for FY `23 as a whole is at 8.6% vis-
+à-vis 9.3% in FY `22. Against the margin guidance of 9.5% that we provided at the start of the
+year, we have fallen short by 90 basis points which is, as I said, largely attributed to cost
+pressures in the EPC projects part of the portfolio. I will cover the details when I talk about the
+performance of each of the segments.
+
+Our recurring PAT for Q4, FY `23 at Rs 39.9 billion is up 10% over Q4 of last year, largely in
+line with the revenue growth during the quarter. Similarly, our Recurring PAT for the year at Rs
+103.7 billion is up 21% over FY `22. The group performance P&L construct along with the
+reasons for major variances under the respective function heads is provided in the earnings
+presentation. You may kindly go through the same for further details.
+
+Coming to working capital, our NWC to sales ratio has improved from 19.7% in March `22 to
+16.1% in March `23. We have done substantially better vis-à-vis the guidance of 20% to 22%
+that we gave at the start of the year. Further, the GWC to revenues for FY `23 has dropped
+sharply to 62.3% as against the GWC to revenue of FY `22 at 73.4%. Our group level collections
+excluding the financial services segment for Q4 FY `23 is Rs 539 billion vis-à-vis Rs 430 billion
+in Q4 FY `22. For FY '23, our group level collections excluding financial services segment is
+Rs 1.7 trillion vis-à-vis Rs 1.36 trillion in FY `22 representing an increase of 25%. The
+improvement in Gross Working Capital is also reflecting in the Net Working Capital. Receipt of
+customer advances towards the orders received during the year also helped the extent of Net
+Working Capital drop.
+
+Our Gross Debt to Equity ratio for FY `23, the close of FY `23 is 1.14 as against 1.29 at the end
+of FY `22. Finally, our Return on Equity for FY `23 is 12.2% vis-à-vis 11% for FY `22, an
+improvement of almost 120 basis points.
+
+I will now comment on the performance of each of the business segment before we give our
+final comments on the outlook for the medium term. First would be the Infrastructure segment.
+Coming to order inflows, this segment secured orders of Rs 412 billion for Q4 FY `23 registering
+a de-growth of 9% that is primarily due to high base of the corresponding quarter of the previous
+year. However, full year order inflows in this segment were at Rs 1,171 billion reporting a
+substantial growth of 25% over FY `22 on receipt of multiple large value orders across all the
+
+                      Page 5 of 24
+                                                                        Larsen & Toubro Limited
+                                                                                       May 10, 2023
+
+sub-segments under this particular business. During the current year, Buildings and Factories
+benefited from receipt of some prestigious orders in the public space business. The Heavy Civil
+Infrastructure registered growth on the receipt of a mega infrastructure order and the Water and
+Effluent treatment business also received numerous orders for irrigation and waste water
+treatment. The Minerals and Metals business performed well with the receipt of multiple ferrous
+orders from a private client. For two years in a row, the Power Transmission & Distribution
+business has continued to benefit from the gigawatt scale renewable opportunities from the GCC
+region. The decline in order inflow in Transportation Infrastructure for the year is mainly due to
+deferral of targeted prospects. Coming to order prospects for this Infra segment, for FY `24, it
+aggregates to around Rs 6.5 trillion vis-à-vis Rs 5.72 trillion as at last year. The share of domestic
+in the total order prospects of Rs 6.5 trillion is Rs 5.19 trillion and the balance international
+prospects of Rs 1.31 trillion. The sub-segment breakup of total order prospects in Infrastructure
+business is as follows:
+
+      · Heavy Civil Infra - 21%
+      · Water and Effluent Treatment - 22%
+      · Transportation Infrastructure - 19%
+      · Power Transmission and Distribution - 18%
+      · Buildings and Factories - 13%
+      · Minerals and Metals - 6%
+
+The order book in this segment is Rs 2.845 trillion as on March `23. The book bill for Infra is
+around three years. The Q4 revenues at Rs 312 billion registered a growth of 5% over the
+comparable quarter of the previous year, whereas FY `23 revenues at Rs 867 billion registered
+a strong growth of 20% largely aided by the ramp-up of execution of large orders in the portfolio.
+As a philosophy, we always step up execution when customer collections are flowing at a healthy
+pace to essentially strike a healthy balance between P&L and the balance sheet. Our EBITDA
+margin in this segment for Q4 FY `23 at 7.5%, registers a de-growth of 170 basis points over
+the corresponding quarter of the previous year, whereas the full year EBITDA margin at 7%
+registers a decline of 120 basis points. Margins for the quarter and the year remain subdued due
+to job mix of largely government public-centered tender projects under execution, input price
+pressures, logistics constraints, cost overruns in certain jobs, pending delay in the customer claim
+settlements. Client claims will be pursued under the terms of the respective contracts, the
+settlement of which will happen over time.
+
+Moving on to the next segment which is Energy Projects which comprises of Hydrocarbon and
+Power. Receipt of multiple Domestic and International orders in the Hydrocarbon business
+during the year improves the order book, whereas deferral of orders continued in thermal power.
+We have a strong order prospect pipeline of Rs 2.94 trillion for this Energy segment in FY `24
+comprising of Hydrocarbon prospects of Rs 2.44 trillion and power prospects of Rs 0.50 trillion.
+The order book for this Energy segment is at Rs 724 billion as on March `23 with the
+Hydrocarbon engineering order book at Rs 670 billion and Power at Rs 54 billion. The book bill
+for this segment is around 20 months. The Q4 and FY revenue growth of 18% and 6%
+respectively is largely led by the execution momentum in Hydrocarbon, whereas lower revenues
+in Power is a function of a depleted order book. The improvement in EBITDA margin in this
+
+                      Page 6 of 24
+                                                                        Larsen & Toubro Limited
+                                                                                       May 10, 2023
+
+segment for the quarter and full year is largely a function of execution cost savings in both the
+segments. Further favourable customer claim settlement in Hydrocarbon in Q4, FY `23 also
+aided the improvement.
+
+We will now move on to High-Tech Manufacturing segment, which comprises of Heavy
+Engineering and the Defence Engineering businesses. In this quarter, order inflow growth in
+Defence Engineering is driven by the government's thrust towards indigenisation, whereas
+Heavy Engineering ordering was impacted due to deference. For the full year though, both
+Defence and Heavy engineering have benefited from multiple order wins. We have an order
+prospect pipeline of Rs 252 billion for this segment in FY `23. The share of Defence against this
+pipeline is around 78%. The order book for this segment is Rs 262 billion as on March `23.
+Revenues for Q4 and full year for this segment registered a growth of 21% and 10% respectively,
+largely attributed to higher progress in the refinery business of Heavy Engineering and execution
+ramp up of select projects in the Defence Engineering business. Margin variance for the quarter
+vis-à-vis corresponding quarter of the previous year is largely a function of the job mix in this
+segment, whereas full year margin variance had some element of execution delays arising out of
+supply chain issues.
+
+While I am on this segment, I would like to mention once more that the Defence Engineering
+business of Larsen & Toubro does not manufacture any explosives nor ammunition of any kind,
+including cluster ammunitions or anti-personnel landmines or nuclear weapons or components
+for such munitions. The business also does not customise any delivery systems for such
+munitions.
+
+Moving on to the next segment, IT and Technology services. As you are all aware, the merger
+of LTI and Mindtree got concluded on Nov 15, 2022. The merged entity is uniquely positioned
+to scale up by competing for large deals and will benefit from cost and revenue synergies on
+upselling, cross-selling and stitching services together. The revenues for this segment for the
+quarter at Rs 106 billion and the full year at Rs 407 billion registers a growth of 21% and 26%
+respectively over the corresponding period of the previous year, largely reflective of the
+continuing growth momentum in the sector with a surge in demand for technology-focused
+offerings. The margin decline in the segment for the quarter is a function of higher staff cost
+whereas for the full year the margin was impacted to a combination of higher employee cost as
+well as one-time integration expenses due to the merger of the two companies. I will not delve
+too much on this segment as both the companies in this segment are listed entities and the
+detailed fact sheets are already available in the public domain.
+
+We move on to the Financial Services segment. Here again L&T Finance Holdings is listed and
+the detailed results and the fact sheet are already available. The highlights for Q4 FY `23 for
+Financial Services segment were improved net interest margin and fees, lower credit cost, better
+asset quality and rundown of the wholesale and expansion of the retail loan book. In fact as on
+March '23, the share of retail in the overall book at around Rs 80,000 crores is at 75%of Rs
+80,000 crores. The strategic deliverables in this business revolve around portfolio
+reorganization, strong asset quality and improvement in ROA. This business endeavors to be a
+top class digitally enabled retail finance company moving from a product focus to a customer
+
+                      Page 7 of 24
+                                                                        Larsen & Toubro Limited
+                                                                                       May 10, 2023
+
+focus approach. Finally to conclude sufficient growth capital is available in L&T Finance
+Balance Sheet.
+
+Moving on to Development Project segment. This segment currently includes the Power
+Development business comprising of the thermal power plant Nabha Power, Uttaranchal Hydro
+Power up to the date of its divestment in the previous year August 2021 and Hyderabad Metro.
+Let me mention here that profit consolidation of L&T IDPL at a PAT level has been discontinued
+from Q4 FY `23 post signing of the definitive agreement for sale of our entire stake in the
+company. The investment in this JV is now classified as held for sale. The majority of revenues
+in the Development Project segment is contributed by Nabha Power. Improved ridership in
+Hyderabad Metro and higher PLF in Nabha drive revenue growth for this segment. To give you
+some statistics on Hyderabad Metro, the average ridership improved from 1,99,000 passengers
+a day in Q4 FY `22 to 4,08,000 passengers per day in Q4 FY `23. Our average ridership in Q3
+FY `23 was 3,94,000 passengers a day. Also average ridership for Hyderabad Metro in FY `23
+that is the whole of the year was at 3,61,000, as compared to 1,55,000 in FY `22. The higher
+segment margin in Q4 FY `23 is primarily due to consolidation of Nabha profits led by increase
+in the benchmark valuation. In Metro at a PAT level, we have consolidated a loss of Rs 13.21
+billion in FY `23 vis-à-vis loss of Rs 17.51 billion in FY `22. The interest cost in the Metro SPV
+has reduced from Rs 14.77 billion in FY `22 to Rs 12.73 billion in FY `23, largely reflective of
+the benefits of refinancing which got concluded in the previous year.
+
+Moving on to Other segments. this segment comprises Realty, Industrial Valves, Smart World
+and Communications, Construction Equipment and Mining Machinery and Rubber Processing
+Machinery. The Q4 and FY `23 growth in this segment is mainly in Realty, Rubber Processing
+Machinery as well as Construction Equipment and Mining Machinery. The Q4 and FY `23
+margins of this segment is in line with the corresponding period of the previous year.
+
+Before I conclude on to the environment outlook, I want to draw your attention to two new slides
+which we have included in the annexures to the earnings presentation. The first slide is how
+return ratios have improved in the Projects and Manufacturing portfolio over the last five years.
+If you glance through the numbers, you will realize that a combination of revenue growth and a
+reduced capital intensity in this Projects and Manufacturing portfolio has offset the margin slide
+and actually resulted in improved return ratios over time. As I say this at the cost of maybe I am
+sounding defensive, I would like to mention that the delays and disputes on additional claims
+from clients has created in some sort of a timing mismatch in the books, consequently impacting
+margins in the shorter term. Hopefully, the benefits will accrue to P&L as and when the claims
+get processed over time.
+
+There is one more slide as part of the annexures to the earnings presentation which explains the
+journey of return ratios to group level. In this slide, we have listed out three action points for
+ourselves as part of our Lakshya 2026 start plan to improve the returns to our shareholders and
+if you see that it covers the portfolio, the emphasis is on:
+
+      · Portfolio retailisation of Financial Services
+      · The phased exit or reducing exposure from our Development Projects portfolio and
+      · a higher cash return to shareholders over the period.
+
+                      Page 8 of 24
+                                                                        Larsen & Toubro Limited
+                                                                                       May 10, 2023
+
+Coming to the last part of my presentation, which is the outlook. India's economic growth
+continues to display encouraging resilience despite the continuing global chaos, prudent fiscal
+and monetary policy management from the government and RBI respectively has resulted in the
+partial decoupling of India's growth story with the rest of the world. The government's push for
+growth through larger infrastructure spend is clearly evident from the enhanced budgetary
+allocations for FY`24, PLI incentives, improved business confidence and buoyant demand
+conditions will culminate into revival of private capex in the medium term.
+
+Going forward, improved tax collections for the government will support its capex-led growth
+aspiration. Further, bank balance sheets are healthy, providing opportunities to lend funds to
+creditworthy projects. With the government's enhanced thrust towards manufacturing exports,
+the country's goods trade deficit should narrow over a period of time. The country is committed
+to net zero goals and both the government and the private sector are committed to investments
+around energy transition. Despite this, amidst this various moving parts, the silver lining is that
+India would continue to remain one of the fastest growing economies in the world.
+
+The last two years have seen the global economy striving to deal with overlapping crisis, the
+latest being the liquidity troubles after a series of global bank crisis. While the impact appears
+to have been contained, these uncertainties continue to undermine the confidence among
+consumers and businesses to spend, possibly impacting global growth. Government and central
+banks across the world are attempting to strike a balance between containing cost-push inflation
+and pursuing demand-led growth.
+
+A combination of China's reopening, a significant easing of the natural gas crisis in Europe and
+a resilient US consumer confidence should help the global economy tide over the current
+uncertainty overhang. With OPEC and partner countries announcing production cuts, oil prices
+are likely to remain firm at current levels, aiding the GCC nations to pursue their capex plan in
+oil, infrastructure, green energy and other industrial sectors. In this backdrop, the company will
+focus with cautious optimism on pursuing large project wins, timely execution of its large order
+book, growth of its services portfolio in its estate and glide path and preservation of liquidity
+and optimum use of capital and other resources.
+
+The company is optimistic about its growth aspirations in the medium term, despite this
+uncertain macro environment and is committed to creation of sustainable value to all of its
+stakeholders.
+
+Finally, let me comment on our guidance for the next year before we take Q&A. On Order
+Inflows, this is at the consolidated level, that is at the consolidated group level, our guidance is
+around 10% to 12% band for FY `24. On consolidated revenues, we are providing a guidance of
+around 12% to 15% band in FY `24. On margins with respect to our Projects and Manufacturing
+business, we close the year FY `23 at 8.6. It is our endeavour to improve the margins of around
+40 basis points to 50 basis points, maybe in and around 9% for FY `24. Having said this, the
+margin trajectory should be showing a good improvement in the later part of FY `24 in terms of
+the projects that will come and cross the margin recognition threshold. We see the later part to
+be a more profitable second half than the first half.
+
+                      Page 9 of 24
+Moderator:                                                                                 Larsen & Toubro Limited
+Mohit Kumar:                                                                                              May 10, 2023
+
+R. Shankar Raman:  On Working Capital, we are giving a guidance, a range between, this is again working capital at
+                   a group level, the guidance would be between 16% to 18% for FY `24. On the sustainability
+                   front, the parameters for FY `23 are undergoing audit currently. We will be presenting you the
+                   same when we come with our Q1 FY `24 Earnings Presentation.
+
+                   Thank you, ladies and gentlemen, for the patient hearing. We will now open the floor for
+                   questions. Both myself and Mr. Shankar Raman will be taking the questions, requesting the
+                   participants to restrict their questions around the broader aspects of performance and strategy in
+                   order to make the best use of the available time. Any bookkeeping questions can be taken up
+                   with the Investor Relations team later on. Over to you, Faizan.
+
+                   Thank you very much. We will now begin the question-and-answer-session. The first question
+                   is from the line of Mohit Kumar from ICICI Securities. Please go ahead.
+
+                   Yes. Good evening, sir, and congratulations on a very, very strong Order Inflow. However, sir,
+                   the EBITDA margin has been slightly on the lower side. My first question is the EBITDA margin
+                   for the last three years for the core segment is 10.3%, 9.3%, and 8.6%. It has been continuously
+                   declining. As a result, EBITDA growth, if you look for the last three years for the core business,
+                   is around 7% to 8%. Do you expect margins to improve in FY `24 materially, in the sense that
+                   the losses which you incurred in FY `23 or in the COVID period will come back in FY `24 and
+                   will improve slightly on the higher side as 40-50 bps, look to the lower side? That's the first
+                   question.
+
+                   Mohit, Shankar Raman here. Good evening. You know, you have chosen a very interesting
+                   three-year period to do your margin profiling, okay, and this has been the most challenging three-
+                   year period for EPC companies, as you will know. The margins that we have reported now
+                   largely reflect the cost of inputs that have gone into the execution. And to a limited extent, we
+                   were able to sort of fine-tune the time that is available at our hand to complete the project,
+                   waiting for the prices to cool down. But it was not possible across the length and breadth of the
+                   project business that we run. So we had to actually go ahead, complete the project, make sure
+                   that we don't get into the LD zone, and complete our obligations.
+
+                   Now, as you know, in Project business, the margins are not linear, because, A, there are
+                   milestones, and B, there are various gates for margin recognition and contingencies, cost
+                   contingencies. And C is finally, at the end of the project, there is always a negotiation around
+                   any of the scope, time cost, overrun, etcetera. So it does take the project completion-plus 12
+                   months to actually get the final outcome of a project.
+
+                   Now, while it is true that as the projects are getting more-and-more complex, competition is
+                   increasing, the margins never used to be the same that used to be, because the world is getting
+                   far more competitive. So there's no doubt in my mind that the 10%, 12% margins that we used
+                   to comfortably enjoy is not there for some time. I think we need to learn to operate efficiently in
+                   a lower margin band. Now, what can be the compensating levers? One is the complexity of the
+                   project that we can bid for, where there is a higher engineering overlay which will give you some
+                   competitive advantage and keep the bar higher.
+
+                                        Page 10 of 24
+Mohit Kumar:                                                                               Larsen & Toubro Limited
+R. Shankar Raman:                                                                                         May 10, 2023
+
+                   Second is how to ensure that the time erosion that happens in project execution improves, and
+                   to the extent to which we could have pre-bid arrangements with our entire vendor ecosystem, so
+                   that the margin erosion is just not confined to the EPC player, but the chain bears the cumulative
+                   burden, but in a more distributed manner.
+
+                   And third, obviously, is I think as we broad-base our presence across geographies, we have to
+                   make sure that there is sufficient cushions that are available in the various markets that we
+                   operate in. The timing mismatch is part and parcel of our business, unfortunately, because the
+                   cost gets incurred first, and then the negotiations happen for final settlement. Except that, the
+                   cost gets accounted in a lumpy manner, and the benefits drip in in a phased manner, so you do
+                   not even realize the recovery that happens in this.
+
+                   The sustainable lever that we are operating on, and it is very visible even in FY `23, is how to
+                   reduce the capital intensity. I think we should either run a business where the margins are very
+                   high, so you can afford to actually be less rigorous on capital allocation. The other scenario
+                   where margins are tending lower, because of general competitive environment, economic
+                   landscape, etcetera, and hence get far more efficient in resource deployment. When I talk about
+                   resource deployment, it is just not money, but money, men, material, etcetera. Also, the fact that
+                   we increasingly are getting to automate our processes, trying to use digital technology in our
+                   project-related manufacturing equipments, and also have modular fabrication so that we operate
+                   on a batch mode rather than on a sequential mode.
+
+                   Now, these are levers that will take some time to seep into the organization. If we just allow the
+                   cost increases to play out, it would have been far sharper fall than what we have managed,
+                   because of all these compensating levers, which have all got at various degrees of maturity. We
+                   do believe in the next couple of years, two things will happen. Hopefully, we will perfect this
+                   model of getting less resource intensive and get more cost competitive, and more operationally
+                   efficient, reduce the rework time, reduce the downtime, etcetera.
+
+                   The other thing is the backlog that is actually suffering the higher input costs would have got
+                   exhausted by then. According to me, 60% of the backlog that had large cost inflation has got
+                   exhausted during the current year. The balance will spread over possibly next year and the
+                   following year, but my belief, as Mr. Ramakrishnan was mentioning, the subsequent two
+                   quarters will continue to see cost pressures and softer margins. But as we tide over, turn over
+                   that phase and cross the hump, then possibly the margins will begin to look up. And `24-`25, my
+                   assessment will be a more accurate reflection of a normalized execution. Sorry for the long
+                   answer, but it deserved it.
+
+                   Thank you. My second question is, when you look at your green manufacturing portfolio, what
+                   are we aiming in FY `24? What is the capacity we are looking for in the electrolyzer? And the
+                   related question is that, are we getting more and more inquiry for the EPC, for the green
+                   hydrogen, green ammonia, or green manufacturing plant?
+
+                   We are working on a capacity of 1 gigawatt for electrolyzer. As you know, we have tied up with
+                   McPhy France for technology licensing. The factory is getting set up now. We do believe by the
+
+                                        Page 11 of 24
+Mohit Kumar:                                                                               Larsen & Toubro Limited
+R. Shankar Raman:                                                                                         May 10, 2023
+Moderator:
+Ashish Shah:       time this financial year runs out, we would have produced a first few electrolyzers. Initially, it
+                   would be a product used in India, but we do believe it has potential to be a global product. We
+R. Shankar Raman:  should get the technology right. We should get the costing right, etcetera.
+
+                   So, our sense is that by FY `24, end of FY `24, the electrolyzer plant will be up and running,
+                   meaning commissioned. We have not exactly chalked out how many units we will produce,
+                   etcetera, because that will be a function of marketing and product development. And so far as
+                   EPC is concerned, I think the world is actually beginning to come to terms with green hydrogen.
+                   It is still not, according to me, widely implemented. It is widely spoken. I think there is enough
+                   pressure in the system for people to get more green in their fuel efficiency and fuel usage,
+                   etcetera.
+
+                   So, this trend will begin to pick up. My own sense is it will take zero to three years for us to see
+                   some scaling up happening in this opportunity. At the moment, what we are trying to do is we
+                   are trying to stay relevant to the technology developments around. We are having conversations.
+                   Maybe if the initial movers in this, for example, groups like Reliance have announced plans to
+                   manufacture, and given our EPC competence and also our electrolyzer manufacturing capability,
+                   if we are able to get some initial orders, maybe a couple of thousand crores could be the initial
+                   orders that we could get in this area. But `24-`25 would be a more appropriate time for us to
+                   actually size this opportunity.
+
+                   Thank you and best of luck, sir.
+
+                   All the best.
+
+                   Thank you. The next question is from the line of Ashish Shah from JM Financial. Please go
+                   ahead.
+
+                   Good evening and thank you for the opportunity. So, my question is on the guidance. While, of
+                   course, 12-15% revenue growth guidance is good guidance, but given the fact that we are sitting
+                   on a record order book and our working capital cycle is probably at the lowest point in several
+                   years, do you think this is a slight conservative and there is a potential to do better, or do you
+                   think given the constraints, this is the correct number to look at?
+
+                   There is an event risk at the moment, Ashish. Many states are going for elections. Country will
+                   be geared for union election. So far, things have been progressing well because the enablers for
+                   project execution has been much better in terms of environment. We have to be a little guarded
+                   in the current year. My own sense is it could be a bit of a truncated year, may not have the full
+                   benefit of 12 operating months. I really do not know how many months in the current year and
+                   how many months in the next year will actually get into some kind of a silent period, so to speak,
+                   for large moves by the government.
+
+                   And secondly, the finance minister is blessed with a high degree of compliance and willing
+                   taxpayers. So, today, I think the fiscal conditions look very, very rosy. Now, if the allocations
+                   change track because of some political priorities, some of these projects can get a little slower.
+                   Now, while the apparent implication of this in order inflow is understandable, the operations in
+
+                                        Page 12 of 24
+Ashish Shah:                                                                               Larsen & Toubro Limited
+                                                                                                          May 10, 2023
+R. Shankar Raman:
+                   infrastructure, public space, is always fraught with some risks of access, clearances, multiple
+Ashish Shah:       agencies to give progress enabling approvals, etcetera. If the bureaucracy slips into some kind
+Moderator:         of a political prioritization mode, then some of these could get affected. We also have to see the
+Renu Baid:         war seems to be escalating at least the last one week. Whatever normalcy we thought the level
+                   of escalation will happen has got completely changed, and it is getting into another pitch of,
+                   rivalry and attacks and stuff like that. I do not know how much more supply chain disorientation
+                   is going to happen. So, and we do for our project business do a fair bit of equipment supplies
+                   from international markets. We want to be a little careful here. This is not to say that there is no
+                   upside.
+
+                   For example, in the current year, we said 12 to 15 percent, but we landed up with about 17
+                   percent. Our effort would always be to beat margins. But so early in the year, we felt that it is
+                   better to be a little more sure-footed than adventurous on the guidance.
+
+                   Got that point. Thank you for that. This last question on the defense, we have got a pretty good
+                   inflow for the fourth quarter. You know, I just want to get some color on this because there were
+                   there were a few programs where we were in the front line. There's a cadet training ships, there's
+                   a modular bridges, the Vajra gun orders. So I just want to know which of these programs has
+                   been received and which is yet to be taken in the inflow. Also in the pipeline, we've again talked
+                   about a fairly good number in terms of prospects for defense. Any broad color on which
+                   programs are we eyeing on? That will help sir, thank you.
+
+                   There are multiple programs. Some are land-based army systems and some are naval systems,
+                   as you know. Given the confidentiality with which we are bound on the FY' 23 wins, I'm not
+                   able to call out specifically as to which program is moving. But suffice to say, both the naval
+                   programs and the land-based programs are on course. I think the government is getting
+                   comfortable with private sector participation. Still early days. I don't think a few orders should
+                   make us conclude. That it's going to be an up and running volume.
+
+                   We'll have to wait and watch. But these are areas where we have capabilities. To the extent, at
+                   the moment, let me be a little circumspect in calling out. But all the programs that you mentioned
+                   are alive. And these are continuing programs. So none of these programs is actually a one-order
+                   program. So our hope is that we will continue to keep receiving some of these orders going
+                   forward. Because the services require these quite badly.
+
+                   Thank you. Thank you for your responses.
+
+                   Thank you. The next question is from the line of Renu Baid from IIFL Securities. Please go
+                   ahead.
+
+                   Good evening, sir. My first question is on the cash utilization and the asset divestment. Now
+                   with IDPL almost done and hopefully Nabha also closes in fiscal `24, given that you have
+                   readjusted the net realizable value there. How are we looking at the overall cash shift of the
+                   books for the deleveraging coming in place? And with this reduced Net Working Capital cycle
+                   that we have seen because of a structural growth or a cyclical growth in orders. How are we
+                   looking at the overall utilization of these proceeds, any M&A in pipeline, etcetera?
+
+                                        Page 13 of 24
+R. Shankar Raman:                                                                          Larsen & Toubro Limited
+                                                                                                          May 10, 2023
+
+                   Actually, in so far as M&A is concerned, we have so far been scaling up in the IT services. In
+                   the core business of engineering, construction, manufacturing, we think we have much of the
+                   competencies better than most available. So to acquire another company in those core areas,
+                   unless it completely changes the competency profile or the threshold map for pre-qualification,
+                   I do not think we are thinking in terms of any such major buy.
+
+                   At the moment, the focus is two. One is to complete the divestments that we are working on.
+                   You mentioned about Nabha. As I mentioned to you possibly in one of the earlier meetings,
+                   Nabha is a unique asset. It is a fantastic asset by itself and it is being put to good use in Punjab.
+                   The problem with Nabha is that it has been constructed at a cost which is far higher than the cost
+                   at which power capacities are available through NCLT proceedings.
+
+                   So to that extent, I think it suffers from some competitive disadvantage when it comes to being
+                   sold out in the market. But having said that, what we have done in Nabha is some very good
+                   effort in making sure we are closing all the litigations. Significant litigations have been won and
+                   money collected against those litigations in the last year. There are one or two which are still
+                   left and we will continue to get them also resolved. If we keep the plant running as well as we
+                   are doing now and take all the litigation related discounts out of the equation, we might possibly
+                   find interested people for a performing asset. Because when you buy an asset through NCLT
+                   process etcetera, you have to incur a fair bit of expenditure to revamp the plant. Many of these
+                   plants have remained shut for long etcetera. So who knows, there might be an interested party
+                   who could possibly aggregate its non-green capacity. But the fact is we are trying to sell non-
+                   green over time when everybody is talking green. So there is going to be a bit of an effort
+                   required. At the moment, it is not hurting us in terms of either utilization of the asset or the
+                   margin that it is contributing.
+
+                   Whereas, if I look at IDPL, you are right, I think we are almost home. We have to make sure all
+                   the various approvals that we need to get, we get in good time and hopefully we will close it. In
+                   the course of this year. The core businesses are expected to generate good cash. We have worked
+                   very hard to make sure that the capital intensity, resource intensity, we have brought it down.
+                   Even though we surprised ourselves in getting to 16%, I think it is safer to plan to operate in that
+                   16%-18% band. And we have seen that pattern in the past because generally the first two quarters
+                   would involve lot of vendor payouts. And thereafter, the customer cash flows get stronger in Q3
+                   and Q4.
+
+                   So there could be some ratio movements, but it will be within this band. If the cash flows are
+                   good and the debt servicing, I do not think would require lot of cash. Because anyway, the parent
+                   company, if you keep aside the Hyderabad Metro and the Nava Power plant debt and keep aside
+                   the financial debt, the parent company has pretty low debt. 0.21 is the kind of debt equity. So I
+                   do not think there is substantial debt to be done. There will be some strategic assets that we
+                   might have to invest in. Because of the kind of orders that we are trying to procure.
+
+                   For example, when we got lot of metro work, especially underground, we had to invest a lot in
+                   Tunnel Boring Machines. We hardly used to have any. We are almost having two dozen now.
+                   So these are expensive equipments. Likewise, Dedicated Freight Corridor program involved a
+
+                                        Page 14 of 24
+Renu Baid:                                                                                 Larsen & Toubro Limited
+R. Shankar Raman:                                                                                         May 10, 2023
+
+                   lot of automated track laying equipments. Now these are large investments. So we do think about
+                   Rs 3,000-Rs4,000 crores worth of assets we might have to invest depending on the type of the
+                   projects. I mean, these are actually would be very contingent on the type of projects that we get.
+
+                   But barring this, I do not think there is going to be any significant call on the capital. We have
+                   stepped up our dividend as you have been seeing now. It is almost 40%. In fact, 43% of our
+                   profits earned in this standalone company is being paid. So there is a move over the last couple
+                   of years to increase the dividend. We have spoken along the way. We said in this FY `26, we
+                   will also try to do some return of cash to shareholders by means other than just the dividend
+                   payout.
+
+                   We had attempted for buyback in the past. And we were actually pushed back by regulations at
+                   that point in time. We have time now in this period. We should be able to one of the objectives
+                   and that is covered in one of the slides that we have attached this time to the presentation deck.
+                   That one of the ways to deal is to enhance the return of cash to shareholders. And that will
+                   possibly enable us to keep the cash required to optimal level within the company instead of
+                   sitting on extra piles of cash.
+
+                   One follow-up question if I can ask. While it is credible the way L&T has managed its Net
+                   Working Capital and truly industry-leading, but on the operating performance side, sorry to harp
+                   again, despite having the diversity of project size and scale, at the end of the day when we have
+                   seen commodity uncertainty in the supply chain, the operating performance is not very different
+                   compared to other mid-cap EPC names.
+
+                   I wouldn't want to take the names here. So what are the steps that we are trying to do so that
+                   these issues are addressed? And we already have quite a bit of risk management processes,
+                   commodity hedging in place unlike most of the other peers. But where do you think has the gap
+                   been which could be the reason for this underperformance on the operating front?
+
+                   I think it's very difficult to compare L&T given its history, age, maturity, cost structure, etcetera
+                   to various EPC companies which work in the same area. You would be surprised that companies
+                   which existed 10 years ago are no more in the picture. Forget about competing with us. They are
+                   just not in the picture. So we find that practices have been very varied and I would not like to
+                   join forces to pick holes on the accounting practices and recognition practices, etcetera. We do
+                   think that EPC business is catching the tiger by the tail.
+
+                   You have to ride it and you will have to ride through several cycles. And if you happen to be a
+                   company which is 80 years old, it does go through these cycles. Our own sense is that the kind
+                   of de-risking that we have achieved between geographies, between the various verticals, etcetera
+                   provides us a requirement to keep investing in many of these areas. As I just mentioned a little
+                   while ago, I do not know how many companies would have invested in the kind of equipment
+                   that we invested on the back of projects and that's the reason why projects are moving forward.
+                   But all these are costs. And the cost will get recovered only if there are consistently large projects
+                   that are being given out. It's only in the last 3-4 years that we have been seeing some amount of
+                   consistency in ordering, order placements, the kind of projects, the complexity, etcetera. I think
+
+                                        Page 15 of 24
+Renu Baid:                                                                                 Larsen & Toubro Limited
+R. Shankar Raman:                                                                                         May 10, 2023
+Moderator:
+Deepika Mundra:    we are on a cusp of a period where if you continue to see these kinds of investments, the wheat
+                   will get separated from the chaff. At the moment, we might suffer by comparison, but I think it
+R. Shankar Raman:  is more structural rather than efficiency in execution.
+
+                   Got it. Thanks much and all the best.
+
+                   Thank you.
+
+                   Thank you. The next question is from the line of Deepika Mundra from JP Morgan. Please go
+                   ahead.
+
+                   Good evening, sir, and thank you for taking the question. So, if you think back on the FY `26
+                   strat plan, in terms of the prospect base, which areas do you see are surprising you more
+                   positively than what you would have thought? And where do you think a greater push is required,
+                   either from government or from private sector, which has been missing your expectations?
+
+                   No, we are midway, isn't it, Deepika? In FY `26, we still have to cross 3 more years. I think so
+                   far we have been on course. If I were to plot what we have achieved in FY `22, what we have
+                   achieved in FY `23, I think we have been by and large on course. What is going to be important,
+                   rather than what has surprised us, etcetera, COVID surprised us. I mean, we never ever
+                   anticipated the kind of start to our strat plan. And what has surprised us is our ability to actually
+                   stay the course.
+
+                   And despite this disruption, I think all credit to the organization that we work for, people actually
+                   put their shoulder to the ground and made sure that we are not losing our way. As far as
+                   government is concerned, the tax buoyancy has surprised us. And the confidence that the country
+                   has today, in not only defending its own domestic policies, but be able to articulate
+                   internationally as to why India is a market that others should participate in.
+
+                   Now, if we are able to carry this forward, that's why I felt that it's extraordinary diplomacy and
+                   branding that India has done. If we are able to carry this forward, if we are able to widen the tax
+                   coverage, I mean, footprint, instead of 10% of the country paying the entire tax bills, if we are
+                   able to make it to 12%, 13%, 14%, 15%, if we are able to improve that, and keep focus on
+                   investments which will generate employment, which will generate connectivity. There is a
+                   pattern to the investment on infrastructure, if you see, because it is enabling movement of people,
+                   movement of goods, etcetera.
+
+                   And I do share the central government's vision that a connected country will lead to overall
+                   development and more inclusive development than what has been in the past. So my sense is
+                   that if we are able to keep the political differences at bay and be able to pursue, regardless of
+                   which party actually succeeds in 2024, if we are able to pursue this and do whatever I just
+                   mentioned, I think we would surprise ourselves at our potential. Many of us have grown up
+                   thinking that India is a 4% growth country.
+
+                   Now, in today's time, it's not hard to imagine India at double that rate. So I think a lot of work
+                   needs to be done, but the hope and optimism has gone up. The country has got a lot more
+
+                                        Page 16 of 24
+Deepika Mundra:                                                                            Larsen & Toubro Limited
+R. Shankar Raman:                                                                                         May 10, 2023
+
+                   confidence and that has rubbed on us also. We also internally feel a bit confident. But there are
+                   lots of battles we'll have to win. As I mentioned, I think we are, as we get older and older, we
+                   have to make sure that we unlearn and relearn. We have to make sure that the talent that got us
+                   here is obviously aging talent. We have to make sure the younger talent is able to take this
+                   company forward. We have to adopt new technologies.
+
+                   I think no more are we using the same methods to deliver. The clients are getting smarter and
+                   demanding. So we have to make sure that we measure up to that as well. So there are enormous
+                   challenges ahead. It's not an easy path. But I guess that's what would make the growth story of
+                   the company and maybe the country interesting.
+
+                   Thank you, sir. And just a second question. Given that we've seen consistent commodity
+                   volatility plus supply chain disruptions, do you see that differentiation in contract negotiation
+                   with clients today both in domestic and in international markets or do you think some of the
+                   bidding practices largely remain same as what you've been following so far?
+
+                   To the discerning, there is a difference because people have seen us deliver despite COVID. And
+                   people have seen us take, knock and then hit, deliver. So to that extent, I think to the discerning,
+                   there is a difference between what we have done on the face of adversity otherwise. But if you
+                   also look at the other way that typically either public sector units or the government-sponsored
+                   projects are done, end of the day, it is L1.
+
+                   I think there is some comfort that all these agencies take in having a bid responded to by at least
+                   half a dozen people. So they make the bid in such a way that more and more people can sort of
+                   participate. Despite a directive from the government that the bid should not be decided just based
+                   on L1 and there should be a quality and cost-based consideration, somehow the user
+                   departments, especially if it is driven by bureaucracy, is more comfortable with quantitative cost
+                   than qualitative assessments of technical capabilities.
+
+                   So that has not played out as yet. We still have to be L1 to make sure that we make the cut. So
+                   that has not changed. And because of the need to have more people participating, if the
+                   thresholds do not go up sufficiently, we will have delayed projects. If India wants to be very
+                   competitive in its services, manufacturing products, goods, etcetera, it has to create infrastructure
+                   at a very competitive price. All the inputs that go into infrastructure are anyway generally
+                   market-driven, so there is nothing that you can do. What you can do is save time.
+
+                   Make sure that the projects are awarded to companies which are able to execute within time.
+                   And my own assessment is at least 15% to 20% of the cost of infrastructure in the country. We
+                   are paying more just because of either unorganized, discoordinated approvals and all the related
+                   project clearances and the inevitable delay in negotiating after the project is done. Because the
+                   scope gets negotiated, quantity gets negotiated, right of way, and all the utility removal gets
+                   negotiated. All of this falls in place and there is always some public interest group which doesn't
+                   like the project.
+
+                   So we are not involved in that asset, but if you take even the high-speed rail, it came up to the
+                   border of Maharashtra and got stuck. And now slowly packages are being done. But we have
+
+                                        Page 17 of 24
+Deepika Mundra:                                                                            Larsen & Toubro Limited
+Moderator:                                                                                                May 10, 2023
+Aditya Bhartia:
+R. Shankar Raman:  lost two years. And instead of the project getting completed, it's going to take at least three years
+                   more than the original. And who's going to pay for that extra time? It's only you and me as
+Aditya Bhartia:    taxpayers and country's exchequer will pay.
+
+                   So I think in this quest of creating competitive infrastructure, it is very, very important that we
+                   back companies which have the requisite capabilities and competencies. And that is something
+                   that somehow that has not completely changed to our satisfaction at least.
+
+                   Okay. Thank you very much, sir.
+
+                   Thank you. The next question is from the line of Aditya Bharatia from Investec. Please go ahead.
+
+                   Hi, good evening, sir. So my question is again on Infra margin. The first time we had those cost
+                   overruns on the transportation side, we had spoken about possibility of getting some variation.
+                   So just want to know how's our experience been? Is it that we are getting variations and the
+                   margins that we are seeing are after accounting for those? Or is it that you're generally seeing
+                   that it's taking much longer to get those negotiations done?
+
+                   Aditya, we're realizing the hard way that to get these cost overruns and to get these extra credits
+                   from the customer is not as easy as originally one would think. Because what is the customer's
+                   first priority to get the project completed? And what is our requirement? We can't go to the
+                   negotiation table without the project being completed. So I think first and foremost, I'll have to
+                   complete the project. And in the meanwhile, keep filing our interest in the negotiation,
+                   commercial adjustments that we want to achieve. But this typically happens at the end of the
+                   project.
+
+                   And if it is, let's say a corporation, like let's say, for example, IOCL, ONGC, etcetera. They're
+                   also worried about the decision, discretionary decision being questioned in the parliament. So
+                   there is a lot of speculation involving a third party independent person. Even assuming it is not
+                   a dispute which gets referred to arbitration, even a conciliation to close out on the veracity of the
+                   claim and the validity of the claim, etcetera. That process is involved.
+
+                   So it does take time to get all of this done. So to my mind, we don't normally recognize the
+                   claims ahead of time. We book the costs for projects completed and only on acknowledgement
+                   by client, either in terms of, accepting the liability or receipt of payment is the margins
+                   recognized of that extra claim. So it comes in months after the project is completed during the
+                   defect liability period for all these conversations to happen.
+
+                   So my sense is what we have lost out in `22 and `23 possibly will start creeping into our books
+                   from `24, '25 onwards is my assessment. And it will go in for a couple of years. The same couple
+                   of years it took to hit us, it will take a couple of years to get back.
+
+                   Sure, sir. And what about the past claims in respect of some of the transportation projects? Have
+                   we kind of received some money in respect of that?
+
+                   Page 18 of 24
+R. Shankar Raman:                                                                          Larsen & Toubro Limited
+Aditya Bhartia:                                                                                           May 10, 2023
+P Ramakrishnan:
+                   Some portion has happened. I think I heard my colleague talk about in the context of
+Aditya Bhartia:    Hydrocarbon, he was saying some claim settlement. These things happen except that they come
+Moderator:         in sizes which are actually not material. So they come in and then get submerged in the overall
+P Ramakrishnan:    cycle of margins. Settlements are happening. We would like it to happen faster, but they are
+Moderator:         happening.
+Sumit Kishore:
+                   Understood, sir. And so my next question is on Nabha Power project. Should we read you
+                   reconsolidating of Nabha Power into accounts as an indication that something may be happening
+                   soon over there? You are in discussions with third parties and you are getting a feeling that
+                   realizable value is higher than the carried value?
+
+                   So Aditya, this is PR here. If you recall, in the quarter ending September 2020, the board of
+                   Larsen & Toubro had decided to say that Nabha Power is looking for suitors. We are looking
+                   for prospective buyers. And since then, as a measure of conservatism, we restricted the carrying
+                   value in both Independent and Consolidated financial statement, the same value. And we
+                   actually took in that quarter an impairment hit as well.
+
+                   Since then, from October 20 to March 22, we consolidated the revenue because Nabha Power is
+                   still not, we have not executed a firmed up deal like the way we have done for IDPL. So we were
+                   continuing to report the revenues and everything. But whatever profits that the company was
+                   accruing, was getting reversed, which means we are not taking the profits. Now since then, for
+                   the last one year or so, the company's performance has definitely shown an uptick in terms of
+                   very improved PLF of almost 85%, sorry, for availability factor was 91 for the year, improved
+                   PLF and a lot of cases that was there in between the legal court, most of the cases went into
+                   Nabha's favor and practically speaking now, the company has completely, in terms of operations
+                   and in terms of performance has actually strengthened.
+
+                   So if you take by way of discounted valuations of the future cash flows, definitely the company's
+                   value has gone up and when you compare it with what you call comparative benchmarks, which
+                   are the listed companies in this field, that also has gone up. So of course, we take the benchmarks
+                   more as a reference point, but since because of the discounted valuations, the next steps that the
+                   company posted has been taken. I hope I have clarified your question.
+
+                   Understood. That's very clear. Thank you so much.
+
+                   Thank you.
+
+                   I have a request. Since we are now towards the end of this call, maybe a few of you can restrict
+                   to one question each, one question please for each of the people who want to ask.
+
+                   The next question is from the line of Sumit Kishore from Axis Capital. Please go ahead.
+
+                   Good evening, Mr. Shankar Raman and PR. My question is again on margins. For a five-year
+                   period till FY `21, your core margins were in the range of 10% to 10.5%. You have clarified,
+                   you know, in your first response to a question regarding the new normal that margins are entering
+                   into and your guidance for the next two years is 9%.
+
+                                        Page 19 of 24
+P Ramakrishnan:                                                                          Larsen & Toubro Limited
+Sumit Kishore:                                                                                          May 10, 2023
+
+                 You also mentioned that 60% of the impacted projects have already been executed, another 40%
+                 in the next two years. But are you going to move closer or if at all to your 10% to 10.5%
+                 trajectory once all these problems are sorted? And what is the extent of the, you know,
+                 unrecognized claims where you are reasonably confident and which have not really reflected in
+                 your margins over the last two years?
+
+                 Okay. So, Sumit, this is PR. I will take that because I think this is the fifth time or the sixth time
+                 the same question is creeping up. So let me try to answer it. So, Yes, we have given that today
+                 when we have printed 8.6 for FY `23, we are looking at definitely an improvement. We believe
+                 that the worst is behind us in terms of the projects that we secured before Covid. The projects
+                 that we secured during Covid went into execution at higher material costs. And we got because
+                 of Covid, there was a stoppage of work which enabled us to get time extension from the
+                 customers and thereby executing the project.
+
+                 So time extension need not necessarily mean value extension in terms of additional claims. Time
+                 extension only protects us and the customer has no right on the terms of the contract to levy any
+                 sort of punitive damages. But definitely extended time stay in the project also has its cost
+                 implications and a combination of I would say time extension leading to cost and also higher
+                 material prices that we witnessed in the last year and to some extent sweeping into the current
+                 six months for projects that were back prior to COVID and it is a combined reason I would say
+                 that where we are seeing margins at 8.6.
+
+                 As Mr. Shankar Raman talked about that this particular project execution trajectory is going to
+                 see possibly the end of by FY `24 the mix of these projects would be hopefully coming to a close
+                 as orders that we have secured during the later part of FY `22 and in the current year obviously
+                 factors into account. I would say the current material prices and to some extent the margin
+                 trajectory will be definitely protected. But all of this getting into execution mode for us to
+                 recognize margins is going to happen in the later part of FY `24.
+
+                 So at this juncture it would not be possible to say in terms of how much of these claims will
+                 come because as you know as an EPC contractor definitely we will be putting up, we are putting
+                 up the claim but once the project is handed over to what extent it is getting cleared by the client
+                 is a question of negotiation and discussions and settlement at a point of time. So with this I would
+                 like to reemphasize that at overall Projects and Manufacturing level, what we have printed for
+                 8.6% seems to be bottomed out.
+
+                 We should be seeing an improvement and that is a reason we are giving a comfort that we do
+                 expect an improvement of almost 40 to 50 basis points, over 8.6, but that would happen in the
+                 later part of FY `24. FY `25 hopefully we should be seeing a major part of the orders that we
+                 have secured recently getting into I would say margin recognition threshold hopefully I think
+                 that should be coming back in terms of what margins we will see. As you know we typically
+                 guide the margins only for the year and for obvious reasons it is impossible for us to give a
+                 guidance beyond a year considering the varied nature of the project's business.
+
+                 Thanks a lot PR.
+
+                                      Page 20 of 24
+Moderator:                                                                                 Larsen & Toubro Limited
+Pulkit Patni:                                                                                             May 10, 2023
+P Ramakrishnan:
+                   Thank you. The next question is from the line of Pulkit Patni from Goldman Sachs. Please go
+R. Shankar Raman:  ahead.
+Pulkit Patni:
+R. Shankar Raman:  Sir, thank you for taking my question. So two quick questions. One on the Hyderabad metro, the
+                   ridership improvement has been very significant if you see year-on-year. But still profitability
+                   has improved a little bit and that too because of financing. In any ballpark number where we
+                   think we can get a bit of positive on Hyderabad metro because despite doing almost 400,000 we
+                   are seeing losses are pretty meaningful. So that would be question number one?
+
+                   Yes, so in terms of Hyderabad metro, if I have to really talk about, just to give a construct today
+                   the ridership that we are witnessing in the current quarter on a normal weekday is ranging
+                   between 4.4 to 4.5 and during the holidays and weekends it ranges between 3.5 to 3.6 or so. Now
+                   for the benefit of all, if I take a construct at the average ridership for FY `24. If you assume at
+                   around 400,000, so at 3.61 average ridership, the total fare revenue has been in the range of Rs
+                   450 odd crores. If you take 400,000 ridership with an average realization of 35 per passenger or
+                   per trip, then you can assume that the top line should be going around Rs 500 odd crores at
+                   400,000.
+
+                   Now in terms of the interest cost, the total external debt that L&T HMRL comprises of around
+                   Rs 8,000 crores of short-term and medium-term NCDs and Rs 5,000 crores of short-term
+                   commercial paper. So all of this what I spoke now, if you can since the NCDs and the commercial
+                   papers are listed, so the entire financials of the Metro has actually been filed in the stock
+                   exchange and actually what I gave you is the overall context of the ridership, the fare revenues,
+                   what we can assume as ridership for FY `24 and what kind of EBITDA one can see.
+
+                   Also, Pulkit Shankar Raman here. You know there has been a development in terms of fare
+                   fixation committee agreeing that the sponsor, namely L&T, can, subject to demand-supply
+                   conditions, revise the fares. So at the moment all the projections that we are talking about is
+                   based on the fares that we are currently collecting. If things settle down and this work from
+                   home, etcetra., further moves towards work from office, I think, and the general population gets
+                   more comfortable with the usage, we do expect that there could be an opportunity along the way
+                   to re-look at the fares and that will also be another kicker depending on how much we are able
+                   to do.
+
+                   Got it. Sir, just one quick one on the Power JVs. I mean, we've been talking about, you know,
+                   potential orders in this segment and we know that it's been tough. What is the thought process
+                   about running these businesses? Could we look at, you know, doing something else on those
+                   factories over time? Just your thoughts on this thermal power JVs and their future.
+
+                   It's under discussion because we are also talking to our partner, and we're trying to figure out a
+                   way as to what is to be done because these are good capacities that have got created and it will
+                   not be appropriate just to scrap it. Of course, the plants can always be used because it's space
+                   which we use, but to some extent export of some of these equipments is also possible subject to
+                   the JV partner willing to route some of the businesses through us.
+
+                   Page 21 of 24
+Pulkit Patni:                                                                            Larsen & Toubro Limited
+Moderator:                                                                                              May 10, 2023
+Aditya Mongia:
+                 So, right from, the investment being bought over by them, to the plant being used for their
+P Ramakrishnan:  requirements to we trying to do something else, all of that are getting discussed because I think
+Aditya Mongia:   we do recognize this energy transition is a major implication in terms of whatever we have
+P Ramakrishnan:  created on ground capacity. But let me share the details only when we progress a little more
+                 clearly on one of these various options that we are trying to evaluate.
+Aditya Mongia:
+P Ramakrishnan:  Sure, that's useful, sir. Thank you.
+
+                 Thank you. The next question is from the line of Aditya Mongia from Kodak Securities. Please
+                 go ahead.
+
+                 Thank you for the opportunity. My question was more specific on the working capital situation
+                 and the way it is improving. Should we be asserting from 16% working capital as a proportion
+                 of sales number that the intent of the customer is to make us execute faster? I'm saying so because
+                 obviously at the back side, there were changes that had happened on the procurement side of
+                 things that ensured that an incremental order, the payment should be very, very prompt. Has that
+                 started to kind of satisfy on a broad-based basis for you?
+
+                 So, Aditya, if I understood it right, the way your question is that do you expect an improvement
+                 revenue if the working capital, the way we are managing, it is a little more made more flexible?
+                 Is this what you referred to?
+
+                 No, I'm basically trying to assess the possibility of working capital further coming down if there
+                 is a pure intent from customers to go in that direction?
+
+                 So, definitely, I mean, if you see structurally from the Indian economy perspective, since a major
+                 part of the order book is oriented towards or exposed to government in some form or the other
+                 and given the fact that the government finances have improved over the last two years or so, so
+                 we have definitely seen a more timely certification of the work done and the payments happening
+                 on time.
+
+                 And I also like to mention here that the GCC part of the order book is also increasing and
+                 typically in the GCC countries, the client paying on time and certifying the bills on time happens
+                 at a faster scale. So, to the extent of a larger share of the GCC order book coming in also has
+                 enabled us to overall improve the working capital at a segment and at a group level.
+
+                 I just want to mention one more question, sir, over here. On the GCC side of things, the
+                 comments being made are quite bullish for the near term and we understand that, let us say, the
+                 entire territory and Hydrocarbon space is becoming a larger proportion of our overall business.
+                 Does that kind of worry us at some point of time beyond the next 6 to 12 months that we are so
+                 exposed to Hydrocarbon, especially that in the Middle East?
+
+                 So, in the Middle East, our opportunities today, the way we are looking at is a combination of
+                 Hydrocarbons and Infrastructure. And when we talk about Infrastructure, the opportunities
+                 largely center around Renewables and Power Transmission & Distribution and obviously
+                 opportunities in the non-ferrous sectors that come once in a while discreetly. And we do see in
+
+                                      Page 22 of 24
+Aditya Mongia:                                                                            Larsen & Toubro Limited
+P Ramakrishnan:                                                                                          May 10, 2023
+Moderator:
+Deepak Krishnan:  the next year, that is FY `24 and possibly maybe FY `25 as well, the opportunities from the
+P Ramakrishnan:   refinery or the Hydrocarbon side continue to be holding good for us in terms of better order
+                  prospects and hopefully larger orders as well.
+Deepak Krishnan:
+P Ramakrishnan:   Those are my questions. Many thanks for your response.
+
+                  Thank you, Aditya.
+
+                  Thank you. The next question is from the line of Deepak Krishnan from Macquarie Capital.
+                  Please go ahead.
+
+                  Thank you for the opportunity. My question is more about your ROE target. How do we reach
+                  the 18% from the 12.2% in the next three years, given that core margins may still see some
+                  issues, say, for FY `24? What end margin do we kind of assume when we have the 18% ROE
+                  target in mind?
+
+                  So, Deepak, I guess I think this we have covered in numerous calls and conversations. So, the
+                  way to see it across is that if you see the slide that we have put it as part of our additional slides
+                  in the deck, so the two major, I think, margin erosions are in a question of the Development
+                  Projects, which is the concessions part of the business. So, once that is done, definitely, we can
+                  see in terms of an improvement of 1.5% to 2%, which means reduced losses or profits of
+                  Hyderabad Metro through a combination of restructuring of that company's current position and
+                  the possibility of an investor coming in, maybe not now, but maybe definitely after two to three
+                  years, once the assistance that has been declared by the local government comes in, and we are
+                  able to monetize the TOD rights that we are looking at, maybe in the current year.
+
+                  So, improved performance of Hyderabad Metro, divestment of IDPL hopefully should get
+                  completed in the next six months or so. And also, hopefully, I think with improved performance
+                  of Nabha, we should be looking forward to a buyer who can possibly match our price points and
+                  this margin, the ROE stack itself will probably improve by 1.5 to 2%. The second point is, I
+                  would say, the steady growth of our traditional portfolio of Projects and Manufacturing, which
+                  today, in the current year is almost 19-odd percent. If we are able to manage what we are talking
+                  about, sort of a mid-teens growth in the overall growth portfolio of the entire group, with better
+                  margins, I guess that should add up to another 2% into the ROE.
+
+                  And the last 2% would be a combination of, as Mr. Shankar Raman referred to, in terms of
+                  higher payouts to shareholders. So, it is a 12, plus two, plus two, plus two kind of a strategy.
+
+                  Sure sir, maybe just one follow up, any update on the cash from the government for Hyderabad
+                  metro project?
+
+                  So, of course, in their local budget, they have allocated Rs 1,500 crores for last year and in the
+                  current year, and as part of disbursement, which will flow into the L&T metro rail SPV. So, last
+                  year, that is till March `23, we got around Rs 100 crores, and we have got some token sum in
+                  the current year. Hopefully, I think this year, we should see a sizable amount of money coming
+                  in.
+
+                                       Page 23 of 24
+Moderator:                                                                               Larsen & Toubro Limited
+P Ramakrishnan:                                                                                         May 10, 2023
+
+Moderator:       Thank you. Ladies and gentlemen, we will take that as the last question. I now hand the
+                 conference over to Mr. P Ramakrishnan for closing comments. Thank you and over to you, sir.
+
+                 Thank you, ladies and gentlemen. I hope we have been able to explain the contours of our
+                 performance for FY `23. And of course, you would have heard the comments of Shankar Raman
+                 in terms of how we are looking at FY `24 in the near term across segments, across margins,
+                 across businesses. With those few words, thank you for the patient listening. In case any one of
+                 you have any follow-on questions on the numbers in terms of stack up, please do not hesitate to
+                 call me or my colleague Harish. We will be definitely there to help you out. With that, thanks a
+                 lot for joining this long call. Thanks once more. Thank you.
+
+                 Thank you. Ladies and gentlemen, on behalf of Larsen and Toubro Limited, that concludes this
+                 conference. Thank you for joining us and you may now disconnect your lines.
+
+                 Page 24 of 24
+

@@ -1,0 +1,51 @@
+Governance and Risk Oversight
+
+RISK MANAGEMENT AND INTERNAL CONTROLS
+
+Internal Audit: Themes and Frequencies                      The key audit focus areas for FY 2025-26 were as under:                    Information Security Governance                                threat intelligence capabilities have also been integrated
+                                                                                                                                                                                                      through multiple channels, including automated
+M/s. Deloitte Touche Tohmatsu India LLP was appointed       Project Audits                                                             The Company has significantly strengthened its Information     intelligence feeds and alerts from external agencies
+as Internal Auditor of the Company for the financial year                                                                              Security and Cybersecurity governance framework                and cybersecurity platforms, enabling proactive
+202526. Consequent to completion of term of more than       From the total portfolio of projects under execution,                      through the implementation of comprehensive technology,        identification and mitigation of emerging cyber threats
+3 years, M/s. Ernst and Young LLP has been appointed as     certain projects were excluded from the audit scope                        monitoring, resilience, and awareness initiatives aimed at     and vulnerabilities.
+Internal Auditor of the Company from FY 202627.             based on predefined criteria such as projects with over                    safeguarding its digital infrastructure, business operations,
+                                                            90% completion, projects audited previously, low-value                     and data assets. As part of its ongoing commitment             ERP Controls and Automations
+The risk based internal audit plan determined by the        projects (below INR 100 Crore), and projects on hold due to                towards enhancing Information Technology General
+Internal Auditor is augmented by additional testing of the  geopolitical or other reasons. Following this assessment,                  Controls (ITGC), the Company continues to reinforce            The Company continues to strengthen its digital and
+design and operating effectiveness of internal controls by  the auditable project universe was identified, and                         its governance architecture through robust policies,           operational capabilities through the extensive deployment
+the inhouse Group Assurance.                                approximately 100 project audits were conducted during                     processes, and control mechanisms aligned with evolving        of SAP S/4 HANA across its business operations and is
+                                                            FY 2025-26.                                                                business and regulatory requirements.                          progressively transitioning towards SAP RISE to further
+                                                                                                                                                                                                      enhance scalability, agility, standardisation, and cloud
+                                                            Functional and Plant Audits                                                To enhance operational resilience and ensure continuity        enabled enterprise management. As an EPC organisation
+                                                                                                                                       of critical business functions, the Company has                executing large and complex projects across multiple
+                                                            Various processes viz. Procure to Pay, Project closure,                    further strengthened and realigned its IT systems and          geographies, the Company has leveraged its ERP
+                                                            Contracts and Claim management, Plant operations,                          infrastructure under its Business Continuity Process (BCP)     ecosystem to improve process integration, operational
+                                                            Formwork, Receivables, Labour verification and                             framework. Periodic disaster recovery and business             visibility, project monitoring, financial discipline, and
+                                                            management, Inventory verification, overall fixed assets                   continuity drills for critical business applications and       decision-making capabilities. The Company has also
+                                                            management, Internal Financial Controls testing, Logistics                 systems have been conducted, and the effectiveness of          developed and implemented various customised
+                                                            management, etc. were audited during FY 2025-26,                           such measures has been validated through structured            management reports, dashboards, and automated
+                                                            covering a total of about 40 audits.                                       testing and review mechanisms.                                 control mechanisms within SAP to enhance governance,
+                                                                                                                                                                                                      strengthen internal controls, improve compliance
+Various Learning and Development initiatives have been planned for Internal Audit as under:                                            Further, the Company has established a centralised             monitoring, and enable rea-time data driven oversight
+                                                                                                                                       Security Operations Centre (SOC) to strengthen continuous      across key business functions. These technology led
+                                                                                                                                       monitoring, threat detection, incident response, and           initiatives continue to support operational excellence,
+                                                                                                                                       cybersecurity oversight across its operations. Advanced        process efficiency, and stronger risk management.
+
+              LEARNING AND DEVELOPMENT PLAN - FY 2026-27
+
+Competencies           THINK                                            ACT                  KALPATARU PROJECTS INTERNATIONAL LIMITED
+              Analytical Thinking                           Customer Excellence
+                                                                                                          DELIVER
+
+                                                                                                  Process Excellence
+
+              Auditing in SAP Environment                   Influencing for Impact           Audit Report Writing
+
+  Training    Adv. Analytics - Power BI/Fabric              Conflict Management              CCM - Python and Intro to AI
+Programme
+
+              Gen AI Prompt engineering                     Audit Interviewing skills        Audit Process Automation
+
+                                              CAPSTONE PROJECT on AI / ML
+
+130 Kalpataru Projects International Limited                                                                                                                                                          Integrated Annual Report 2025-26 131

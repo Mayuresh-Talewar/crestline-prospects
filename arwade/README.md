@@ -1,0 +1,11 @@
+# Arwade Infrastructure Limited (UNLISTED public limited, Pune)
+
+ONE booklet, editions: Nitin Arwade, Chairman & Managing Director (arwadeinfra.in/chairman-managing-director/) + a finance head if one is public (else a second director, verify).
+Rules: ../PLAYBOOK.md in full (rules 1-13 incl. "with Crestline" on every problem chart; Fallback; Foreign currency; One booklet; FIXED-PAGES; Parallel companies). Never open other company folders.
+Order: AR-1 data+feasibility+depth, AR-2 fit -> AR-3 problems+calc -> AR-4 QA -> AR-5 pack -> AR-6 review -> Garvis assembles.
+
+## Garvis rulings
+- 2026-10-08 UNLISTED: no exchange filings unless an SME IPO DRHP/RHP exists (check first: it would be the best primary source). Otherwise the primary public sources are credit-rating rationales (Infomerics, plus any CRISIL/CARE/ICRA/Acuite/Brickwork/India Ratings) and the company's own website. MCA filings need paid login: never log in or pay; NOT FOUND instead. Feasibility verdict (FULL / LIGHT / NOT FEASIBLE) before any booklet; Garvis tells the client if LIGHT.
+- 2026-10-08 Readers: CMD Nitin Arwade; the finance head only if named in a primary source.
+- 2026-10-08 From AR-2 + Garvis ruling: page 8 fixed stages stay unchanged; add one line "for milestone bills, the measurement step is replaced by the milestone sign-off" instead of a new stage. Never claim: a live/Tally connection, fabrication or shop WIP, margin or cost-to-complete, scheduling or design tracking, automatic reminders, inventory days. {PILOT_SCOPE} = "one to three design and build projects"; {SCOPE_CARD} says fabrication WIP is not modelled; {ACCOUNTING_SYSTEM} = "your ERP" unless a primary source names it.
+- 2026-10-08 AR-1 verdict LIGHT (Infomerics x3 + website only; no FY26 figures; no recent WC days; order book 337.9 Cr dated Jun 2025, live status not found). NOT printed: CARE BB- INC and Acuite B+ INC ratings (issuer not cooperating, sensitive), the corporate guarantee, the conflicting net-worth figures. Revenue 261.12 (not 263); PAT FY25 18.96. Finance contacts by title only: Dr. Balasaheb Darade (Senior DGM, Accounts & Finance), Beroze Divecha (DGM Finance). Address: corporate office as the website prints it (Arwade House, Erandwane, Pune 411004). Waiting on client: build a LIGHT booklet or not.

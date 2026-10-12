@@ -1,0 +1,2 @@
+[names] planted hit detected OK
+[names] files=6 hits=0

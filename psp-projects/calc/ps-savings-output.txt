@@ -1,0 +1,96 @@
+== OPENING POSITION (Crestline's arithmetic on the published accounts) ==
+dso 102.60 days; balance 840.30 Cr; per day 8.1903
+dio 116.00 days; balance 343.75 Cr; per day 2.9635
+dpo 56.64 days; balance 400.84 Cr; per day 7.0765
+cad 48.88 days; balance 400.35 Cr; per day 8.1903
+cycle (DIO + CAD + DSO - DPO): 210.83
+value of a revenue day: {"cash":8.190280547945205,"carry":0}  value of a materials day: {"cash":2.963455616438356,"carry":0}
+lever bounds: dio[0.0..174.0] target=null  cad[0.0..68.9] target=null  dso[0.0..143.6] target=null  dpo[0.0..56.6] target=null
+Retention balance (not priced): 211.00  gross receivables past due: 403.41  not yet due: 472.98
+
+== SCENARIOS (Scenario, not a forecast; rows overlap, never added) ==
+Collection 10 days less
+   released 81.90 Cr once | dso 92.6 cad 48.9 dio 116.0 dpo 56.6 | cycle 210.8 -> 200.8 | carry 0.00
+Collection 30 days less
+   released 245.71 Cr once | dso 72.6 cad 48.9 dio 116.0 dpo 56.6 | cycle 210.8 -> 180.8 | carry 0.00
+Collection to management's 70-day target
+   released 266.98 Cr once | dso 70.0 cad 48.9 dio 116.0 dpo 56.6 | cycle 210.8 -> 178.2 | carry 0.00
+Certification 10 days less
+   released 81.90 Cr once | dso 102.6 cad 38.9 dio 116.0 dpo 56.6 | cycle 210.8 -> 200.8 | carry 0.00
+Certification 30 days less
+   released 245.71 Cr once | dso 102.6 cad 18.9 dio 116.0 dpo 56.6 | cycle 210.8 -> 180.8 | carry 0.00
+Stock 10 days less
+   released 29.63 Cr once | dso 102.6 cad 48.9 dio 106.0 dpo 56.6 | cycle 210.8 -> 200.8 | carry 0.00
+Stock 30 days less
+   released 88.90 Cr once | dso 102.6 cad 48.9 dio 86.0 dpo 56.6 | cycle 210.8 -> 180.8 | carry 0.00
+COMBINED one run: collection to target + certification 30 + stock 30
+   released 601.59 Cr once | dso 70.0 cad 18.9 dio 86.0 dpo 56.6 | cycle 210.8 -> 118.2 | carry 0.00
+Vendor credit pushed to 120 days (must be refused)
+   released 0.00 Cr once | dso 102.6 cad 48.9 dio 116.0 dpo 56.6 | cycle 210.8 -> 210.8 | carry 0.00
+
+== ASSERTS ==
+PASS  no negative release: Collection 10 days less  81.90
+PASS  interest is zero: Collection 10 days less  0
+PASS  payables release nothing: Collection 10 days less
+PASS  no negative release: Collection 30 days less  245.71
+PASS  interest is zero: Collection 30 days less  0
+PASS  payables release nothing: Collection 30 days less
+PASS  no negative release: Collection to management's 70-day target  266.98
+PASS  interest is zero: Collection to management's 70-day target  0
+PASS  payables release nothing: Collection to management's 70-day target
+PASS  no negative release: Certification 10 days less  81.90
+PASS  interest is zero: Certification 10 days less  0
+PASS  payables release nothing: Certification 10 days less
+PASS  no negative release: Certification 30 days less  245.71
+PASS  interest is zero: Certification 30 days less  0
+PASS  payables release nothing: Certification 30 days less
+PASS  no negative release: Stock 10 days less  29.63
+PASS  interest is zero: Stock 10 days less  0
+PASS  payables release nothing: Stock 10 days less
+PASS  no negative release: Stock 30 days less  88.90
+PASS  interest is zero: Stock 30 days less  0
+PASS  payables release nothing: Stock 30 days less
+PASS  no negative release: COMBINED one run: collection to target + certification 30 + stock 30  601.59
+PASS  interest is zero: COMBINED one run: collection to target + certification 30 + stock 30  0
+PASS  payables release nothing: COMBINED one run: collection to target + certification 30 + stock 30
+PASS  no negative release: Vendor credit pushed to 120 days (must be refused)  0.00
+PASS  interest is zero: Vendor credit pushed to 120 days (must be refused)  0
+PASS  payables release nothing: Vendor credit pushed to 120 days (must be refused)
+PASS  xcheck collection 10  81.90
+PASS  xcheck collection 30  245.71
+PASS  xcheck collection to target = balance - target x per day  266.98
+PASS  xcheck certification 10
+PASS  xcheck certification 30
+PASS  xcheck stock 10  29.63
+PASS  xcheck stock 30  88.90
+PASS  combined = sum of its own three legs (one run, not a row sum)  601.59
+PASS  basis dio: balance = days x per day
+PASS  basis cad: balance = days x per day
+PASS  basis dso: balance = days x per day
+PASS  basis dpo: balance = days x per day
+PASS  basis: stock priced on materials, never revenue per day
+PASS  cycle ties to 210.8  210.83
+PASS  DSO ties to 102.6, DIO 116.0, DPO 56.6, CAD 48.9
+PASS  collection never below the lower end of the client term (immediate payment = 0 days)
+PASS  Collection 10: cash from collection stays inside gross receivables already past due (403.41)  81.90
+PASS  Collection 30: cash from collection stays inside gross receivables already past due (403.41)  245.71
+PASS  Collection to: cash from collection stays inside gross receivables already past due (403.41)  266.98
+PASS  COMBINED: cash from collection stays inside gross receivables already past due (403.41)  266.98
+PASS  vendor lever refused at 120 days
+
+== RANKING (priceLevers; cash released once; carry 0 because no rate is disclosed) ==
+1. Collection to the 70-day target: 266.98 Cr once, carry 0
+2. Certification 30 days less: 245.71 Cr once, carry 0
+3. Stock 30 days less: 88.90 Cr once, carry 0
+PASS  ranking is cash released, largest first
+
+== LEVER TABLE ==
+PRICED   collection (DSO 102.6) at revenue/day 8.1900: 10, 30, to 70-day target
+PRICED   certification (unbilled net 400.35, 48.9 days) at revenue/day: 10, 30; no certification window published, floor 0
+PRICED   site stock (inventories 343.75, 116.0 days) at materials/day 2.9634: 10, 30
+BALANCE  retention 211.00 Cr, released at project end per contract or swapped for bank guarantee: no speed stated, not priced
+NOT PRICED  vendor credit (DPO 56.6): terms stated per scheme, paying later is never a saving, lever held
+NOT PRICED  interest: only ranges published (6.65 to 9.51 percent, 6.83 to 10.50 percent), no single rate
+NOT PRICED  customer advances 796.42 Cr: funding, not a use
+
+ALL ASSERTS PASS

@@ -1,0 +1,247 @@
+                                           March 31, 2025
+
+             Afcons Infrastructure Limited: Rating withdrawn for CP
+
+Summary of rating action
+
+Instrument*                           Previous rated amount  Current rated amount  Rating action
+Long Term - Fund-Based ­ Term Loan**         (Rs. crore)            (Rs. crore)    [ICRA]A+(Stable); outstanding
+
+                                                970.0                  970.0
+
+Long-Term ­ Fund-Based Facilities**   1,900.0                1,900.0               [ICRA]A+(Stable); outstanding
+                                      17,490.0               17,490.0              [ICRA]A+(Stable); outstanding
+Long-Term ­ Non-Fund Based            1,600.0                1,600.0               [ICRA]A1; outstanding
+Facilities**                                                                       [ICRA]A1; withdrawn
+Short-term ­ Non-fund based            900.0                  900.0
+facilities**
+
+Commercial paper
+
+Total                                 23,160.0               23,160.0
+
+*Instrument details are provided in Annexure I; ** Client has requested for withdrawal of the bank loan rating. On completion of the requisite documentation,
+ICRA will withdraw the rating in line with ICRA's policy on withdrawal.
+
+Rationale
+
+ICRA has withdrawn the short-term rating of [ICRA]A1 assigned to the Commercial Paper (CP) programme of Afcons
+Infrastructure Limited (AIL). The rating is withdrawn in accordance with ICRA's policy on withdrawal at the request of the
+company, as the CP was not placed and there is no amount outstanding against the same.
+
+The key rating drivers, liquidity position and rating sensitivities have not been captured as the rated instruments are being
+withdrawn. The previous detailed rating rationale is available at the following link: Click here
+
+Analytical approach
+
+ Analytical approach                  Comments
+ Applicable rating methodologies      Corporate Credit Rating Methodology
+ Parent/Group support                 Rating Methodology - Construction
+ Consolidation/Standalone             Policy on Withdrawal of Credit Ratings
+
+About the company                     Not Applicable
+
+                                      For arriving at the ratings, ICRA has considered consolidated financials of AIL. The list of
+                                      companies that are consolidated to arrive at the ratings are given in Annexure II.
+
+AIL, incorporated in 1976 as Asia Foundations and Constructions Limited, is a reputed construction entity and is a part of the
+SP Group, which holds majority stake of 50.17% in the company. It operates in diverse segments such as marine works
+(including construction of jetties and dry docks), offshore oil and gas, bridges and flyovers, road construction, hydro and
+tunnelling, pipe laying and general civil engineering works. AIL commenced operations as a civil construction firm in 1959 and
+was initially involved in constructing specialised foundation activities, such as pile foundations, diaphragm walls, geotechnical
+investigations, drilling and grouting. It entered the marine segment in 1963 and subsequently undertook design and build
+
+www.icra.in                                                                        Page | 1
+contracts. Over the years, AIL has increased its presence geographically and has executed projects across fifteen Indian states,
+in addition to overseas projects in 14 countries.
+
+Key financial indicators (audited)
+
+AIL ­ Consolidated                               FY2023                                                FY2024              9M FY2025*
+
+Operating income                                 12,654.8                                              13,277.2               9328.39
+                                                                                                                               375.9
+PAT                                              410.9                                                 449.8                  11.4%
+                                                                                                                               4.0%
+OPBDIT/OI                                        10.67%                                                10.4%
+
+PAT/OI                                           3.2%                                                  3.4%
+
+Total outside liabilities/Tangible net worth     3.5                                                   3.5
+(times)
+
+Total debt/OPBDIT (times)                        1.2                                                   1.8
+
+Interest coverage (times)                        3.0                                                   2.4
+
+Source: Company, ICRA Research; * Provisional numbers; All ratios as per ICRA's calculations; Amount in Rs. crore
+
+PAT: Profit after tax; OPBDIT: Operating profit before depreciation, interest, taxes and amortisation
+
+Status of non-cooperation with previous CRA: Not applicable
+
+Any other information: None
+
+Rating history for past three years
+
+                     Current (FY2025)                          Chronology of rating history for the past 3 years
+                     Amount
+Instrument                                              FY2024                                                     FY2023        FY2022
+                       rated Mar 31, 2025
+             Type   (Rs. crore)
+
+                                                      Date      Rating                                 Date            Rating    Date  Rating
+
+NCD          Long          -                  -  Mar 27, 2024     [ICRA]A+                             Sep 1, 2022   [ICRA]A+      -      -
+             Term                                                                                                     (Stable)
+                                                 Sep 29 2023       (Stable);                           Oct 29, 2021                -      -
+Term loan    Long          970.0     [ICRA]A+    Mar 27, 2024                                          Sep 1, 2022   [ICRA]A+      -      -
+             Term                    (Stable)    Sep 29 2023   reaffirmed and                          Oct 29, 2021  (Negative)    -      -
+                                                 Mar 27, 2024                                          Sep 1, 2022   [ICRA]A+      -      -
+Cash credit  Long          1,900.0   [ICRA]A+    Sep 29 2023     withdrawn                             Oct 29, 2021                -      -
+             Term                    (Stable)    Mar 27, 2024                                          Sep 1, 2022    (Stable)     -      -
+                                                 Sep 29 2023      [ICRA]A+                             Oct 29, 2021  [ICRA]A+      -      -
+Non-fund     Long          17,490.0  [ICRA]A+    Sep 29 2023       (Stable)                            Sep 1, 2022   (Negative)    -      -
+                                     (Stable)                     [ICRA]A+                                           [ICRA]A+      -      -
+based (BG/LC) Term                                      -          (Stable)                                           (Stable)     -      -
+                                                 Mar 27, 2024                                                        [ICRA]A+      -      -
+Short-term   Short         -                  -  Sep 29 2023      [ICRA]A+                                           (Negative)    -      -
+loans        Term                                Mar 27, 2024      (Stable)                                          [ICRA]A+      -      -
+                                                 Sep 29 2023      [ICRA]A+                                            (Stable)
+                                                                   (Stable)                                          [ICRA]A+
+                                                                                                                     (Negative)
+                                                                  [ICRA]A+                                           [ICRA]A1
+                                                                   (Stable)
+                                                                  [ICRA]A+                                           [ICRA]A1
+                                                                   (Stable)
+                                                                                                                     [ICRA]A1
+                                                                  [ICRA]A+
+                                                                   (Stable)                                          [ICRA]A1
+
+                                                                  [ICRA]A1                                           [ICRA]A1
+
+                                                                -                                      Oct 29, 2021  [ICRA]A1
+
+Non-fund     Short         1,600.0    [ICRA]A1                  [ICRA]A1                               Sep 1, 2022
+                            900.0
+based (BG/LC) Term                   [ICRA]A1;                  [ICRA]A1 Oct 29, 2021
+                                     withdrawn
+Commercial   Short                                              [ICRA]A1                               Sep 1, 2022
+paper        Term
+                                                                [ICRA]A1 Oct 29, 2021
+
+www.icra.in                                                                                                                      Page | 2
+Complexity level of the rated instruments
+
+Instrument                                 Complexity indicator
+Long term - Fund-based ­ Term loan         Simple
+Long-term ­ Fund-based facilities          Simple
+Long-term ­ Non-fund based facilities      Very Simple
+Short-term ­ Non-fund based facilities     Very Simple
+Commercial paper                           Simple
+
+The Complexity Indicator refers to the ease with which the returns associated with the rated instrument could be estimated.
+It does not indicate the risk related to the timely payments on the instrument, which is rather indicated by the instrument's
+credit rating. It also does not indicate the complexity associated with analysing an entity's financial, business, industry risks or
+complexity related to the structural, transactional or legal aspects. Details on the complexity levels of the instruments are
+available on ICRA's website: Click here
+
+www.icra.in                                                      Page | 3
+Annexure I: Instrument details
+
+ISIN Instrument name                 Date of issuance  Coupon  Maturity        Amount rated   Current rating and outlook
+                                      February 2017      rate  April 2029        (Rs. crore)  [ICRA]A+ (Stable)
+NA Fund-based ­ Term loan                                                           970.0     [ICRA]A+ (Stable)
+                                             NA          NA                        1,900.0    [ICRA]A+ (Stable)
+                                                                                              [ICRA]A1
+NA           Long-term ­ Fund-based                    NA                  NA     17,490.0    [ICRA]A1; withdrawn
+             facilities
+                                                                                   1,600.0
+NA           Long-term ­ Non-fund-   NA                NA                  NA       900.0
+             based facilities
+
+NA           Short-term ­ Non-fund-  NA                NA                  NA
+             based facilities
+
+NA Commercial paper                  Yet to be placed  NA                  NA
+
+Source: Company
+
+Please click here to view details of lender-wise facilities rated by ICRA
+
+Annexure II: List of entities considered for consolidated analysis             Ownership      Consolidation Approach
+                                                                                  100%            Full consolidation
+ Company Name                                                                     100%            Full consolidation
+ Hazarat and Company Private Limited                                              100%            Full consolidation
+ Afcons Corrorsion Protection Private Limited                                      74%            Full consolidation
+ Afcons Hydrocarbons Engineering Private Limited                                   49%            Full consolidation
+ Afcons Oil & Gas Services Private Limited                                        100%            Full consolidation
+ Afcons Infrastructures Kuwait for Building, Road and Marine Contracting WLL      100%            Full consolidation
+ Afcons Construction Mideast LLC                                                  100%            Full consolidation
+ Afcons Gulf International Projects Services FZE                                  100%            Full consolidation
+ Afcons Mauritius Infrastructure Limited                                          100%            Full consolidation
+ Afcons Overseas Singapore Pte Limited                                            100%            Full consolidation
+ Afcons Infra Projects Kazakhstan LLP (Step Down Subsidiary)                      100%            Full consolidation
+ Afcons Saudi Constructions LLC
+ Afcons Overseas Project Gabon SARL (Step Down Subsidiary)
+Source: Company
+
+www.icra.in                                                                                   Page | 4
+ANALYST CONTACTS             Suprio Banerjee
+                             +91 22 6114 3443
+Ashish Modani                supriob@icraindia.com
++91 22 6169 3300
+ashish.modani@icraindia.com  Ritik Sundarka
+                             +91 80 4332 6414
+Rohit Agarwal                ritik.sundarka@icraindia.com
++91 22 6169 3329
+rohit.agarwal@icraindia.com
+
+RELATIONSHIP CONTACT
+L. Shivakumar
++91 22 6114 3406
+shivakumar@icraindia.com
+
+MEDIA AND PUBLIC RELATIONS CONTACT
+Ms. Naznin Prodhani
+Tel: +91 124 4545 860
+communications@icraindia.com
+
+HELPLINE FOR BUSINESS QUERIES
+
++91-9354738909 (open Monday to Friday, from 9:30 am to 6 pm)
+info@icraindia.com
+
+ABOUT ICRA LIMITED
+
+ICRA Limited was set up in 1991 by leading financial/investment institutions, commercial banks and financial services
+companies as an independent and professional investment Information and Credit Rating Agency.
+
+Today, ICRA and its subsidiaries together form the ICRA Group of Companies (Group ICRA). ICRA is a Public Limited Company,
+with its shares listed on the Bombay Stock Exchange and the National Stock Exchange. The international Credit Rating Agency
+Moody's Investors Service is ICRA's largest shareholder.
+
+For more information, visit www.icra.in
+
+www.icra.in                                                   Page | 5
+ICRA Limited
+
+          Registered Office
+B-710, Statesman House, 148 Barakhamba Road, New Delhi-110001
+Tel: +91 11 23357940-45
+
+         Branches
+
+© Copyright, 2025 ICRA Limited. All Rights Reserved.
+Contents may be used freely with due acknowledgement to ICRA.
+
+ICRA ratings should not be treated as recommendation to buy, sell or hold the rated debt instruments. ICRA ratings are subject to a process of surveillance,
+which may lead to revision in ratings. An ICRA rating is a symbolic indicator of ICRA's current opinion on the relative capability of the issuer concerned to
+timely service debts and obligations, with reference to the instrument rated. Please visit our website www.icra.in or contact any ICRA office for the latest
+information on ICRA ratings outstanding. All information contained herein has been obtained by ICRA from sources believed by it to be accurate and reliable,
+including the rated issuer. ICRA however has not conducted any audit of the rated issuer or of the information provided by it. While reasonable care has been
+taken to ensure that the information herein is true, such information is provided `as is' without any warranty of any kind, and ICRA in particular, makes no
+representation or warranty, express or implied, as to the accuracy, timeliness or completeness of any such information. Also, ICRA or any of its group
+companies may have provided services other than rating to the issuer rated. All information contained herein must be construed solely as statements of
+opinion, and ICRA shall not be liable for any losses incurred by users from any use of this publication or its contents.
+

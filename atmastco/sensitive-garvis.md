@@ -1,0 +1,12 @@
+# Atmastco: sensitive (Garvis only, never in a booklet)
+
+- RATINGS SPLIT: Acuite BBB-/Stable, A3 on Rs 190 Cr (7 Aug 2025), the only cooperating rating. CARE B-/Stable, A4, ISSUER NOT COOPERATING (3 Jun 2025, downgraded from B+; INC since 21 Nov 2024; Rs 85.03 Cr). Infomerics IVR BB/Negative, A4, ISSUER NOT COOPERATING (1 Oct 2024). India Ratings INC (18 Mar 2025, per CARE). Acuite: bank limit use 96% fund-based, 85% non-fund-based; FY25 margin fell on EPC costs with billing pending quality clearances.
+- AUDITOR FY25 (A C Surana): material weakness in internal financial controls (customer/vendor master data; delays in recording journal entries); quarterly returns to banks "not made available" for verification (CARO ii(b)). Open ROC charges as emphasis of matter FY25: Tata Capital 3.00, SIDBI 0.61, 2.53, 1.50 Cr. FY26 emphasis: open charges Canara Bank 44.00, SBI 191.65, Tata Capital 3.00 Cr under satisfaction/modification; Oxyzo Financial Services Rs 8.30 lakh debit balance "under dispute", no confirmation; stock register kept "in a hybrid manner" part electronic, part manual. FY24 note 55 (per dossier, not re-verified): "few backdated entries has been rectified".
+- AUDITOR CHANGE: dossier says FY24 auditor was Rajesh Jalan & Associates, Kolkata (not re-verified); FY25 and FY26 are A C Surana & Co, Durg.
+- FY26 EXCEPTIONAL ITEM Rs 8.11 Cr, nature not stated in the results.
+- RECEIVABLES vs ADVANCES: FY26 trade receivables -72.67 Cr, short-term loans and advances +72.95 Cr; possible reclassification, unexplained.
+- RELATED PARTIES (AR25 note 36, units lakh): MD Subramaniam Swaminathan Iyer loans taken 2,841.75, repaid 3,274.75, closing 83.25 payable (FY24: 516.25 payable); CFO Venkataraman Ganesan loans taken 61.56, closing 296.46 payable; MD remuneration due 73.56, closing owed 194.67. Advances to subsidiary Atmastco Defence Systems Rs 2.63 Cr (85% of long-term loans and advances). Concord Helmet and Safety Products (same management) purchases 20.79 lakh; APEX Industries advance 16.23 lakh.
+- LEADERSHIP CHURN: CFO to Executive Director 14 Aug 2026; CEO name differs between AR25 and the May 2026 certificate, no notice found; Company Secretary changed 2025 (Samina Ali to Rajendra Biswal).
+- DISPUTED RECEIVABLES: Rs 4.66 Cr disputed over 3 years and Rs 0.87 Cr doubtful, unchanged FY24 to FY25.
+- IPO PROCEEDS (Feb 2024, Rs 56.25 Cr at Rs 77): use of proceeds not checked in this pass.
+- Namesakes: none found. Dossier's outreach script (guessed e-mails, "never say your report contradicts itself") must not enter any booklet.

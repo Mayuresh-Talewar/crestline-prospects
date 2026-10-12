@@ -1,0 +1,7 @@
+revenue 6880.11 per day 18.8496
+10 cash 188.50 applied 188.50 interest 19.43
+30 cash 565.49 applied 252.49 interest 26.03
+dso 92.19 cad 133.44
+cad share % 36.56 standalone 36.57
+rec growth 32.06 rev 29.60
+cap 252.49

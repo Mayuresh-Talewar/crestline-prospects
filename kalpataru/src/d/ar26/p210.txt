@@ -1,0 +1,92 @@
+Financial Statements                                                                                                                 Notes forming part of the Consolidated Financial Statements
+
+Notes forming part of the Consolidated Financial Statements                                                                          for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+45.Additional information as required by paragraph 2 of the general instruction for preparation                                      46 GOODWILL AND INDEFINITE LIFE TRADEMARK
+     of Consolidated Financial Statements to Schedule III to the Companies Act, 2013
+                                                                                                                                     Goodwill represents the cost of acquired business as established at the date of acquisition of the business in excess of the
+                                             Net Assets i.e. Total   Share in Profit or       Share in Other      Share in Total     acquirer's interest in the net fair value of the identifiable asset.
+                                             Assets minus Total              (Loss)          Comprehensive       Comprehensive
+                                                                                                                                     The useful life of trademark has been determined to be indefinite as the Company expects to generate future economic
+Name of Enterprise                                  Liabilities                                    Income              Income        benefits indefinitely from the asset.
+
+                                             As % Net   Amount            As %  Amount       As % Amount         As % Amount         Goodwill and Trademark are tested for impairment annually or based on an indicator and provides for impairment if the
+                                                 Asset        (K in  Profit or        (K in                                          carrying amount of goodwill / trademark exceeds its recoverable amount.
+                                                                                             Profit or  (K in    Profit or  (K in
+                                                        Crores)        (Loss)   Crores)
+                                                                                             (Loss) Crores)      (Loss) Crores)
+
+Parent
+
+Kalpataru Projects International Limited 105.67% 8,217.51 80.02% 832.26 98.38% 351.58 84.72% 1,183.84                                Following is a summary of changes in the carrying amount of goodwill and trademark
+
+Subsidiaries                                                                                                                                                                                                                       (I in Crores)
+
+Indian                                                                                                                                                                                 Goodwill                           Trademark
+
+Amber Real Estate Limited                    0.01%      1.13         0.01%      0.07 0.00%                    -  0.01%      0.07     Particulars                                       As at     As at                    As at      As at
+
+Energylink India Limited                     0.96%      74.59        0.00%      - 0.00%                       - 0.00%             -                                                    31st March, 2026 31st March, 2025  31st March, 2026 31st March, 2025
+
+Shree Shubham Logistics Limited              1.94% 150.80 -3.01% (31.29) 0.06%                          0.20 -2.22% (31.09)          Balance at the beginning of the year              184.73    184.30                   36.87      36.66
+
+Kalpataru Metfab Private Limited             0.19%      14.78        0.01%      0.12 0.00%                    -  0.01%      0.12     Acquired on business combination during the year  -         -                                   -
+
+Brij Bhoomi Expressway Private Limited       -0.07%     (5.36) -0.82%           (8.54) 0.00%                  - -0.61%      (8.54)   Impairment during the year (Refer Note 57)        (74.49)   -                        (16.02)    -
+
+JMC Mining and Quarries Limited              0.03%      2.48 0.00%              0.02 0.00%                    - 0.00%       0.02     Foreign currency translation difference           22.40     0.43                     5.08       0.21
+
+Saicharan Properties Limited                 0.93%      72.45        1.23%      12.76 0.00%             0.01     0.91%      12.77    Balance at the end of the year                    132.64    184.73                   25.93      36.87
+
+Vindhyachal Expressway Private Limited       0.00%      - 14.66% 152.47                      0.01%      0.02 10.91% 152.49
+
+Wainganga Expressway Private Limited         -4.67% (363.43) -1.16% (12.05) 0.03%                       0.11 -0.85%         (11.94)  47 SEGMENT REPORTING
+
+Punarvasu Financial Services Private         0.31%      23.91        0.15%      1.54 0.00%                    -  0.11%      1.54     Group's reportable segments are as under:
+Limited
+                                                                                                                                     (a)The Group is engaged in executing projects across major infrastructure sectors like power transmission &
+Foreign                                                                                                                                     distribution, buildings & factories, water, oil & gas, railways electrification & track laying, urban infrastructure,
+                                                                                                                                            road, airports, data center, civil, etc. through its different Business Units (BUs). These projects are being in the
+Kalpataru Power Transmission (Mauritius)     0.01%      0.55 -0.06%             (0.58) 0.02%            0.07 -0.04%         (0.51)          nature of infrastructure development, largely having common execution methodologies, covering Design
+Limited                                                                                                                                     and Engineering, Procurement and Construction. The projects under each sector are distinct from each
+                                                                                                                                            other in terms of size, scale, geography and complexity, etc., however, basic processes in connection with the
+Kalpataru Power Transmission - USA, INC 0.04%           2.80 -0.01%             (0.14) 0.08%            0.27     0.01%      0.13            construction and related activities are similar across all the BUs. The Group primarily has Central Government,
+                                                                                                                                            Public Sector Undertakings (PSUs), State Governments, Utilities and large Private Sector as customers for these
+LLC Kalpataru Power Transmission             -0.02%     (1.28) 0.00%            - -0.02%                (0.06) 0.00%        (0.06)          infrastructure projects. Over long-term basis, the margin profiles on each of these BUs is also in the similar range
+Ukraine                                                                                                                                     Considering the similarity in the nature and economic characteristics of these Engineering, Procurement, and
+                                                                                                                                            Construction (`EPC') businesses, the Group has applied aggregation criteria for reportable segment under Ind AS
+Kalpataru Power FZCO (Refer Note 30(a)) -0.01%          (0.61) 0.20%            2.11 -0.03%             (0.12) 0.14%        1.99            108 and disclosed EPC segment as one of the reportable segment covering project across power transmission and
+                                                                                                                                            distribution, railways track laying, electrification, civil, urban infrastructure, water and oil and gas pipelines etc.
+Kalpataru Projects Arabia Company            -2.14% (166.73) -2.75% (28.62) -4.21% (15.04) -3.12% (43.66)
+(Refer Note 30(a))                                                                                                                   (b)Developmental Projects : It comprises of development, operation and maintenance of infrastructure project.
+
+Kalpataru Power Transmission Sweden AB 1.03%            80.08 0.00%             (0.04) 0.00%                  - 0.00%       (0.04)   (c)Others includes mainly agri-logistics and Bio-Mass business.
+
+Linjemontage i Grstorp Aktiebolag           4.35% 338.04            7.34%      76.39 8.68%             31.01 7.69% 107.40
+
+Linjemontage AS                              0.15%      11.71 0.74%             7.70         0.14%      0.51 0.59%          8.21
+
+Kalpataru Power Senegal SARL                 0.18%      13.62        0.21%      2.14         0.51%      1.84 0.28%          3.98
+
+Estrela Reluzente Participaes S.A. (Refer  -1.41% (109.86) -32.22% (335.13)                0.00%            - -23.98% (335.13)
+Note 30(a))
+
+Fasttel Engenharia S.A.                      -3.41% (265.54) -28.85% (300.06) -5.30% (18.94) -22.83% (319.00)
+
+Kalpataru Power Chile SpA                    0.19%      14.86        2.14%      22.30        0.18%      0.65     1.64%      22.95
+
+Non Controlling interest in all              -0.57% (43.95) -0.91%              (9.42) -1.47%           (5.26) -1.05% (14.68)
+subsidiaries
+
+Joint Venture (as per equity
+consolidation method)
+
+Kurukshetra Expressway Private Limited       0.00%      - 0.00%                 - 0.00%                       - 0.00%             -
+
+Adjustment arising out of consolidation      -3.69% (286.00) 63.06% 655.79                   2.94%      10.53 47.66% 666.32
+
+Total                                        100.00% 7,776.55 100.00% 1,040.05 100.00% 357.38 100.00% 1,397.43
+
+414 Kalpataru Projects International Limited                                                                                                                                                     Integrated Annual Report 2025-26 415

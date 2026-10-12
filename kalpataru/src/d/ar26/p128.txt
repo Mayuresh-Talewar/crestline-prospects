@@ -1,0 +1,64 @@
+Statutory Reports
+
+Business Responsibility and Sustainability Report (BRSR)
+
+10. B riefly describe the waste management practices adopted in your establishments. Describe the strategy                          LEADERSHIP INDICATORS
+      adopted by your company to reduce usage of hazardous and toxic chemicals in your products and
+      processes and the practices adopted to manage such wastes.                                                                    1. Water withdrawal, consumption and discharge in areas of water stress (in kiloliters):
+                                                                                                                                    For each facility/plant located in areas of water stress, provide the following information:
+KPIL's systems and practices align with industry best practices and comply with pollution control board regulations.                i. Name of the area: Uniara & Padampur (Rajasthan), Gandhinagar (Gujarat), Raipur (Chhattisgarh)
+       We focus on minimizing waste by implementing the 3R waste management hierarchy: Reduce, Reuse, and Recycle. We               ii. Nature of operations*: Biomass Power Plants and Tower Manufacturing plants
+       also create valueadded products, recover energy through waste combustion, and reduce landfill waste. Our hazardous           iii. Water withdrawal, consumption and discharge in the following format:
+       waste management adheres to the Hazardous and Other Wastes (Management & Transboundary Movement) Rules,
+       2016, set by the Central Pollution Control Board. Waste disposal is conducted only through agencies authorized by the        Parameter                                                                        FY 2026               FY 2025
+       urban local body and pollution control boards. We are committed to continuously improving our products, processes,           Water withdrawal by source (in kiloliters)
+       and systems to decrease the use of hazardous and toxic chemicals, ensuring any such waste is disposed of safely              (i)into Surface water                                                           564,998               516,334
+       and responsibly. During FY 2026, we undertook a comprehensive Waste Footprint Assessment to align with sustainable           (ii)Groundwater                                                                   34,382               27,856
+       practices and circular economy principles. Through the assessment we identified various waste reuse and recycling            (iii)Third party water                                                             12,383
+       opportunities including sustainable waste management through circular economy principles, including technologies             (iv) Seawater/desalinated water                                                           -              9,547
+       for processing construction waste and innovative solutions for food, plastic, and e-waste, which will help us achieve our    (v)Others                                                                         24,462                       -
+       target of achieving 100% circularity in construction and demolition waste by 2035.                                           Total volume of water withdrawal (in kiloliters)
+                                                                                                                                    Total volume of water consumption (in kiloliters)                               636,225                15,500
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife                   Water intensity per rupee of turnover (Water consumed/turnover)                 636,225              569,237
+      sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.)                     Water intensity (optional)  the relevant metric may be selected by the entity                    569,237**
+      where environmental approvals/clearances are required, specify details in the following format:                               Water discharge by destination and level of treatment (in kiloliters)                27.41           30.14***
+                                                                                                                                    (i)into Surface water                                                                     -
+S    Location of operations/offices                                       Type of     Whether the conditions of environmental       -No treatment                                                                                                  -
+No.                                                                    operations  approval/clearance are being complied with?      -With treatment  please specify level of treatment                                       -
+                                                                                   (Y/N) If no, the reasons thereof and corrective  (ii)into Groundwater                                                                      -                    -
+1. M/s Kalpataru Projects International Limited - Ohitan Jv            EPC Sites                                                    -No treatment                                                                                                  -
+      (kpil-ohitan Jv), Village Bilga , Ludhiana Ii, Punjab, 141120                                    action taken, if any.        -With treatment  please specify level of treatment                                       -
+                                                                                                                                    (iii) into Seawater                                                                       -                    -
+                                                                                                                Yes                 - No treatment                                                                                                 -
+                                                                                                                                    - With treatment  please specify level of treatment                                      -
+12.Details of environmental impact assessments of projects undertaken by the entity based on applicable                             (iv) Sent to third parties                                                                -                    -
+      laws, in the current financial year*:                                                                                         - No treatment                                                                                                 -
+                                                                                                                                    - With treatment  please specify level of treatment                                      -
+Name and brief details  EIA Notification No.   Date  Whether conducted by          Results communicated in      Relevant Web link   (v) Others                                                                                -                    -
+of the project                                       independent external          public domain (Yes/No)                           - No treatment                                                                                                 -
+                                                     agency (Yes/No)                                                                - With treatment  please specify level of treatment                                      -
+                                                                                                                                    Total water discharged (in kiloliters)                                                    -                    -
+As an EPC company, KPIL carries out its operations at project sites, where environmental impact assessments are                                                                                                          0.00                      -
+undertaken by the respective clients or project owners.                                                                                                                                                                                       0.00
+
+13.Is the entity compliant with the applicable environmental law/regulations/guidelines in India, such as the
+      Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment
+      Protection Act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the
+      following format:
+
+Yes, KPIL complies with applicable legislations, including the Water (Prevention and Control of Pollution) Act, the Air
+       (Prevention and Control of Pollution) Act and the Environment (Protection) Act, along with relevant rules and regulations.
+
+Sr. Specify the law / regulation / guidelines  Provide details of the  Any fines / penalties / action taken by  Corrective action   Note: Water discharge in waterstress areas has increased during the current year, in line with higher project execution volumes and
+No. which was not complied with                non-compliance          regulatory agencies such as pollution    taken, if any               corresponding rise in water withdrawal and consumption. KPIL continues to mitigate impacts through increased use of recycled water,
+                                                                       control boards or by courts                                          improved onsite data accounting and awareness, and strengthened data collection and verification via its ESG digitalization portal adopted
+                                                                                                                                            since last year.
+                                                     None
+
+                                                                                                                                    *The disclosed data is for water stress areas limited to our permanent assets, specifically our Manufacturing Plants and Biomass
+                                                                                                                                            Power Plants.
+
+                                                                                                                                    **Note: The total water consumption figure has been restated. The accounting scope was enhanced to include water withdrawn from
+                                                                                                                                            rainwater harvesting, providing a more comprehensive view of our total water footprint.
+
+250 Kalpataru Projects International Limited                                                                                                                                                                        Integrated Annual Report 2025-26 251

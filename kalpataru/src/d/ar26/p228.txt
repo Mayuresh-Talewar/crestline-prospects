@@ -1,0 +1,86 @@
+Notice
+Annual General Meeting 2025-26
+
+As per the provisions of Income Tax Act, 2025 (hereinafter referred as `the Act'), Dividend is taxable in the hands of
+shareholders and accordingly, the Company is required to withhold taxes (including surcharge and cess) on the
+dividend paid to its shareholders at the prescribed rates as per the applicable provisions of the Act. The withholding tax
+rate would vary depending on the residential status of the shareholder and documents submitted by shareholder with
+the Company/ RTA / Depository Participant.
+
+A. RESIDENT SHAREHOLDERS:
+
+       A1. Tax Deductible at Source for Resident Shareholders:
+
+Sr. No. Particulars                                   Withholding Tax Rate         Documents required (if any)
+                                                                     (3)                               (4)
+(1)  (2)                                                          10%
+                                                                                    No document required
+1    Valid PAN updated in the Company's                           20%
+                                                                                    No document required
+     Register of Members                                          20%
+                                                                                    No document required
+2    No PAN/Valid PAN not updated in the              Rate specified in the
+                                                             certificate           Lower / Nil tax deduction
+     Company's Register of Members                                           certificate obtained from Income
+
+3    Inoperative PAN, where the PAN is not linked                                           Tax Authority
+
+     with Aadhar. As per the provision of Section
+
+     397(2) of the Act.
+
+4    Availability of valid lower/nil tax deduction
+
+     certificate issued by Income Tax Department
+
+     u/s 395 of the Act
+
+Note: No tax shall be deducted at source on payment / aggregate of payment of dividend if the amount of dividend
+paid during the financial year 2026-27 does not exceed  10,000 in case the recipient is a resident individual shareholder.
+
+A2. No Tax Deductible at Source on dividend payment to resident shareholders if the Shareholders submit and
+       register following documents as mentioned in column no. 4 of the below table.
+
+Sr. No. Particulars                                   Withholding                         Documents required (if any)
+                                                         Tax Rate                                             (4)
+(1)  (2)                                                     (3)
+                                                            NIL    Declaration in Form No.121 fulfilling certain conditions
+1    Submission of Form 121                                 NIL    (corresponding to Form 15G/15H notified under the
+                                                                   provisions of the Income-tax Act, 1961)
+2    Shareholders to whom section 393(1) Table              NIL
+                                                                   Declaration that it has full beneficial interest with
+     Sl. No. (7) of the Act does not apply viz. LIC,        NIL    respect to the shares owned by it along with PAN
+                                                            NIL    along with certificate of incorporation, if any
+     GIC, Other insurer, specified business trust,          NIL
+                                                            NIL    Documentary evidence identifying such exempt
+     notified person by Central Government                         entity for coverage under section 393(5) of the Act
+                                                                   (corresponding to section 196 of the Income Tax
+3    Shareholder covered under section                             Act, 1961) including SEBI Registration certificate for
+                                                                   registered Mutual Fund
+     393(5) of the Act such as Government, RBI,
+                                                                   SEBI registration certificate to claim benefit under
+     corporations established by Central Act &                     section 393(6) of the Act (corresponding to Section
+                                                                   197A (1F) of the Income Tax Act, 1961)
+     mutual funds
+                                                                   Certificate under the Act or the Income Tax Act, 1961
+4    Category I and II Alternative Investment Fund                 issued by Income Tax Authority in respect of approval
+                                                                   of such funds
+5    - Approved provident funds
+                                                                   Certificate of incorporation under Indian Trust Act,
+     - Approved superannuation fund                                1882
+
+     - Approved gratuity fund                                      Necessary documentary evidence substantiating
+                                                                   the claim of exemption from deduction of TDS
+6    New Pension System Trust established on
+
+     27th February 2008
+
+7    Any resident shareholder claiming
+
+     exemption from TDS under any other
+
+     provisions of the Act or by any other law or
+
+     notification
+
+12 Kalpataru Projects International Limited

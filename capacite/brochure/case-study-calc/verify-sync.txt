@@ -1,0 +1,268 @@
+
+> process-automation-crestline@0.1.0 verify:sync
+> tsx scripts/sync-cli.ts verify
+
+
+==============================================================================
+GI-BHW-05  Bhiwandi Logistics Park — Warehouse Block A
+==============================================================================
+client        Northgate Logistics Parks Pvt Ltd
+data as of    2027-09-17
+contract      12.0 Cr   terms 15d pay · 10d certify · 12mo DLP
+events        1,590 across 100 cases — O2C 156 · P2P 1382 · SUBCONTRACT 52
+stock         110 movements — in 6.8 Cr, out 6.8 Cr, closing 0.0 Cr
+balances      109 rows · 11 account groups
+  CASH                   closing     2.4 Cr   average     1.2 Cr
+  COGS                   closing     8.0 Cr   average     4.0 Cr
+  CONTRACT_ASSET         closing     1.8 Cr   average     0.9 Cr
+  CUSTOMER_ADVANCE       closing     0.1 Cr   average     0.1 Cr
+  INVENTORY              closing     0.0 Cr   average     0.0 Cr
+  RETENTION_RECEIVABLE   closing     0.5 Cr   average     0.2 Cr
+  SUBCONTRACT_PAYABLE    closing     0.2 Cr   average     0.1 Cr
+  TRADE_PAYABLE          closing     1.2 Cr   average     0.6 Cr
+  TRADE_RECEIVABLE       closing     1.3 Cr   average     0.6 Cr
+  VENDOR_ADVANCE         closing     0.1 Cr   average     0.1 Cr
+  WIP                    closing     2.4 Cr   average     1.2 Cr
+  cross-check          movements 0.0 Cr vs trial balance 0.0 Cr — drift 0.0 Cr (0.0%)
+o2c           certified 8.5 Cr · invoiced 8.5 Cr · collected 6.6 Cr
+p2p           supplier invoiced 7.8 Cr · paid 6.5 Cr · subcontract certified 1.8 Cr
+ratios        DIO   0 · DSO  30 · DPO  26 · CCC   4   (395d basis, revenue 8.5 Cr, COGS 9.5 Cr)
+
+==============================================================================
+GI-BSP-02  Bhilai Steel Plant — Blast Furnace 8 Modernisation
+==============================================================================
+client        Steel Authority of India Ltd — Bhilai Modernisation Cell
+data as of    2027-03-20
+contract      280.0 Cr   terms 90d pay · 30d certify · 24mo DLP
+events        10,224 across 762 cases — O2C 780 · P2P 8744 · SUBCONTRACT 700
+stock         655 movements — in 41.2 Cr, out 38.0 Cr, closing 3.2 Cr
+balances      183 rows · 8 account groups
+  CONTRACT_ASSET         closing    81.4 Cr   average    40.7 Cr
+  CUSTOMER_ADVANCE       closing    12.6 Cr   average     6.3 Cr
+  INVENTORY              closing     3.2 Cr   average     1.6 Cr
+  RETENTION_RECEIVABLE   closing    17.5 Cr   average     8.7 Cr
+  SUBCONTRACT_PAYABLE    closing     0.0 Cr   average     0.0 Cr
+  TRADE_PAYABLE          closing     7.4 Cr   average     3.7 Cr
+  TRADE_RECEIVABLE       closing    23.7 Cr   average    11.9 Cr
+  VENDOR_ADVANCE         closing     0.3 Cr   average     0.2 Cr
+  cross-check          movements 3.2 Cr vs trial balance 3.2 Cr — drift 0.0 Cr (0.0%)
+o2c           certified 93.3 Cr · invoiced 86.2 Cr · collected 66.1 Cr
+p2p           supplier invoiced 51.6 Cr · paid 44.2 Cr · subcontract certified 43.1 Cr
+ratios        DIO  16 · DSO 116 · DPO  36 · CCC  96   (911d basis, revenue 93.3 Cr, COGS 94.7 Cr)
+
+==============================================================================
+GI-CHK-07  Chakan MIDC — Automotive Component Plant
+==============================================================================
+client        Nexa Auto Components Pvt Ltd
+data as of    2027-09-20
+contract      85.0 Cr   terms 45d pay · 21d certify · 18mo DLP
+events        1,267 across 88 cases — O2C 215 · P2P 998 · SUBCONTRACT 54
+stock         75 movements — in 16.8 Cr, out 16.8 Cr, closing 0.0 Cr
+balances      157 rows · 10 account groups
+  CASH                   closing    16.1 Cr   average     8.1 Cr
+  COGS                   closing    27.1 Cr   average    13.5 Cr
+  CONTRACT_ASSET         closing     7.5 Cr   average     3.7 Cr
+  CUSTOMER_ADVANCE       closing     3.6 Cr   average     1.8 Cr
+  INVENTORY              closing     0.0 Cr   average     0.0 Cr
+  RETENTION_RECEIVABLE   closing     2.4 Cr   average     1.2 Cr
+  SUBCONTRACT_PAYABLE    closing     1.0 Cr   average     0.5 Cr
+  TRADE_PAYABLE          closing     1.1 Cr   average     0.5 Cr
+  TRADE_RECEIVABLE       closing     5.5 Cr   average     2.8 Cr
+  WIP                    closing     7.4 Cr   average     3.7 Cr
+  cross-check          movements 0.0 Cr vs trial balance 0.0 Cr — drift 0.0 Cr (0.0%)
+o2c           certified 41.1 Cr · invoiced 41.1 Cr · collected 36.4 Cr
+p2p           supplier invoiced 21.0 Cr · paid 21.0 Cr · subcontract certified 12.4 Cr
+ratios        DIO   0 · DSO  39 · DPO   9 · CCC  29   (576d basis, revenue 41.1 Cr, COGS 33.4 Cr)
+
+==============================================================================
+GI-CHN-04  Sriperumbudur Hyperscale Data Centre — Phase 1 Shell & Core
+==============================================================================
+client        Aurex Data Centres Pvt Ltd
+data as of    2027-07-15
+contract      220.0 Cr   terms 45d pay · 14d certify · 18mo DLP
+events        4,537 across 382 cases — O2C 342 · P2P 3995 · SUBCONTRACT 200
+stock         472 movements — in 47.0 Cr, out 40.1 Cr, closing 6.9 Cr
+balances      61 rows · 8 account groups
+  CONTRACT_ASSET         closing    35.1 Cr   average    17.6 Cr
+  CUSTOMER_ADVANCE       closing     9.9 Cr   average     5.0 Cr
+  INVENTORY              closing     4.4 Cr   average     2.2 Cr
+  RETENTION_RECEIVABLE   closing     5.7 Cr   average     2.9 Cr
+  SUBCONTRACT_PAYABLE    closing     3.4 Cr   average     1.7 Cr
+  TRADE_PAYABLE          closing     7.8 Cr   average     3.9 Cr
+  TRADE_RECEIVABLE       closing    25.5 Cr   average    12.8 Cr
+  VENDOR_ADVANCE         closing     0.1 Cr   average     0.1 Cr
+  cross-check          movements 6.9 Cr vs trial balance 4.4 Cr — drift 2.5 Cr (57.3%)
+o2c           certified 92.8 Cr · invoiced 103.8 Cr · collected 100.0 Cr
+p2p           supplier invoiced 37.0 Cr · paid 31.2 Cr · subcontract certified 33.6 Cr
+ratios        DIO   9 · DSO  42 · DPO  17 · CCC  34   (303d basis, revenue 92.8 Cr, COGS 70.6 Cr)
+
+==============================================================================
+GI-KHR-08  Kharadi — IT Office Tower, Core & Shell
+==============================================================================
+client        Panorama Realty Ventures LLP
+data as of    2027-09-20
+contract      120.0 Cr   terms 30d pay · 14d certify · 24mo DLP
+events        1,244 across 85 cases — O2C 188 · P2P 1002 · SUBCONTRACT 54
+stock         83 movements — in 25.8 Cr, out 25.8 Cr, closing 0.0 Cr
+balances      156 rows · 10 account groups
+  CASH                   closing    23.3 Cr   average    11.7 Cr
+  COGS                   closing    36.3 Cr   average    18.1 Cr
+  CONTRACT_ASSET         closing    14.4 Cr   average     7.2 Cr
+  CUSTOMER_ADVANCE       closing     7.8 Cr   average     3.9 Cr
+  INVENTORY              closing     0.0 Cr   average     0.0 Cr
+  RETENTION_RECEIVABLE   closing     3.4 Cr   average     1.7 Cr
+  SUBCONTRACT_PAYABLE    closing     1.3 Cr   average     0.7 Cr
+  TRADE_PAYABLE          closing     0.1 Cr   average     0.1 Cr
+  TRADE_RECEIVABLE       closing     8.0 Cr   average     4.0 Cr
+  WIP                    closing    11.0 Cr   average     5.5 Cr
+  cross-check          movements 0.0 Cr vs trial balance 0.0 Cr — drift 0.0 Cr (0.0%)
+o2c           certified 53.6 Cr · invoiced 53.6 Cr · collected 46.8 Cr
+p2p           supplier invoiced 28.8 Cr · paid 28.8 Cr · subcontract certified 16.9 Cr
+ratios        DIO   0 · DSO  43 · DPO   1 · CCC  42   (576d basis, revenue 53.6 Cr, COGS 45.6 Cr)
+
+==============================================================================
+GI-MMR-01  Mumbai Metro Line 9 — Viaduct & Stations Package 04
+==============================================================================
+client        Mumbai Metropolitan Region Development Authority
+data as of    2027-03-20
+contract      340.0 Cr   terms 60d pay · 21d certify · 24mo DLP
+events        11,474 across 879 cases — O2C 1357 · P2P 9245 · SUBCONTRACT 872
+stock         718 movements — in 48.1 Cr, out 45.9 Cr, closing 2.2 Cr
+balances      188 rows · 8 account groups
+  CONTRACT_ASSET         closing    51.0 Cr   average    25.5 Cr
+  CUSTOMER_ADVANCE       closing    15.3 Cr   average     7.7 Cr
+  INVENTORY              closing     2.2 Cr   average     1.1 Cr
+  RETENTION_RECEIVABLE   closing     9.0 Cr   average     4.5 Cr
+  SUBCONTRACT_PAYABLE    closing     2.7 Cr   average     1.4 Cr
+  TRADE_PAYABLE          closing     8.0 Cr   average     4.0 Cr
+  TRADE_RECEIVABLE       closing    25.1 Cr   average    12.6 Cr
+  VENDOR_ADVANCE         closing     0.3 Cr   average     0.1 Cr
+  cross-check          movements 2.2 Cr vs trial balance 2.2 Cr — drift 0.0 Cr (0.0%)
+o2c           certified 129.2 Cr · invoiced 116.5 Cr · collected 95.2 Cr
+p2p           supplier invoiced 60.6 Cr · paid 52.7 Cr · subcontract certified 62.6 Cr
+ratios        DIO   9 · DSO  98 · DPO  32 · CCC  74   (1003d basis, revenue 129.2 Cr, COGS 123.2 Cr)
+
+==============================================================================
+GI-PIT-03  Hinjewadi IT Park — Tower C Core & Shell
+==============================================================================
+client        Meridian Business Parks Pvt Ltd
+data as of    2027-03-20
+contract      180.0 Cr   terms 30d pay · 14d certify · 12mo DLP
+events        5,562 across 386 cases — O2C 503 · P2P 4773 · SUBCONTRACT 286
+stock         368 movements — in 27.9 Cr, out 27.5 Cr, closing 0.4 Cr
+balances      120 rows · 7 account groups
+  CONTRACT_ASSET         closing    23.2 Cr   average    11.6 Cr
+  CUSTOMER_ADVANCE       closing     4.0 Cr   average     2.0 Cr
+  INVENTORY              closing     0.4 Cr   average     0.2 Cr
+  RETENTION_RECEIVABLE   closing     4.5 Cr   average     2.2 Cr
+  TRADE_PAYABLE          closing     2.4 Cr   average     1.2 Cr
+  TRADE_RECEIVABLE       closing     7.0 Cr   average     3.5 Cr
+  VENDOR_ADVANCE         closing     0.1 Cr   average     0.1 Cr
+  cross-check          movements 0.4 Cr vs trial balance 0.4 Cr — drift -0.0 Cr (-0.0%)
+o2c           certified 85.4 Cr · invoiced 85.4 Cr · collected 79.5 Cr
+p2p           supplier invoiced 35.3 Cr · paid 32.9 Cr · subcontract certified 34.0 Cr
+ratios        DIO   2 · DSO  30 · DPO  13 · CCC  19   (729d basis, revenue 85.4 Cr, COGS 69.3 Cr)
+
+==============================================================================
+GI-PKC-06  Veronika Society — Residential Towers, PK Chowk
+==============================================================================
+client        Sanskriti Developers Pvt Ltd
+data as of    2027-03-13
+contract      50.0 Cr   terms 30d pay · 21d certify · 12mo DLP
+events        264 across 23 cases — O2C 47 · P2P 186 · SUBCONTRACT 31
+stock         17 movements — in 19.0 Cr, out 17.5 Cr, closing 1.5 Cr
+balances      88 rows · 10 account groups
+  CASH                   closing     9.0 Cr   average     4.5 Cr
+  COGS                   closing    19.0 Cr   average     9.5 Cr
+  CONTRACT_ASSET         closing     6.9 Cr   average     3.5 Cr
+  CUSTOMER_ADVANCE       closing     4.8 Cr   average     2.4 Cr
+  INVENTORY              closing     1.5 Cr   average     0.8 Cr
+  RETENTION_RECEIVABLE   closing     1.3 Cr   average     0.7 Cr
+  SUBCONTRACT_PAYABLE    closing     0.7 Cr   average     0.3 Cr
+  TRADE_PAYABLE          closing     4.5 Cr   average     2.3 Cr
+  TRADE_RECEIVABLE       closing     0.0 Cr   average     0.0 Cr
+  WIP                    closing     7.0 Cr   average     3.5 Cr
+  cross-check          movements 1.5 Cr vs trial balance 1.5 Cr — drift 0.0 Cr (0.0%)
+o2c           certified 19.1 Cr · invoiced 19.1 Cr · collected 19.1 Cr
+p2p           supplier invoiced 20.0 Cr · paid 15.5 Cr · subcontract certified 4.5 Cr
+ratios        DIO  14 · DSO   0 · DPO  42 · CCC -28   (454d basis, revenue 19.1 Cr, COGS 24.5 Cr)
+
+==============================================================================
+GI-TLG-09  Talegaon Logistics Park — Blocks A to D
+==============================================================================
+client        Northgate Logistics Parks Pvt Ltd
+data as of    2027-09-20
+contract      65.0 Cr   terms 30d pay · 15d certify · 12mo DLP
+events        1,230 across 84 cases — O2C 182 · P2P 997 · SUBCONTRACT 51
+stock         75 movements — in 18.7 Cr, out 18.7 Cr, closing 0.0 Cr
+balances      154 rows · 10 account groups
+  CASH                   closing     2.7 Cr   average     1.3 Cr
+  COGS                   closing    27.1 Cr   average    13.6 Cr
+  CONTRACT_ASSET         closing     5.7 Cr   average     2.8 Cr
+  CUSTOMER_ADVANCE       closing     1.4 Cr   average     0.7 Cr
+  INVENTORY              closing     0.0 Cr   average     0.0 Cr
+  RETENTION_RECEIVABLE   closing     1.8 Cr   average     0.9 Cr
+  SUBCONTRACT_PAYABLE    closing     3.1 Cr   average     1.6 Cr
+  TRADE_PAYABLE          closing     2.2 Cr   average     1.1 Cr
+  TRADE_RECEIVABLE       closing     6.4 Cr   average     3.2 Cr
+  WIP                    closing     9.4 Cr   average     4.7 Cr
+  cross-check          movements 0.0 Cr vs trial balance 0.0 Cr — drift 0.0 Cr (0.0%)
+o2c           certified 30.4 Cr · invoiced 30.4 Cr · collected 24.9 Cr
+p2p           supplier invoiced 23.1 Cr · paid 22.6 Cr · subcontract certified 12.7 Cr
+ratios        DIO   0 · DSO  60 · DPO  18 · CCC  43   (576d basis, revenue 30.4 Cr, COGS 35.7 Cr)
+
+==============================================================================
+GI-WKD-10  Wakad — Residential Towers, Phase 1
+==============================================================================
+client        Sanskriti Developers Pvt Ltd
+data as of    2027-09-20
+contract      95.0 Cr   terms 30d pay · 21d certify · 24mo DLP
+events        1,242 across 85 cases — O2C 187 · P2P 1002 · SUBCONTRACT 53
+stock         83 movements — in 21.3 Cr, out 21.3 Cr, closing 0.0 Cr
+balances      147 rows · 10 account groups
+  CASH                   closing     2.3 Cr   average     1.2 Cr
+  COGS                   closing    37.2 Cr   average    18.6 Cr
+  CONTRACT_ASSET         closing    15.9 Cr   average     8.0 Cr
+  CUSTOMER_ADVANCE       closing     9.0 Cr   average     4.5 Cr
+  INVENTORY              closing     0.0 Cr   average     0.0 Cr
+  RETENTION_RECEIVABLE   closing     5.0 Cr   average     2.5 Cr
+  SUBCONTRACT_PAYABLE    closing     4.1 Cr   average     2.1 Cr
+  TRADE_PAYABLE          closing     1.2 Cr   average     0.6 Cr
+  TRADE_RECEIVABLE       closing     7.4 Cr   average     3.7 Cr
+  WIP                    closing    13.6 Cr   average     6.8 Cr
+  cross-check          movements 0.0 Cr vs trial balance 0.0 Cr — drift 0.0 Cr (0.0%)
+o2c           certified 34.1 Cr · invoiced 34.1 Cr · collected 28.5 Cr
+p2p           supplier invoiced 23.9 Cr · paid 23.9 Cr · subcontract certified 25.5 Cr
+ratios        DIO   0 · DSO  63 · DPO   7 · CCC  56   (576d basis, revenue 34.1 Cr, COGS 49.4 Cr)
+
+==============================================================================
+SAP-SANDBOX  SAP S/4HANA Sandbox
+==============================================================================
+client        NA
+data as of    2016-09-14
+contract      NA   terms NAd pay · NAd certify · NAmo DLP
+events        88 across 50 cases — O2C 25 · P2P 63
+stock         0 movements — in 0.0 Cr, out 0.0 Cr, closing NA
+balances      NA — this source published no trial balance
+
+==============================================================================
+CAPABILITIES
+==============================================================================
+44 declared · 17 not fully available
+  [UNAVAILABLE] ccc — The cash cycle needs DIO, DSO and DPO, none available in this slice.
+  [UNAVAILABLE] certification — No standard SAP object; realised per customer via milestone billing or service-entry approval.
+  [UNAVAILABLE] changeDocuments — Change documents (CDHDR/CDPOS) are not exposed as a public sandbox OData service.
+  [UNAVAILABLE] claims — Not a standard SAP object; usually customer-specific.
+  [UNAVAILABLE] compensation — Compensation is a separate authorisation scope and no payroll key is configured for this connection. The chart is complete; anything priced in rupees of people's time reads NA.
+  [UNAVAILABLE] contractTerms — Standard sandbox carries no EPC contract terms.
+  [UNAVAILABLE] customerAdvances — Down payments (special G/L) not pulled in this slice.
+  [UNAVAILABLE] customerReceipts — Incoming payments are FI documents not pulled in this slice.
+  [UNAVAILABLE] dio — Days inventory needs a closing stock figure, unavailable without issue movements.
+  [UNAVAILABLE] dpo — Needs payables and a balance basis not pulled in this slice.
+  [UNAVAILABLE] dso — Needs receivables and a balance basis not pulled in this slice.
+  [UNAVAILABLE] inventory — This slice reads goods receipts only; a closing stock figure needs issue movements (BWART 261).
+  [UNAVAILABLE] openingBalances — No trial-balance extract is pulled in this slice.
+  [UNAVAILABLE] retention — SAP carries retention on the supplier-invoice item (RetentionAmountInDocCurrency); not mapped in this slice.
+  [UNAVAILABLE] subcontract — Subcontract procurement not mapped in this slice.
+  [UNAVAILABLE] supplierPayments — Outgoing payments are FI documents not pulled in this slice.
+  [UNAVAILABLE] vendorAdvances — Vendor down payments (special G/L) not pulled in this slice.

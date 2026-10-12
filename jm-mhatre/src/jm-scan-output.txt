@@ -1,0 +1,44 @@
+files: {'README.md': 1625, 'data.md': 17712, 'depth.md': 10556, 'fact-check.md': 5824, 'sensitive-garvis.md': 4587} | under 800 chars: none
+
+-- em/en dash: planted hit caught; real hits: 0
+
+-- spaced hyphen used as a dash: planted hit caught; real hits: 0
+
+-- Capacite: planted hit caught; real hits: 0
+
+-- KEC: planted hit caught; real hits: 0
+
+-- Afcons: planted hit caught; real hits: 0
+
+-- Vascon: planted hit caught; real hits: 0
+
+-- OVAL: planted hit caught; real hits: 0
+
+-- GHV: planted hit caught; real hits: 0
+
+-- Ashoka: planted hit caught; real hits: 0
+
+-- Man Infra: planted hit caught; real hits: 0
+
+-- MICL: planted hit caught; real hits: 0
+
+-- Arwade: planted hit caught; real hits: 0
+
+-- Kalpataru: planted hit caught; real hits: 0
+
+-- Thermax: planted hit caught; real hits: 0
+
+-- Reliance (company, capitalised): planted hit caught; real hits: 0
+
+-- Khilari: planted hit caught; real hits: 0
+
+-- Jyoti: planted hit caught; real hits: 2
+   data.md: ...n Janardan Mhatre | Whole-time director | M1 p13 | same | | Jyoti Pravinbhai Patel | Company Secretary (the only KMP filed) |...
+   fact-check.md: ...CFO is filed as KMP; the only KMP is the Company Secretary, Jyoti Pravinbhai Patel | M1 p13, p16; M3 | | 26 | Entry via admin...
+
+-- Bajel: planted hit caught; real hits: 0
+
+-- Grey: planted hit caught; real hits: 0
+
+-- fact-check verdict tally (first verdict word in column 3)
+rows: 30 tally: {'Right': 18, 'Wrong': 8, 'Stale': 2, 'Unsupported': 2}

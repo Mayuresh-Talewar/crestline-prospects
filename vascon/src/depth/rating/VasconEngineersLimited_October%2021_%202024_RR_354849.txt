@@ -1,0 +1,386 @@
+ 
+ Rating Rationale 
+ Rating Rationale 
+ October 21, 2024 | Mumbai 
+ Vascon Engineers Limited 
+ Ratings upgraded to 'CRISIL A-/Stable/CRISIL A2+'; Removed from 'Watch Developing' 
+ Rating Action 
+ Total Bank Loan Facilities Rated Rs.725 Crore 
+ Long Term Rating CRISIL A-/Stable (Upgraded from 'CRISIL BBB+'; Removed from ‘Rating Watch with Developing Implications’) 
+ Short Term Rating CRISIL A2+ (Upgraded from 'CRISIL A2'; Removed from ‘Rating Watch with Developing Implications') 
+ Note: None of the Directors on CRISIL Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings. 
+ 1 crore = 10 million 
+ Refer to Annexure for Details of Instruments & Bank Facilities 
+ Detailed Rationale 
+ CRISIL Ratings has removed its ratings on the bank facilities of Vascon Engineers Limited (VEL) from ‘ Rating Watch with Developing Implications’ . The ratings has been upgraded to ‘CRISIL A-/ CRISIL A2 + ’ from ‘ CRISIL BBB+/CRISIL A2 ’ and has been assigned a ‘ Stable ’ outlook to the long term rating. 
+ T h e rating action follows the announcement of 100% divestment by VEL of its 85% stake in the subsidiary, GMP Technical Solutions Pvt Ltd (GMP). This was announced in the board meeting held on July 17, 2024. The transaction involves divesting 12,869 equity shares of GMP to Shinryo Corporation for an aggregate consideration of Rs 157 crore and gross equity value of Rs 185 crore. The transaction has been completed on October 10, 2024 
+ The ratings upgrade reflects sustenance in the operational and financial risk profiles, driven by healthy execution in the engineering, procurement and construction (EPC) segment. However, in GMP, the operating margin was lower than expected at 3% in fiscal 2024 (against 9% in fiscal 2023) due to a rise in raw material cost which the company was unable to pass on to customers. Along with the shift in its unit from Himachal Pradesh to Punjab, this escalated other expenses. 
+ Operating margin is likely to r emain stable at 9-10%, on account of the cash-generating EPC business, supported by healthy order book of Rs 2,838 crore as on March 31, 2024, which is estimated at 3.7 times of its fiscal 2024 operating income, providing adequate revenue visibility over the medium term. Consolidated revenue (including EPC and real estate businesses) may increase 20-25%, aided by revenue from the EPC segment that is expected to reach ~Rs 820 crore in fiscal 2025. The rest will be contributed by the real estate segment aided by delivery from various projects in this fiscal. Healthy cash flow is expected from the real estate segment in fiscal 2025 with strong launch pipeline of saleable area of 0.10-0.14 million square feet (msqft). 
+ In the real estate segment, the company is expected to have collections in the range of Rs. 170-420 crores over the medium term and has expected sales value of Rs. 1800 crores from new launches. The company received cash inflow of Rs 127 crore in fiscal 2024, slightly lower than previous estimates, due to some delay in project launches, which are expected to be launched in the current fiscal. In the EPC segment the operating income is expected to increase by 15-20% driven by a healthy expected order book in the range of Rs. 2500-3000 crores over the medium term. The operating margins in the EPC segment are expected to be steady in the 9-10% range over the medium term. 
+ The financial risk profile remained stable, with gearing of 0.19 time and total outside liabilities to tangible networth (TOLTNW) rat io of 0.88 time as on March 31, 2024 (0.19 time and 0.79 time, respectively, as on March 31, 2023). The interest coverage ratio was 7 times for fiscal 2024 (5.01 times in fiscal 2023). Over the medium term, gearing and TOLTNW ratio are projected to be under 0.2 time and 0.8 time, and interest coverage ratio over 7 times. The expected inflow is likely to strengthen the financial risk profile and debt will be lower than expected. 
+ The ratings take comfort from the adequate buffer in both fund-based and non-f und-based facilities, after enhancement in the working capital limit. The ratings also factor in the extensive experience of the promoters, its healthy execution track record in the civil construction business and reputed clientele comprising primarily public sector and government entities, resulting in moderate counterparty risk. Unencumbered cash and equivalent stood at Rs 24 crore as on March 31, 2024. VEL is likely to maintain cushion of 10% of the working capital limit. 
+ These strengths are partially o ffset by large working capital requirement, which is deployed in the real estate segment for joint development agreement ( JDA) commitments, slow-moving inventory in some projects, some units kept as collateral and unbilled revenue and retention money in the EPC segment. The company is also exposed to intense competition and cyclicality in the EPC segment. 
+ Analytical Approach 
+ CRISIL Ratings has considered the consolidated financial and business risk profiles of VEL, along with its subsidiaries. The consolidation is on account of the common management and business synergies among group companies. 
+ Subsidiaries of the company include Marvel Housing Pvt Ltd, Vascon Value Homes Pvt Ltd, Almet Corporation Ltd, Marathawada Realtors Pvt Ltd and Vascon EPC Ltd. Associates and joint ventures of VEL include Phoenix Ventures, Cosmos Premises Pvt Ltd, Vascon Saga Construction LLP, Vascon Q atar WLL, Mumbai Estates Pvt Ltd, Ajanta Enterprises and Vascon Developers LLP. 
+ Interest-bearing mobilisation advances have been treated as debt. 
+ Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation 
+ Key Rating Drivers & Detailed Description 
+ Strengths: 
+ Sustained financial risk profile marked by stable debt indicators 
+ Operating income increased by 4% to Rs 1,061 crore in fiscal 2024 (including GMP division) (from Rs 1,021 crore in fiscal 2023), driven by the company’s execution track record in the EPC segment. However, in the GMP business, the operating margin was lower-than-expected, at 3% in fiscal 2024 (against 9% in fiscal 2023) due to rise in input cost which the company was unable to pass on to c ustomers along with shift in the unit from Himachal Pradesh to Punjab. In the real estate segment, cash flow of Rs 127 crore was lower than projected due to the lower-than-expected launch in fiscal 2024. Operating margin, however, reduced to 8.8% in fiscal 2024 from 12.9% in fiscal 2023. This is because higher project deliveries happened in the real estate segment during fiscal 2023, having margin of 17-22% as compared to fiscal 2024. In fiscal 2024, lower deliveries led to a decline in real estate revenue to Rs 54 crore from Rs 113 crore, resulting in lower contribution in margin from the real estate segment. This is supported by the EPC segment’s steady execution, stable profitability and healthy accretion of reserve. Further, the presence of price-escalation clauses in most outstanding contracts in the order book partially reduces the exposure to raw material price volatility. With healthy accretion to reserve, VEL’s networth increased to Rs 978 crore as on March 31, 2024, from Rs 908 crore as on March 31, 2023. 
+ With divestment of GMP segment the operating revenue will include EPC and real estate segment only and the operating income is expected to ~Rs 950 cr this fiscal. The debt protection metrics are expected to remain healthy with TOL/TNW ratio of 0.8 time and interest coverage ratio of more than 7 times over the medium term. Furthermore, the company plans to raise Rs 125 crore through the qualified institutional placement (QIP)/rights issue/ preferential allotment route in this fiscal, which will further impro ve the financial risk profile and be a key credit monitorable. 
+ Established position in the EPC (buildings) segment, supported by healthy order book and counterparty profile 
+ VEL b enefits from the established track record of the management in executing construction contracts for the infrastructure, real estate and manufacturing segments on EPC basis. The company also has strong technical capabilities and domain expertise in the construction and execution of complex projects. 
+ The company had external orders worth Rs 2,838 crore as on March 31, 2024, and plans to continu e focusing on government projects. Furthermore, almost 80% of the orders are derived from government projects, which lends visibility to uninterrupted cash flow, thereby providing assurance of stable operating performance over the medium term and supporting the business risk profile. 
+ Weaknesses : 
+ Large working capital requirement 
+ The company’s operations are working capital intensive, on account inventory in its real estate business, which has to be kept as collateral and due to unbilled revenue in the EPC segment. Inventory remained stretched over the past two years because of the strong backlog as a result of unsold real estate units, which stood at Rs 235 crore (excluding Rs 227 crore as land and development potential) as on March 31, 2024. 
+ Further, the working capital requirement was high due to unbilled revenue which comprises ~10% of the order book and retention money which is 29% of overall debtors in the EPC segment. Receivables in the EPC segment, however, have been improving since the government bodies became the main counterparty for the EPC business. In EPC segment, receivables increased to 71 days in fiscal 2024, from 63 days in fiscal 2023 due to an increase in retention money. With a proportion of revenue from the EPC business expe cted to be stable over the medium term, receivables are likely to remain at 70-80 days in the segment. However, liquidation of inventory in the real estate segment will remain monitorable. 
+ Exposure to risks related to saleability of real estate projects 
+ Saleability and implementation risks in the real estate sector persist, as reflected by sharp fluctuations in real estate income, sales and collections over the past few fiscals. Considering the weak demand scenario in the past, certain projects have demon strated limited progress such as Vascon Goodlife in Pune. Additionally, launches in fiscal 2024 were lower than expected such as the Santa Cruz project, which was expected to get launched in fiscal 2024, and is now likely to get launched in fiscal 2025. Going forward, the timely launch of real estate projects will be a key monitorable. The ability to liquidate real estate inventory of ~Rs 235 crore (excluding Rs 227 crore of land) as on March 31, 2024, delay in completion or launch of real estate projects, and any additional debt taken to support real estate cash flow mismatch, will remain monitorable. 
+ Liquidity : Adequate 
+ Given the healthy profit margin and comfortable leverage, cash flow should be sufficient to meet the debt obligation and regular capex. Cash accrual, expected at over Rs 100-125 crore per annum, along with cash generation from the real estate business, will sufficiently cover yearly debt obligation of Rs 50-55 crore over the medium term. 
+ Unencumbered cash and equivalents stood at Rs 24 crore as on March 31, 2024. Fund-based bank lines of Rs 63 crore were utilised at 41% on average during the 12 months end ed March 31, 2024. VEL continues to focus on liquidity management by monetising the non-core assets. Furthermore, the company has plans of raising Rs 125 crore in this fiscal through the QIP/rights issue/ preferential allotment route; this will further improve the financial risk profile and be a key credit monitorable. 
+ Outlook : Stable 
+ The credit risk profile of VEL will continue to benefit from its healthy order book, improving operating performance, healthy capital structure and adequate liquidity. 
+ Rating s ensitivity factors 
+ Upward factors 
+ Substantial scale up in both EPC and real estate segment, while maintaining the operating margins above 9.5-10% in EPC segment on a sustained basis 
+ Improvement in working capital cycle and liquidity 
+ Downward factors 
+ Operating performance further deteriorates owing to lower-than-expected collections in the real estate business (below Rs 60 crore) 
+ Substantial delay in execution of orders or increase in real estate inventory, which may to increase in debt 
+ About the Company 
+ VEL, based in Pune, is engaged in the EPC, real estate construction and development businesses. The company was incorporated in January 1986 by Mr Vasudevan and commenced operations through construction of Cipla’s Patalganga factory in Maharashtra in November 1986. Until 1998, the company was a real estate player, executing third-party contracts. 
+ The real estate business of VEL comprises construction of residential and office complexes along with information technology parks, industrial units, shopping ma lls, multiplexes, educational institutions and hotels. Under the EPC segment, VEL has executed construction contracts. It primarily caters to government departments and authorities. The company, which has been engaged in the EPC and real estate businesses for over three decades, has delivered over 200 projects with an area of around 50 m sq ft. 
+ Key Financial Indicators 
+ Financials as on/for the period ended March 31 
+ Unit 
+ 2024 
+ 2023 
+ Revenue 
+ Rs crore 
+ 1061 
+ 1021 
+ Profit after tax (PAT) 
+ Rs crore 
+ 72 
+ 99 
+ PAT margin 
+ % 
+ 6.8 
+ 9.7 
+ Adjusted debt/adjusted networth 
+ Times 
+ 0.19 
+ 0.18 
+ Interest coverage 
+ Times 
+ 7.01 
+ 5.01 
+ Any other information : Not A pplicable 
+ Note on complexity levels of the rated instrument: 
+CRISIL Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+CRISIL Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the CRISIL Ratings` complexity levels please visit www.crisilratings.com . Users may also call the Customer Service Helpdesk with queries on specific instruments.
+ Annexure - Details of Instrument(s)
+ ISIN 
+ Name Of Instrument 
+ Date Of Allotment 
+ Coupon Rate (%) 
+ Maturity Date 
+ Issue Size (Rs.Crore) 
+ Complexity Levels 
+ Rating Outstanding with Outlook 
+ NA 
+ Bank Guarantee 
+ NA 
+ NA 
+ NA 
+ 460.33 
+ NA 
+ CRISIL A2+ 
+ NA 
+ Cash Credit 
+ NA 
+ NA 
+ NA 
+ 63.00 
+ NA 
+ CRISIL A-/Stable 
+ NA 
+ Overdraft Facility 
+ NA 
+ NA 
+ NA 
+ 3.86 
+ NA 
+ CRISIL A2+ 
+ NA 
+ Proposed Bank Guarantee 
+ NA 
+ NA 
+ NA 
+ 70.57 
+ NA 
+ CRISIL A2+ 
+ NA 
+ Proposed Cash Credit Limit 
+ NA 
+ NA 
+ NA 
+ 20.14 
+ NA 
+ CRISIL A-/Stable 
+ NA 
+ Term Loan 
+ NA 
+ NA 
+ 30-Jun-26 
+ 24.29 
+ NA 
+ CRISIL A-/Stable 
+ NA 
+ Term Loan* 
+ NA 
+ NA 
+ 30-Jun-28 
+ 7.81 
+ NA 
+ CRISIL A-/Stable 
+ NA 
+ Term Loan 
+ NA 
+ NA 
+ 31-Mar-28 
+ 75.00 
+ NA 
+ CRISIL A-/Stable 
+ * Guaranteed emergency credit line 
+ Annexure - List of entities consolidated 
+ Names of entities consolidated 
+ Extent of consolidation 
+ Rationale for consolidation 
+ Marvel Housing Pvt Ltd 
+ Full consolidation 
+ Subsidiary 
+ Vascon Value Homes Pvt Ltd 
+ Full consolidation 
+ Subsidiary 
+ Almet Corporation Ltd 
+ Full consolidation 
+ Subsidiary 
+ Marathawada Realtors Pvt Ltd 
+ Full consolidation 
+ Subsidiary 
+ Vascon EPC Ltd 
+ Full consolidation 
+ Subsidiary 
+ Vascon Construction Saga LLP 
+ Partial consolidation 
+ Joint Venture 
+ Cosmos Premises Pvt Ltd 
+ Partial consolidation 
+ Joint Venture 
+ Phoenix Venture 
+ Partial consolidation 
+ Joint Venture 
+ Ajanta Enterprises 
+ Partial consolidation 
+ Joint Venture 
+ Vascon Developers LLP 
+ Partial consolidation 
+ Joint Venture 
+ Vascon Qatar WLL 
+ Partial consolidation 
+ Joint Venture 
+ Mumbai Estate Pvt Ltd 
+ Partial consolidation 
+ Associate 
+ Annexure - Rating History for last 3 Years 
+ Current 
+ 2024 (History) 
+ 2023 
+ 2022 
+ 2021 
+ Start of 2021 
+ Instrument 
+ Type 
+ Outstanding Amount 
+ Rating 
+ Date 
+ Rating 
+ Date 
+ Rating 
+ Date 
+ Rating 
+ Date 
+ Rating 
+ Rating 
+ Fund Based Facilities 
+ LT/ST 
+ 194.1 
+ CRISIL A2+ / CRISIL A-/Stable 
+ 26-07-24 
+ CRISIL A2/Watch Developing / CRISIL BBB+/Watch Developing 
+ 25-07-23 
+ CRISIL BBB+/Stable 
+ 21-09-22 
+ CRISIL BBB/Stable 
+ -- 
+ -- 
+ -- 
+ 05-07-24 
+ CRISIL BBB+/Stable / CRISIL A2 
+ -- 
+ -- 
+ -- 
+ -- 
+ Non-Fund Based Facilities 
+ ST 
+ 530.9 
+ CRISIL A2+ 
+ 26-07-24 
+ CRISIL A2/Watch Developing 
+ 25-07-23 
+ CRISIL A2 
+ 21-09-22 
+ CRISIL A3+ 
+ -- 
+ -- 
+ -- 
+ 05-07-24 
+ CRISIL A2 
+ -- 
+ -- 
+ -- 
+ -- 
+ All amounts are in Rs.Cr. 
+ Annexure - Details of Bank Lenders & Facilities 
+ Facility 
+ Amount (Rs.Crore) 
+ Name of Lender 
+ Rating 
+ Bank Guarantee 
+ 40 
+ CSB Bank Limited 
+ CRISIL A2+ 
+ Bank Guarantee 
+ 100 
+ The Federal Bank Limited 
+ CRISIL A2+ 
+ Bank Guarantee 
+ 40 
+ The Karnataka Bank Limited 
+ CRISIL A2+ 
+ Bank Guarantee 
+ 204 
+ State Bank of India 
+ CRISIL A2+ 
+ Bank Guarantee 
+ 76.33 
+ IndusInd Bank Limited 
+ CRISIL A2+ 
+ Cash Credit 
+ 10 
+ The Federal Bank Limited 
+ CRISIL A-/Stable 
+ Cash Credit 
+ 10 
+ The Karnataka Bank Limited 
+ CRISIL A-/Stable 
+ Cash Credit 
+ 43 
+ State Bank of India 
+ CRISIL A-/Stable 
+ Overdraft Facility 
+ 3.86 
+ IndusInd Bank Limited 
+ CRISIL A2+ 
+ Proposed Bank Guarantee 
+ 70.57 
+ Not Applicable 
+ CRISIL A2+ 
+ Proposed Cash Credit Limit 
+ 20.14 
+ Not Applicable 
+ CRISIL A-/Stable 
+ Term Loan 
+ 75 
+ ARKA Fincap Limited 
+ CRISIL A-/Stable 
+ Term Loan 
+ 24.29 
+ Aditya Birla Finance Limited 
+ CRISIL A-/Stable 
+ Term Loan * 
+ 7.81 
+ State Bank of India 
+ CRISIL A-/Stable 
+ *Guaranteed emergency credit line 
+ Criteria Details 
+ Links to related criteria 
+ CRISILs Approach to Financial Ratios 
+ Rating criteria for manufaturing and service sector companies 
+ CRISILs Bank Loan Ratings - process, scale and default recognition 
+ Rating Criteria for Construction Industry 
+ CRISILs Criteria for Consolidation 
+ Media Relations 
+ Analytical Contacts 
+ Customer Service Helpdesk 
+ Prakruti Jani 
+Media Relations
+ CRISIL Limited 
+M: +91 98678 68976
+B: +91 22 3342 3000
+ PRAKRUTI.JANI@crisil.com 
+ Rutuja Gaikwad 
+Media Relations
+ CRISIL Limited 
+B: +91 22 3342 3000
+ Rutuja.Gaikwad@ext-crisil.com 
+ Mohit Makhija 
+ Senior Director 
+ CRISIL Ratings Limited 
+B: +91 124 672 2000 
+ mohit.makhija@crisil.com 
+ Gautam Shahi 
+ Director 
+ CRISIL Ratings Limited 
+B: +91 124 672 2000 
+ gautam.shahi@crisil.com 
+ Maninder Singh 
+ Rating Analyst 
+ CRISIL Ratings Limited 
+B: +91 124 672 2000 
+ Maninder.Singh1@crisil.com Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 1301
+For a copy of Rationales / Rating Reports:
+ CRISILratingdesk@crisil.com 
+For Analytical queries:
+ ratingsinvestordesk@crisil.com 
+ Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to CRISIL Ratings. However, CRISIL Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+ About CRISIL Ratings Limited (A subsidiary of CRISIL Limited, an S&P Global Company) 
+ CRISIL Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs). 
+ CRISIL Ratings Limited ('CRISIL Ratings') is a wholly-owned subsidiary of CRISIL Limited ('CRISIL'). CRISIL Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI"). 
+ For more information, visit www.crisilratings.com 
+ About CRISIL Limited 
+ CRISIL is a leading, agile and innovative global analytics company driven by its mission of making markets function better. 
+ It i s India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint. 
+ It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore. 
+ It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide. 
+ For more information, visit www.crisil.com 
+ Connect with us: TWITTER | LINKEDIN | YOUTUBE | FACEBOOK 
+ CRISIL PRIVACY NOTICE
+CRISIL respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from CRISIL. For further information on CRISIL's privacy policy please visit www.crisil.com . 
+ DISCLAIMER 
+ This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by CRISIL Ratings Limited ('CRISIL Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as CRISIL Ratings provision or intention to provide any services in jurisdictions where CRISIL Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between CRISIL Ratings and the user. 
+ The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way. 
+ CRISIL Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, CRISIL Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall CRISIL Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages. 
+ The report is confidential information of CRISIL Ratings and CRISIL Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of CRISIL Ratings. 
+ CRISIL Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by CRISIL Ratings. CRISIL Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors. 
+ CRISIL Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to: https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html . Public ratings and analysis by CRISIL Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites, www.crisilratings.com and https://www.ratingsanalytica.com (free of charge). CRISIL Ratings shall not have the obligation to update the information in the CRISIL Ratings report following its publication although CRISIL Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee. Rating criteria by CRISIL Ratings are available on the CRISIL Ratings website, www.crisilratings.com . For the latest rating information on any company rated by CRISIL Ratings, you may contact the CRISIL Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 1301. 
+ CRISIL Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on CRISIL Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following link: https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html 
+ 

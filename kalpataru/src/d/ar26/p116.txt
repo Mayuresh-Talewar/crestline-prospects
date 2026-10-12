@@ -1,0 +1,78 @@
+Statutory Reports
+
+Business Responsibility and Sustainability Report (BRSR)
+
+3.Of the instances disclosed in Question 2 above, details of the Appeal/Revision preferred in cases where                         9.Open-ness of business Provide details of concentration of purchases and sales with trading houses,
+      monetary or nonmonetary action has been appealed.                                                                                 dealers, and related parties along-with loans and advances and investments, with related parties, in the
+                                                                                                                                        following format:
+Case Details                                      Name of the regulatory/ enforcement agencies/ judicial institutions
+                                              NA
+                                                                                                                                  Parameter         Metrics                                                                FY 2026        FY 2025
+                                                                                                                                  Concentration of
+                                                                                                                                  Purchases         a.Purchases from trading houses as % of total purchases                7%             8.40%
+
+4.Does the entity have an Anti-Corruption Policy or Anti-Bribery Policy? If yes, provide details in brief and if                  Concentration of  b.Number of trading houses where purchases are made                    1,415          926
+      available, provide a web-link to the policy.                                                                                Sales                   from
+
+The Company maintains a zerotolerance approach towards bribery and corruption in all its business operations. The                 Share of RPTs in  c.Purchases from top 10 trading houses as % of total                   32.76%         50%
+       Company has a robust AntiBribery and AntiCorruption (ABAC) Policy, aligned with ISO 37001 standards, which applies                                 purchases from trading houses.
+       to employees, subsidiaries, joint ventures, suppliers, contractors, and other business partners. The policy prohibits
+       facilitation payments and any direct or indirect offering, acceptance, or solicitation of bribes, including through third                    a.Sales to dealers/ distributors as % of total sales
+       parties. KPIL has also implemented a Third-Party Due Diligence (TPDD) framework to identify and mitigate corruption
+       risks, particularly in dealings with government officials, gifts, hospitality, and donations. The Company is committed to                    b.Number of dealers/distributors to whom sales are made         Given the nature of business, this
+       conducting business with integrity and in compliance with applicable laws across all geographies.                                                                                                           parameter is not applicable to KPIL.
+                                                                                                                                                    c.Sales to top 10 dealers/distributors as % of total sales to
+       A nti-Bribery Anti-Corruption Policy                                                                                                               dealers/distributors
+
+                                                                                                                                                    a.Purchases (Purchases with related parties/Total Purchases)           0.6%           0.7%
+
+                                                                                                                                                    b.Sales (Sales to related parties/Total Sales)                         0.9%           0.9%
+
+                                                                                                                                                    c.Loans and advances (Loans and advances given to related              97.9%          99.4%
+                                                                                                                                                          parties/Total loans and advances)
+5.Number of Directors/KMPs/Employees against whom disciplinary action was taken by any law
+      enforcement agency for the charges of bribery/corruption.                                                                                     d.Investments (Investments in related parties/Total                    100.0%         87.9%
+                                                                                                                                                          Investments made)
+
+Segment                                                                                  FY 2026         FY 2025                  LEADERSHIP INDICATORS
+1. Directors                                                                                   NIL             NIL
+2. Key Managerial Personnel                                                                    NIL             NIL                1. Awareness programs conducted for value chain partners on any of the Principles during the financial year:
+3. Employee                                                                                    NIL             NIL
+4. Workers                                                                                     NIL             NIL                Total number of                                                                           % age of value chain partners
+                                                                                                                                  awareness programs Topics/principles covered under the training                           covered (by value of business
+6. Details of complaints with regard to conflict of interest                                                                      held                                                                                     done with such partners) under
+
+                                                                                                                                                                                                                                the awareness programs
+
+Sr.                                                                             FY 2026             FY 2025                       1                 Awareness and training on the newly launched Procure-to-Pay (P2P)               ~35%
+No.
+     Segment                                                                    Number Remarks      Number Remarks                                  platform covering end-to-end digital procurement processes, including
+
+                                                                                                                                                    RFQ issuance and vendor quotation submission. The programme
+
+1. Number of complaints received in relation to issues of Conflict of Interest  NIL      NIL        NIL      NIL                                    emphasized ethical, transparent, and accountable business practices
+       of the Directors
+                                                                                                                                                    through system-driven workflows, audit trails, and equal access to
+2. Number of complaints received in relation to issues of Conflict of Interest
+       of the KMPs                                                              NIL      NIL        NIL      NIL                                    information for all vendors
+
+                                                                                                                                  1                 In-depth training session was carried out on Anti-Bribery              157 suppliers were covered in
+
+                                                                                                                                                    Management System                                                      this training session.
+
+7. P rovide details of any corrective action taken or underway on issues related to fines/penalties/action                        2. Does the entity have processes in place to avoid/manage conflict of interests involving members of the
+      taken by regulators/law enforcement agencies/judicial institutions, on cases of corruption and conflicts                          Board? (Yes/No) If yes, provide details of the same.
+      of interest.
+                                                                                                                                  Yes, to manage conflicts of interest involving members of the Board, the Company obtains annual disclosures from
+There were no cases of fines, penalties, or actions taken by regulators, law enforcement agencies, or judicial institutions              each Director at the beginning of the financial year. Directors are also required to promptly disclose any changes in their
+       against the Company in relation to corruption or conflicts of interest. Accordingly, no corrective actions were required          interests during the year. As part of this process, any Director with a conflict of interest is restricted from participating in
+       or undertaken in this regard. The Company continues to uphold the highest standards of integrity, transparency, and               discussions or voting on matters where such conflict or personal interest exists, while being present.
+       ethical conduct across all its operations.
+
+8.Number of days of accounts payables ((Accounts payable *365)/Cost of goods/services procured) in the
+      following format:
+
+Number of days of accounts payables                                                      FY 2026         FY 2025
+                                                                                              120              132
+
+226 Kalpataru Projects International Limited                                                                                                                                                                   Integrated Annual Report 2025-26 227

@@ -1,0 +1,15 @@
+Welspun Enterprises Limited, consolidated, FY26 (year to 31 Mar 2026), INR crore
+Revenue from operations 3615.38; contract assets 1318.41
+Value of a day (revenue / 365) = 9.9052 Cr  (valueOfADay.cash = 9.9052)
+Contract asset days (closing contract assets / value of a day) = 133.10  [Crestline analytical measure, not an accounting standard]
+Step 10 days on the unbilled leg: 133.10 -> 123.10 days, cash released once = 99.0515 Cr, interest a year = 0
+Step 30 days on the unbilled leg: 133.10 -> 103.10 days, cash released once = 297.1545 Cr, interest a year = 0
+PASS 1 no negative release: 10d 99.05, 30d 297.15
+PASS 2 interest = 0: carry 10d 0, 30d 0
+PASS 3 cross-check days x per day vs simulate: 10d 99.0515 vs 99.0515; 30d 297.1545 vs 297.1545
+PASS 4 payables never release cash: requested 150 days of vendor credit, clamped to 100, cash 0
+PASS 5 basis match (both consolidated FY26): revenue 3615.38, contract assets 1318.41
+
+PRINT VALUES: per day 9.91; CAD 133.1; 10d 99.1 (99.05); 30d 297.2 (297.15)
+
+ALL CHECKS PASSED

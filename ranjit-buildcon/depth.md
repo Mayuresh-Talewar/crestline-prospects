@@ -1,0 +1,4 @@
+# depth.md - Ranjit Buildcon (story angle)
+Respect first: five decades of work since 1967 (S1), an AA-class, special category-1 contractor across six states, FY23 operating income Rs 1,267.92 Cr, an order book of Rs 4,338 Cr at 30-Sep-23 (3.42x FY23 TOI), mostly government counterparties, CARE A rating (S1, see data.md).
+The question: CARE says metro work (51% of the order book) is executed in-house, so the subcontractor deposits and retention that used to fund the cycle will shrink; gross current assets stood at 220 days against CARE's 150-day upgrade marker. Debtors older than six months, retention and security deposits are named as where cash waits. Where does each bill wait, at which desk, since when? The accounts cannot say.
+Limit: nothing after FY23 is public, so any booklet speaks about FY23 only and must not claim a current position.

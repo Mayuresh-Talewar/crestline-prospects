@@ -1,0 +1,67 @@
+Financial Statements                                                                                                              Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                          for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+38. DISCLOSURES PURSUANT TO IND AS 19 EMPLOYEE BENEFITS                                                                           38. DISCLOSURES PURSUANT TO IND AS 19 EMPLOYEE BENEFITS (Contd.)
+
+(a) Defined contribution Plans                                                                                                    Particulars                                                                                    As at        (H in Crores)
+                                                                                                                                                                                                                 31st March, 2026
+The Company made contributions towards provident fund, a defined contribution retirement benefit plan for qualifying              (iv)Net Liability recognised in the Balance Sheet                                                                     As at
+       employees. The provident fund plan is operated by the Regional Provident Fund Commissioner. The Company recognized         Present value of obligation                                                                           31st March, 2025
+       H 54.83 Crores (previous year H 43.63 Crores) for provident fund contributions in the Statement of Profit and Loss. The    Closing Fair value of plan assets
+       contributions payable to these plans by the company are at rates specified in the rules of the scheme.                     Assets / (Liability) recognized in Balance Sheet                               128.87                 83.67
+                                                                                                                                  (v) Changes in Present Value of Obligations                                     64.69                 46.66
+The Company makes contribution towards Employees State Insurance scheme operated by ESIC Corporation. The                         Present value of obligation at the beginning of the year                       (64.18)                (37.01)
+       Company recognized H 0.12 Crores (previous year H 0.13 Crores) for ESIC contribution in the statement of Profit and Loss.  Current service cost
+       The contributions payable to these plans by the company are at rates specified in the rules of the scheme.                 Interest cost                                                                  83.67                  71.04
+                                                                                                                                  Actuarial (gains) / losses arising from:                                       16.54                   12.21
+(b) Defined benefit plans                                                                                                         changes in financial assumptions                                                                       4.72
+The Company offers the following employee benefit schemes to its employees.                                                       changes in demographic assumptions                                               5.18
+                                                                                                                                  changes in experience assumptions
+       (i) Gratuity                                                                                                               Past Service Cost                                                               (0.44)                  2.84
+                                                                                                                                  Benefits paid                                                                         -                     -
+The company made annual contributions to the Employee's Group Gratuity cash accumulation schemes of IRDA                          Present value of obligation at the end of the year
+              approved agencies, a funded defined benefit plan for qualifying employees. The Scheme provides for payment          (vi) Changes in Fair Value of Plan Assets                                         4.57                 5.04
+              to vested employees at retirement / death while in employment or on termination of employment of an amount          Fair value of Plan Assets at the beginning of the year                          29.48                       -
+              equivalent to 15 days salary payable for each completed year of service or part thereof in excess of six months.    Interest Income                                                                 (10.13)
+              Vesting occurs upon completion of five years of service as per the provisions of the Gratuity Act, 1972.            Return on plan assets                                                          128.87                 (12.18)
+                                                                                                                                  Contributions by Employer                                                                             83.67
+                                                                                                                                  Benefits paid
+       (ii) Compensated absences                                                                                                  Fair Value of Plan assets at the end of the year                               46.66                  36.55
+The Scheme is non-funded.                                                                                                         (vii)Bifurcation of present value of obligations into current and non-current     3.18                  2.67
+                                                                                                                                  Current Assets / (Liability)
+(c) The following tables summarises the components of net benefit expense recognised in the statement of profit or                Non-current Liability                                                           (0.02)                 (0.38)
+      loss and the amounts recognised in the balance sheet in respect of Gratuity.                                                (viii) Actuarial assumptions used in determining the obligation are            25.00                  20.00
+                                                                                                                                  Discount rate                                                                  (10.13)                 (12.18)
+                                                                                                (H in Crores)                     Salary Escalation Rate                                                         64.69                  46.66
+                                                                                                                                  Mortality Rate
+Particulars                                                  For the Year ended       For the Year ended
+                                                                 31st March, 2026         31st March, 2025                        Withdrawal Rate
+(i)Expenses recognised during the year                                                                                            Retirement Age
+In Statement of Profit and Loss                                              48.02    14.26                                       Expected Return on Plan Assets                                                 (22.93)                 (14.41)
+In Other Comprehensive Income                                                  4.15    8.26                                       (ix) Maturity Profile of Defined benefit obligation                            (41.25)                (22.60)
+TOTAL                                                                                 22.52                                       1 year
+(ii)Expenses recognised in the Statement of Profit and Loss                  52.17                                                2 year                                                                         6.75%                  6.70%
+Current Service Cost                                                                                                              3 year
+Past Service Cost                                                                                                                 4 year                                                                         6.00%                  6.00%
+Net Interest Cost                                                                                                                 5 year
+TOTAL                                                                         16.54    12.21                                      after 5 years                                                                  As per Indian Assured Lives Mortality
+(iii)Expenses recognised in other comprehensive income                       29.48          -                                                                                                                                   (2012-14) Table
+Actuarial (gains) / losses on account of
+change in demographic assumptions                                              2.00    2.05                                                                                                                      2% - 11%               2% - 11%
+change in financial assumptions                                              48.02    14.26
+experience adjustments                                                                                                                                                                                           58 years               58 years
+Return on plan assets
+TOTAL                                                                                                                                                                                                            6.75%                  6.70%
+
+                                                                                   -      -                                                                                                                      18.83                  12.79
+                                                                             (0.44)   2.84                                                                                                                         11.17                 7.26
+                                                                                      5.04                                                                                                                                              7.63
+                                                                              4.57    0.38                                                                                                                        12.38                  8.15
+                                                                              0.02    8.26                                                                                                                       13.04                  8.35
+                                                                              4.15                                                                                                                                12.83                 36.17
+                                                                                                                                                                                                                 56.36
+
+318 Kalpataru Projects International Limited                                                                                                                                                                     Integrated Annual Report 2025-26 319

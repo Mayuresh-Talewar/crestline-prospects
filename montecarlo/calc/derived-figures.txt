@@ -1,0 +1,14 @@
+FY25 rev 4518.80 rec 1156.49 DSO 93.4 unb 639.99 CAD 51.7 ret 442.67 retdays 35.8 adv 620.08 CGO 150.51 NCO 58.48 cash 235.48
+FY24 rev 4896.99 rec 837.20 DSO 62.4 unb 509.59 CAD 38.0 ret 344.65 retdays 25.7 adv 463.67 CGO 528.44 NCO 431.36 cash 280.25
+FY23 rev 3610.82 rec 833.97 DSO 84.3 unb 472.24 CAD 47.7 ret 134.12 retdays 13.6 adv 463.27 CGO 278.98 NCO 193.51 cash 73.84
+rev change FY25 -7.72%
+DIO25 44.4 stock 191.91 mat 1577.35
+EBITDA 454.99/rev 10.07% FY24 9.99% PAT 231.30169999999998
+rec+unb 1796.48 with ret 2239.15 days 145.1
+rec rise 319.29 extra days 31.0
+ageing 25 ['1002.97', '23.53', '85.60', '31.22', '40.26'] gross 1183.58 over6m 180.61 15.3%
+ageing 24 ['655.17', '109.19', '43.25', '22.24', '26.30'] gross 856.15 over6m 200.98 23.5%
+constr 3652.20 work 1707.11 46.7% stores 140.1258 plant 174.1778 adv to suppliers 90.8523
+client 450.5326 9.97% order book mult 2.89
+WC changes FY25 328.4264 301.4777 278.2075 30.0944
+cash gen FY25 vs FY24 28.5%

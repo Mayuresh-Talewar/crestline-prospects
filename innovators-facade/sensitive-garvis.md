@@ -1,0 +1,11 @@
+# Innovators Facade Systems: SENSITIVE, Garvis only (IF-1)
+
+1. Related parties (AR 2025-26 pp33-38, Notice dated Aug 2026, image text): proposed FY2027-28 related-party transactions with Innovators Contracting Works Pvt Ltd (ICWPL, associate of wholly-owned subsidiary Innovators Engineering Works Pvt Ltd), estimated up to Rs 90 Cr (sub-contracting of production and installation, purchase/sale of materials, lease of land beside the Wada factory); Innovators Windows Pvt Ltd up to Rs 5 Cr; Cleantech Engineering Pvt Ltd (item 5, value not read). Subcontract spend therefore flows partly to a related party: relevant to any "vendor" chart. Figure read from OCR text, not yet image-checked on the page; check before any use.
+2. Family management: CEO Rohit Sharma, CFO Priti Sharma, MD Radheshyam Sharma, WTD Raman Sharma, NED Gayatri Sharma. Same surname throughout; relationship stated only in the notice (not read for each pair).
+3. Contingent liabilities Rs 3,549.24 lakh at 31 Mar 2026 (FY25 3,521.68): disputed VAT/CST 868.01, income tax 1,251.76, GST 1,429.47 (AR26 p96, image-checked). Balance with statutory authorities paid under protest 250.00 lakh (p91).
+4. Auditor change: FY24 audited by S G C O & Co. LLP (AR 2023-24); FY25 and FY26 by DMKH & Co. Reason not read. FY26 opinion unmodified (BSE letter 30 May 2026). Company secretary changed Oct and Dec 2025 (Chaudhari resigned, Kore appointed).
+5. Ratings: Infomerics IVR BBB/Positive and A3+ (13 Jun 2025), Rs 249.43 Cr. Not low, not non-cooperating. CARE rating withdrawn at company request in March 2023 (search result, not opened). A 2026 rating review was not found.
+6. Directors' guarantees: working capital and term loans carry personal guarantees of a director and a relative and collateral of two Mumbai flats of a director (AR26 pp87-88).
+7. Debt service coverage 0.70x FY26 (0.59 FY25) (AR26 p102); margins fell: EBITDA 13.85% from 16.06%; H2 EBITDA 12.17% vs 16.35%. Company blames project mix and raw-material cost. Weak liquidity ratios: current ratio 1.35 vs 1.69.
+8. Dossier claim "Vijay Kedia holds 10.66%": not verified in company filings read; not used.
+9. No promoter default, no IPO-proceeds issue, no restatement notice found in what was read (FY24 revenue regrouping noted in data.md).

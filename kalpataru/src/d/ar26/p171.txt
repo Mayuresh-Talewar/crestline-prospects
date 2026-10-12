@@ -1,0 +1,79 @@
+Financial Statements                                                                                                          Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                      for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+42. FINANCIAL INSTRUMENTS  FAIR VALUES AND RISK MANAGEMENT (Contd.)                                                          44. TRADE PAYABLES AGEING SCHEDULE
+
+Commodity Price Risk                                                                                                          Particulars                       Not due              Outstanding for following periods from due date of         (H in Crores)
+                                                                                                                                                                                                                     payment                              Total
+The Company is affected by the price volatility of certain commodities like Steel, Zinc, Copper and Aluminium. Its operating  FY 2025-26
+activities require the on-going purchase or continuous supply of these materials. The Company holds derivative financial      (i)MSME                                                Less than    1-2 years  2-3 years             More than
+instruments such as commodity future contract to mitigate the risk of changes in Zinc, Copper and Aluminium prices.           (ii)Others                                                  1 year                                       3 years
+                                                                                                                              (iii)Disputed dues - MSME
+The sensitivity analysis has been determined based on the exposure to changes in commodity prices. The analysis is            (iv)Disputed dues - Others           391.37               39.44       0.80      0.34                     0.44        432.39
+prepared assuming the quantity of exposure outstanding at the end of the reporting period was outstanding for the whole       (v)Unbilled                       2,742.91              1,295.16    25.74      26.17                     25.13       4,115.11
+year. A 5% increase or decrease is used when reporting commodity price risk internally to key management personnel and        TOTAL
+represents management's assessment of the reasonable possible changes in commodity prices and the impact of the               FY 2024-25                                  -                    -        -         -                         -              -
+possible change on the company's profit before tax is 8.38% for FY 2025-26 and 9.5% for FY 2024-25.                           (i)MSME                                 3.22                2.79          -         -                      1.32          7.33
+                                                                                                                              (ii)Others                                                                -         -
+                                                                                               (H in Crores)                  (iii)Disputed dues - MSME                   -                    -  26.54      26.51                          -              -
+                                                                                                                              (iv)Disputed dues - Others        3,137.50             1,337.39                                         26.89     4,554.83
+Commodity                        Fixed / Variable       Open Exposure  Value at Risk on price variation of 5 %                (v)Unbilled
+                                                                                                                              TOTAL
+Exposure as on 31st March, 2026  Fixed Price Contracts                 Increase                Decrease
+Aluminium                        Fixed Price Contracts
+Zinc                             Fixed Price Contracts   567.74        28.39                   (28.39)                                                             238.26               25.78       1.43      0.88                     0.24        266.59
+Steel                            Fixed Price Contracts    149.24        7.46                    (7.46)                                                           2,816.37              1,127.18   69.01      13.80                    17.89     4,044.25
+Copper                                                    1,113.97
+TOTAL                                                      85.29       55.70                   (55.70)                                                                     -                  -         -         -                        -               -
+                                                        1,916.24        4.26                    (4.26)                                                                 3.57               0.86     0.55       2.97                     0.39           8.34
+
+                                                                       95.81                   (95.81)                                                                     -                  -         -         -                        -               -
+                                                                                                                                                                3,058.20             1,153.82     70.99      17.65                    18.52      4,319.18
+
+                                                                                               (H in Crores)                  Unbilled payables as at 31st March, 2026 is H 1,995.28 Crores (previous year H 1,851.68 Crores).
+
+Commodity                        Fixed / Variable       Open Exposure  Value at Risk on price variation of 5 %
+
+Exposure as on 31st March, 2025  Fixed Price Contracts                 Increase                Decrease                       45. LOANS OR ADVANCES TO SPECIFIED PERSONS
+Aluminium                        Fixed Price Contracts
+Zinc                             Fixed Price Contracts    130.35        6.52                    (6.52)                                                                                                                                          (H in Crores)
+Steel                            Fixed Price Contracts    192.92        9.65                    (9.65)
+Copper                                                  1,324.45       66.22                   (66.22)                                                          As at 31st March, 2026                       As at 31st March, 2025
+TOTAL                                                                    2.77                    (2.77)
+                                                            55.41      85.16                   (85.16)                        Type of Borrower                     Amount of loan    Percentage to the          Amount of loan        Percentage to the
+                                                        1,703.13                                                                                                or advance in the        total loans and     or advance in the            total loans and
+                                                                                                                              Subsidiaries - Interest free and                         advances in the                                  advances in the
+                                                                                                                              repayable on demand (net)              nature of loan      nature of loans          nature of loan          nature of loans
+                                                                                                                                                                       outstanding                                  outstanding
+
+43.The details of the amounts expected to be recovered or settled by the Company after twelve months, in respect of                                                           -                   0.00%                            -            0.00%
+
+       assets and liabilities relating to long-term contracts, are classified as under:
+
+                                                                                                     (H in Crores)            46. CAPITAL WORK-IN-PROGRESS (CWIP) AGEING SCHEDULE
+
+Particulars                                             Note                            As at                   As at                                                                             Amount in CWIP for a period of                (H in Crores)
+Trade Receivables                                         7            31st March, 2026        31st March, 2025                                                                                                                                           Total
+
+                                                                                     386.66                    410.19
+
+                                                                                                                              Particulars                                     Less than           1-2 years  2-3 years             More than
+                                                                                                                                                                                   1 year                                              3 years
+                                                                                                                              FY 2025-26
+                                                                                                                              Projects in progress                                   66.72        1.55                          -        -      68.27
+                                                                                                                              Projects temporarily suspended                               -
+                                                                                                                              FY 2024-25                                                          -                             -        -      -
+                                                                                                                              Projects in progress                                   25.18
+                                                                                                                              Projects temporarily suspended                               -      1.29                          -        -      26.47
+
+                                                                                                                                                                                                  -                             -        -      -
+
+                                                                                                                              Capex expenditure of the Company is within the overall capex budget and are expected to be completed within the
+                                                                                                                              given timelines.
+
+                                                                                                                              There are no Capital Work in Progress whose completion is overdue or has exceeded its cost compared to its original plan
+
+336 Kalpataru Projects International Limited                                                                                                                                                                 Integrated Annual Report 2025-26 337

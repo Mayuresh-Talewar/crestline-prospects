@@ -1,0 +1,1254 @@
+
+=====PDFPAGE 133
+ 
+Annual Report 2025–26   |   133 
+INDEPENDENT AUDITOR’S REPORT 
+To, 
+The Members of OVAL PROJECTS ENGINEERING LIMITED 
+Report on the audit of Standalone Financial Statements 
+Opinion 
+We have audited the standalone financial statements of OVAL PROJECTS ENGINEERING LIMITED (the 
+“Company”) which comprise the standalone balance sheet as at 31 March 2026, and the standalone statement 
+of profit and loss and standalone statement of cash flows for the year ended 31st March 2026, and notes to the 
+standalone financial statements, including material accounting policies and other explanatory information. 
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid 
+financial statements give the information required by the Companies Act, 2013 in the manner so required and 
+give a true and fair view in conformity with the accounting principles generally accepted in India, of the state 
+of affairs of the Company as at March 31, 2026, and its profit and it’s cash flows for the year ended on that 
+date. 
+Basis for Opinion 
+We conducted our audit of the Financial Statement in accordance with the Standards on Auditing (SAs) 
+specified under section 143(10) of the Companies Act, 2013. Our responsibilities under those Standards are 
+further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of our 
+report. We are independent of the Company in accordance with the Code of Ethics issued by the Institute of 
+Chartered Accountants of India together with the ethical requirements that are relevant to our audit of the 
+financial statements under the provisions of the Companies Act, 2013 and the Rules thereunder, and we have 
+fulfilled our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We 
+believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our 
+opinion on the Financial Statement. 
+Key Audit Matter 
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit 
+of the financial statements of the current period. These matters were addressed in the context of our audit of 
+the financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate 
+opinion on these matters. 
+We have determined the matters described below to be the key audit matters to be communicated in our 
+report: - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=====PDFPAGE 134
+ 
+Annual Report 2025–26   |   134 
+Key Audit Matter 
+How our audit addressed the key audit matter 
+1.  Initial Public Offer, Listing on BSE SME Platform and Utilisation of 
+IPO Proceeds 
+Refer note number 1, standalone financial statements relating to 
+Share Capital, Securities Premium and utilisation of IPO proceeds. 
+Why the matter was considered to be one of most significance in 
+the audit 
+During the financial year, the Company completed its Initial Public 
+Offer and its equity shares were listed on the BSE SME Platform on 
+04 September 2025. The transaction resulted in a significant change 
+in the Company’s capital structure and involved the raising of funds 
+from public investors. 
+The accounting for the Initial Public Offer involved consideration of 
+the issue of equity shares, recognition of share capital and 
+securities premium, accounting for issue-related expenses and 
+disclosure of the utilisation of the proceeds in accordance with the 
+stated objects of the issue. 
+Given the magnitude and nature of the transaction, the significant 
+changes in the Company’s capital structure during the year and the 
+related regulatory and financial reporting considerations, the 
+matter required significant auditor attention and was therefore 
+considered to be one of the matters of most significance in our 
+audit. 
+How our audit addressed the matter 
+Our audit procedures included, amongst others: 
+•  Obtaining and reviewing the IPO prospectus/offer documents 
+and relevant approvals. 
+•  Agreeing the number of shares issued pursuant to the IPO with 
+the Company’s records and statutory filings. 
+•  Verifying the issue price and reconciliation of IPO proceeds with 
+bank statements. 
+•  Testing the receipt of IPO proceeds directly into the Company’s 
+designated bank accounts. 
+•  Agreeing the amount of share capital and securities premium 
+arising from the issue with the underlying records and statutory 
+filings. 
+•  Examining the utilisation of IPO proceeds against the objects 
+specified in the offer document. 
+•  Testing material expenditure incurred out of IPO proceeds on a 
+sample basis and verifying supporting documentation. 
+•  Reviewing the accounting treatment of IPO-related expenses. 
+•  Assessing whether the accounting treatment was consistent with 
+the applicable Accounting Standards. 
+•  Reviewing the Company’s disclosures relating to the IPO, share 
+capital, securities premium and utilisation of proceeds. 
+•  Considering the Company’s compliance with applicable 
+requirements relating to its listing on the SME platform. 
+•  Reading relevant communications with the stock exchange and 
+examining whether matters having a financial reporting impact 
+had been appropriately considered. 
+2.  Assessment of Significant Direct and Indirect Tax Litigations and 
+Related Disclosures 
+Refer Note Number 33 to the standalone financial statements 
+relating to Contingent Liabilities and Commitments & 54 Pending 
+Litigations on the Company and effect on its financial position. 
+The Company has significant outstanding direct and indirect tax 
+matters involving various assessment years and tax authorities. 
+As reported in Annexure 2 to the Auditor’s Report, the Company 
+has, amongst others, outstanding income-tax demands including a 
+demand of approximately ₹4.67 crore for Assessment Year 2018-19, 
+GST demands aggregating approximately ₹2.74 crore and a Service 
+Tax demand of approximately ₹2.26 crore. 
+The assessment of these matters involves significant management 
+judgment in determining the likelihood of an unfavourable 
+outcome, the potential financial exposure and whether a provision 
+or contingent liability disclosure is appropriate. 
+Considering the magnitude of certain amounts involved, the 
+number and nature of the tax matters and the judgment involved in 
+assessing the potential outcome of the litigations, this area required 
+significant auditor attention and was therefore considered to be 
+one of the matters of most significance in our audit. 
+Our audit procedures included, amongst others, the following: 
+•  obtaining the detailed litigation/contingent liability schedule; 
+•  examining relevant assessment orders, notices, appellate orders 
+and other correspondence with tax authorities; 
+•  discussing the status of material matters with management and 
+the Company’s tax/legal advisors; 
+•  evaluating management’s assessment of the likelihood of an 
+unfavourable outcome; 
+•  assessing the adequacy of provisions, where required; 
+•  evaluating whether matters appropriately met the definition of 
+contingent liabilities; 
+•  checking subsequent developments up to the date of the 
+auditor’s report; 
+•  assessing the adequacy of related disclosures in the financial 
+statements; and 
+•  considering the impact of the matters on the auditor’s report. 
+ 
+
+=====PDFPAGE 135
+ 
+Annual Report 2025–26   |   135 
+Information other than the Standalone Financial Statements and Auditor’s Report thereon 
+The Company’s Management and Board of Directors are responsible for the other information. The other 
+information comprises the information included in the Company’s annual report, but does not include the 
+financial statements and auditor’s report thereon. The Company’s annual report is expected to be made 
+available to us after the date of this auditor’s report. 
+Our opinion on the standalone financial statements does not cover the other information and we will not 
+express any form of assurance conclusion thereon. 
+In connection with our audit of the standalone financial statements, our responsibility is to read the other 
+information identified above when it becomes available and, in doing so, consider whether the other 
+information is materially inconsistent with the standalone financial statements or our knowledge obtained in 
+the audit, or otherwise appears to be materially misstated. 
+When we read the Company’s annual report, if we conclude that there is a material misstatement therein, we 
+are required to communicate the matter to those charged with governance and take necessary actions, as 
+applicable under the relevant laws and regulations. 
+Managements and Board of Directors’ Responsibilities for the Standalone Financial Statements 
+The Company’s Board of Directors are responsible for the matters stated in section 134(5) of the Companies 
+Act, 2013 (“the Act”) with respect to the preparation of these Standalone financial statements that give a true 
+and fair view of the financial position, financial performance and cash flow of the Company in accordance with 
+the accounting principles generally accepted in India, including the accounting Standards specified under 
+section 133 of the Act, read with Rule 7 of the Companies (Accounts) Rules, 2014. This responsibility also 
+includes maintenance of adequate accounting records in accordance with the provisions of the Act for 
+safeguarding of the assets of the Company and for preventing and detecting frauds and other irregularities; 
+selection and application of appropriate accounting policies; making judgments and estimates that are 
+reasonable and prudent; and design, implementation and maintenance of adequate internal financial controls, 
+that were operating effectively for ensuring the accuracy and completeness of the accounting records, relevant 
+to the preparation and presentation of the financial statements that give a true and fair view and are free from 
+material misstatement, whether due to fraud or error. 
+In preparing the standalone financial statements, management is responsible for assessing the Company’s 
+ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the 
+going concern basis of accounting unless management either intends to liquidate the Company or to cease 
+operations, or has no realistic alternative but to do so. 
+Those Board of Directors are also responsible for overseeing the company’s financial reporting process. 
+Auditor’s Responsibilities for the Audit of the standalone Financial Statements 
+Our objectives are to obtain reasonable assurance about whether the standalone financial statements as a 
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that 
+includes our opinion. 
+Reasonable assurance is a high level of assurance. but is not a guarantee that an audit conducted in 
+accordance with SAs will always detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, 
+they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+standalone financial statements. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional 
+skepticism throughout the audit. We also: 
+— Identify and assess the risks of material misstatement of the standalone financial statements, whether 
+due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit 
+
+=====PDFPAGE 136
+ 
+Annual Report 2025–26   |   136 
+evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a 
+material misstatement resulting from fraud is higher than for one resulting from error, as fraud may 
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control. 
+— Obtain an understanding of internal control relevant to the audit in order to design audit procedures 
+that are appropriate in the circumstances. Under section 143(3)(i) of the Companies Act, 2013, we are also 
+responsible for expressing our opinion on whether the company has adequate internal financial controls 
+system in place and the operating effectiveness of such controls. 
+— Evaluate the appropriateness of accounting policies used and the reasonableness of accounting 
+estimates and related disclosures made by management. 
+— Conclude on the appropriateness of management’s use of the going concern basis of accounting and, 
+based on the audit evidence obtained, whether a material uncertainty exists related to events or 
+conditions that may cast significant doubt on the Company’s ability to continue as a going concern. If we 
+conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to 
+the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our 
+opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor’s report. 
+However, future events or conditions may cause the Company to cease to continue as a going concern. 
+— Evaluate the overall presentation, structure and content of the financial statements, including the 
+disclosures, and whether the financial statements represent the underlying transactions and events in a 
+manner that achieves fair presentation. 
+Materiality is the magnitude of misstatements in the financial statements that, individually or in aggregate, 
+makes it probable that the economic decisions of a reasonably knowledgeable user of the financial statements 
+may be influenced. We consider quantitative materiality and qualitative factors in 
+(i) planning the scope of our audit work and in evaluating the results of our work; and 
+(ii) to evaluate the effect of any identified misstatements in the financial statements. 
+We communicate with those charged with governance regarding, among other matters, the planned scope and 
+timing of the audit and significant audit findings, including any significant deficiencies in internal control that 
+we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with relevant ethical 
+requirements regarding independence, and to communicate with them all relationships and other matters that 
+may reasonably be thought to bear on our independence, and where applicable, related safeguards. 
+From the matters communicated with those charged with governance, we determine those matters that were 
+of most significance in the audit of the financial statements of the current period and are therefore the key 
+audit matters. We describe these matters in our auditor’s report unless law or regulation precludes public 
+disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not 
+be communicated in our report because the adverse consequences of doing so would reasonably be expected to 
+outweigh the public interest benefits of such communication. 
+Report on Other Legal and Regulatory Requirements 
+The provisions of the Companies (Auditor’s Report) Order, 2020 (“the Order”), issued by the Central 
+Government of India in terms of sub-section (11) of section 143 of the Companies Act, 2013, we give in the 
+“Annexure A” a statement on the Matters specified in paragraph 3 and 4 of the Order, to the extent applicable. 
+Further to our comments in Annexure A, as required by Section 143(3) of the Act to the extent applicable, we 
+report that: 
+(a) We have sought and obtained all the information and explanations which to the best of our knowledge and 
+belief were necessary for the purposes of our audit of the accompanying standalone financial statements; 
+
+=====PDFPAGE 137
+ 
+Annual Report 2025–26   |   137 
+(b) In our opinion, proper books of account as required by law have been kept by the Company so far as it 
+appears from our examination of those books, including the manner prescribed in rule 3(1) of the Companies 
+Rules 2014 except matter stated in the paragraph 2(B)(f) below on reporting under Rule 11(g) of the 
+Companies (Audit and Auditors) Rules, 2014. 
+(c) The standalone financials dealt with by this Report are in agreement with the books of account. 
+(d) In our opinion, the aforesaid standalone financial statements comply with the Accounting Standards 
+specified under Section 133 of the Act, read with Rule 7 of the Companies (Accounts) Rules, 2014. 
+(e) On the basis of the written representations received from the directors as on 31st March, 2026 taken on 
+record by the Board of Directors, none of the directors is disqualified as on 31st March, 2026 from being 
+appointed as a director in terms of Section 164(2) of the Act. 
+(f) With respect to the adequacy of the internal financial controls over financial reporting of the Company and 
+the operating effectiveness of such controls, refer to our separate report in "Annexure B". 
+(g) With respect to the other matters to be included in the Auditor’s Report in accordance with Rule 11 of the 
+Companies (Audit and Auditors) Rules, 2014 (as amended), in our opinion and to the best of our information 
+and according to the explanations given to us: 
+i.  The Company, as detailed in Note 54 to the financial statements, has disclosed the impact of pending 
+litigations on its financial position as at 31st March 2026; 
+ii.  The Company has made provision, as required under the applicable law or accounting standards, for 
+material foreseeable losses, if any, on long-term contracts including derivative contracts. 
+iii.  There has been no delay in transferring amounts, required to be transferred to the Investor Education 
+and Protection Fund by the Company. 
+iv.  (a) The management has represented that, to the best of it’s knowledge and belief, other than as 
+disclosed in the notes to the accounts, no funds have been advanced or loaned or invested (either from 
+borrowed funds or share premium or any other sources or kind of funds) by the company to or in any 
+other person(s) or entity(ies), including foreign entities (“Intermediaries”), with the understanding, 
+whether recorded in writing or otherwise, that the Intermediary shall: 
+— directly or indirectly lend or invest in other persons or entities identified in any manner whatsoever by 
+or on behalf of the company (“Ultimate Beneficiaries”) or 
+— provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries; 
+(b) The management has represented, that, to the best of it’s knowledge and belief, other than as 
+disclosed in the notes to the accounts, no funds have been received by the company from any person(s) or 
+entity(ies), including foreign entities (“Funding Parties”), with the understanding, whether recorded in 
+writing or otherwise, that the company shall: 
+— directly or indirectly, lend or invest in other persons or entities identified in any manner whatsoever by 
+or on behalf of the Funding Party (“Ultimate Beneficiaries”) 
+— or provide any guarantee, security or the like on behalf of the Ultimate Beneficiaries; and 
+(c) Based on audit procedures which we considered reasonable and appropriate in the circumstances, 
+nothing has come to our notice that has caused us to believe that the representations under sub-clause (a) 
+and (b) contain any material misstatement. 
+v.  The company has neither declared nor paid any dividend during the year. 
+vi.  Based on our examination, which included test checks, the Company has used accounting software for 
+maintaining its books of account for the financial year ended March 31, 2026 which has a feature of 
+recording audit trail (edit log) facility and the same has have been operated throughout the year for all 
+relevant transactions recorded in the software(s). 
+
+=====PDFPAGE 138
+ 
+Annual Report 2025–26   |   138 
+Further, during the course of our audit we did not come across any instance of audit trail feature being 
+tampered with. 
+Furthermore, the audit trail has been preserved by the Company as per the Statutory requirements for 
+record retention. 
+(h) As required by Section 197(16) of the Act, based on our Audit, We report that the Company has paid 
+remuneration to its directors during the year in accordance with the provisions of and limits laid down under 
+section 197 read with Schedule V to the Act. 
+ 
+FOR KAPOOR GOYAL & CO 
+(Chartered Accountants) 
+Reg No. : 001370N 
+ 
+Tarun Kapoor 
+Partner 
+M. No.: 095949 
+ 
+Place: New Delhi 
+Date: 29-05-2026 
+UDIN: 26095949GMJCMA7502 
+ 
+ 
+
+=====PDFPAGE 139
+ 
+Annual Report 2025–26   |   139 
+ANNEXURE A TO THE INDEPENDENT AUDITOR’S REPORT 
+Reports under The Companies (Auditor’s Report) Order, 2020 (CARO 2020) for the year ended on 31st March 
+2026 
+To, 
+The Members of Oval Projects Engineering Ltd. 
+We report that:- 
+Sl. No. 
+Comment Required on 
+Auditor’s Opinion on Following Matter 
+Auditor’s Remark 
+i (a) (A) 
+Property, Plant and 
+Equipment and Intangible 
+Assets 
+Whether the company is maintaining proper records 
+showing full particulars, including quantitative details 
+and situation of Property, Plant and Equipment.? 
+The company has maintained proper records showing 
+full particulars including quantitative details and 
+situation of Property, Plant and Equipment. 
+i (a) (B) 
+ 
+Whether the company is maintaining proper records 
+showing full particulars of intangible assets; 
+The Company has maintained proper records showing 
+full particulars of Intangible assets. 
+i (b) 
+ 
+Whether these Plant and Equipment and Intangible 
+Assets have been physically verified by the 
+management at reasonable intervels; whether any 
+material discrepancies were noticed on such 
+verification and if so, whether the same have been 
+properly dealt with in the books of accounts? 
+Property, Plant and Equipment have been physically 
+verified by the management at reasonable intervals; No 
+material discrepancies were noticed on such 
+verification. 
+i (c) 
+ 
+Whether the title deeds of all the immovable 
+properties (other than properties where the company 
+is the lessee and the lease agreements are duly 
+executed in favour of the lessee) disclosed in the 
+financial statements are held in the name of the 
+company, if not, provide the details thereof 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, the title deeds of immovable properties 
+(other than immovable properties where the Company 
+is the lessee and the lease agreements are duly 
+executed in favour of the lessee) disclosed in the 
+standalone financial statements are held in the name of 
+the Company. 
+i (d) 
+ 
+Whether the company has revalued its Property, Plant 
+and Equipment (including Right of Use assets) or 
+intangible assets or both during the year and, if so, 
+whether the revaluation is based on the valuation by a 
+Registered Valuer; specify the amount of change, if 
+change is 10% or more in the aggregate of the net 
+carrying value of each class of Property, Plant and 
+Equipment or intangible assets; 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, the Company has not revalued its 
+Property, plant and equipment (including Right-of-use 
+assets) or Intangible assets or both during the year. 
+i (e) 
+ 
+Whether any proceedings have been initiated or are 
+pending against the company for holding any benami 
+property under the Benami Transactions (Prohibition) 
+Act, 1988 (45 of 1988) and rules made thereunder, if 
+so, whether the company has appropriately disclosed 
+the details in its financial statements; 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, there are no proceedings initiated or 
+pending against the Company for holding any benami 
+property under the Prohibition of Benami Property 
+Transactions Act, 1988 and rules made thereunder. 
+ii (a) 
+Inventory and other 
+current assets 
+Whether physical verification of inventory has been 
+conducted at reasonable intervals by the management 
+and whether, in the opinion of the auditor, the 
+coverage and procedure of such verification by the 
+management is appropriate; whether any 
+discrepancies of 10% or more in the aggregate for 
+each class of inventory were noticed and if so, 
+whether they have been properly dealt with in the 
+books of account? 
+Physical verification of inventory has been conducted at 
+reasonable intervals by the management. 
+ii (b) 
+ 
+Whether during any point of time of the year, the 
+company has been sanctioned working capital limits in 
+excess of five crore rupees, in aggregate, from banks 
+or financial institutions on the basis of security of 
+current assets; whether the quarterly returns or 
+statements filed by the company with such banks or 
+financial institutions are in agreement with the books 
+of account of the Company, if not, give details; 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, the Company has been sanctioned 
+working capital limits in excess of five crore rupees, in 
+aggregate, from banks on the basis of security of 
+current assets. The Information filed with Bank are in 
+agreement with books of accounts with the exception 
+and reason stated in Note 40 of Audited financial. 
+
+=====PDFPAGE 140
+ 
+Annual Report 2025–26   |   140 
+Sl. No. 
+Comment Required on 
+Auditor’s Opinion on Following Matter 
+Auditor’s Remark 
+(iii) 
+Investment, Loans or 
+Advances by Company 
+Whether during the year the company has made 
+investments in, provided any guarantee or security or 
+granted any loans or advances in the nature of loans, 
+secured or unsecured, to companies, firms, Limited 
+Liability Partnerships or any other parties, if so, 
+The company has not granted any loans, secured or 
+unsecured to companies, firms or other parties covered 
+in the register-maintained U/s 189 of the companies 
+Act-2013 except Guarantees & Advances in pursuance 
+to the business activity of the Company. 
+iii (a) 
+ 
+whether during the year the company has provided 
+loans or provided advances in the nature of loans, or 
+stood guarantee, or provided security to any other 
+entity [not applicable to companies whose principal 
+business is to give loans], if so, indicate- 
+The Company has not granted any loans, secured or 
+unsecured, to firms, limited liability partnerships or any 
+other parties during the year except Guarantees & 
+Advance to its subsidiaries in pursuance to the business 
+of the Company. 
+iii (a) (A) 
+ 
+The aggregate amount during the year, and balance 
+outstanding at the balance sheet date with respect to 
+such loans or advances and guarantees or security to 
+subsidiaries, joint ventures and associates 
+Based on the audit procedures carried on by us and as 
+per the information and explanations given to us, the 
+Company has not granted any loans to subsidiaries, joint 
+ventures and associates except already disclosed under 
+notes No. 33.1, 46 & 54 of Audited Financials. 
+iii (a) (B) 
+ 
+The aggregate amount during the year, and balance 
+outstanding at the balance sheet date with respect to 
+such loans or advances and guarantees or security to 
+parties other than subsidiaries, joint ventures and 
+associates 
+Based on the audit procedures carried on by us and as 
+per the information and explanations given to us, the 
+Company has not granted loans to a party other than 
+subsidiaries, joint ventures and associates except 
+already disclosed under Note No 33.1 & 46 of Audited 
+Financials 
+iii (b) 
+ 
+Whether the investments made, guarantees provided, 
+security given and the terms and conditions of the 
+grant of all loans and advances in the nature of loans 
+and guarantees provided are not prejudicial to the 
+company’s interest 
+In our opinion and according to the information and 
+explanations given to us. The rate of interest and other 
+terms and conditions for such loans are not prima facie 
+prejudicial to the interest to the company. 
+iii (c) 
+ 
+In respect of loans and advances in the nature of 
+loans, whether the schedule of repayment of principal 
+and payment of interest has been stipulated and 
+whether the repayments or receipts are regular? 
+As explained by the management of the Company, the 
+advances given are not in nature of loan. 
+iii (d) 
+ 
+If the amount is overdue, state the total amount 
+overdue for more than ninety days, and whether 
+reasonable steps have been taken by the company for 
+recovery of the principal and interest? 
+There is no overdue amount of loans granted to 
+companies, firms or other parties listed in the register 
+maintained under section 189 of the companies Act, 
+2013. 
+iii (e) 
+ 
+Whether any loan or advance in the nature of loan 
+granted which has fallen due during the year, has been 
+renewed or extended or fresh loans granted to settle 
+the over dues of existing loans given to the same 
+parties, if so, specify the aggregate amount of such 
+dues renewed or extended or settled by fresh loans 
+and the percentage of the aggregate to the total loans 
+or advances in the nature of loans granted during the 
+year [not applicable to companies whose principal 
+business is to give loans]; 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, there is no loan given. 
+iii (f) 
+ 
+Whether the company has granted any loans or 
+advances in the nature of loans either repayable on 
+demand or without specifying any terms or period of 
+repayment, if so, specify the aggregate amount, 
+percentage thereof to the total loans granted, 
+aggregate amount of loans granted to Promoters, 
+related parties as defined in clause (76) of section 2 of 
+the Companies Act, 2013; 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, the Company has not given any loans. 
+(iv) 
+Loan to Directors and 
+Investment by the 
+Company 
+In respect of loans, investments, guarantees, and 
+security whether provisions of section 185 and 186 of 
+the Companies Act, 2013 have been complied with. If 
+not, provide the details thereof. 
+While entering into transaction for loans, investments, 
+guarantees, and security provisions of section 185 and 
+186 of the Companies Act, 2013 have been complied 
+with. 
+
+=====PDFPAGE 141
+ 
+Annual Report 2025–26   |   141 
+Sl. No. 
+Comment Required on 
+Auditor’s Opinion on Following Matter 
+Auditor’s Remark 
+(v) 
+Deposits Accepted by the 
+Company 
+In respect of deposits accepted by the company or 
+amounts which are deemed to be deposits, whether 
+the directives issued by the Reserve Bank of India and 
+the provisions of sections 73 to 76 or any other 
+relevant provisions of the Companies Act and the rules 
+made thereunder, where applicable, have been 
+complied with, if not, the nature of such 
+contraventions be stated; if an order has been passed 
+by Company Law Board or National Company Law 
+Tribunal or Reserve Bank of India or any court or any 
+other tribunal, whether the same has been complied 
+with or not 
+The company has not accepted any Deposits. 
+(vi) 
+Maintenance of Cost 
+records 
+Whether maintenance of cost records has been 
+specified by the Central Government under sub-
+section (1) of section 148 of the Companies Act, 2013 
+and whether such accounts and records have been so 
+made and maintained? 
+To the best of our knowledge and as explained, the 
+Central Government has not prescribed maintenance of 
+cost records under sub-section (1) of section 148 of the 
+Companies Act, 2013 for the products of the company. 
+vii (a) 
+Statutory Dues 
+Whether the company is regular in depositing 
+undisputed statutory dues including Goods and 
+Services Tax, provident fund, employees state 
+insurance, income-tax, sales-tax, service tax, duty of 
+customs, duty of excise, value added tax, cess and any 
+other statutory dues to the appropriate authorities 
+and if not, the extent of the arrears of outstanding 
+statutory dues as on the last day of the financial year 
+concerned for a period of more than six months from 
+the date they became payable, shall be indicated? 
+The company is regular in depositing the undisputed 
+statutory dues including provident fund, employees` 
+state insurance, income tax, sales, tax wealth tax, 
+service tax, custom duty, excise duty. Cess and other 
+statutory dues applicable to the Company with the 
+appropriate authorities. No undisputed amounts 
+payable in respect of the aforesaid statutory dues were 
+outstanding as at the last day of the financial year for a 
+period of more than six months from the date they 
+became payable except as detailed in Annexure 1 
+below: 
+vii (b) 
+ 
+Where statutory dues referred to in sub-clause (a) 
+have not been deposited on account of any dispute, 
+then the amounts involved and the forum where 
+dispute is pending shall be mentioned 
+Detail of Disputed amount payable to statutory 
+authorities are as given below in Annexure 2. 
+(viii) 
+Disclosure of Undisclosed 
+Transactions 
+Whether any transactions not recorded in the books of 
+account have been surrendered of disclosed as income 
+during the year in the tax assessments under the 
+Income Tax Act, 1961, if so, whether the previously 
+unrecorded income has been properly recorded in the 
+books of account during the year 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, the Company has not surrendered or 
+disclosed any transactions, previously unrecorded as 
+income in the books of account, in the tax assessments 
+under the Income-tax Act, 1961 as income during the 
+year. 
+ix (a) 
+Loans or Other Borrowings Whether the company has defaulted in repayment of 
+loans or other borrowings or in the payment of 
+interest thereon to any lender, if yes, the period and 
+the amount of default to be reported in the format 
+given 
+Based on our audit procedures and as per the 
+information and explanations given by the 
+management, we are of the opinion that the company is 
+generally regular in repayment of dues to a financial 
+institution, bank and there is no unpaid instalment as on 
+closing date of financials. 
+ix (b) 
+ 
+Whether the company is a declared wilful defaulter by 
+any bank or financial institution or other lender; 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, the Company has not been declared a 
+wilful defaulter by any bank or financial institution or 
+government or government authority. 
+ix (c) 
+ 
+Whether term loans were applied for the purpose for 
+which the loans were obtained; if not, the amount of 
+loan so diverted and the purpose for which it is used 
+may be reported; 
+According to the information and explanations given to 
+us by the management, the Company has applied the 
+term loans for the purpose which they have been 
+raised. 
+ix (d) 
+ 
+Whether funds raised on short term basis have been 
+utilised for long term purposes, if yes, the nature and 
+amount to be indicated; 
+According to the information and explanations given to 
+us and on an overall examination of the balance sheet 
+of the Company, we report that no funds have been 
+raised on short-term basis by the Company and used for 
+long term purpose. 
+
+=====PDFPAGE 142
+ 
+Annual Report 2025–26   |   142 
+Sl. No. 
+Comment Required on 
+Auditor’s Opinion on Following Matter 
+Auditor’s Remark 
+ix (e) 
+ 
+Whether the company has taken any funds from any 
+entity or person on account of or to meet the 
+obligations of its subsidiaries, associates or joint 
+ventures, if so, details thereof with nature of such 
+transactions and the amount in each case; 
+According to the information and explanations given to 
+us and on an overall examination of the financial 
+statements of the Company, we report that the 
+Company has not taken any funds from any entity or 
+person on account of or to meet the obligations of its 
+subsidiaries as defined under the Companies Act, 2013. 
+Accordingly, clause 3(ix)(e) of the Order is not 
+applicable. 
+ix (f) 
+ 
+Whether the company has raised loans during the year 
+on the pledge of securities held in its subsidiaries, joint 
+ventures or associate companies, if so, give details 
+thereof and also report if the company has defaulted 
+in repayment of such loans raised; 
+According to the information and explanations given to 
+us and procedures performed by us, we report that the 
+Company has not raised loans during the year on the 
+pledge of securities held in its subsidiaries as defined 
+under the Companies Act, 2013. Accordingly, clause 
+3(ix)(f) of the Order is not applicable. 
+x (a) 
+Money raised by IPO, FPOs Whether moneys raised by way of initial public offer 
+or further public offer {including debt instruments) 
+and term loans were applied for the purposes for 
+which those are raised. If not, the details together 
+with delays or default and subsequent rectification? if 
+any, as may be applicable, be reported. 
+According to the information and explanation given to 
+us and on the basis of our examination the company has 
+raised money by way of initial public offer. The funds so 
+raised have been applied for the purpose for which they 
+were raised. The Money raised by way of term loan has 
+been applied for the purpose which they have been 
+raised. 
+x (b) 
+ 
+Whether the company has made any preferential 
+allotment or private placement of shares or 
+convertible debentures (fully, partially or optionally 
+convertible) during the year and if so, whether the 
+requirements of section 42 and section 62 of the 
+Companies Act, 2013 have been complied with and 
+the funds raised have been used for the purposes for 
+which the funds were raised, if not, provide details in 
+respect of amount involved and nature of non-
+compliance; 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, the Company has made private 
+placement and preferential allotment of Equity shares 
+during the year and the requirements of section 42 and 
+section 62 of the Companies Act, 2013 have been 
+complied with and the funds raised have been used for 
+the purposes for which the funds were raised. 
+xi (a) 
+Reporting of Fraud During 
+the Year 
+Whether any fraud by the company or any fraud on 
+the company has been noticed or reported during the 
+year, if yes, the nature and the amount involved is to 
+be indicated. 
+Based on our audit procedures and the information and 
+explanation made available to us no such fraud noticed 
+or reported during the year. 
+xi (b) 
+ 
+Whether any report under sub-section (12) of Section 
+143 of the Companies Act has been filed by the 
+auditors in Form ADT-4 as prescribed under rule 13 of 
+Companies (Audit and Auditors) Rules, 2014 with the 
+Central Government; 
+According to the information and explanations given to 
+us, no report under sub-section (12) of Section 143 of 
+the Companies Act, 2013 has been filed by the auditors 
+in Form ADT-4 as prescribed under Rule 13 of 
+Companies (Audit and Auditors) Rules, 2014 with the 
+Central Government. 
+xi (c) 
+ 
+Whether the auditor has considered whistle-blower 
+complaints, if any, received during the year by the 
+company; 
+According to the information and explanations given to 
+us, No Complaint has been received during the year, 
+from any whistle-blower 
+xii (a) 
+Compliance by Nidhi 
+Company Regarding Net 
+Owned Fund to Deposits 
+Ratio 
+Whether the Nidhi Company has complied with the 
+Net Owned Funds to Deposits in the ratio of 1:20 to 
+meet out the liability? 
+As per information and records available with us, The 
+company is not Nidhi Company. 
+xii (b) 
+ 
+Whether the Nidhi Company is maintaining ten per 
+cent. unencumbered term deposits as specified in the 
+Nidhi Rules, 2014 to meet out the liability; 
+According to the information and explanations given to 
+us, the Company is not a Nidhi Company. Accordingly, 
+clause 3(xii) of the Order is not applicable 
+xii (c) 
+ 
+Whether there has been any default in payment of 
+interest on deposits or repayment thereof for any 
+period and if so, the details thereof; 
+According to the information and explanations given to 
+us and on the basis of our examination of the records of 
+the Company, as the company have not accepted any 
+deposits, hence the clause is not applicable 
+(xiii) 
+Related party transactions Whether all transactions with the related parties are in 
+compliance with sections 177 and 188 of Companies 
+Act where applicable and the details have been 
+disclosed in the financial statements, etc., as required 
+by the applicable accounting standards? 
+Yes, all transactions with the related parties are in 
+compliance with section 177 and 188 of Companies Act, 
+2013 where applicable and the details have been 
+disclosed in the Financial Statements etc., as required 
+by the applicable accounting standards. 
+
+=====PDFPAGE 143
+ 
+Annual Report 2025–26   |   143 
+Sl. No. 
+Comment Required on 
+Auditor’s Opinion on Following Matter 
+Auditor’s Remark 
+xiv (a) 
+Internal audit system 
+Whether the company has an internal audit system 
+commensurate with the size and nature of its 
+business; 
+Based on information and explanations provided to us 
+and our audit procedures, in our opinion, the Company 
+has an internal audit system commensurate with the 
+size and nature of its business, The Company has 
+appointed a professional as per Section 138 read with 
+rule 13 of the Companies (Accounts) Rules 2014 during 
+the year. 
+xiv (b) 
+ 
+Whether the reports of the Internal Auditors for the 
+period under audit were considered by the statutory 
+auditor; 
+As per explanation given to us, till the conclusion of our 
+Audit, the report of Internal Audit was not received by 
+the Management. 
+(xv) 
+Non cash transactions 
+Whether the company has entered into any non-cash 
+transactions with directors or persons connected with 
+him and if so, whether the provisions of section 192 of 
+Companies Act have been complied with? 
+As per declaration by the Management, The company 
+has not entered into any non-cash transactions with 
+directors or persons connected with him. 
+xvi (a) 
+Requirement of 
+Registration under 45-IA 
+of Reserve Bank of India 
+Act, 1934 
+Whether the company is required to be registered 
+under section 45-IA of the Reserve Bank of lndia Act, 
+1934 and if so, whether the registration has been 
+obtained? 
+The company is not required to be registered under 
+section 45-IA of the Reserve Bank of India Act. 
+xvi (b) 
+ 
+Whether the company has conducted any Non-
+Banking Financial of Housing Finance activities without 
+a valid Certificate of Registration (CoR) from the 
+Reserve Bank of India as per the Reserve Bank of India 
+Act 1934; 
+The Company is not required to be registered under 
+Section 45-IA of the Reserve Bank of India Act, 1934. 
+Accordingly, clause 3(xvi)(b) of the Order is not 
+applicable. 
+xvi (c) 
+ 
+Whether the company is a Core Investment Company 
+(CIC) as defined in the regulations made by the 
+Reserve Bank of India, if so, whether it continues to 
+fulfil the criteria of a CIC, and in case the company is 
+an exempted or unregistered CIC, whether it continues 
+to fulfil such criteria; 
+The Company is not a Core Investment Company (CIC) 
+as defined in the regulations made by the Reserve Bank 
+of India. Accordingly, clause 3(xvi)(c) of the Order is not 
+applicable. 
+xvi (d) 
+ 
+Whether the Group has more than one CIC as part of 
+the Group, if yes, indicate the number of CICs which 
+are part of the Group; 
+According to the information and explanations provided 
+to us during the course of audit, the Group does not 
+have any CIC. Accordingly, the requirements of clause 
+3(xvi)(d) are not applicable. 
+(xvii) 
+Cash Losses 
+Whether the company has incurred cash losses in the 
+financial year and in the immediately preceding 
+financial year, if so, state the amount of cash losses; 
+The Company has not incurred cash losses in the current 
+and in the immediately preceding financial year. 
+(xviii) 
+Consideration of outgoing 
+auditors 
+Whether there has been any resignation of the 
+statutory auditors during the year, if so, whether the 
+auditor has taken into consideration the issues, 
+objections or concerns raised by the outgoing 
+auditors; 
+There has been no resignation of the statutory auditors 
+during the year. Accordingly, clause 3(xviii) of the Order 
+is not applicable. 
+(xix) 
+Material uncertainty in 
+relation to realisation of 
+financial assets and 
+payment of financial 
+liabilities 
+On the basis of the financial ratios, ageing and 
+expected dates of realisation of financial assets and 
+payment of financial liabilities, other information 
+accompanying the financial statements, the auditor’s 
+knowledge of the Board of Directors and management 
+plans, whether the auditor is of the opinion that no 
+material uncertainty exists as on the date of the audit 
+report that company is capable of meeting its liabilities 
+existing at the date of balance sheet as and when they 
+fall due within a period of one year from the balance 
+sheet date; 
+According to the information and explanations given to 
+us and on the basis of the financial ratios, ageing and 
+expected dates of realisation of financial assets and 
+payment of financial liabilities, other information 
+accompanying the financial statements, our knowledge 
+of the Board of Directors and management plans and 
+based on our examination of the evidence supporting 
+the assumptions, nothing has come to our attention, 
+which causes us to believe that any material uncertainty 
+exists as on the date of the audit report that the 
+Company is not capable of meeting its liabilities existing 
+at the date of balance sheet as and when they fall due 
+within a period of one year from the balance sheet date. 
+We, however, state that this is not an assurance as to 
+the future viability of the Company. We further state 
+that our reporting is based on the facts up to the date of 
+the audit report and we neither give any guarantee nor 
+any assurance that all liabilities falling due within a 
+period of one year from the balance sheet date, will get 
+discharged by the Company as and when they fall due. 
+
+=====PDFPAGE 144
+ 
+Annual Report 2025–26   |   144 
+Sl. No. 
+Comment Required on 
+Auditor’s Opinion on Following Matter 
+Auditor’s Remark 
+xx (a) 
+Compliance of CSR 
+Whether, in respect of other than ongoing projects, 
+the company has transferred unspent amount to a 
+Fund specified in Schedule VII to the Companies Act 
+within a period of six months of the expiry of the 
+financial year in compliance with second proviso to 
+sub-section (5) of section 135 of the said Act; 
+In our opinion and according to the information and 
+explanations given to us, there is no unspent amount 
+under sub-section (5) of Section 135 of the Companies 
+Act, 2013 pursuant to any project. Accordingly, as 
+required by clauses 3(xx)(a) the company is not required 
+to transfer any unspent CSR amounts to a designated 
+fund as per Schedule VII of the Companies Act. 
+xx (b) 
+ 
+Whether any amount remaining unspent under sub-
+section (5) of section 135 of the Companies Act, 
+pursuant to any ongoing project, has been transferred 
+to special account in compliance with the provision of 
+sub-section (6) of section 135 of the said Act; 
+There is no unspent amount under sub-section (5) of 
+Section 135 of the Companies Act, 2013 pursuant to any 
+project. Therefore, no amount has to be transferred to a 
+separate bank account. 
+ 
+Annexure 1 — Undisputed statutory dues outstanding for more than six months 
+Annexure to CARO of M/s Oval Projects Engineering Ltd, for the standalone financial statement for the year 
+ending 31-3-2026 
+Particulars of undisputed statutory dues 
+Amount (In INR) 
+TDS unpaid (outstanding as at the last day of the financial year for a period of more than 
+six months from the date they became payable). 
+23,49,999.00 
+ 
+Annexure 2 — Disputed statutory dues 
+TDS 
+Financial Year 
+Form and Quarter 
+Type of Default 
+Amount Due (In Rs.) 
+2025-2026 
+24Q (Q2) 
+Interest on Late Payment 
+2,691.00 
+2025-2026 
+26Q (Q2) 
+Additional Late Payment interest against the processing of latest 
+correction 
+4,09,212.00 
+2025-2026 
+26Q (Q3) 
+Additional Late Payment interest against the processing of latest 
+correction 
+363.00 
+Total (Round Off) 
+ 
+ 
+4,12,266.00 
+2024-2025 
+24Q (Q3) 
+Interest u/s 220(2) 
+520.00 
+2024-2025 
+26Q (Q3) 
+Interest u/s 220(2) 
+70.00 
+2024-2025 
+24Q (Q4) 
+Interest u/s 220(2) 
+7,460.00 
+2024-2025 
+26Q (Q4) 
+Interest on Late Payment 
+7,79,463.00 
+2024-2025 
+26Q (Q4) 
+Interest u/s 220(2) 
+208.00 
+Total (Round Off) 
+ 
+ 
+7,87,721.00 
+2023-2024 
+24Q (Q3) 
+Interest u/s 220(2) 
+80.00 
+2023-2024 
+26Q (Q3) 
+Interest u/s 220(2) 
+100.00 
+2023-2024 
+24Q (Q4) 
+Interest u/s 220(2) 
+6,593.00 
+2023-2024 
+26Q (Q4) 
+Interest on late payment 
+6,75,909.00 
+ 
+ 
+Interest on Late Deduction 
+55.00 
+ 
+ 
+Interest u/s 220(2) 
+6,764.00 
+Total (Round Off) 
+ 
+ 
+6,89,501.00 
+
+=====PDFPAGE 145
+ 
+Annual Report 2025–26   |   145 
+Financial Year 
+Form and Quarter 
+Type of Default 
+Amount Due (In Rs.) 
+2022-2023 
+24Q (Q4) 
+Interest u/s 220(2) 
+12,090.00 
+2022-2023 
+26Q (Q4) 
+Interest on Late Payment 
+3,02,281.00 
+2022-2023 
+26Q (Q4) 
+Interest on Late Deduction 
+705.00 
+2022-2023 
+26Q (Q4) 
+Interest u/s 220(2) 
+20,567.00 
+Total (Round Off) 
+ 
+ 
+3,35,643.00 
+2021-2022 
+24Q (Q4) 
+Interest u/s 220(2) 
+62,448.00 
+2021-2022 
+26Q (Q4) 
+Interest u/s 220(2) 
+51,940.00 
+Total (Round Off) 
+ 
+ 
+1,14,388.00 
+2020-2021 
+24Q (Q4) 
+Interest u/s 220(2) 
+9,700.00 
+Total (Round Off) 
+ 
+ 
+9,700.00 
+2019-2020 
+26Q(Q4) 
+Interest u/s 220(2) 
+780.00 
+Total (Round Off) 
+ 
+ 
+780.00 
+ 
+Income Tax 
+Financial Year 
+Section 
+Nature of Demand 
+Amount in Rs. 
+2021-2022 
+143(1)/154 
+Outstanding Demand 
+1,18,720.00 
+2021-2022 
+143(1)/154 
+Accrued Interest 
+64,098.00 
+Total 
+ 
+ 
+1,82,818.00 
+ 
+Financial Year 
+Section 
+Nature of Demand 
+Amount in Rs. 
+2017-2018 
+148/154 
+Outstanding Demand 
+5,01,690.00 
+2017-2018 
+148/154 
+Accrued Interest 
+25,430.00 
+Total 
+ 
+ 
+5,27,120.00 
+ 
+Financial Year 
+Section 
+Nature of Demand 
+Amount in Rs. 
+2017-2018 
+143(3) 
+Outstanding Demand 
+4,66,98,952.00 
+Total 
+ 
+ 
+4,66,98,952.00 
+ 
+Financial Year 
+Section 
+Nature of Demand 
+Amount in Rs. 
+2016-2017 
+143(1a) 
+Outstanding Demand 
+5,10,270.00 
+Total 
+ 
+ 
+5,10,270.00 
+ 
+GST 
+Financial Year 
+Section 
+Nature of Demand 
+Amount in Rs. 
+2017-2018 
+73 
+ASMT-10 
+33,00,430 
+2018-2019 
+73 
+ASMT-10 
+64,11,000 
+2019-2020 
+73 
+ASMT-10 
+1,03,00,000 
+2020-2021 
+73 
+ASMT-10 
+23,00,000 
+
+=====PDFPAGE 146
+ 
+Annual Report 2025–26   |   146 
+Financial Year 
+Section 
+Nature of Demand 
+Amount in Rs. 
+2023-2024 
+73 
+ASMT-10 
+51,31,095.94 
+Total 
+ 
+ 
+2,74,42,525.94 
+ 
+Service Tax 
+Financial Year 
+Section 
+Nature of Demand 
+Amount in Rs. 
+April 2016- June 2017 
+Section 174(2) of Finance Act, 1994 
+Outstanding Demand 
+2,25,95,510.00 
+Total 
+ 
+ 
+2,25,95,510.00 
+ 
+ 
+FOR KAPOOR GOYAL & CO 
+(Chartered Accountants) 
+Reg No. : 001370N 
+ 
+Tarun Kapoor 
+Partner 
+M. No.: 095949 
+ 
+Place: New Delhi 
+Date: 29-05-2026 
+UDIN: 26095949GMJCMA7502 
+ 
+ 

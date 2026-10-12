@@ -1,0 +1,18 @@
+== BREAK 1 (expected to fail)
+Error: ASSERT FAILED: no negative release
+== BREAK 2 (expected to fail)
+Error: ASSERT FAILED: interest = 0
+== BREAK 4 (expected to fail)
+Error: ASSERT FAILED: payables never release cash
+== BREAK 5 (expected to fail)
+Error: ASSERT FAILED: basis is FY23 TOI / 365
+== CLEAN RUN
+Per day = 1267.92 / 365 = 3.4738 Cr
+Lever dso: now 220, min 0, max 308, target null
+Clamp bounds read: dso 0 to 308. Steps land at 210 and 190, inside the bounds.
+toTerms (no terms published): {}
+10 days: GCA 220 -> 210; cash released 34.7375 Cr (cross-check 34.7375); carry 0.0000; valueOfADay cash 3.4738 carry 0.0000
+  levers moved: dso:-10; payables cash 0; basis dso at perDay 3.4738
+30 days: GCA 220 -> 190; cash released 104.2126 Cr (cross-check 104.2126); carry 0.0000; valueOfADay cash 3.4738 carry 0.0000
+  levers moved: dso:-30; payables cash 0; basis dso at perDay 3.4738
+ALL ASSERTS PASSED

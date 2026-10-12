@@ -1,0 +1,249 @@
+######## BREAK=1 (assert deliberately broken)
+== Inputs
+FY25 total operating income (provisional): Rs 798.93 Cr
+Value of a day = 798.93 / 365 = Rs 2.1888 Cr (prints Rs 2.19 Cr); valueOfADay cash 2.1888, carry 0
+FY23 days: collection 71, inventory 81, creditors 61, operating cycle 91, gross current asset days 275
+Terms passed: certification null, payment null, vendor null
+Financing rate: 0% (none disclosed)
+Basis: FY23 days (the latest published) valued at FY25 provisional income per day; on FY23 income the figures would be larger.
+
+== Lever bounds read from leversFor (no terms)
+dio: now 81, min 0, max 121.5, target null, side ours
+dso: now 71, min 0, max 101, target null, side theirs
+dpo: now 61, min 0, max 61, target null, side theirs
+
+== Scenarios: alternatives, never added (S-A and S-C release the same cash through different legs)
+S-A collection 10-day step
+   dso: 71 -> 81 days (moved 10), cash released once Rs -21.89 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 101 days
+   gross current asset days: 275 -> 285 (same lever, same days off)
+   released Rs -21.89 Cr; interest (carry) Rs 0 Cr
+ASSERT FAIL  S-A no negative release  (released -21.89)
+ASSERT PASS  S-A interest = 0  (carry 0)
+ASSERT PASS  S-A days x valueOfADay = simulate release  (-10 x 2.1888 = -21.89 vs simulate -21.89; in bounds true)
+ASSERT PASS  S-A priceLevers carry = 0  (carry 0)
+S-B collection 30-day step
+   dso: 71 -> 41 days (moved -30), cash released once Rs 65.67 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 61 days
+   gross current asset days: 275 -> 245 (same lever, same days off)
+   released Rs 65.67 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-B no negative release  (released 65.67)
+ASSERT PASS  S-B interest = 0  (carry 0)
+ASSERT PASS  S-B days x valueOfADay = simulate release  (30 x 2.1888 = 65.67 vs simulate 65.67; in bounds true)
+ASSERT PASS  S-B priceLevers carry = 0  (carry 0)
+S-C inventory 10-day step (inventory days' basis not stated; valued at income per day, so approximate)
+   dio: 81 -> 71 days (moved -10), cash released once Rs 21.89 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 81 days
+   gross current asset days: 275 -> 265 (same lever, same days off)
+   released Rs 21.89 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-C no negative release  (released 21.89)
+ASSERT PASS  S-C interest = 0  (carry 0)
+ASSERT PASS  S-C days x valueOfADay = simulate release  (10 x 2.1888 = 21.89 vs simulate 21.89; in bounds true)
+ASSERT PASS  S-C priceLevers carry = 0  (carry 0)
+
+== Payables probe (asked to stretch creditors 61 -> 91 days)
+   dpo: 61 -> 61 (clamped to max 61), cash 0
+ASSERT PASS  payables never release cash  (released 0)
+
+1 ASSERT(S) FAILED
+exit=1
+
+######## BREAK=2 (assert deliberately broken)
+== Inputs
+FY25 total operating income (provisional): Rs 798.93 Cr
+Value of a day = 798.93 / 365 = Rs 2.1888 Cr (prints Rs 2.19 Cr); valueOfADay cash 2.1888, carry 0.19699643835616434
+FY23 days: collection 71, inventory 81, creditors 61, operating cycle 91, gross current asset days 275
+Terms passed: certification null, payment null, vendor null
+Financing rate: 9% (none disclosed)
+Basis: FY23 days (the latest published) valued at FY25 provisional income per day; on FY23 income the figures would be larger.
+
+== Lever bounds read from leversFor (no terms)
+dio: now 81, min 0, max 121.5, target null, side ours
+dso: now 71, min 0, max 101, target null, side theirs
+dpo: now 61, min 0, max 61, target null, side theirs
+
+== Scenarios: alternatives, never added (S-A and S-C release the same cash through different legs)
+S-A collection 10-day step
+   dso: 71 -> 61 days (moved -10), cash released once Rs 21.89 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 81 days
+   gross current asset days: 275 -> 265 (same lever, same days off)
+   released Rs 21.89 Cr; interest (carry) Rs 1.9699643835616436 Cr
+ASSERT PASS  S-A no negative release  (released 21.89)
+ASSERT FAIL  S-A interest = 0  (carry 1.9699643835616436)
+ASSERT PASS  S-A days x valueOfADay = simulate release  (10 x 2.1888 = 21.89 vs simulate 21.89; in bounds true)
+ASSERT FAIL  S-A priceLevers carry = 0  (carry 1.9699643835616436)
+S-B collection 30-day step
+   dso: 71 -> 41 days (moved -30), cash released once Rs 65.67 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 61 days
+   gross current asset days: 275 -> 245 (same lever, same days off)
+   released Rs 65.67 Cr; interest (carry) Rs 5.909893150684931 Cr
+ASSERT PASS  S-B no negative release  (released 65.67)
+ASSERT FAIL  S-B interest = 0  (carry 5.909893150684931)
+ASSERT PASS  S-B days x valueOfADay = simulate release  (30 x 2.1888 = 65.67 vs simulate 65.67; in bounds true)
+ASSERT FAIL  S-B priceLevers carry = 0  (carry 5.909893150684931)
+S-C inventory 10-day step (inventory days' basis not stated; valued at income per day, so approximate)
+   dio: 81 -> 71 days (moved -10), cash released once Rs 21.89 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 81 days
+   gross current asset days: 275 -> 265 (same lever, same days off)
+   released Rs 21.89 Cr; interest (carry) Rs 1.9699643835616436 Cr
+ASSERT PASS  S-C no negative release  (released 21.89)
+ASSERT FAIL  S-C interest = 0  (carry 1.9699643835616436)
+ASSERT PASS  S-C days x valueOfADay = simulate release  (10 x 2.1888 = 21.89 vs simulate 21.89; in bounds true)
+ASSERT FAIL  S-C priceLevers carry = 0  (carry 1.9699643835616436)
+
+== Payables probe (asked to stretch creditors 61 -> 91 days)
+   dpo: 61 -> 61 (clamped to max 61), cash 0
+ASSERT PASS  payables never release cash  (released 0)
+
+6 ASSERT(S) FAILED
+exit=1
+
+######## BREAK=3 (assert deliberately broken)
+== Inputs
+FY25 total operating income (provisional): Rs 798.93 Cr
+Value of a day = 798.93 / 365 = Rs 2.1888 Cr (prints Rs 2.19 Cr); valueOfADay cash 2.1888, carry 0
+FY23 days: collection 71, inventory 81, creditors 61, operating cycle 91, gross current asset days 275
+Terms passed: certification null, payment null, vendor null
+Financing rate: 0% (none disclosed)
+Basis: FY23 days (the latest published) valued at FY25 provisional income per day; on FY23 income the figures would be larger.
+
+== Lever bounds read from leversFor (no terms)
+dio: now 81, min 0, max 121.5, target null, side ours
+dso: now 71, min 0, max 101, target null, side theirs
+dpo: now 61, min 0, max 61, target null, side theirs
+
+== Scenarios: alternatives, never added (S-A and S-C release the same cash through different legs)
+S-A collection 10-day step
+   dso: 71 -> 61 days (moved -10), cash released once Rs 22.11 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 81 days
+   gross current asset days: 275 -> 265 (same lever, same days off)
+   released Rs 22.11 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-A no negative release  (released 22.11)
+ASSERT PASS  S-A interest = 0  (carry 0)
+ASSERT FAIL  S-A days x valueOfADay = simulate release  (10 x 2.1888 = 21.89 vs simulate 22.11; in bounds true)
+ASSERT PASS  S-A priceLevers carry = 0  (carry 0)
+S-B collection 30-day step
+   dso: 71 -> 41 days (moved -30), cash released once Rs 66.32 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 61 days
+   gross current asset days: 275 -> 245 (same lever, same days off)
+   released Rs 66.32 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-B no negative release  (released 66.32)
+ASSERT PASS  S-B interest = 0  (carry 0)
+ASSERT FAIL  S-B days x valueOfADay = simulate release  (30 x 2.1888 = 65.67 vs simulate 66.32; in bounds true)
+ASSERT PASS  S-B priceLevers carry = 0  (carry 0)
+S-C inventory 10-day step (inventory days' basis not stated; valued at income per day, so approximate)
+   dio: 81 -> 71 days (moved -10), cash released once Rs 22.11 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 81 days
+   gross current asset days: 275 -> 265 (same lever, same days off)
+   released Rs 22.11 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-C no negative release  (released 22.11)
+ASSERT PASS  S-C interest = 0  (carry 0)
+ASSERT FAIL  S-C days x valueOfADay = simulate release  (10 x 2.1888 = 21.89 vs simulate 22.11; in bounds true)
+ASSERT PASS  S-C priceLevers carry = 0  (carry 0)
+
+== Payables probe (asked to stretch creditors 61 -> 91 days)
+   dpo: 61 -> 61 (clamped to max 61), cash 0
+ASSERT PASS  payables never release cash  (released 0)
+
+3 ASSERT(S) FAILED
+exit=1
+
+######## BREAK=4 (assert deliberately broken)
+== Inputs
+FY25 total operating income (provisional): Rs 798.93 Cr
+Value of a day = 798.93 / 365 = Rs 2.1888 Cr (prints Rs 2.19 Cr); valueOfADay cash 2.1888, carry 0
+FY23 days: collection 71, inventory 81, creditors 61, operating cycle 91, gross current asset days 275
+Terms passed: certification null, payment null, vendor 91
+Financing rate: 0% (none disclosed)
+Basis: FY23 days (the latest published) valued at FY25 provisional income per day; on FY23 income the figures would be larger.
+
+== Lever bounds read from leversFor (no terms)
+dio: now 81, min 0, max 121.5, target null, side ours
+dso: now 71, min 0, max 101, target null, side theirs
+dpo: now 61, min 0, max 91, target 91, side theirs
+
+== Scenarios: alternatives, never added (S-A and S-C release the same cash through different legs)
+S-A collection 10-day step
+   dso: 71 -> 61 days (moved -10), cash released once Rs 21.89 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 81 days
+   gross current asset days: 275 -> 265 (same lever, same days off)
+   released Rs 21.89 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-A no negative release  (released 21.89)
+ASSERT PASS  S-A interest = 0  (carry 0)
+ASSERT PASS  S-A days x valueOfADay = simulate release  (10 x 2.1888 = 21.89 vs simulate 21.89; in bounds true)
+ASSERT PASS  S-A priceLevers carry = 0  (carry 0)
+S-B collection 30-day step
+   dso: 71 -> 41 days (moved -30), cash released once Rs 65.67 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 61 days
+   gross current asset days: 275 -> 245 (same lever, same days off)
+   released Rs 65.67 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-B no negative release  (released 65.67)
+ASSERT PASS  S-B interest = 0  (carry 0)
+ASSERT PASS  S-B days x valueOfADay = simulate release  (30 x 2.1888 = 65.67 vs simulate 65.67; in bounds true)
+ASSERT PASS  S-B priceLevers carry = 0  (carry 0)
+S-C inventory 10-day step (inventory days' basis not stated; valued at income per day, so approximate)
+   dio: 81 -> 71 days (moved -10), cash released once Rs 21.89 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 81 days
+   gross current asset days: 275 -> 265 (same lever, same days off)
+   released Rs 21.89 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-C no negative release  (released 21.89)
+ASSERT PASS  S-C interest = 0  (carry 0)
+ASSERT PASS  S-C days x valueOfADay = simulate release  (10 x 2.1888 = 21.89 vs simulate 21.89; in bounds true)
+ASSERT PASS  S-C priceLevers carry = 0  (carry 0)
+
+== Payables probe (asked to stretch creditors 61 -> 91 days)
+   dpo: 61 -> 91 (clamped to max 91), cash 65.66547945205478
+ASSERT FAIL  payables never release cash  (released 65.66547945205478)
+
+1 ASSERT(S) FAILED
+exit=1
+
+######## CLEAN RUN
+== Inputs
+FY25 total operating income (provisional): Rs 798.93 Cr
+Value of a day = 798.93 / 365 = Rs 2.1888 Cr (prints Rs 2.19 Cr); valueOfADay cash 2.1888, carry 0
+FY23 days: collection 71, inventory 81, creditors 61, operating cycle 91, gross current asset days 275
+Terms passed: certification null, payment null, vendor null
+Financing rate: 0% (none disclosed)
+Basis: FY23 days (the latest published) valued at FY25 provisional income per day; on FY23 income the figures would be larger.
+
+== Lever bounds read from leversFor (no terms)
+dio: now 81, min 0, max 121.5, target null, side ours
+dso: now 71, min 0, max 101, target null, side theirs
+dpo: now 61, min 0, max 61, target null, side theirs
+
+== Scenarios: alternatives, never added (S-A and S-C release the same cash through different legs)
+S-A collection 10-day step
+   dso: 71 -> 61 days (moved -10), cash released once Rs 21.89 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 81 days
+   gross current asset days: 275 -> 265 (same lever, same days off)
+   released Rs 21.89 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-A no negative release  (released 21.89)
+ASSERT PASS  S-A interest = 0  (carry 0)
+ASSERT PASS  S-A days x valueOfADay = simulate release  (10 x 2.1888 = 21.89 vs simulate 21.89; in bounds true)
+ASSERT PASS  S-A priceLevers carry = 0  (carry 0)
+S-B collection 30-day step
+   dso: 71 -> 41 days (moved -30), cash released once Rs 65.67 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 61 days
+   gross current asset days: 275 -> 245 (same lever, same days off)
+   released Rs 65.67 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-B no negative release  (released 65.67)
+ASSERT PASS  S-B interest = 0  (carry 0)
+ASSERT PASS  S-B days x valueOfADay = simulate release  (30 x 2.1888 = 65.67 vs simulate 65.67; in bounds true)
+ASSERT PASS  S-B priceLevers carry = 0  (carry 0)
+S-C inventory 10-day step (inventory days' basis not stated; valued at income per day, so approximate)
+   dio: 81 -> 71 days (moved -10), cash released once Rs 21.89 Cr
+   operating cycle (DIO + DSO - DPO): 91 -> 81 days
+   gross current asset days: 275 -> 265 (same lever, same days off)
+   released Rs 21.89 Cr; interest (carry) Rs 0 Cr
+ASSERT PASS  S-C no negative release  (released 21.89)
+ASSERT PASS  S-C interest = 0  (carry 0)
+ASSERT PASS  S-C days x valueOfADay = simulate release  (10 x 2.1888 = 21.89 vs simulate 21.89; in bounds true)
+ASSERT PASS  S-C priceLevers carry = 0  (carry 0)
+
+== Payables probe (asked to stretch creditors 61 -> 91 days)
+   dpo: 61 -> 61 (clamped to max 61), cash 0
+ASSERT PASS  payables never release cash  (released 0)
+
+ALL ASSERTS PASS
+exit=0

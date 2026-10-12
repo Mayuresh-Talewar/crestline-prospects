@@ -1,0 +1,36 @@
+=== BREAK=1 (deliberate break, exit 1 expected)
+FAIL  no negative release: Contract-asset days, 10 days less  released 7.02
+FAIL  no negative release: Contract-asset days, 30 days less  released 21.06
+FAIL  no negative release: DSO, 10 days less  released 7.02
+FAIL  no negative release: DSO, 30 days less  released 21.06
+FAIL  no negative release: COMBINED one run, both legs 10 days less  released 14.04
+FAIL  no negative release: COMBINED one run, both legs 30 days less  released 42.12
+6 CHECK(S) FAILED
+=== BREAK=2 (deliberate break, exit 1 expected)
+FAIL  interest 0 (no rate): Contract-asset days, 10 days less  carry 0.350958904109589
+FAIL  interest 0 (no rate): Contract-asset days, 30 days less  carry 1.052876712328767
+FAIL  interest 0 (no rate): DSO, 10 days less  carry 0.350958904109589
+FAIL  interest 0 (no rate): DSO, 30 days less  carry 1.052876712328767
+FAIL  interest 0 (no rate): COMBINED one run, both legs 10 days less  carry 0.701917808219178
+FAIL  interest 0 (no rate): COMBINED one run, both legs 30 days less  carry 2.105753424657534
+FAIL  priceLevers carry 0 on every lever  
+7 CHECK(S) FAILED
+=== BREAK=3 (deliberate break, exit 1 expected)
+FAIL  cross-check days x per day: Contract-asset days, 10 days less  7.519178 vs 7.019178
+FAIL  cross-check days x per day: Contract-asset days, 30 days less  21.557534 vs 21.057534
+FAIL  cross-check days x per day: DSO, 10 days less  7.519178 vs 7.019178
+FAIL  cross-check days x per day: DSO, 30 days less  21.557534 vs 21.057534
+FAIL  cross-check days x per day: COMBINED one run, both legs 10 days less  14.538356 vs 14.038356
+FAIL  cross-check days x per day: COMBINED one run, both legs 30 days less  42.615068 vs 42.115068
+6 CHECK(S) FAILED
+=== BREAK=4 (deliberate break, exit 1 expected)
+FAIL  payables never release cash  max 19.32
+FAIL  dpo held at today (no vendor terms)  max 100
+2 CHECK(S) FAILED
+=== BREAK=5 (deliberate break, exit 1 expected)
+FAIL  cross-check days x per day: DSO, 10 days less  6.396107 vs 7.019178
+FAIL  cross-check days x per day: DSO, 30 days less  19.188321 vs 21.057534
+FAIL  cross-check days x per day: COMBINED one run, both legs 10 days less  13.415285 vs 14.038356
+FAIL  cross-check days x per day: COMBINED one run, both legs 30 days less  40.245855 vs 42.115068
+FAIL  dso priced at revenue per day  0.6396106849315069
+5 CHECK(S) FAILED

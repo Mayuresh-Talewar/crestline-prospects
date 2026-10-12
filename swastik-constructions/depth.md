@@ -1,0 +1,3 @@
+# Depth: Swastik Constructions
+Respect first: a 2004 Mumbai water-works firm that grew operating income from Rs 252.23 Cr to Rs 393.63 Cr in FY25, kept debt/equity at 0.50x and won an upgrade to BBB/A3+ (Acuite, 30 Jan 2026) with a Rs 1,136.52 Cr order book.
+Question: gross current assets rose from 39 to 106 days in a year, with debtors at only 22 days. Acuite attributes it to other current assets, retention Rs 26.55 Cr, and debtors. Where does that money wait: which scheme, which certificate, which desk? The accounts do not say. Creditors at 157 days (154) show the suppliers carry the growth.

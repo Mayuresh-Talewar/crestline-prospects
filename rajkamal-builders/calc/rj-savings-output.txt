@@ -1,0 +1,43 @@
+Basis: FY25 provisional combined total operating income Rs 485.32 Cr (Infomerics 29 Sep 2025 p6), four group entities
+Value of a day = 485.32 / 365 = Rs 1.329644 Cr (valueOfADay cash 1.3296438356164384, carry 0)
+Operating cycle (combined): FY24 103 days, FY25 prov 137 days, lengthening 34 days
+
+Levers the simulator exposes: dso (137 days, bounds 0 to 191.79999999999998)
+
+Scenario | days | cash released once (Rs Cr) | carry a year | cycle after
+Ten days less | 10 | 13.30 | 0.00 | 127
+Thirty days less | 30 | 39.89 | 0.00 | 107
+What the extra 34 days hold | 34 | 45.21 | 0.00 | 103
+
+LEVER TABLE
+Lever | Priced | Basis or reason
+Days of the operating cycle (one wait) | Yes, 10 / 30 / 34 days | value of a day = 485.32 / 365; combined; no interest
+Receivables (DSO) | No | no receivable balance or DSO published; agency range of 30 to 60 days is a generalisation, not the company's measure, not used
+Contract assets / unbilled (certification wait) | No | no figure published
+Retention | No | no balance and no release basis published
+Site stock (DIO) | No | no stock cost base published
+Payables (DPO) | No | no payables and no vendor terms published; paying later is never cash released
+Interest / carry | No | no borrowing rate published
+Combined scenario | No | the cycle is a single wait; nothing to combine
+
+RESULT: all asserts passed
+
+BREAK TESTS (each assert broken once, failed visibly):
+BREAK=1
+ASSERT FAILED: Ten days less: negative release
+ASSERT FAILED: Ten days less: simulate -13.296438356164384 vs days x per day 13.296438356164384
+ASSERT FAILED: Ten days less: valueOfADay disagrees
+BREAK=2
+ASSERT FAILED: Ten days less: interest 1.1966794520547945 not zero
+ASSERT FAILED: Thirty days less: interest 3.5900383561643836 not zero
+ASSERT FAILED: What the extra 34 days hold: interest 4.068710136986301 not zero
+BREAK=3
+ASSERT FAILED: sabotaged: 11 days vs 10
+RESULT: FAILED
+BREAK=4
+ASSERT FAILED: payables released cash (sabotaged check)
+RESULT: FAILED
+BREAK=5
+ASSERT FAILED: Ten days less: simulate 13.48111111111111 vs days x per day 13.296438356164384
+ASSERT FAILED: Ten days less: valueOfADay disagrees
+ASSERT FAILED: Thirty days less: simulate 40.44333333333333 vs days x per day 39.889315068493154

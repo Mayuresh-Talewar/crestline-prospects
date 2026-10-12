@@ -1,0 +1,13 @@
+Basis: operating income FY24 Rs 587.54 Cr / 365 = Rs 1.609699 Cr per day
+valueOfADay cash = 1.6096986301369862, carry = 0
+10 days: Rs 16.10 Cr released once
+30 days: Rs 48.29 Cr released once
+PASS  no lever priced on a base it does not belong to  levers=0 released=0
+PASS  independent cross-check, 10 days (days x per day vs simulate)  simulate=16.096986 days x per day=16.096986
+PASS  independent cross-check, 30 days (days x per day vs simulate)  simulate=48.290959 days x per day=48.290959
+PASS  no negative release  ten=16.10 thirty=48.29
+PASS  interest = 0 (no disclosed rate)  carry=0 valueOfADay.carry=0
+PASS  payables never release cash (request of 200 days is clamped to the 100-day term)  next=100 released=0
+PASS  basis matches: one source, one year, standalone operating income  per day Rs 1.609699 Cr
+
+ALL ASSERTS PASS

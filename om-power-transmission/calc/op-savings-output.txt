@@ -1,0 +1,52 @@
+=== OP-S23 Om Power Transmission Limited, savings calc ===
+Basis: standalone, audited AR 2025-26, 365 days. Rs Cr.
+Revenue 449.16  per day 1.2306
+Cost of material consumed 237.86  per day 0.6517
+Payables base (materials + project expenses) 347.36  per day 0.9517
+Days: DSO 179.9  contract asset 19.5  DIO 24.4  DPO 129.8
+Cycle DIO + DSO - DPO = 74.5
+
+--- Levers the simulator offers (no terms passed) ---
+dio  now 24.42  min 0.00  max 39.42  perDay 0.6517  balance 15.91  target none
+cad  now 19.54  min 0.00  max 39.54  perDay 1.2306  balance 24.05  target none
+dso  now 179.93  min 0.00  max 251.90  perDay 1.2306  balance 221.42  target none
+dpo  now 129.82  min 0.00  max 129.82  perDay 0.9517  balance 123.55  target none
+toTerms (every leg to its stated term) = {}  (empty: no term is published)
+
+--- One lever at a time (days moved, cash released once, Rs Cr) ---
+dso 10d: now 179.93 -> 169.93  moved -10.00  cash 12.3059  cycle after 64.53    interest 0.0000
+dso 30d: now 179.93 -> 149.93  moved -30.00  cash 36.9177  cycle after 44.53    interest 0.0000
+cad 10d: now 19.54 -> 9.54  moved -10.00  cash 12.3059  cycle after 74.53    interest 0.0000
+cad 30d: now 19.54 -> 0.00  moved -19.54  cash 24.0510  cycle after 74.53  CLAMPED (stops at zero days, not a 30-day scenario)  interest 0.0000
+dio 10d: now 24.42 -> 14.42  moved -10.00  cash 6.5168  cycle after 64.53    interest 0.0000
+dio 30d: now 24.42 -> 0.00  moved -24.42  cash 15.9129  cycle after 50.11  CLAMPED (stops at zero days, not a 30-day scenario)  interest 0.0000
+
+--- ONE combined run: collection, certification and project materials, 10 days each ---
+  dio: 24.42 -> 14.42  cash 6.5168
+  cad: 19.54 -> 9.54  cash 12.3059
+  dso: 179.93 -> 169.93  cash 12.3059
+  dpo: 129.82 -> 129.82  cash 0.0000
+  released once 31.1286   carry 0.0000   cycle 74.53 -> 54.53
+
+valueOfADay(revenue per day, 0%): cash 1.2306  carry 0.0000
+
+--- priceLevers (app ranking) ---
+position builds: cycle days on one clock 212.4; actions returned: material
+  action-material: cash 30.0488  carry 0.0000  days 24.42
+
+--- Asserts ---
+PASS  A1 no negative release on any priced move
+PASS  A2 interest = 0 everywhere (no single rate is published)
+PASS  A3 independent cross-check: days x per day equals simulate, to 1e-9
+PASS  A4 payables never release cash (any raise of DPO is held at today's figure; any cut consumes cash)
+PASS  A5 basis matches: each balance equals its days x its own per-day base
+PASS  A6 clamp: certification 30-day cut stops at zero days (releases the whole 24.05 balance, not 30 x per day)
+PASS  A6b clamp: project materials 30-day cut stops at zero days
+PASS  A7 no lever is priced on a base it does not belong to (stock at materials per day, never revenue per day)
+PASS  A8 combined run is one simulate call; cash and a 20-day cycle cut (stock and receivables) reconcile
+PASS  A9 printed days: DSO 179.9, contract asset 19.5, DIO 24.4, DPO 129.8, cycle 74.5
+PASS  A10 priceLevers' material action is priced at revenue per day (30.0 Cr), a different base from simulate (15.91 Cr): NOT used
+
+PriceLevers material action cash 30.0488 (revenue per day base) vs simulate stock balance 15.9129 (cost per day base).
+
+RESULT: ALL PASS

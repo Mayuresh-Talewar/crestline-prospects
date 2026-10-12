@@ -1,0 +1,23 @@
+PER DAY = 2682.2 / 365 = 7.3485 Cr
+DSO = 1222 / PER DAY = 166.2926 days (shown 166.3)
+Clamp bounds read from leversFor: dso min=0.00 (term null so floor 0), max=232.81, target=null
+DSO 10 days less: 166.3 -> 156.3 days, cash released once Rs 73.48 Cr, carry Rs 0.00 Cr (no rate)
+DSO 30 days less: 166.3 -> 136.3 days, cash released once Rs 220.45 Cr, carry Rs 0.00 Cr (no rate)
+To the stated term: toTerms = {} (no client payment term published, NOT PRICED)
+Payables: dpo lever present = false; cash from any dpo ask = 0
+Basis check: balance 1222 / perDay = 166.2926 days; perDay base = FY2026 operating income / 365
+priceLevers ranking: #1 action-collection cash 220.45 Cr carry 0.00
+
+LEVER TABLE
+| Lever | Status | Reason |
+|---|---|---|
+| Receivables (collection, DSO 166.3) | PRICED at 10 and 30 days | gross debtors 1222 Cr over FY2026 operating income per day 7.35 Cr; 10 days Rs 73.48 Cr, 30 days Rs 220.45 Cr, released once |
+| Receivables, to the stated term | NOT PRICED | no client payment term published (ICRA gives no days) |
+| Contract assets / unbilled (certification) | NOT PRICED | no contract-asset balance or certification window published |
+| Retention | NOT PRICED | no balance and no release basis published (ICRA names retention money only as a guarantee purpose) |
+| Site stock (DIO) | NOT PRICED | no stock balance and no materials-consumed or cost base published |
+| Vendor credit (DPO) | NOT PRICED | no payables, vendor terms or cost base published; paying later is never a saving |
+| Interest / carry | NOT PRICED | no borrowing rate disclosed |
+| Combined scenario | NOT RUN | one priceable lever only; a combined run would equal the single lever |
+
+ALL ASSERTS PASSED

@@ -1,0 +1,54 @@
+FY22 rev+other=11269.55 published TI=11269.55 diff=0.00 | other income share of TI=2.2% | PAT/TI=3.17% PAT/rev=3.25% | finance cost/rev=3.85%
+FY23 rev+other=12844.09 published TI=12844.09 diff=0.00 | other income share of TI=1.6% | PAT/TI=3.20% PAT/rev=3.25% | finance cost/rev=3.53%
+FY24 rev+other=13646.87 published TI=13646.87 diff=0.00 | other income share of TI=2.8% | PAT/TI=3.30% PAT/rev=3.39% | finance cost/rev=4.35%
+FY25 rev+other=13022.77 published TI=13022.77 diff=0.00 | other income share of TI=3.6% | PAT/TI=3.74% PAT/rev=3.88% | finance cost/rev=5.01%
+FY26 rev+other=12322.10 published TI=12322.10 diff=-0.00 | other income share of TI=3.0% | PAT/TI=2.03% PAT/rev=2.10% | finance cost/rev=5.64%
+Rev from ops YoY FY26 vs FY25: -4.78%; TI YoY: -5.38%
+Rev from ops FY26 vs FY24: -9.94%
+FY22 EBITDA 1068.6 / TI 11269.5 = 9.48%
+FY23 EBITDA 1373.8 / TI 12844.1 = 10.70%
+FY24 EBITDA 1583.1 / TI 13646.9 = 11.60%
+FY25 EBITDA 1662.0 / TI 13022.8 = 12.76%
+FY26 EBITDA 1439.0 / TI 12322.1 = 11.68%
+FY26 EBITDA bridge: Board report 1,362.26 + labour code 76.51 = 1438.77 (company 1,439)
+Gross borrowings incl acceptances FY26 3538.27 FY25 2235.72 FY24 2455.01
+Acceptances 259.67 as % of FY26 gross borrowings: 7.3%
+Net debt ex leases FY26 = 2652.38 ; FY25 = 1465.16 (mgmt said 2,653 / 1,486)
+Net debt (AR def, incl leases) FY26 2741.02 / equity 5450.58 = 0.50x ; ex leases 0.49x
+Gross debt / total equity FY26 0.65x FY25 0.42x
+Trade receivables net: FY26 4038.09 FY25 3458.23 FY24 3620.19
+Contract assets net: FY26 7731.50 FY25 7095.76 FY24 5225.40
+TR+CA net: FY26 11769.59 FY25 10553.99 FY24 8845.59
+CA gross FY26 8015.04 (ECL 283.54)
+FY26 ageing buckets [1184.92, 888.97, 143.56, 723.51, 405.08, 973.75] total 4319.79 (printed subtotal 4319.79)
+FY26 not due 27.4% | <6m 20.6% | 6m-1y 3.3% | >1y 48.7% | >2y 31.9%
+FY26 disputed total 1167.16 = 27.0% of gross
+FY26 row totals vs printed: [2836.52, 84.74, 217.38, 13.99, 595.0, 6.0, 389.19, 176.97]
+FY25 ageing buckets [1113.44, 907.04, 201.33, 302.97, 260.11, 819.88] total 3604.77 (printed subtotal 3604.77)
+FY25 not due 30.9% | <6m 25.2% | 6m-1y 5.6% | >1y 38.4% | >2y 30.0%
+FY25 disputed total 970.09 = 26.9% of gross
+FY25 row totals vs printed: [2312.64, 44.27, 257.35, 20.42, 466.68, 4.77, 421.56, 77.08]
+ECL FY26 281.70 = 6.5% of gross receivables; FY25 146.54 = 4.1%
+Payables FY26 buckets [1824.62, 1793.87, 289.02, 238.81, 324.36] total 4470.68 (BS 4042.77+427.91=4470.68)
+Payables FY26 not due 40.8% | <1y 40.1% | >1y 19.1%
+Payables FY25 total 3975.13 (BS 3975.13) not due 33.1%
+Advances from customers FY26 3814.01 FY25 4425.24 ; contract liabilities total FY26 4094.00 FY25 4773.99
+FY22 retention receivables Rs cr 1192.07
+FY23 retention receivables Rs cr 1119.41
+FY24 retention receivables Rs cr 1096.61
+Total TR incl arbitration interest FY24 RHP 4009.87 ; BS check FY24 TR (cur+nc) 3620.19
+FY26: WC outflow = cash generated 110.00 - OPBWC 1702.20 = -1592.20 ; FY25 = 108.12-1630.93 = -1522.81
+2-yr cumulative CFO FY25+FY26 = -259.69
+Finance costs paid FY26 669.86, FY25 627.02
+Overseas share of revenue FY26 28.0% FY25 30.7%
+Segment PBT FY26 India 74.73 / Other 609.20 : India share of rev 72.0%, of segment PBT 10.9%
+Segment PBT margin FY26 India 0.87% Other 18.19% ; FY25 India 4.23% Other 15.70%
+Order book roll Q1FY27: 32496 + 13219 inflow - 43290 closing = 2425 (executed + adjustments); Q1FY27 rev from ops 2671.00
+Book-to-bill Q1FY27 as company says 3.8x; 13219/2727 = 4.85
+OB sums Mar26 32496 Jun26 43290 Sep25 32682
+FY26 inflow 4125 / FY26 TI 12322 = 0.33x ; OB Mar26 / FY26 TI = 2.64x
+NWC days FY24->FY26 change: +80 days
+Finance cost Q1FY27 173.05 / rev from ops 2671.00 = 6.48% ; consolidated PBT 50.59
+Mar26 mix %%: [28.6, 23.3, 22.8, 14.7, 8.9, 1.6]
+Jun26 mix %%: [20.6, 16.2, 16.4, 22.0, 23.8, 1.0]
+Sep25 mix %%: [31.8, 22.5, 25.0, 13.2, 5.5, 2.0]

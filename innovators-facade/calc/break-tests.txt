@@ -1,0 +1,18 @@
+== break neg ==
+AssertionError [ERR_ASSERTION]: negative release: -623.33
+exit: 1
+== break rate ==
+AssertionError [ERR_ASSERTION]: interest must be 0: no single borrowing rate is disclosed
+exit: 1
+== break dpo ==
+AssertionError [ERR_ASSERTION]: payables released cash: 417.25
+exit: 1
+== break xcheck ==
+AssertionError [ERR_ASSERTION]: cross-check failed for cad 10: 623.33 vs 629.56
+exit: 1
+== break basis ==
+AssertionError [ERR_ASSERTION]: cross-check failed for dio 10: 324.50 vs 623.33
+exit: 1
+== break days ==
+AssertionError [ERR_ASSERTION]: FY26 days differ from the printed figures: 67.9,68,271.1,152.8,254.2 vs 67.2,68,271.1,152.8,253.5
+exit: 1

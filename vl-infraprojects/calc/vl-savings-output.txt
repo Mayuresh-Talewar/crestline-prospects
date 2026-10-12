@@ -1,0 +1,83 @@
+== Inputs ==
+revenue per day      = 149.74/365 = 0.410247 Cr
+materials per day    = 56.41/365 = 0.154548 Cr
+purchases per day    = 127.18/365 = 0.348431 Cr (vendor leg, held, never priced)
+valueOfADay(rev/day, 0%) -> cash 0.410247 Cr, carry 0
+
+== Clamp bounds read from leversFor (no terms passed) ==
+dio  now 59.4  min 0  max 89.10  target null  perDay 0.154548
+cad  now 120.8  min 0  max 169.12  target null  perDay 0.410247
+dso  now 56.4  min 0  max 86.40  target null  perDay 0.410247
+dpo  now 38.5  min 0  max 38.50  target null  perDay 0.348431
+
+== Days recomputed from balances (basis match) ==
+dio: 59.40 days from balance, published 59.4
+cad: 120.75 days from balance, published 120.8
+dso: 56.36 days from balance, published 56.4
+dpo: 38.49 days from balance, published 38.5
+PASS  ASSERT basis: balance / own per-day base reproduces each published day within 0.06
+PASS  ASSERT base: certification and collection both priced on revenue per day
+PASS  ASSERT base: stock priced on materials consumed per day, never revenue per day
+
+== Single levers (simulate) ==
+cad -10d: 120.8 -> 110.8 days  moved -10.0  released 4.1025 Cr  independent 4.1025  carry 0
+PASS  ASSERT no clamp: cad -10 lands on 110.8 (min 0, max 169.12)
+PASS  ASSERT cross-check: cad -10 simulate = days x per day (4.1025)
+PASS  ASSERT interest = 0 for cad -10
+cad -30d: 120.8 -> 90.8 days  moved -30.0  released 12.3074 Cr  independent 12.3074  carry 0
+PASS  ASSERT no clamp: cad -30 lands on 90.8 (min 0, max 169.12)
+PASS  ASSERT cross-check: cad -30 simulate = days x per day (12.3074)
+PASS  ASSERT interest = 0 for cad -30
+dso -10d: 56.4 -> 46.4 days  moved -10.0  released 4.1025 Cr  independent 4.1025  carry 0
+PASS  ASSERT no clamp: dso -10 lands on 46.4 (min 0, max 86.40)
+PASS  ASSERT cross-check: dso -10 simulate = days x per day (4.1025)
+PASS  ASSERT interest = 0 for dso -10
+dso -30d: 56.4 -> 26.4 days  moved -30.0  released 12.3074 Cr  independent 12.3074  carry 0
+PASS  ASSERT no clamp: dso -30 lands on 26.4 (min 0, max 86.40)
+PASS  ASSERT cross-check: dso -30 simulate = days x per day (12.3074)
+PASS  ASSERT interest = 0 for dso -30
+dio -10d: 59.4 -> 49.4 days  moved -10.0  released 1.5455 Cr  independent 1.5455  carry 0
+PASS  ASSERT no clamp: dio -10 lands on 49.4 (min 0, max 89.10)
+PASS  ASSERT cross-check: dio -10 simulate = days x per day (1.5455)
+PASS  ASSERT interest = 0 for dio -10
+dio -30d: 59.4 -> 29.4 days  moved -30.0  released 4.6364 Cr  independent 4.6364  carry 0
+PASS  ASSERT no clamp: dio -30 lands on 29.4 (min 0, max 89.10)
+PASS  ASSERT cross-check: dio -30 simulate = days x per day (4.6364)
+PASS  ASSERT interest = 0 for dio -30
+PASS  ASSERT no negative release in any single-lever run
+
+== Combined runs (one simulate call, all three legs moved together) ==
+all three -10d: released 9.7504 Cr (independent 9.7504)  cycle 77.3 -> 57.3  gap 198.1 -> 168.1  carry 0
+PASS  ASSERT combined -10: simulate = independent sum of its own legs
+PASS  ASSERT combined -10: release not negative, interest 0
+all three -30d: released 29.2512 Cr (independent 29.2512)  cycle 77.3 -> 17.3  gap 198.1 -> 108.1  carry 0
+PASS  ASSERT combined -30: simulate = independent sum of its own legs
+PASS  ASSERT combined -30: release not negative, interest 0
+
+== Payables probe: push vendor credit UP 20 days, and cut certification 500 days ==
+dpo asked 58.5 -> 38.5 (max 38.5), cash 0
+cad asked -379.2 -> 0.0 (min 0), cash 49.5578
+PASS  ASSERT payables never release cash: held at 38.5 with no terms, cash 0, in every run
+PASS  ASSERT clamp: certification cannot go below its floor (0, no window published)
+
+== Cycle (simulator's own arithmetic) ==
+DIO 59.4 + DSO 56.4 - DPO 38.5 = cycle 77.3; plus built-waiting 120.8 = gap 198.1
+PASS  ASSERT cycle = DIO + DSO - DPO
+PASS  ASSERT gap = cycle + certification days
+GCA = 8946.40 / (14973.56/365) = 218.08 days (separate measure, never added)
+PASS  ASSERT GCA 218.1
+
+== LEVER TABLE ==
+Lever                       | Priced    | Base and bounds                               | Result / reason
+Certification (unbilled)    | YES       | revenue per day 0.4102; no window published, floor 0| 10d 4.10 Cr, 30d 12.31 Cr
+Collection (receivables)    | YES       | revenue per day 0.4102; no term published, floor 0| 10d 4.10 Cr, 30d 12.31 Cr
+Site stock (materials)      | YES       | materials consumed per day 0.1545             | 10d 1.55 Cr, 30d 4.64 Cr
+Vendor credit (DPO)         | NO        | no vendor terms published; ceiling = today's 38.5| held; paying later is never cash released
+Retention                   | NO        | no single balance and no release basis in the filings| not priced, not printed
+Interest / carry            | NO        | no single borrowing rate disclosed (rate 0 passed)| interest = 0
+Customer advances           | NO        | none outstanding at 31 Mar 2026               | no lever
+To a stated term            | NO        | no payment term, no certification window published| no 'to term' scenario
+Ranking: cash released once at each step. Certification and collection tie (same revenue per day);
+certification is listed first because the step is ours to make. Stock is third. priceLevers not run: it needs a built CyclePosition and the rate is 0.
+
+ALL ASSERTS PASSED

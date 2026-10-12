@@ -1,0 +1,67 @@
+Financial Statements                                                                                                                   Notes forming part of the Standalone Financial Statement
+
+Notes forming part of the Standalone Financial Statement                                                                               for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026                                                                                                    56. Exceptional Items for the year ended 31st March, 2026 include:
+
+54.The amount outstanding to Micro, Small and Medium Enterprises is based on the information received and available                    (i)On 21st November, 2025, the Government of India notified four new Labour Codes. The Ministry of Labour &
+                                                                                                                                                     Employment published draft Central Rules and FAQs to enable assessment of the financial impact due to changes
+       with the company.                                                                                                                             in regulations. The Company has assessed and accounted for the incremental impact of these changes with the
+                                                                                                                                                     best information available, and guidance provided by the Institute of Chartered Accountants of India, considering
+Particulars                                                                            2025-26                (H in Crores)                          that the impact is non-recurring in nature and is driven by regulatory changes, the incremental impact of H 29.48
+                                                                                          432.39                   2024-25                           Crore has been disclosed as "Exceptional items" in the Standalone statement of profit and loss for the year ended
+a) The Principal amount remaining unpaid to supplier as at the end of                             -                   266.97                         31st March,2026. The Company continues to monitor the finalization of Central / State Rules and clarifications from
+       accounting year                                                                            -                                                  the Government on other aspects of the Labour Codes and would provide appropriate accounting effect as and
+                                                                                                  -                           -                      when such clarifications are issued / rules are notified.
+b) The interest due thereon remaining unpaid to supplier as at the end of
+       accounting year                                                                                                        -        (ii)On 16th January, 2026, the Company has sold its entire 100% stake in Vindhyachal Expressway Private Limited (VEPL),
+                                                                                                                                                     a wholly owned subsidiary of the Company, to Actis Atlantic Holdings Limited (Actis) for I 215.86 crores that resulted
+c) The amount of interest paid in terms of Section 16, along with the amounts of                                              -                      in a gain of H 188.36 Crores and the same has been disclosed as an exceptional item in the statement of profit
+       the payment made to the supplier beyond the appointed day during the year                                                                     and loss for the year ended 31st March, 2026. Consequently, VEPL ceased to be a subsidiary with effect from the
+                                                                                       1.28                   7.47                                   said date.
+d) The amount of interest due and payable for the period of delay in making
+       payment (which have been paid but beyond the appointed day during the                               -  -                        (iii)Fasttel Engenharia S.A. ("Fasttel"), a step-down wholly owned subsidiary of the Company, filed an application
+       year) but without adding the interest specified under this Act.                                                                               on 05th March, 2026 for Judicial Reorganization under the applicable laws in Brazil. Considering the initiation of
+                                                                                                                                                     proceedings under Judicial Reorganization, investments in and loans extended to Fasttel by Estrela Reluzente
+e) The amount of interest accrued during the year and remaining unpaid at the                                                                        Participaes S.A. ("Estrela"), the immediate holding company of Fasttel, have been assessed as not recoverable
+       end of the accounting year                                                                                                                    and accordingly the same have been fully provided for in the books of Estrela. Pursuant thereto, the Company
+                                                                                                                                                     has also fully impaired / provided for its investments in, loans extended to, and receivables from Estrela and
+f) The amount of further interest remaining due and payable even in the                                                                              Fasttel, aggregating to H 515.04 Crores. Fasttel has filed Judicial Reorganization plan and related proceedings are
+       succeeding years, until such date when the interest dues as above are actually                                                                in process which are subject to requisite consents and approval. The Company does not anticipate any further
+       paid to the small enterprise, for the purpose of disallowance as a deductible                                                                 material financial impact going forward.
+       expenditure.
+                                                                                                                                       Exceptional Items for the year ended 31st March, 2025 includes
+55.The Consolidated financial statements of the Company contain segment information as per Ind AS 108 - Operating
+                                                                                                                                       Provision of H 33 crore for towards impairment in value of its investments in one of its subsidiary company namely Shree
+       Segments accordingly separate segment information is not included in the Standalone financial statements.                              Shubham Logistics Limited due to changes in market conditions. Provision for impairment of investment was recognised
+                                                                                                                                              to the extent the recoverable value of investments was lower than the carrying value of investments. The recoverable
+Further, The company operates in Geographical Segment - India (Country of Domicile) and Outside India.                                        value of investments was determined using significant judgments on growth in revenue, EBITDA and discount rates.
+                                                                                                                                              Provision for impairment of investments in subsidiary company has been presented as an Exceptional Item.
+Segment Information
+                                                                                                                                       57.Performance obligations unsatisfied or partially satisfied amounts to H 62,199 crores (previous year H 60,059 crores) as
+(a) Revenue from Operations
+                                                                                                                                              at 31st March, 2026 for which revenue is expected to be recognized in future over the period of 1 to 6 years.
+Particulars                                                                      For the Year ended                  (H in Crores)
+                                                                                     31st March, 2026      For the Year ended
+Within India
+Outside India                                                                                   16,243.29      31st March, 2025
+TOTAL                                                                                                                       13,131.82
+                                                                                                 6,966.77                  5,756.09
+
+                                                                                               23,210.06                  18,887.91
+
+(b) Non-Current Assets*
+
+Particulars                                                                                       As at             (H in Crores)
+                                                                                 31st March, 2026                              As at
+Within India
+Outside India                                                                                  2,321.74       31st March, 2025
+TOTAL                                                                                                                      1,763.67
+*Excludes Intangible assets, Goodwill, Financial Assets and Deferred tax Asset.                 328.75                       293.56
+                                                                                                                          2,057.23
+                                                                                            2,650.49
+
+55.1Revenue from major customers - Public sector undertakings in India, is H 9,656.03 Crores (previous year H 7,867.70 Crores).
+       Revenue from other individual customer is less than 10% of total revenue.
+
+342 Kalpataru Projects International Limited                                                                                           Integrated Annual Report 2025-26 343

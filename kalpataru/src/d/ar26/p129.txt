@@ -1,0 +1,74 @@
+Statutory Reports
+
+Business Responsibility and Sustainability Report (BRSR)
+
+***Note: The water consumption intensity for the prior period has been restated. To align with best practices, the calculation now uses total  5.Does the entity have a business continuity and disaster management plan? Give details in 100 words/
+        organizational revenue as the denominator, providing a more accurate and holistic measure of company-wide efficiency.                        web link.
+
+Note: Indicate if any independent assessment/ evaluation has been carried out by an external agency? (Y/N) If yes, name of the external        In the current year, KPIL continues to implement and strengthen its comprehensive Emergency Preparedness and
+        agency - No, independent reasonable assurance has been undertaken for this parameter                                                          Response Plan across all project sites and business operations. The plan outlines clear guidelines, procedures and
+                                                                                                                                                      action plans to promptly address and mitigate risks arising from events such as process hazards and natural disasters.
+2. Please provide details of total Scope 3 emissions and its intensity, in the following format:
+                                                                                                                                               Structured response mechanisms are in place to manage major disruptions, ensure effective risk mitigation and
+Parameter                                                    Please specify unit       FY 2026              FY 2025                                   enable timely restoration of operations. Regular training and awareness programmes are conducted for employees
+                                                                                  4,860,723.1                       -                                 and workers, covering emergency signaling systems, defined roles and responsibilities, assembly points, evacuation
+Total Scope 3 emissions (Break-up of the GHG into CO2, CH4,  tCO2e                                                                                    procedures and medical arrangements.
+N2O, HFCs, PFCs, SF6, NF3, if available)                                               209.42                       -
+                                                                                        343.61                      -                          KPIL's systems and procedures are designed to proactively address operational and disasterrelated risks, supported
+Total Scope 3 emissions per rupee of turnover                tCO2e/INR Cr.                                                                            by established bestpractice guidelines to ensure preparedness, response readiness and business continuity.
+
+Total Scope 3 emission intensity (optional)  the relevant metric tCO2e/employee
+may be selected by the entity
+
+Note: In this reporting cycle, we have expanded our GHG accounting to include Scope 3 emissions. The emissions were calculated using           6. D isclose any significant adverse impact to the environment, arising from the value chain of the entity.
+        methodologies given in the GHG Protocol and the results have been independently verified by SGS India Private Limited.                       What mitigation or adaptation measures have been taken by the entity in this regard?
+
+3.With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above,                                      No significant risks/concerns have been raised during the year. The Company ensures that the contractors, vendors,
+      provide details of significant direct and indirect impact of the entity on biodiversity in such areas along-                                    suppliers comply with policies and guidelines including need for compliance with various regulations and ethical
+      with prevention and remediation activities.                                                                                                     practices including environmental regulations.
+
+Not Applicable
+
+4. If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve                                 7.Percentage of value chain partners (by value of business done with such partners) that were assessed for
+      resource efficiency, or reduce impact due to emissions/effluent discharge/waste generated, please                                              environmental impacts.
+      provide details of the same as well as outcome of such initiatives, as per the following format:
+                                                                                                                                               KPIL has identified 111+ critical supply chain partners. Of these, 28 suppliers, representing 37.18% of the business value,
+Sr.  Initiative undertaken  Details of the initiative (Web-link, if any, may be  Outcome of the initiative                                            that were assessed during the year for environmental impacts. The Company ensures that all key suppliers comply with
+No.                         provided along-with summary)                                                                                              its Supplier Code of Conduct, which includes specific environmental requirements. Vendor due diligence is conducted
+                                                                                                                                                      both at the time of onboarding and annually thereafter, using a structured evaluation and scorecard approach that
+1 Solar PV (Uniara Power Commercial operations of the                            Generated and exported ~5049 MWh                                     covers quality, traceability, and HSE parameters. These efforts reflect KPIL's strong commitment to ESG integration and
+                                                                                 renewable electricity to grid avoiding ~ 3,690                       to reinforcing environmental responsibility across its value chain.
+     Plant)                 commissioned 3 MWp solar power plant                 tCO2e emissions.
+                                                                                 Annual energy savings of ~408 MWh and
+                            commenced in April 2025.                             reduced diesel use.
+
+2 Energyefficient           Introduced battery forklifts, LED lighting,
+
+     Equipment (Raipur Plant) BLDC fans, and improved power factor.                                                                            8.How many Green Credits have been generated or procured:
+
+3 Buildings & Factories    Added 890 solar lights across project sites Cut ~190 tCO2e emissions and saved ~267                                i.   b y the listed Entity: No Green Credits were generated or procured by the Company during FY 202526. The Green
+       Solar & BLDC                                                                             MWh electricity annually.                           Credits programme of the Ministry of Environment, Forests and Climate Change (MoEFCC) currently does not
+                                                                                                                                                    permit participation by private companies, and therefore the Company has not engaged in this mechanism.
+4 Biomass Power Plant       Replaced old compressors with VSD units, Annual energy savings of ~206 MWh with
+
+     (Uniara)  Compressor & upgraded cooling water pump motor, and cost savings exceeding 19.6 lakh.
+
+     Motor Upgrade          installed lightweight epoxy cooling tower                                                                          ii.  b y the top ten (in terms of value of purchases and sales, respectively) value chain partners: A few value chain
+                                                                                                                                                    partners, particularly public sector enterprises, had applied for and paid towards the procurement of Green Credits.
+                            blades.                                                                                                                 However, no Green Credits were credited to their accounts during FY 202526.
+
+5 Nagpur Metro  Ground Redesigned GSS for taller piers using FEM                Saved ~21 MT steel, avoided ~55.92 lakh
+                                                                                 cost, and reduced fabrication time.
+     Support System         analysis.
+
+6 CustomEngineered          Mechanized, tailormade systems                       Optimized plywood/timber use, saved
+       Formwork             embedding Lean Construction.                         ~90,733 MT material, and related costs, cut
+                                                                                 ~69,412 MT CO2.
+7 Water Conservation       Utilized 3,01,485 liters of curing compounds         Conserved ~3,769 Kilo litres of water and
+       Curing Compounds     with drone based monitoring to track                 improved operational timelines.
+                            application efficiency.
+
+8 Portable Ladder System Designed modular steel ladder for quick                 Saved ~20 lakh, reduced workman hours,
+                                                assembly and reuse.              and boosted site productivity.
+
+252 Kalpataru Projects International Limited                                                                                                                                                              Integrated Annual Report 2025-26 253

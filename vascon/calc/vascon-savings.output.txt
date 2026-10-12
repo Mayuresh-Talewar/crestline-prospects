@@ -1,0 +1,43 @@
+VASCON ENGINEERS: savings scenarios on Crestline's pure functions (simulate, leversFor, toTerms, valueOfADay, priceLevers)
+Per day = consolidated revenue from operations FY26 Rs 948.53 Cr / 365 = Rs 2.5987 Cr a day (EPC is 96.6% of it).
+Real-estate inventory (591 -> 737) is OUT of every scenario. Rows overlap; never add them. Scenarios, not promises.
+Interest at Vascon's disclosed cash-credit range 9.65%-10.95% (AR26 PDF p103, consolidated), only where the cash repays debt.
+
+Booklet interest only where cash <= Rs 76 Cr fund-based (cash-credit) limits drawn at 30 Jun 2026 (Q1D27 p6), the debt the disclosed rate applies to.
+Above that, interest is INDICATIVE (other debt carries 6.20%-13.50%) and is capped at FY26 finance cost Rs 16.2 Cr: nobody saves more interest than they paid.
+group | scenario | days | cash Rs Cr | interest Rs Cr/yr @9.65 - @10.95 | % of PAT 48.90 | % of PBT 65.08 | booklet interest?
+Unbilled (contract assets, standalone) | 10-day step | 10.0 | 25.99 | 2.51 - 2.85 | 5.1-5.8% | 3.9-4.4% | yes
+Unbilled (contract assets, standalone) | 30-day step | 30.0 | 77.96 | 7.52 - 8.54 | 15.4-17.5% | 11.6-13.1% | NO, indicative
+Unbilled (contract assets, standalone) | back to FY24 days of revenue (143.7 d) | 73.1 | 189.96 | 16.20 - 16.20 (capped at finance cost) | 33.1-33.1% | 24.9-24.9% | NO, indicative
+Unbilled (contract assets, standalone) | back to the FY24 balance (Rs 300.64 Cr) | 101.2 | 262.87 | 16.20 - 16.20 (capped at finance cost) | 33.1-33.1% | 24.9-24.9% | NO, indicative
+Receivables incl. retention (consolidated) | 10-day step | 10.0 | 25.99 | 2.51 - 2.85 | 5.1-5.8% | 3.9-4.4% | yes
+Receivables incl. retention (consolidated) | 30-day step | 30.0 | 77.96 | 7.52 - 8.54 | 15.4-17.5% | 11.6-13.1% | NO, indicative
+Retention (standalone) | 10-day step | 10.0 | 25.99 | 2.51 - 2.85 | 5.1-5.8% | 3.9-4.4% | yes
+Retention (standalone) | held to revenue growth since FY23 (29.3 d) | 11.9 | 30.96 | 2.99 - 3.39 | 6.1-6.9% | 4.6-5.2% | yes
+Overall NWC cycle | 10-day step | 10.0 | 25.99 | 2.51 - 2.85 | 5.1-5.8% | 3.9-4.4% | yes
+Overall NWC cycle | 30-day step | 30.0 | 77.96 | 7.52 - 8.54 | 15.4-17.5% | 11.6-13.1% | NO, indicative
+Overall NWC cycle | CFO's description: 65 back to 45 | 20.0 | 51.97 | 5.02 - 5.69 | 10.3-11.6% | 7.7-8.7% | yes
+Overall NWC cycle | CFO's description: 70 back to 45 | 25.0 | 64.97 | 6.27 - 7.11 | 12.8-14.5% | 9.6-10.9% | yes
+
+Today's days (balance / per day):
+  unbilled standalone 563.51 / 2.5987 = 216.8 d; FY24 300.64 / (763.4/365) = 143.7 d
+  receivables consolidated 238.30 / 2.5987 = 91.7 d
+  retention standalone 107.18 / 2.5987 = 41.2 d; FY23 61.67 / (767.47/365) = 29.3 d
+  retention growth FY22 -> FY26: 45.26 -> 107.18 = +136.8%; FY23 -> FY26 +73.8% vs standalone revenue +23.6%
+  unbilled growth FY24 -> FY26: 300.64 -> 563.51 = +87.4%
+
+Terms scenario: billed debtors ex-retention (standalone 238.10 - 107.18 = 130.92) = 50.4 d against the 60-day average credit period: toTerms releases Rs 0.00 Cr (already inside). The excess over terms is retention and unbilled, not billed debtors.
+  note: simulate() on this leg clamps UP to the 60-day floor and reports Rs -25.00 Cr; toTerms() is the correct call and gives 0.
+
+Visibility only, no saving:
+  payables over 1 year: 150.80 / 641.35 = 23.5% (standalone ageing, from date of transaction)
+  supplier finance outstanding Rs 104.33 Cr = 16.3% of standalone trade payables. Paying vendors later is never a saving; vendor leg asserted held.
+
+Cross-check only, our computation, NOT their rate: finance cost 16.2 / average borrowings ((205+298.6)/2 = 251.80) = 6.43%. Not used.
+Interest is below EBITDA: it moves PBT and PAT, never EBITDA margin.
+
+priceLevers ranking @9.65% (overlapping options, never added):
+  1. Bring unbilled work back to FY24 days of revenue: cash Rs 189.96 Cr, carry Rs 18.33 Cr/yr, 73.1 d, ours=false
+  2. Release the retention that has already met its milestone: cash Rs 30.96 Cr, carry Rs 2.99 Cr/yr, 11.9 d, ours=false
+
+ALL ASSERTS PASSED: vendor days never stretched past terms; terms null => no clamps; cash = step x per day.

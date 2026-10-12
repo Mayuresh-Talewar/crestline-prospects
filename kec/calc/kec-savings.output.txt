@@ -1,0 +1,50 @@
+== Opening position (Crestline arithmetic, 365-day, closing balances, FY26) ==
+revenue/day 64.40 | material/day 31.70 | cost/day 51.07
+days: contract assets 188.3 | receivables 101.0 | stock (on material) 48.3 | payables incl acceptances (on cost) 212.0
+WC (receivables + contract assets + stock - payables incl acceptances, before contract liabilities) 9,342.0
+rate: finance cost 663.6 / avg(borrowings + acceptances) 6,216.2 = 10.68%
+valueOfADay: cash 64.40 Cr, interest 6.87 Cr/yr
+
+== (1) 10- and 30-day steps per leg (simulate; rows overlap, never add) ==
+Contract assets 188.3 -> 178.3 days (-10)                        cash     644.0 | interest/yr   68.7 @10.68% (44.4-57.3 @ WC-loan range)
+Trade receivables 101.0 -> 91.0 days (-10)                       cash     644.0 | interest/yr   68.7 @10.68% (44.4-57.3 @ WC-loan range)
+KEC NWC 137 -> 127 days (-10), revenue/365 basis                 cash     644.0 | interest/yr   68.7 @10.68% (44.4-57.3 @ WC-loan range)
+Contract assets 188.3 -> 158.3 days (-30)                        cash   1,932.0 | interest/yr  206.2 @10.68% (133.3-171.9 @ WC-loan range)
+Trade receivables 101.0 -> 71.0 days (-30)                       cash   1,932.0 | interest/yr  206.2 @10.68% (133.3-171.9 @ WC-loan range)
+KEC NWC 137 -> 107 days (-30), revenue/365 basis                 cash   1,932.0 | interest/yr  206.2 @10.68% (133.3-171.9 @ WC-loan range)
+
+== (2) Their own targets ==
+NWC 137 -> 110 days (27 days x revenue/day)                      cash   1,738.8 | interest/yr  185.6 @10.68% (120.0-154.8 @ WC-loan range)
+   debt target 6722 -> 5500 = 1222; NWC target alone = 142.3% of it
+From 30 Jun 26: NWC 134 -> 110 days                              cash   1,545.6 | interest/yr  165.0 @10.68% (106.6-137.6 @ WC-loan range)
+   debt still to cut 6568 -> 5500 = 1068; NWC remainder = 144.7% of it
+   interest on the debt cut itself: 130.5 Cr/yr @10.68%
+   growth absorbs: each 1% of revenue growth held at 110 days needs 70.8 Cr (KEC gives no total revenue guidance)
+
+== (3) Old receivables: over-6-month share back to FY25 ==
+over 6 months: FY26 1,227.26 = 18.2% of 6745.05; FY25 463.47 = 9.0% of 5159.92
+Over-6m back to 9.0% of FY26 gross (1,227.26 -> 605.85)          cash     621.4 | interest/yr   66.3 @10.68% (42.9-55.3 @ WC-loan range)
+
+== (4) Retention held to revenue growth ==
+revenue +7.6%, retention +34.1%; retention days 61.3 -> 76.4
+Retention 4,922.51 -> 3,948.27 (FY25 x revenue growth)           cash     974.2 | interest/yr  104.0 @10.68% (67.2-86.7 @ WC-loan range)
+
+== (5) Levers ranked by the app's priceLevers (10-day steps + retention + old receivables) ==
+Release the retention that has already met its milestone         cash     974.2 | interest/yr  104.0 | days 15.1 | ours=false
+Bill and certify executed work 10 days sooner                    cash     644.0 | interest/yr   68.7 | days 10.0 | ours=true
+Collect invoiced receivables 10 days sooner                      cash     644.0 | interest/yr   68.7 | days 10.0 | ours=false
+Collect what the client has already certified                    cash     621.4 | interest/yr   66.3 | days 9.6 | ours=false
+
+== (6) Margin lens (CEO) ==
+effective tax FY26 = 1 - 605.59/789.14 = 23.3%
+10 days of any leg             interest   68.7 | after tax   52.8 =   8.7% of PAT | 0.29 pts of revenue (PBT margin, not EBITDA)
+30 days of any leg             interest  206.2 | after tax  158.3 =  26.1% of PAT | 0.88 pts of revenue (PBT margin, not EBITDA)
+NWC 137 -> 110                 interest  185.6 | after tax  142.4 =  23.5% of PAT | 0.79 pts of revenue (PBT margin, not EBITDA)
+Retention to revenue growth    interest  104.0 | after tax   79.8 =  13.2% of PAT | 0.44 pts of revenue (PBT margin, not EBITDA)
+Over-6m back to FY25 share     interest   66.3 | after tax   50.9 =   8.4% of PAT | 0.28 pts of revenue (PBT margin, not EBITDA)
+
+== Vendors (rule 1: paying later is never a saving) ==
+DPO asked +30: held at 212.0 (no published vendor terms = no ceiling), released 0.0
+Pay 10 days sooner: cash CONSUMED (negative)                     cash    -510.7 | interest/yr  -54.5 @10.68% (-35.2--45.5 @ WC-loan range)
+
+checks passed

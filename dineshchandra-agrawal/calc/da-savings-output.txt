@@ -1,0 +1,16 @@
+== DRAIPL calc: CARE 2 Apr 2026, FY25, 365-day arithmetic (CARE states no day base) ==
+TOI 7116 Cr / 365 = 19.4959 Cr per day
+
+Levers the simulator accepts: dso
+  dso: now 38 d, min 0, max 68, target null, perDay 19.4959, side theirs
+  clamp bounds read: DSO min is 0 because no client term is published (terms.payment null), so the floor does not protect the scenario; the 10-day step is held by ruling, not by the clamp.
+  toTerms (needs a stated term): {}
+
+Scenario (not a forecast), DSO 38 -> 28:
+  moved -10 d, cash released once 194.9589 Cr, carry a year 0.0000 Cr (no rate)
+  cycle now/next: null/null (needs DIO, DSO and DPO, so NA)
+  valueOfADay: cash 19.4959 Cr, carry 0 Cr
+
+Payables probe (request 200 days, no terms): released 0 Cr
+
+ALL ASSERTS PASS. Not priced: DIO (no cost base), GCA (CARE measure, never split), contract assets, retention, DPO (NOT FOUND).

@@ -1,0 +1,9 @@
+Basis: FY23 operating income Rs 186.23 Cr / 365
+PER DAY = 0.510219 Cr (valueOfADay cash 0.5102191780821917, carry 0)
+cad -10d: released 5.1022 Cr | cross-check 5.1022 | carry 0.0000 | moved -10
+cad -30d: released 15.3066 Cr | cross-check 15.3066 | carry 0.0000 | moved -30
+dso -10d: released 5.1022 Cr | cross-check 5.1022 | carry 0.0000 | moved -10
+dso -30d: released 15.3066 Cr | cross-check 15.3066 | carry 0.0000 | moved -30
+dpo +30d: cash 0, released 0
+PRINT: per day Rs 0.51 Cr | 10 days Rs 5.10 Cr | 30 days Rs 15.31 Cr
+ALL ASSERTS PASSED

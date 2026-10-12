@@ -1,0 +1,14 @@
+# A B Infrabuild: sensitive items (GARVIS ONLY, never in the booklet or prompt)
+
+Sources: AR26 (2025-26), AR25, RES26, Acuite 3 Jul 2026. No non-cooperating rating, default, wilful-defaulter finding, insolvency proceeding or one-time settlement found (AR26 p.24-25, CARO ix). Auditor opinion unmodified, no emphasis of matter found.
+
+1. Tax disputes (AR26 note 36 p.99 and CARO vii(b) p.73): Maharashtra sales tax Rs 57.89 lakh (FY17); GST Rs 230.17 lakh (FY24), Rs 933.14 lakh (FY20), Rs 310.20 lakh (FY23). Company has appealed and made part deposits on three. Contingent, not provided. CARO also notes "slight delay in a few cases" of GST, PF, ESI and income tax deposits, and VAT of Rs 11.70 lakh in arrears over six months.
+2. Auditor key audit matter (AR26): "measurement of contract assets in respect of overdue milestones and receivables".
+3. Related parties (AR26 note 33 p.98): loan given to A B Infravision Pvt Ltd (common director) Rs 483.60 lakh closing, interest received Rs 52.38 lakh; subcontract charges given to A B Infravision Rs 8.95 lakh in FY26 (3.94 FY25) with a closing credit balance of Rs 902.57 lakh (709.18 prior year); advance to related party Adhvan Infra LLP Rs 455.50 lakh (within advances to suppliers, note 14.1); Varmine Engineering Pvt Ltd subcontract charges nil in FY26 (29.81 FY25); JV A B Infrabuild Varmine Royal 51%. Director remuneration Rs 138.28 lakh (up from 98.23). All stated to be arm's length and Audit Committee approved.
+4. Receivables quality: over 3 years Rs 791.12 lakh gross (7.5% of gross); credit impaired Rs 130.91 lakh fully provided; "significant increase in credit risk" Rs 3,103.89 lakh (29% of gross) at FY26 against Rs 895.63 lakh FY25 (AR26 note 9).
+5. Rating constraint (Acuite): "intensive working capital operations", reliance on bank limits (~91.95%), tender-based competitive business. Downgrade triggers: revenue below ~Rs 200 Cr or elongation of the working-capital cycle.
+6. Scale: 34 employees including 4 directors for a Rs 256 Cr contractor (AR26 p.28); subcontracting 46% of cost; promoter family on the board (MD Amit Mishra, Executive Director Shivani Mishra).
+7. Disclosure quality inside the annual report: payables ageing totals do not reconcile; capital-management table mislabelled; FY25 cash flow restated (see data.md conflicts). Sign-off page prints "Chief Finance Office".
+8. Interest cover and finance cost: finance cost up 48% to Rs 10.16 Cr; bank guarantees given Rs 48.60 Cr and insurance bonds Rs 24.75 Cr against fixed deposits Rs 22.78 Cr and 2.47 Cr (AR26 note 36e, f).
+9. Namesake: A B Infravision Private Limited is a related party, not this company. No other namesake financials were used.
+10. Promoter pledge and shareholding detail: NOT checked (shareholding-pattern page not read). AR26 note 15 shows holders of 15,11,54,760 shares (23.66%) and 3,45,10,000 (5.40%), names not extracted.

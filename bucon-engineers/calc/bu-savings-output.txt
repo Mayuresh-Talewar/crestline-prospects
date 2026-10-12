@@ -1,0 +1,23 @@
+lever dso: now 290, min 0, max 406, perDay 0.46915068493150686
+per day (Rs Cr) = 171.24 / 365 = 0.46915068493150686
+valueOfADay cash = 0.46915068493150686
+
+== 10 days off GCA 290 -> 280 ==
+released Rs Cr: 4.6915068493150685  (rounded 2dp 4.69)  interest/yr: 0
+PASS no negative release (10d): 4.6915068493150685
+PASS interest zero (10d): 0
+PASS cross-check days x per day (10d): 10 x 0.46915068493150686 = 4.6915068493150685 vs 4.6915068493150685
+PASS valueOfADay agrees (10d): 
+PASS payables never release cash (10d): dpo lever absent or zero; released 0
+PASS basis matches (10d): 0.46915068493150686 vs 0.46915068493150686
+
+== 30 days off GCA 290 -> 260 ==
+released Rs Cr: 14.074520547945205  (rounded 2dp 14.07)  interest/yr: 0
+PASS no negative release (30d): 14.074520547945205
+PASS interest zero (30d): 0
+PASS cross-check days x per day (30d): 30 x 0.46915068493150686 = 14.074520547945205 vs 14.074520547945205
+PASS valueOfADay agrees (30d): 
+PASS payables never release cash (30d): dpo lever absent or zero; released 0
+PASS basis matches (30d): 0.46915068493150686 vs 0.46915068493150686
+
+ALL PASS

@@ -1,0 +1,1150 @@
+
+[[P1]]
+                 "KEC International Limited
+          Q2 & FY '26 Results Conference Call"
+
+                      November 11, 2025
+
+.
+
+MANAGEMENT: MR. VIMAL KEJRIWAL  MANAGING DIRECTOR AND
+                     CHIEF EXECUTIVE OFFICER  KEC INTERNATIONAL
+                     LIMITED
+                     MR. RAJEEV AGARWAL  CHIEF FINANCIAL OFFICER
+                      KEC INTERNATIONAL LIMITED
+
+                                                 Page 1 of 23
+
+[[P2]]
+                               KEC International Limited
+                                       November 11, 2025
+
+Moderator:       Ladies and gentlemen, good day, and welcome to KEC International Limited Q2 and FY '26
+Vimal Kejriwal:  Results Conference Call. We have the management from KEC International Limited joining us
+                 today. Mr. Vimal Kejriwal, Managing Director and CEO; Mr. Rajeev Agarwal, Chief Financial
+                 Officer.
+
+                 As a reminder, all participant lines will be in listen-only mode and there will be an opportunity
+                 for you to ask questions after the presentation concludes. Should you need assistance during the
+                 conference call, please signal an operator by pressing star then zero on your touchtone phone.
+                 Please note that this call is being recorded.
+
+                 I now hand the conference over to Mr. Vimal Kejriwal. Thank you, and over to you, sir.
+
+                 Thank you, Danish, and good morning, everyone, and welcome to the Q2 earnings call of KEC.
+                 Let me begin by sharing an overview of our financial performance of the quarter and H1, along
+                 with the highlights of their respective businesses.
+
+                 We have delivered a good performance this quarter, achieving record revenues in Q2, substantial
+                 growth in profitability and strong momentum in order intake especially in the T&D business.
+                 Our top line witnessed healthy growth with revenues of INR6,092 crores in Q2 FY '26, reflecting
+                 an increase of 19% Y-on-Y primarily driven by a robust execution in our T&D business, both
+                 in India and international.
+
+                 With this, we have achieved a revenue growth of 15% for H1, which is in line with our guidance
+                 for the year. Aligned with our strategic focus that T&D segment's contribution to overall
+                 revenues increased to 65%, up from 55% in H1 last year.
+
+                 Our EBITDA has grown by 34% in Q2 and 27% in H1. EBITDA margins for Q2 increased by
+                 80 basis points to 7.1%, up from 6.3% in Q2 FY '25, while H1 margins rose by 60 basis points
+                 to 7% from 6.4%. Interest expenses as a percentage of revenue have reduced by 50 basis points
+                 in both Q2 and H1 resulting in an interest cost of 2.8% for Q2 and 2.9% for H1.
+
+                 We have significantly enhanced our bottom line with a remarkable PBT growth of 88% in both
+                 Q2 and H1. PBT margins increased by a good 130 basis points in Q2 to 3.5%, vis-a-vis 2.2%
+                 last year and increased by 100 basis points in H1 to 3.3%, vis-a-vis 2.3% last year.
+
+                 We have achieved a PAT of INR161 crores in Q2 and INR285 crores in H1. The growth in PBT
+                 and PAT continues to outpace EBITDA. We have a clear emphasis on profitable growth, not
+                 just top line expansion. Our profitable growth continues to outpace revenue growth.
+
+                 In terms of order intake, we are pleased to share we have achieved a record YTD order intake of
+                 over INR16,000 crores reflecting a healthy growth of 20% Y-on-Y. Notably, a substantial 75%
+                 of this order intake has been secured by our T&D business across India and the international
+                 markets.
+
+                 Page 2 of 23
+
+[[P3]]
+                                                                        KEC International Limited
+                                                                                 November 11, 2025
+
+Additionally, we hold L1 position of INR5,000 crores, again primarily in the T&D segment. We
+have a well-diversified and strong order book of over INR39,000 crores as on date, including
+the L1 position, our order book and L1 stands at a record level of INR44,000 crores.
+
+Coming to our debt levels, our net debt including acceptances stands at INR6,480 crores as on
+30th September vis-a-vis INR5,265 in the previous September. The increase in debt level is on
+account of strong revenue growth, increase in strategic inventory due to benign commodity
+prices, delayed release of payments in water projects and spillover of certain large collections,
+which happened in the subsequent months. We expect the debt levels to normalize going
+forward.
+
+Coming to our specific businesses. Our T&D business continues to be the key growth engine in
+this quarter, delivering revenues of INR4,080 crores, a remarkable growth of 44%. This stellar
+performance reflects our strong execution capabilities across multiple geographies. That
+business continues to maintain in its profitability momentum with double-digit EBITDA
+margins.
+
+On the order intake front, the business secured orders of INR12,000 crores across India, Middle
+East, CIS and the Americas. The T&D business has expanded its geographical footprint by
+securing its marine order in a new country in the CIS. The business has also secured two
+landmark orders in the Middle East which includes our largest ever EPC order of over INR3,100
+crores in the UAE, our largest ever substation order of over INR1,000 crores in Saudi Arabia.
+
+These prestigious orders in the Middle East have widened our portfolio and client base and
+further solidified our leadership in the region. In India, the business has secured multiple orders
+from various clients. We continue to build a strong presence in the promising HVDC segment,
+having backed another significant order this quarter from a private developer.
+
+We are currently executing 5 HVDC projects, including a major converter station project spread
+across three locations and four transmission line projects. We have significantly increased the
+share of private sector orders in our India T&D order intake this year.
+
+It gives me a great pleasure to share that this year marks a significant milestone and we celebrate
+15 years of SAE acquisition, a journey that has redefined our global footprint and set new
+benchmarks in the transmission industry.
+
+Over the years, SAE has grown not only in scale, but also in capability, innovation and
+operational excellence. I'm delighted to share that SAE continues to perform strongly with
+revenues of INR429 crores for the quarter, reflecting a robust 35% growth.
+
+In Brazil, we continue to witness good traction in hardware orders. We have further strengthened
+our operational capabilities through the installation of new robotic equipment at our
+manufacturing facility, which will enhance production capacity and improve efficiency.
+
+In Mexico, the business continues to experience steady order momentum supported by a positive
+outlook in the North American T&D market, further aided by the US tariff and the rest of the
+
+                      Page 3 of 23
+
+[[P4]]
+                                                                        KEC International Limited
+                                                                                 November 11, 2025
+
+world. Overall, SAE continues to deliver steady profitable growth backed by healthy order
+inflow and a robust order book plus L1 position of over INR2,300 crores.
+
+We are making notable progress with expanding our tower manufacturing facilities. Following
+successful capacity enhancements at our plants in Dubai, Jaipur and Jabalpur. The expansion of
+our Butibori facility in Nagpur is underway and is expected to be completed by this year-end.
+This positions us well to meet the increasing demand for transmission infrastructure in both the
+domestic and international markets.
+
+The overall tender pipeline in T&D continues to be healthy in both domestic and international
+markets. In India, the government thrust on renewable evacuation corridors, green energy
+transmission and intraregional interconnections is creating a robust pipeline of opportunities.
+
+Several large intrastate projects earlier executed by state utilities have now transitioned to the
+TBCB route, attracting considerable interest from private developers and utilities. This shift is
+opening up a new and promising market for us.
+
+On the international front, the market outlook remains highly promising. The Middle East
+continues to be a key growth engine with major transmission initiatives underway in Saudi
+Arabia, UAE and Oman.
+
+Additionally, we are pursuing opportunities across Americas, CIS and Africa. With a record
+order book and L1 in T&D of almost INR29,000 crores, we are confident of delivering
+significant growth in this business.
+
+In Civil, we delivered revenues of INR968 crores for the quarter. The revenues could have been
+higher, but for the prolonged monsoon in certain regions, labor shortages and delayed payments
+in the water segment.
+
+While the labor situation is gradually improving, it remains below desired levels. We continue
+to adopt a calibrated approach to the execution in water projects given the current payment
+scenario in this segment. The business continues to strengthen its order book with multiple
+orders of INR3,000 crores in the Buildings and Factories vertical from reputed clients.
+
+In a key strategic achievement, we have further expanded our presence in the factory segment
+by securing an order for civil and structural works for a thermal power plant and thereby widened
+our customer base with the addition of a marquee client.
+
+The business also strengthened its footprint in the residential building segment with a repeat
+order from an existing marquee client. With a gradual improvement in the labor situation, steady
+collections from water projects and a large order book and L1 of over INR10,000 crores, we are
+confident in the Civil business will see good growth in the coming quarters.
+
+The Transportation business recorded revenues of INR425 crores for the quarter. The focus
+remained on timely execution of new orders and completion of ongoing projects. The quarter
+was marked by two landmark projects inaugurated by the Honorable Prime Minister, the
+
+                      Page 4 of 23
+
+[[P5]]
+Moderator:                                                                          KEC International Limited
+                                                                                             November 11, 2025
+
+            Beleghata-Hemanta metro station in Kolkata and The Vanchi Maniyachchi-Nagercoil railway
+            doubling in Tamil Nadu, where KEC played a key role in the successful execution.
+
+            The business has secured two more orders for the TCAS under KAVACH in partnership with
+            our JV partner. The business has successfully implemented KAVACH across 482 kilometers
+            and is currently deploying the, KAVACH system on additional 2,000 route kilometers of rail
+            network.
+
+            The advanced rail protection system will significantly enhance the safety, reliability and speed
+            of railway operations. We expect to secure additional orders in this segment. We are actively
+            pursuing international opportunities.
+
+            With an order book and L1 of over INR3,000 crores in railways, our strategic priorities remain
+            clear. Fast track completion of existing projects, optimize working capital and selectively bid
+            for high-quality margin accretive opportunities in both domestic and international markets.
+
+            Our Cables business has achieved healthy revenues of INR524 crores, a solid growth of 19%
+            year-on-year. The profitability of this business is also witnessing a gradual improvement driven
+            by better product mix and cost optimization.
+
+            Our capital investment for E-Beam and Elastomeric cables is progressing as planned, and we
+            expect commercial production to commence by the end of this year. This plant will cater to high-
+            performance applications across defence, automotive and railway sectors where superior
+            durability and thermal resistance are critical.
+
+            Our renewable business has achieved revenues of INR190 crores. We are currently executing
+            two large solar projects in Karnataka and Rajasthan. The 500 megawatts solar project to
+            Karnataka is scheduled for completion this quarter and the 500 megawatts solar in Rajasthan is
+            expected to be complete early next year.
+
+            We continue to bid for select opportunities in solar, wind and BESS. The oil and gas pipeline
+            business is well placed to secure its 3rd international order for a pipeline laying project in the
+            Middle East. Following sustained efforts, the business has secured prequalification from a
+            leading Middle East utility or pipeline projects. A key milestone in our international growth
+            journey for this business.
+
+            Given the subdued domestic tender pipeline and the heightened competition, the business
+            continues to strategically focus on expanding its global footprint. Overall, we are pleased with
+            our consistent revenue growth, improving trajectory of our profitability and momentum in order
+            intake.
+
+            With a strong focus on execution, expanding capacity, a robust and diversified order book and
+            L1 of over INR44,000 crores and the current tender pipeline of over INR1,80,000 crores,
+            particularly in T&D and Civil, we are well positioned to deliver sustained profitable growth in
+            the coming quarters. Thank you so much. We are now open to take questions.
+
+            Our first question comes from the line of Mohit Kumar from ICICI Securities.
+
+                                  Page 5 of 23
+
+[[P6]]
+Mohit Kumar:                                                                             KEC International Limited
+Vimal Kejriwal:                                                                                   November 11, 2025
+
+Mohit Kumar:     Congrats on a decent set of numbers. My first question is, sir, of course, the domestic T&D order
+Vimal Kejriwal:  has been pretty strong in the first half. But are you seeing the domestic T&D order prospect
+                 declining because the tariff-based competitive bidding has been lukewarm in the fiscal? Or is
+                 the opportunity remains strong because the bidding activity happened in the last couple of years
+                 and the ordering is still to be done?
+
+                 I think, Mohit, you have hit the nail. Clearly, I think in the first quarter, the ordering was low.
+                 Second quarter, the ordering has picked up, okay? And we are seeing some interesting orders,
+                 which we got in the last, I'll say, a month or 2.
+
+                 And also, we are now seeing some ordering -- some, I'll say, finalization happening towards the
+                 South side, Kakinada and Tuticorin and all those of these things. And the other piece which I
+                 earlier -- which I mentioned in my speech is on the intrastate where many orders -- many projects
+                 which would have otherwise been executed by the state utilities have moved to TBCB.
+
+                 In fact, we are L1 in one of them in the recent one. And that's an area where we were not there
+                 because I would not have typically bid for intrastate projects. So more than intrastate, I think
+                 intrastate is also an interesting area. So I don't think we should see a major, I'll say, downside in
+                 ordering.
+
+                 Other thing is that the major orders which have been awarded, TBCB, which have been won,
+                 let's say, an HVDC in Gujarat and others, and there are large orders coming in from some private
+                 clients which are outside TBCB.
+
+                 We announced one of them some time back, are also due for finalization now. So I think in this
+                 quarter, you see a lot of finalization happening on TBCB plus intrastate. So I don't think we are
+                 worried or concerned about domestic order going down. No.
+
+                 Understood. My second question is on the Water segment. What is the Water segment dues at
+                 the end of September '25? If I remember the number correctly, at the end of March '25, it was
+                 INR1,000 crores odd, right? And are we still executing on the projects or the progress has been
+                 pretty slow?
+
+                 So Mohit, I don't have the exact number, but I think our dues are around INR850 crores or around
+                 INR900 crores, INR875 crores. Yes. So our dues are around INR875 crores and they have
+                 generally been constant. Even in March also, they were INR850 crores, INR825 crores.
+
+                 So they would have gone up by INR40 crores, INR50 crores generally, which I think we should
+                 be getting it now. With the policy which we have been following is that it's almost like cash and
+                 carry. Whatever money we get, we reinvest and execute the projects.
+
+                 So we are not increasing the exposure in any significant manner, marginal exposures may go up
+                 or down. And we are in 2 states, Madhya Pradesh and Orissa. Madhya Pradesh is virtually, I'll
+                 say, online on all the payments. Orissa has been slow. We -- but we did start getting some
+                 payments from there for a long time. So I think we are -- are we happy? We're not happy with
+                 it.
+
+                                       Page 6 of 23
+
+[[P7]]
+Moderator:                                                                                  KEC International Limited
+Parikshit Kandpal:                                                                                   November 11, 2025
+
+Vimal Kejriwal:     In fact, that's one the reasons why the Civil revenues have gone low or lower than the last year
+                    because we did slow down. We're expecting it to pick up. But let's see, the discussions with the
+Parikshit Kandpal:  Jal Jeevan mission in both center and the states has been slightly more positive than it was before,
+Vimal Kejriwal:     and we are seeing some trickle happening even in Orissa.
+
+                    Our next question comes from the line of Parikshit Kandpal from HDFC Securities.
+
+                    Congratulations on a decent quarter. Sir, my first question is on the comment which you made
+                    earlier in the call that T&D business is tracking double-digit margin. So if I look at the numbers,
+                    so double-digit margin, the H1 revenue contribution, so EBITDA would have been about
+                    INR722 crores from the T&D business, even at 10%.
+
+                    That means rest of the business has just delivered an EBITDA of INR58 crores, which is 1.5%
+                    EBITDA margin. I'm assuming that Cables and Civil would be doing much better. So where are
+                    the major losses coming on the margin side, sir, if you can help us understand that?
+
+                    I don't have the exact numbers, but you are more or less on track, okay? I think the problem
+                    which we had is more on the Civil side also because of the heavy rainfall and slowdown in some
+                    of the projects. And also, we have factored in a little bit more of water. So Civil is at significantly
+                    lower single-digit margins.
+
+                    So it's a combination of Civil and Railways. Cables, I don't have the exact number, but it would
+                    be more than -- it could be higher single digit, I will say, maybe 6% or something like that would
+                    be the margins. So the net margin from non-T&D would be, I don't know, close to 1% or 1.5%
+                    overall. That's the way the numbers stack up.
+
+                    How does it improve from here, sir? I mean, is it just the legacy orders which are running down
+                    the profitability and now with the mix improving towards better margins? So when do we see
+                    this thing changing because at the headline level, the margins are not improving, and we are still
+                    -- looks like we are still behind the trajectory of moving towards that 8% to 9% corridor and
+                    double digits to look too far away from here now?
+
+                    So, Parikshit, the headline numbers are improving. We said from 6.2%, we have gone up to
+                    7.1%. And we are still looking at reaching our 8% for the year, which means around 8.8% to
+                    8.9% for the balance H2. We still have almost 60% of our revenues coming in.
+
+                    What is changing is that we have discussed it earlier that metros, especially the Delhi Metro had
+                    been a problem with us. Those projects have been completed. One of them is awaiting Prime
+                    Minister's inauguration, which is also a reason why I have a cash flow issue because a lot of
+                    money is tied up to the formal inauguration of the line.
+
+                    The second one also is very close to inauguration. Once that happens, those cash flows will also
+                    come in. But the negative, which was coming from them is now getting stopped, which will add
+                    to the non-T&D margins.
+
+                    Also, on the Civil side, if you notice that we have announced pretty large orders, and these are
+                    at a significantly better margins and the execution from them is starting now. So clearly, we will
+
+                                          Page 7 of 23
+
+[[P8]]
+Parikshit Kandpal:                                                                          KEC International Limited
+Vimal Kejriwal:                                                                                      November 11, 2025
+
+                    see a bump up happening on the Civil margins. One is on the percentage margin. Also, the
+                    leverage benefit will come in because the revenues will go up, okay?
+
+                    So I think that is what will -- this also from cables, we do expect that there will be some
+                    improvement in the cable margin also. I think all of that put together should help us in increasing
+                    our non-T&D. Also, as you rightly said that we have legacy orders and all those orders are
+                    getting closed.
+
+                    Like in H1, I think we closed 7 or 8 orders in -- 7 orders in the Transportation business. So the
+                    negative from those orders beyond what we had factored is getting closed. So we do expect that
+                    we should have a better overall numbers coming in, in H2.
+
+                    Okay. My second question is on net working capital now, sir. I mean we have a very high share
+                    of international, now almost 36% contribution coming from international revenues, which
+                    typically have low working capital. So despite that, why is the net working capital getting still
+                    elevated?
+
+                    And we have seen peers who have high international order book, there has been contraction in
+                    NWC days. But in our case, order book is also at 45% international. So we would have received
+                    some advances. So despite that, why NWC seems to be so high?
+
+                    So, Parikshit, a large amount of advances is yet to come in, okay? We have announced some
+                    very large orders in the last 2 months, and those advances will come in now. And the impact of
+                    that would be clearly visible in the Q3 numbers.
+
+                    I think the difference is that if you compare the major competitors and all that, most of them
+                    have done very poorly in Middle East, okay? We have a very large order book and a large
+                    revenue coming out of Saudi, where unfortunately, there is a 20% retention, okay? And these
+                    orders had come in from the last 2, I think, 2 years or 2.5 years.
+
+                    And now we have started heading for completion of many of these orders. So from now onwards,
+                    you will see a sort of a cyclical thing where advances will come in, old orders retentions will get
+                    paid, new order retentions will keep on happening.
+
+                    So we do expect that with the closure of the current lot of projects, I think 7 or 8 projects we are
+                    planning to complete and close this financial year in Saudi, that will release a lot of retention.
+                    So that's -- so that is why we are slightly different from other people in the international piece.
+                    Obviously, the margins in Saudi are better, which is why we are talking about overall double-
+                    digit margin in T&D.
+
+                    The second piece, I already talked about a little bit of -- on the water side. Third piece, which
+                    has not got covered is also I did allude to it in a benign commodity prices, especially in our
+                    Cable business as well as in our Transmission business.
+
+                    The steel prices, especially steel has been at a lower level, INR4,000 to INR5,000 below what
+                    we had factored in earlier, which has resulted in keeping some stock with us, and it has paid us
+                    up well. So our inventories for the year would have gone up by INR250 crores, INR300 crores
+
+                                          Page 8 of 23
+
+[[P9]]
+Parikshit Kandpal:                                                                          KEC International Limited
+                                                                                                     November 11, 2025
+Vimal Kejriwal:
+                    as compared to what was there, and it is a very conscious decision. So that is something which
+Parikshit Kandpal:  has added to the net working.
+Vimal Kejriwal:
+Parikshit Kandpal:  And I think the last point which we have been discussing has been that if you look at our last Q4
+Vimal Kejriwal:     revenues, and there was a significant increase in that revenue. So typically, most of our purchase
+                    at 180 days. And so a large amount of liabilities got paid off in around August, September.
+
+                    So when you look at the net working capital, what has happened is that at some places, the AR
+                    has gone up. In other places, the payables have come down actually. So it has been a sort of, I'll
+                    say, a double whammy, if you can use that word, where AR is going up and APs have been
+                    coming down, which will get normalized.
+
+                    So are we worried? Yes, we are worried that the number is beyond what we had expected. We
+                    still wanted to go to 5,000. But the good part of it, Parikshit, is if you have seen our interest
+                    numbers, our interest cost has gone down by 50 basis points where the entire benefit of leverage
+                    of 19% revenue increase has come in.
+
+                    So if you even look at the 19% increase and with a typical 140 days or 130 days of net working
+                    capital, so some part of the working capital increase is also attributed to the higher revenue. I
+                    hope I have clarified it.
+
+                    Just last question, sir. So now we are almost near the lifetime high debt. And also, I've seen in
+                    your cash flows, there are some entries on bad debts of INR93 crores and forex gains of INR83
+                    crores. So just a clarification on this too. And whether -- how does one look at debt from now
+                    from here on? Is it the peak we have reached and that will directionally go down or like still
+                    there's headroom before we correct the debt?
+
+                    I don't think we are looking at increasing our debt beyond this, not in our list. And as far as -- I
+                    don't know what -- Rajeev, you have bad debt? Anyway, I think just to clarify that I think we
+                    have had a significant ECL provision, okay, during the quarter as well as H1.
+
+                    In fact, our overall ECL provision is now at almost a lifetime of INR475 crores, okay? That's an
+                    expected credit loss provision, which we are providing as per agreed format with our auditors
+                    and which is that number which you are looking at. We hardly have any significant bad debt
+                    write-off, okay?
+
+                    I was referring to cash flow, sir. It was INR92 crores for the half year. But I think there was -- I
+                    think this was the ECL provisioning only and INR83 crores of forex gains was showcased so...
+
+                    Maybe you may like to check with Abhishek on much more details, but I think that...
+
+                    But on the debt, you are now sure that is the peak debt. I mean now you're not looking at like
+                    going ahead.
+
+                    We expect that to be our peak debt. I think it started to come down. In the three or four larger --
+                    large payments, which we had been discussing. Afghanistan, we have received a large money,
+                    but there was some chunk which was supposed to come from one of the lenders, which we were
+
+                                          Page 9 of 23
+
+[[P10]]
+Moderator:                                                                               KEC International Limited
+Sumit Kishore:                                                                                    November 11, 2025
+Vimal Kejriwal:
+                 hoping and there was discussion that should come in. But I think it has got delayed by some
+Sumit Kishore:   reasons.
+Vimal Kejriwal:
+                 So I think now they have moved it to Q4. So Q4, a large chunk would come in from there. I
+                 think -- plus we have got some very large advances on the order releases, which we announced,
+                 which will also come in hopefully within this month.
+
+                 And there are some other payments, as I said, from Saudi retention, etcetera. So I think the debts
+                 will -- debt will come in control. Plus I talked about DMRC commissioning. So that will release
+                 a lot of cash for us.
+
+                 Our next question comes from the line of Sumit Kishore from Axis Capital.
+
+                 It's a very strong performance in T&D, but once again, non-T&D led by Civil has been weak.
+                 You have mentioned some of the explanations. With a decline of 14% in revenues from Civil in
+                 the first half, how should we look at this settling on a full year basis?
+
+                 So how is second half going to be? That is the first question. And just a follow-up from the
+                 previous question. from 138 days of net working capital where you are now, how do you see
+                 this normalizing by the end of the fiscal in terms of number of days of sale?
+
+                 So, Sumit, as far as Civil is concerned, we do expect that there will be a growth of overall 10%
+                 to 12%, 15% maybe for the year. We did around INR4,400 crores last year. So we should be
+                 around INR5,000 crores hopefully for the year, okay?
+
+                 And as I said earlier, the negative has basically happened because there's a very, very poor -- I'll
+                 say, not poor. We did not take any new orders on the infra side. So the entire metro revenues is
+                 now not there. Out of four projects, three have been completed.
+
+                 So the revenue flow has come down. But we have announced some very large B&F orders and
+                 those orders execution has started now. So we are clear that we will be able to make up for this
+                 shortfall. And I think we are around INR1,800 crores to INR1,900 crores of revenue for the first
+                 half. So second half, we will be able to easily reach close to INR5,000 crores.
+
+                 But that would mean that you would do nearly INR3,000 crores of revenue in Civil in the second
+                 half and which would be a steep growth on a year-on-year basis. And given the margin profile
+                 of Civil is meaningfully lower, is it going to hurt your prospects of crossing 8.5% margin in
+                 second half, which is required to get to even 8% on a full year basis?
+
+                 Yes. So Sumit, what is also happening is that in the last 6 months, as I said, the metro projects
+                 have got almost closed where the margin profile was very poor relatively, okay? That's one thing.
+                 Also, some of the older projects have been getting closed and the newer projects with an order
+                 book what we have, the quality of margins in the newer projects is much higher -- so much
+                 higher, sorry.
+
+                 So what will happen is that whatever revenues we now start getting into Civil would be at an
+                 enhanced margin levels, which is why we have been talking about overall at least 8% margin for
+
+                                      Page 10 of 23
+
+[[P11]]
+Sumit Kishore:                                                                           KEC International Limited
+Vimal Kejriwal:                                                                                   November 11, 2025
+Sumit Kishore:
+                 the full year for the entire business. Otherwise, I already mentioned that T&D is more than
+Vimal Kejriwal:  double digits. So we are factoring in the lower margins from these businesses when we talk
+                 about an 8% number.
+Sumit Kishore:
+Vimal Kejriwal:  Yes, this is very clear. Net working capital, 138 days, would it go below last year on
+Moderator:       normalizing? Or would it still be on the higher side?
+Vaibhav Shah:
+Vimal Kejriwal:  I think, we do expect them to be at a similar level, 118, 120. Yes. So, I think we should be at
+Rajeev Agarwal:  least at that level. That's what we are expecting, yes.
+
+                 Sir, just one bookkeeping question. when you give the T&D order book and the fiscal year-to-
+                 date inflow, could you just give us an indication of the split between international and domestic
+                 for T&D? So that we understand how much is domestic?
+
+                 I don't know the exact numbers, but I think it was around INR12,000 crores and INR4,000 crores,
+                 roughly. I don't know the exact, maybe Abhishek can give you later on, but I think it was almost
+                 INR16,000 crores for the year order intake. So broadly around INR12,000 crores international
+                 and INR4,000 crores India.
+
+                 So that is very clear, but in the INR12,000 crores within T&D, would international be also
+                 largely coming from -- how much would be T&D international?
+
+                 That is international T&D only, INR16,000 crores. when I say INR12,000 crores, that's
+                 international T&D.
+
+                 Our next question comes from the line of Vaibhav Shah from JM Financial.
+
+                 Sir, you mentioned on the Afghanistan payment, you have received some part and the major part
+                 to come in 4Q. So could you elaborate on the value?
+
+                 Yes, Rajeev.
+
+                 So that was basically out of the Afghanistan payment, there were 3 institutions which were
+                 involved in total funding of 5 projects. So 3 have been more or less closed. World Bank and
+                 USAID has paid us some money.
+
+                 So far, we have already recovered close to about INR450 crores. ADB payments are pending.
+                 The projects have been canceled and bank guarantees have been returned to us. They are
+                 processing our payment. Total payment outstanding with ADB is roughly about $30 million.
+
+                 So we expect a majority chunk should get in the quarter 4, as Vimal mentioned. Although
+                 actually, we were expecting that payment to come in Q2 or Q3, but for some reason, it has been
+                 delayed.
+
+                 We expect this payment to come in Q4. But there is no doubt in terms of the payment recovery.
+                 ADB has confirmed in writing that they are processing the payment and they will release the
+                 payment shortly.
+
+                                      Page 11 of 23
+
+[[P12]]
+Vaibhav Shah:                                                                            KEC International Limited
+Rajeev Agarwal:                                                                                   November 11, 2025
+Vaibhav Shah:
+Vimal Kejriwal:  So apart from ADB, there are no pending receivables from Afghanistan?
+
+Vaibhav Shah:    Afghanistan, There is no other payment other than ADB, except that now we have started the
+Rajeev Agarwal:  project with the World Bank, so that payment will also start flowing in regularly.
+
+Vaibhav Shah:    Okay. Sir, secondly, what would be your capex for '26 and '27?
+Vimal Kejriwal:
+                 So typically, we have been spending around INR250 crores, INR300 crores of capex. So I think
+Vaibhav Shah:    that's where we should be. This year, it may be higher than that because of our cable expansion
+Vimal Kejriwal:  and the factory expansion. This year, maybe with all the three factory expansions and the cable,
+Vaibhav Shah:    this year we may touch around INR400 crores. Okay. Typically, otherwise, we have normally
+                 been spending around INR250 crores, INR300 crores.
+
+                 Okay. Sir, lastly, our interest cost is around INR170-odd crores for Q2. So can we see a reduction
+                 in terms of actual interest costs in second half? Or it would be at similar levels on a quarterly
+                 basis?
+
+                 There should be some reduction, maybe INR20 crores, INR25 crores in quarter 2 -- sorry, quarter
+                 3 and quarter 4. So we are expecting the total interest cost that we are expecting, as we guided
+                 earlier, is roughly about 2.5% of our revenues. So we continue to maintain a guidance of 2.5%
+                 of our revenue. So we can see a reduction of maybe INR25 crores, INR30-odd crores. The
+                 overall interest cost that we paid last year.
+
+                 And sir, on the Civil business, as you mentioned that certain higher-margin orders are coming
+                 in the execution, and we will see a sharp uptick in the second half. So that momentum will
+                 continue in '27, '28 as well and margins also should improve from current 5%-odd levels?
+
+                 I think they should definitely improve. I think we are very confident about next year, etcetera,
+                 because see 2, 3 things have changed. One is we have generally stepped out of some of the infra
+                 projects where we are seeing historically now margins being low.
+
+                 Secondly, we have basically increased the minimum size of our order intake. So overheads are
+                 getting better. So if you look at the last 4 or 5 orders on Civil, almost all of them are at least
+                 INR400 crores each. So -- and they are definitely at a better margin. Also, I think the other piece
+                 is the capability build has been significant in the Civil business.
+
+                 So we do expect better execution and hence, maintaining margins at the quoted levels. So we do
+                 expect that next year, the Civil business will grow by at least 15% to 20%, okay? And at I'll say,
+                 higher single-digit margins.
+
+                 Sir, which are the main 2 or 3 verticals which you are targeting in, sir?
+
+                 Civil, basically, one is obviously residential, which is now becoming a very large number for
+                 us. Second is factories. Third would be data centers. And fourth would be also -- and fourth
+                 would be water pipelines outside India.
+
+                 So no metro for now, largely?
+
+                                      Page 12 of 23
+
+[[P13]]
+                                   KEC International Limited
+                                           November 11, 2025
+
+Vimal Kejriwal:     Metro, let me put it this way, nothing aggressive, okay? We have not bid any metro for a long
+                    time. We may just bid in for the shape of being in the market for some time, nothing -- not at
+Vaibhav Shah:       normal margins, okay? Also, we have been looking at underground. We're still looking at it.
+Vimal Kejriwal:     Okay? It's still far away, but that's an area where the margins have been better in, but obviously,
+Moderator:          there's a huge amount of capex. So we are still thinking of what needs to be done on the
+Subramaniam Yadav:  underground piece of it.
+Vimal Kejriwal:
+Subramaniam Yadav:  Okay. And sir, one last data point, what would be our JJM order backlog right now?
+
+Vimal Kejriwal:     Yes. INR1,600 crores. But largely in Orissa, I think, INR1,000 crores in Orissa and INR600
+                    crores would be in MP.
+Subramaniam Yadav:
+Vimal Kejriwal:     Our next question comes from the line of Subramaniam Yadav from SBI Life Insurance.
+Subramaniam Yadav:
+                    Sir, just wanted to understand what would be your debt by end of this year?
+Vimal Kejriwal:
+                    We are expecting it to be around INR5,000 crores.
+
+                    INR5,000 crores. And sir, you have mentioned that there has been some delay in collection in
+                    Q2 and we have received that in October. If you can highlight what was the amount and which
+                    sector does it belong to?
+
+                    I don't have the exact number, but some payments were they instead of coming in the September
+                    end, they came in the first quarter week of October. So those are happening. But it's not
+                    significant, but yes, there was overflow, I'll say almost INR400 crores, INR500 crores, which
+                    happened in the first -- second week of October.
+
+                    Okay. So we can see some reduction in Q3 because of this collection?
+
+                    Yes. Definitely, there will be some reduction in Q3 and balance in Q4. When I say INR5,000
+                    crores, it will be done that way.
+
+                    Okay. And sir, apart from this water collection, which we are looking at, because that stays
+                    roughly around INR870-odd crores, which is more or less similar if you look at from the start of
+                    the year. Which other sector is contributing to this pain, apart from water?
+
+                    I think, the major sector would be the metro sector in Civil, okay, where considering the past
+                    performance of earlier contractors, the significant back ending of payments is there. And as I
+                    said, out of our 4 projects, 3 are completed. One is ready for commissioning any day. The second
+                    one also is 75% ready for commissioning. So -- and the third one should get commissioned, the
+                    Chennai one in January.
+
+                    So those are very large back-ended payments. So once they get commissioned, you do receive a
+                    large amount of money, almost INR200 crores, INR300 crores of cash flow would flow in from
+                    the commercialization of these projects or ROD, as you call them, okay? And then we had
+                    announced some very large projects, order intake in Saudi. So those cash flows would also come
+                    in and from retention in Saudi.
+
+                    Page 13 of 23
+
+[[P14]]
+Moderator:                                                                                KEC International Limited
+Harshad Kapadia:                                                                                   November 11, 2025
+
+Vimal Kejriwal:   Our next question comes from the line of Harshad Kapadia from Elara Capital.
+Harshad Kapadia:
+Vimal Kejriwal:   Congrats for a very strong performance on T&D, sir. Just wanted to check with you on the order
+Harshad Kapadia:  pipeline of INR1,80,000 crores. Could you give a breakup on T&D and non-T&D. And within
+Vimal Kejriwal:   T&D, what would be the international and what would be the India project?
+Harshad Kapadia:
+                  So broadly, T&D is around INR60,000 crores, INR65,000 crores. And out of that, India is
+Vimal Kejriwal:   roughly around -- between INR22,000 crores, INR23,000 crores is India pipeline.
+
+Harshad Kapadia:  Okay. And within the international, the geographies would be mainly Middle East?
+Rajeev Agarwal:
+                  It is Middle East and also Africa and CIS, plus a little bit is coming from the America Tower
+Moderator:        supply.
+Teena Virmani:
+Vimal Kejriwal:   Okay. And within the, let's say, INR1,20,000 crores, how would be break up into railway and
+Teena Virmani:    civil sir -- railway, civil, solar?
+
+                  So Civil would be half of it broadly, and the rest would be divided between renewables and
+                  railways.
+
+                  Okay. And sir, just wanted to check, there are some news reports which are going that because
+                  of PPAs not being signed in a lot of renewable projects, there is a possibility of a slowdown on
+                  the renewable tenders coming out. Are you seeing any kind of a trend like that, sir?
+
+                  Not yet. In fact, in the last 1 month, we have bid for -- we have had reverse auctions of, I think,
+                  19 tenders in NTPC in the last month or including current month, in fact, last 30 days. So we are
+                  still not seeing a significant slowdown in the tenders of what had been announced, okay? Let's
+                  see how it pans out.
+
+                  Okay. Fair enough, sir. And on the T&D growth which you have reported in this Q2, how have
+                  been the mix of domestic and international?
+
+                  So domestic growth has been higher than international, slightly higher, okay? But on an average
+                  asset, I'll say they would be similar, okay? But domestic is slightly higher despite the rains and
+                  all that.
+
+                  Our next question comes from the line of Teena Virmani from Motilal Oswal Financials.
+
+                  Congratulations for a good set of numbers.
+
+                  Hi, Teena.
+
+                  Sir, -- yes. Sir, my question is related to the other segments beyond T&D. T&D has done pretty
+                  well from last few quarters. Railway business, when we see the run rate in the revenue, it seems
+                  to be relatively lower, and you had always mentioned that because of payment-related issues
+                  you have been going through. But how do we see this business going forward?
+
+                  Page 14 of 23
+
+[[P15]]
+Vimal Kejriwal:                                                                          KEC International Limited
+                                                                                                  November 11, 2025
+Teena Virmani:
+Vimal Kejriwal:  Because historically, it used to be a very high-growth segment earlier. And from last 3, 4 years,
+Teena Virmani:   it has been continuously declining. So where do we see it bottoming out and growing from there
+Vimal Kejriwal:  on? When we look at first half run rate, it is around INR900 crores of revenue, which we have
+                 seen in railway segment. That's my first question, and then I'll ask the second.
+
+                 So, Teena, we expect to do around INR2,000 crores and odd in railways for the year -- this year.
+                 We have an order book of roughly around INR3,000 crores today. So if you take out the next
+                 INR1,000 crores for H2, I think we are at least having an order book of doing another INR2,000
+                 crores next year also.
+
+                 What we have done is that we have relooked at the entire structure of the railway ordering,
+                 etcetera. And we have got out of many, let's say, segments like pure play civil, you know, where
+                 we had a major competition from road players because NHAI was not giving them orders. So
+                 they all came into the railway and you know how the competition among gross players is.
+
+                 So I think that's one of the reasons why you are seeing a lower order intake. Plus our major focus
+                 now has been on -- a little bit more on the technology side, that's why I said TCAS signaling,
+                 BLT. So many of our orders are now from the Metro segment. We are already executing one
+                 project in Bangladesh, and we have bid for quite a few projects in Middle East.
+
+                 So I think you will see a sea change in the segment-wise numbers in railways. While saying that,
+                 I think let me also say that at a Board level, we are pretty positive about the railway business
+                 growing in the next few years or so. So you may still see a flattish or a downward for next year.
+                 But after that, we do expect that the railway business with whatever consolidation we are doing
+                 will definitely pick up.
+
+                 So it's not a business which we are writing off. We are very clear that there is huge potential in
+                 this business. It's a matter of time that we have had some wrong calls and wrong projects and
+                 execution got delayed for maybe some our fault and maybe the clients' fault.
+
+                 But I think we are getting over it. And maybe we'll take another 6 months or a year to completely
+                 consolidate properly and come back. But I think as a whole, we are still very positive on the
+                 business in the long-term.
+
+                 Okay. Okay. And in this business, with the kind of change that you are having in the project
+                 mix. Can margins improve going forward?
+
+                 Margins have to improve. Otherwise, the business will have to shut down. We are very clear that
+                 unless the business reaches a margin level what we are looking for, okay, there's no fun in doing
+                 it. So if in the long-term, we don't see margins improving, we will take our calls. And I think
+                 our calls are very clear.
+
+                 So maybe a 7%, 8% kind of margin range can still be possible going forward for Railways
+                 division?
+
+                 Actually we will never quote below that.
+
+                                      Page 15 of 23
+
+[[P16]]
+Teena Virmani:                                                                            KEC International Limited
+Vimal Kejriwal:                                                                                    November 11, 2025
+
+Teena Virmani:    Got it. Got it. And same thing on the Civil business, sir, for this year, you mentioned some of
+Vimal Kejriwal:   the challenges in some of the projects. Where do we see this Civil business settling in this
+Moderator:        financial year, for FY '26? Going ahead you mentioned about 15%, 20% growth rate, but...
+Balasubramanian:
+                  Yes. So as I said, Teena, we expect that business to do around INR5,000 crores from -- up from
+Vimal Kejriwal:   INR4,400 crores for the last year. Margin should be, I'll say, mid-single digit for this year, okay?
+                  But then we do expect that from next year onwards, it will start inching to higher single digit.
+
+                  The target again is that how soon we can reach 9%, 10% margin. I don't think we'll be able to
+                  do that next year, but the year after, definitely. And next year, we are clearly looking at least
+                  15%, 20% growth, almost, let's say, INR6,500 crores or so revenue from the INR5,000 crores
+                  which we expect this year.
+
+                  So all the slow-moving projects would be over by end of this year or maybe early beginning of
+                  next year?
+
+                  I think, Civil, most of them are already over, okay? So I don't think we have got too many slow-
+                  moving projects, very, very few, in fact.
+
+                  Our next question comes from the line of Balasubramanian from Arihant Capital.
+
+                  But sir, on the renewable side, we have ambition to make at least INR3,000 crores to INR4,000
+                  crores kind of revenue over the next 2 to 3 years. But currently, it contributes only 4% to 5%
+                  kind of revenue. What are the key bottlenecks?
+
+                  Is it the margin pressure and land issues in India? Or is there any module supply risk in the
+                  Middle East side? And like what kind of working capital requirement compared to other
+                  projects? And how do you look at in this business over the next 3 to 4 years' time frame?
+
+                  So typically, the working capital here is much more benign than what you've seen in other
+                  industries -- other segments. So from working capital angle, I think we are pretty okay.
+                  Generally, if you look at YTD project till date, most of the projects are positive if you look at
+                  the entire project that way. So I don't think working capital is a concern here.
+
+                  Margin, yes, there has been a lot of pressure on margins in the new tenders, primarily because
+                  all the players want to go for IPOs. So if you look at the last 3, 4 months or 6 months, the number
+                  of IPOs which have come from the solar companies have been phenomenal.
+
+                  And these are the players who have gone for a significant, I'll say, competitive intensity increase,
+                  okay? We are slowly seeing that dying down now. People have realized that they are killing
+                  themselves by doing it. So that's number one.
+
+                  There are a lot of projects which are coming up in private sector, which are more like captives.
+                  There are at least 3 or 4 large groups which are setting up large projects for the captive use of
+                  their own sister concerns, whether it in metals or anywhere else, there are enough names
+                  available.
+
+                  Page 16 of 23
+
+[[P17]]
+Balasubramanian:                                                                          KEC International Limited
+Vimal Kejriwal:                                                                                    November 11, 2025
+
+                  And I think we are talking with them -- targeting with them because for them, quality matters,
+                  not just pricing. Third is that we have started bidding for wind also. So I think it's a matter of
+                  time. And we had said earlier that this year, we should announce our first wind EPC also.
+
+                  Fourth, I will say is that with the experience of now implementing these 2 large projects of
+                  almost 1 gigawatt, we have also developed significant capability in terms of cost optimization
+                  and team build also. We now have a proper team in place. So I think that gives us a lot more
+                  confidence.
+
+                  And fifth is that with our backward integration with cables and our substation knowledge,
+                  etcetera, I think we can add a lot of value in terms of cost for these projects going forward, which
+                  is why we have been talking about INR3,000 crores to INR4,000 crores not next year, but a year
+                  after and all that how do we reach INR3,000 crores, INR4,000 crores. I think we are pretty
+                  positive about achieving that.
+
+                  I'll say the last point would be international. We have till now not been focusing on international
+                  because we wanted to complete these two projects. Now that these projects are nearing
+                  completion, that adds a lot of confidence and also gives a lot of confidence to the clients with
+                  whom we are talking saying, have you done large projects?
+
+                  And if you go back and say that I have done 1 gigawatt, very few people apart from 1 or 2 of
+                  our competitors have done that sort of large projects. So international is something which we
+                  have now started looking at. So maybe not this year, but next year, we'll definitely have a few
+                  international projects, not the mega sized ones which others are doing, but maybe 300, 400 or
+                  maybe 500 megawatts. Yes.
+
+                  Okay, sir. Sir, on the Saudi Arabia side for large T&D orders, the competitive intensity have
+                  been reduced earlier, but currently it's been reduced to 3 to 4 bidders. What has driven these
+                  consolidations? Is this a permanent structural shift or a temporary phase? And how do you look
+                  at in this market in terms of competitive intensity? And is there any concerning project
+                  executions maybe in coming years?
+
+                  Let me put it this way, there is no reduction in the number of competitors or there's no
+                  consolidation in competitors, okay? The reason why you see a lower number of bids coming in
+                  is because of the size of the market.
+
+                  So unlike other clients, in Saudi, the bidding is by invitation, okay? So what also happens is
+                  when the client floats a tender, he looks at what is happening, what is your status, how many
+                  projects you have got, what is your capability? We are having a lot of background noise.
+
+                  So I think what is happening is that the client looks at who has got the capability to do work.
+                  And accordingly, they invite people for bidding. It's not an automatic that any Tom, Dick and
+                  Harry can come in and bid in Saudi which is what is happening where they see that, okay, let's
+                  say, contractor A has got too much work and he doesn't have capability, then he may not invite
+                  us.
+
+                  Page 17 of 23
+
+[[P18]]
+Moderator:                                                                               KEC International Limited
+Ashwani Sharma:                                                                                   November 11, 2025
+Vimal Kejriwal:
+                 That's why in some tenders and projects which have very critical importance, they have been
+Ashwani Sharma:  inviting lesser number of people to come and bid, which is why in some tenders, we have been
+Vimal Kejriwal:  seeing 4 or 5 or 3 only.
+
+                 And we still see in some tenders 7 or 8, which are not very critical where they are okay to invite
+                 the whole Janta, if I can call it. That's the way it is. So difficult to say that there's consolidation.
+                 But yes, competitive intensity in large and critical projects has come down significantly because
+                 the client is not asking others to come in.
+
+                 Our next question comes from the line of Ashwani Sharma from Emkay Global Financial
+                 Services Limited.
+
+                 Congrats for a good set of numbers, sir. Sir, first question is that I wanted to check on the tender
+                 pipeline in data center within the Civil business?
+
+                 So data centers, I think today, the number which we have is roughly around INR2,000 crores
+                 and odd, but this is only the civil part of it, okay? We have started bidding for the MEP piece
+                 also. So what has happened was that I think last 2 quarters, I'll say, Q4 and Q1, very few data
+                 centers were announced.
+
+                 Q2 onwards, we've again started seeing some movement happening because I think somewhere
+                 the DeepSeek and others played some role and people went slow on their data center plans. But
+                 now we are seeing that people have again dusted up whatever they had done earlier and now
+                 they're coming back.
+
+                 So we do expect that there will be a lot more data center inquiries now, okay? It was low in Q1
+                 and even Q4 last year. But Q2 onwards, we have started getting some inquiries, and I think it's
+                 improving.
+
+                 Okay. Secondly, sir, in the T&D, especially on the domestic side, are we facing any ROW issues,
+                 which a lot of news flows has been there on the ROW side. What's your sense on that, sir?
+
+                 There is clearly ROW issue. There's no question about it. And earlier, someone asked about
+                 transmission bottlenecks and all that. So it's not that the transmission lines are not being built.
+                 The problem is that they're not getting completed because of ROW. So ROW is definitely there.
+
+                 Some months back, Ministry of Power has again announced a revised guideline for significantly
+                 higher compensation, but it is still voluntary for the states to implement it. Some states have
+                 implemented. So whenever it has been implemented, I think the ROW problem is getting -- I'll
+                 say better. I'll not say it is fully resolved.
+
+                 And the problem is also more in places like Gujarat, Rajasthan, etcetera, where a lot of solar
+                 development is happening because what happens is the guy whose land is taken over by solar
+                 guy gets paid fully. Where the transmission gets set up is only -- you get a right to pay, right to
+                 use pay. So the payments are lower.
+
+                 Page 18 of 23
+
+[[P19]]
+Ashwani Sharma:                                                                          KEC International Limited
+Vimal Kejriwal:                                                                                   November 11, 2025
+Moderator:
+Vimal Kejriwal:  So there's a lot of, I'll say, hard burning between various landowners, etcetera, which is now
+Saket Kapoor:    getting resolved with the increase in the compensation. So hopefully, we think that there should
+                 be a better situation on ROW. But as of now, it's not good, I'll say.
+Vimal Kejriwal:
+                 Sir, lastly, one bookkeeping question. How much is the retention money in the book as of now?
+Saket Kapoor:
+Vimal Kejriwal:  I don't have an exact number. It will be at least 20%, 25% of our AR. Maybe you can speak to
+Saket Kapoor:    Abhishek later on.
+Vimal Kejriwal:
+Saket Kapoor:    The next question comes from the line of Saket Kapoor from Kapoor & Company.
+
+Vimal Kejriwal:  Namaskar, Kapoor sir.
+
+Saket Kapoor:    Sir, traditionally, we have seen that H2, our execution is much higher than how -- in the way H1
+Vimal Kejriwal:  behaves. So on a conservative also way, what should we look at H2 in terms of the revenue
+                 execution? And how should then the margin profile look for the entity as a whole?
+
+                 So Saket ji, normally what happens is that H2 is around 60%, typically, 60-40 is always the ratio
+                 of H2, H1 particular years may vary. But this year it will be the same. 15% guidance is also
+                 going on, so I think it should be done.
+
+                 And sir, for the margin?
+
+                 Margins we are at 7%. Our guidance is around 8%. So obviously, H2 will have to be higher than
+                 8.5% to meet the guidance. That's the way we are looking at it.
+
+                 So we are in line to achieve that?
+
+                 Yes, yes. Yes.
+
+                 Sir, for the Cable segment, whatever capex we have put, when will that get commissioned and
+                 what is the outlook for the contribution from the Cable segment? And thirdly, how has our
+                 subsidiary Spur performed in terms of this pipeline project, which you were talking about?
+
+                 So, Spur has performed badly, if I can use that word, because we have a tender in oil and gas.
+                 We have got some projects in international market, but they are in the name of KEC because
+                 KEC an entity is qualified, not KEC Spur. International, we have got a large qualification in
+                 KEC Spur, so we do expect that KEC Spur will start picking up as an entity, okay? What was
+                 your first question?
+
+                 About Cable segment.
+
+                 In cables, our first investment, which was in an aluminium conductor, that is already fully
+                 commissioned and we have already started getting full revenue. Out of that, we were expecting
+                 INR500 crores-INR600 crores. So let's see where we touch, but we should be close to those
+                 numbers in terms of revenue in the conductor.
+
+                 Page 19 of 23
+
+[[P20]]
+Saket Kapoor:                                                                            KEC International Limited
+Vimal Kejriwal:                                                                                   November 11, 2025
+
+Saket Kapoor:    On the elastomeric cable and E-Beam, what I said was that we will commission the first -- the
+Vimal Kejriwal:  elastomeric part should be commissioned in the Q4 and E-Beam, which requires a lot more
+                 approval because of its radioactivity, etcetera, that will get commissioned in Q1 of next year.
+Saket Kapoor:    So, its revenue, some revenue will come in Q4 and some revenue will come in Q1. So, Q2
+Moderator:       onwards, I think we should start getting full revenue of that expansion also.
+Amit Anwani:
+                 Okay. So sir, we have the solar E-Beam also in our product profile along with the EHV cable
+Vimal Kejriwal:  segment?
+
+                 We are still selling solar completely. Once you install the E-Beam, the material cost and all will
+                 get optimized. So the margins on the solar can improve, obviously, because once you treat by
+                 E-Beam, the quality of the cable becomes better, the raw material consumption comes down. So
+                 that will definitely have a positive impact on our margins from Q2 onwards next year.
+
+                 And for the EHV segment, extra high voltage?
+
+                 We are not doing anything in EHV. We already have a full-fledged line of CCV. So, that is going
+                 on. Now, if the price of copper is high, then people are going to aluminium instead of copper.
+                 So, there could be a revenue impact slightly here and there, but the line is full. We are completely
+                 booked.
+
+                 Okay, sir. I hope the payment issues get resolved. The entire industry is getting stuck up in the
+                 receivable segment, sir.
+
+                 Our next question comes from the line of Amit Anwani from PL Capital.
+
+                 Hi, sir. First question, sir, you did highlight in your opening remarks about the demand in US
+                 and tariffs. Just wanted to understand any implication on your Mexico, Brazilian facility supplies
+                 to US? And what is your understanding on the demand in the US for these subsidiaries? Any
+                 impact of tariff you're seeing by any chance on these subsidiaries? That is the first question.
+
+                 So, Amit, what is happening is that with a tariff of 50% on steel, tower exports to US are getting,
+                 I'll say, not impacted because every country has the same tariff. However, for Mexico, under the
+                 USMCA, there is a relaxation where if you use US steel, then the products go tariff-free into the
+                 US market from our Mexico factory.
+
+                 So what was happening was with the steel pricing, which was there in US and Mexico, the India,
+                 Turkish and Chinese steel was much cheaper when supplied to US. Now with 50% duty, we are
+                 finding that the Mexican steel, even with US -- Mexican towers, even with US steel is becoming
+                 competitive.
+
+                 So the US market has actually opened up for Mexico for the US tower supplies, okay, when you
+                 look at the earlier situation. Not that it was a large market for us, but the larger market was from
+                 India and for the Mexico plant was Mexico itself. That's -- so that is one impact which is positive
+                 for Mexico as far as tariffs are concerned, okay?
+
+                 Page 20 of 23
+
+[[P21]]
+Amit Anwani:                                                                             KEC International Limited
+Vimal Kejriwal:                                                                                   November 11, 2025
+
+Amit Anwani:     The second piece, although you're not asking me is that there is a significant piece which is
+                 happening in Mexico itself for the demand. So right now, if I look at my Mexico factory,
+                 probably 60%, 70% of my production is for the local Mexican market, okay? So we have clearly
+                 seen an uptick happening with the -- see, if you look at the President, Sheinbaum, she is an
+                 environmental engineer.
+
+                 So what has happened is that she has pushed a lot on the renewable side, unlike the other
+                 President and because of which we are seeing a lot more demand coming up in Mexico itself.
+                 As far as Brazil is concerned, Brazil was hardly catering to US, except for some small hardware
+                 products, which they are still doing it. But Brazil, as far as our product is concerned, is not
+                 impacted in any way by the tariffs.
+
+                 That's very clear. Sir, second question on the margins. So you did guide that full year now we
+                 are targeting 8%. I recollect, I think you were giving some 8%, 8.5%. So now we're firmly saying
+                 8%. Is there any downside risk to 8% also?
+
+                 And second, which segment where we're seeing some drag and not able to meet what we are
+                 expecting? Any color on that? And second part to this question is seeing your current order book
+                 with you, and you said that there was a double-digit margin in T&D. How much more is left?
+                 Are we eyeing mid-teen, early teens in T&D, seeing the current order book scenario, which is
+                 there with you?
+
+                 Yes, I don't think we can increase the margin beyond a particular level in T&D. However, there
+                 are individual projects where the margins are significantly higher than the numbers which you're
+                 talking about, okay? So I have always been mentioning that let's take a market like Saudi. We
+                 have projects at 7%, 8% margins. We have projects at 20% plus also. And same thing applies in
+                 India also incidentally, okay?
+
+                 In India also, we have done projects at a lower margin. I have done projects at 20% plus also.
+                 So margins in EPC business are determined more by the complexity, by the expected
+                 competition in particular projects, okay? Can the margin go up? Maybe 50 basis points here and
+                 there can go up in the T&D market.
+
+                 Overall, I think you're right, we have been talking about 8% to 8.5%. We are not talking about
+                 more on the lower band at 8% because whatever has happened on the delays in civil, etcetera,
+                 and all that, that may or may not lead to a little bit of a margin erosion.
+
+                 In many cases, we are in discussion with the clients, etcetera, saying this is what has happened
+                 and the clients need to pay up. But unless and until they pay up, that's why we have become a
+                 little bit more conservative and said that we should be closer to 8%.
+
+                 I don't think we are seeing too much of risk to the numbers unless and until, let's say, the steel
+                 and cement prices spike up suddenly or something, which we are not seeing that happening at
+                 all. So I don't think we are seeing any significant risk to what we are talking, no.
+
+                 Understood, sir. Sir, lastly, on labor shortage, you have been highlighting labor shortage from
+                 quite some time and our order books are growing. We are growing overall seeing an up cycle
+
+                                      Page 21 of 23
+
+[[P22]]
+Vimal Kejriwal:                                                                          KEC International Limited
+                                                                                                  November 11, 2025
+
+                 with very strong growth expected in forward years. So how are you dealing with this situation
+                 as I think this being the key concern and you have been highlighting in this thing from, I think,
+                 almost 2, 3 years.
+
+                 Just wanted to understand, will this be achieved with some mix change or naturally since T&D
+                 is increasing, we'll be able to deal with this situation. Just wanted to have more color on the
+                 situation and going forward, how are we dealing it?
+
+                 So I think, Amit, you're absolutely right. I've been talking about it for some time. Even today, I
+                 mentioned it. One thing is that if you heard my order intake breakup, almost 12,000 out of the
+                 numbers come from international. And we have generally not faced any significant labor issue
+                 in the international market.
+
+                 We have been hiring from India. We've been hiring from other countries. We've been hiring
+                 from Egypt. Then there are many other countries from Africa, we are not now taking labor and
+                 all that. So internationally, I think we are pretty insulated from the labor problem.
+
+                 As far as India is concerned, our requirement was around 30,000 earlier. We had 17,000. Now
+                 we are already at 24,000 sort available. The number keeps on going up and down. We have
+                 elections. Now again, they'll start coming back from tomorrow. First set election some people
+                 from those areas have already come back.
+
+                 So there is definitely a shortage and also shortage could be on specific pieces like in T&D, I
+                 don't have a shortage on civil or on stringing, but the shortage is on erection. So I think those are
+                 getting addressed. The other thing what we are trying to do is we are trying to increase our
+                 mechanization quotient significantly.
+
+                 Like India, we were never doing erection by cranes or towers. Now we have started doing a lot
+                 of erection by crane, which we used do in Middle East earlier. Or if you take Civil, you know,
+                 you had fitters coming and cutting in and you know, bar bending, now we are using automatic
+                 bar bending machines, we have set up bar bending plants in some of our projects.
+
+                 Also, we are talking with Tata's and all that, we are actually buying mesh steel, etcetera, directly.
+                 So what you're trying to do is how do you reduce the requirement of labor or work with them to
+                 increase productivity by using a lot more mechanization, okay? Like we are now doing plastering
+                 by drones, for example.
+
+                 So, a lot of things are being used so how do you reduce the requirement of masons? So,
+                 individual category of, you know, workers are being addressed one by one. But yes, the problem
+                 still continues. I could have definitely done at least INR200 crores, INR300 crores more. I'm
+                 telling you in civil, had we had a full contingent of 30,000 people with us.
+
+                 Okay, but now it's already reaching a better number. So hopefully, that's one of the reasons why
+                 we are saying we'll do better in civil. Plus now next 3, 4 months, we don't see any festival till
+                 the next Holi. So hopefully, the labor will continue where they are. I hope I answered your
+                 question, Amit.
+
+                                      Page 22 of 23
+
+[[P23]]
+Moderator:                                                                               KEC International Limited
+Vimal Kejriwal:                                                                                   November 11, 2025
+Moderator:
+                 Thank you, sir. Ladies and gentlemen, that was the last question for today. I now would like to
+                 hand the conference over to Mr. Vimal Kejriwal for the closing comments. Thank you, and over
+                 to you, sir.
+
+                 Thank you, Danish, and thank you, everyone, for your continued interest in KEC. Thank you so
+                 much.
+
+                 Thank you, sir. On behalf of KEC International Limited, that concludes this conference. Thank
+                 you for joining us, and you may now disconnect your lines.
+
+                 Page 23 of 23
+
+[[P24]]

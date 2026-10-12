@@ -1,0 +1,29 @@
+Basis: FY25 operating income Rs 457.07 Cr, standalone (CRISIL 13 Feb 2026)
+Per day = 457.07 / 365 = Rs 1.252247 Cr
+Leg: receivable (debtor days 125); no interest (rate 0%)
+valueOfADay cash = 1.252247 Cr; carry = 0
+
+Scenarios (Scenario, not a forecast; rows overlap, never added):
+  10 days less: 125 -> 115 days; released Rs 12.522466 Cr (12.52); carry 0; moved -10
+  30 days less: 125 -> 95 days; released Rs 37.567397 Cr (37.57); carry 0; moved -30
+
+Process map and cash cycle chart values:
+  Payment received today: 125 days (CRISIL, FY25)
+  With Crestline, 10 days less: 115 days; Rs 12.52 Cr released once
+  With Crestline, 30 days less: 95 days; Rs 37.57 Cr released once
+  DIO 155 days: stated by CRISIL, never priced, no scenario
+
+Asserts:
+PASS  10d: no negative release
+PASS  10d: interest = 0
+PASS  10d: cross-check days x per day = simulate (12.522466)
+PASS  10d: basis is receivable at 457.07/365 and 125 days
+PASS  30d: no negative release
+PASS  30d: interest = 0
+PASS  30d: cross-check days x per day = simulate (37.567397)
+PASS  30d: basis is receivable at 457.07/365 and 125 days
+PASS  only the dso lever is priced (DIO has no cost base, CAD/DPO no data)
+PASS  payables: stretching past terms releases 0 (clamped)
+PASS  payables: paying sooner never releases cash
+
+ALL PASS

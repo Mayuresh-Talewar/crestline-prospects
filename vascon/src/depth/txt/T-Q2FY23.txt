@@ -1,0 +1,614 @@
+                 "Vascon Engineers Limited
+          Q2 FY `23 Earnings Conference Call"
+
+                     November 09, 2022
+
+MANAGEMENT: DR. SANTOSH SUNDARARAJAN ­ GROUP CHIEF
+                     EXECUTIVE OFFICER ­ VASCON ENGINEERS LIMITED
+                     MR. SOMNATH BISWAS ­ CHIEF FINANCIAL OFFICER ­
+                     VASCON ENGINEERS LIMITED
+                     MR. VISHAL MEHTA ­ STELLAR INVESTOR RELATIONS
+
+                                                 Page 1 of 14
+Moderator:                                                                                    Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       Ladies and gentlemen good day, and welcome to Q2 and H1 FY 2023 Earnings Conference Call
+                       of Vascon Engineers Limited. As a reminder, all participant lines will be in the listen-only mode.
+                       And there will be an opportunity for you to ask questions after the presentation concludes.
+                       Should you need assistance, during the conference call, please signal an operator by pressing
+                       star and then zero on your touchtone phone. Please note that this conference is being recorded.
+
+                       I now hand the conference over to Dr. Santosh Sundararajan, Group CEO, Vascon Engineers
+                       Limited. Thank you, and over to you, sir.
+
+Santosh Sundararajan:  Thank you. Good morning, everyone. I welcome you all to the earnings conference call of
+                       Vascon Engineers for the second quarter and half year ended September 30, 2022. Today, joining
+                       me on the call is Mr. Somnath Biswas, our CFO and our Investor Relations team, Stellar Investor
+                       Relations.
+
+                       I believe you have gone through the Q2 and H1 FY '23 financial results, presentation uploaded
+                       on the stock exchange and on the company's website.
+
+                       The key development in Q2 and H1 FY '23 are:
+
+                       We have been highlighting over the past few quarters that we are focused to improve our debt
+                       position, and in continuation to that, we are happy to report that over the past 18 months, we
+                       have reduced our gross debt by Rs 59 crores to Rs 155 crores as on September 30, 2022, as
+                       against Rs 214 crores as on March 31, 2021.
+
+                       This, along with improved cash flow generation has led to a net debt of only Rs 41 crores as on
+                       September 30, 2022, as against Rs 134 crores as on March 31, 2021. More importantly, a
+                       significant part of the debt reduction has been on the high-cost debt, which helps in bringing
+                       down our finance costs. During the aforementioned period, the total debt-to-equity ratio has
+                       improved to 0.19x from 0.30x earlier.
+
+                       Further, our credit rating profile has also improved. Like we mentioned in the last con-call,
+                       Acuite Rating has upgraded its rating for our long-term bank facility to Acuite BBB stable and
+                       for the short-term facility to Acuite A3+ stable. Other in September, CRISIL has also assigned
+                       long-term credit rating of BBB stable and a short-term credit rating of A3+. With improving
+                       business performance and cash flow generation, we are hopeful of further upgrading our credit
+                       ratings going forward. We continue to focus on liquidity management by monetizing the non-
+                       core assets.
+
+                       The second key highlight continues to be the improving run rate of EPC execution. During the
+                       quarter, EPC revenue increased by 53% year-on-year and 14% quarter-on-quarter to Rs 156
+                       crores. While on a year-on-year basis, it may look highly growth-centric with the base effect of
+                       a partial lockdown last year in the first quarter. When compared on a quarter-on-quarter basis,
+                       growth in EPC execution run rate is quite encouraging.
+
+                       Page 2 of 14
+                                                                                              Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       And that typically in the construction industry, Q2 of any fiscal is lower than Q1 due to seasonal
+                       effect. We attribute this growth to the rigorous efforts by our teams to resolve the challenges that
+                       we faced in the past.
+
+Santosh Sundararajan:  Thirdly, our EPC order book has been robust. As on September 30, 2022, the total order book
+                       stands at about Rs 1,800 crores of which, external EPC orders are about Rs 1,500 crores and the
+                       balance is from internal orders. Further almost 74% of the order book is towards government
+                       projects, which provide visibility of cost execution and uninterested cash flows, helping us
+                       improve our execution run rate.
+
+                       With that, we believe we are well placed to improve performance in the next couple of years as
+                       our order book forms about 3.9x of the FY '22 EPC revenue, providing strong visibility of EPC
+                       revenue growth for the next 2-3 years. The company is witnessing increased demand in real
+                       estate EPC segment as we are trying after realtors based in Pune, Mumbai and Coimbatore
+
+                       Lastly, on the real estate and GMP businesses, we are happy to report that there is meaningful
+                       progress in both the segments as well. Real Estate segment, after various headwinds in the recent
+                       past is gaining momentum steadily. There is a gradual recovery in demand as the economy
+                       moves towards normalcy. Our new sales booking in H1 FY '23 stood at 135,000 Sq. Ft. for a
+                       total sales value of Rs 83 crores.
+
+                       During H1 FY '23, our real estate revenue stood at Rs 48 crores and an EBITDA of Rs 22 crores.
+                       The gross margin came in at 61%, while EBITDA margin at 45% in H1 FY '23. Due to the nature
+                       of accounting treatment driven to revenue and expenses for real estate business based on Ind
+                       AS, the recording of revenue happens on project completion basis, making it lumpy in nature,
+                       whereas administration and other expenses are recorded as incurred quarter-on-quarter basis.
+                       Due to this timing difference of revenue and expense recognition, in certain quarters where
+                       revenue is not booked. The real estate business will show a loss as opposed to those quarters the
+                       revenue is booked.
+
+                       During the first half, we have launched new residential project Tulip Phase 3 in Coimbatore. Out
+                       of 49 units, which is Vascon share, 44 units were sold within one month of launch, as well as a
+                       project Eco Tower in Pune in which Vascon has a 70% share, 25% is sold out as on 30th
+                       September 2022. On the other project Vascon Spring, we have fully sold the building consisting
+                       of an area of 33,387 Sq. Ft. out of which, 70% is Vascon shares. Also, we have recently received
+                       the first redevelopment project based in Santacruz in Mumbai, which yield a total value of Rs
+                       225 crores.
+
+                       GMP business continues to deliver sustainable performance in the past quarter as well. Revenue
+                       of Rs 113 crores for H1 FY '23 and a healthy gross margin of 28% is what GMP has delivered
+                       in the first six months. EBITDA stood at Rs 7 crores with a margin of 6% in H1 FY '23.
+
+                       Page 3 of 14
+Moderator:                                                                            Vascon Engineers Limited
+Ranodeep Sen:                                                                                  November 09, 2022
+
+               Coming to the industry sector; A thriving construction industry is indicative of a strong
+               expanding economy because it creates homes, rates of employment and other official
+               infrastructure like bridges and dams.
+
+               This year, India has anticipated to have the fastest growing major economy worldwide.
+               Construction will be one of the main focus behind long-term growth at millions of Indians
+               consider moving to urban areas in search of high-quality employment. Three key factors we cast
+               the demand will likely continue, contributing to a good holiday season for real estate.
+
+               Firstly, prices have been gradually rising due to rising interest costs. This contributes to higher
+               demand with buyers prefer to buy in the rising priced market. In a 140-basis point increase in
+               home loan rates to 7.9% haven't dampened demand because rates are still low from the pre-
+               pandemic levels. This is due to the fact that despite the global crisis, which has resulted in an
+               increase in interest rate, the Indian economy continues to grow at a rate of 7%.
+
+               Lastly, as people work from home more frequently, there is greater demand for larger homes
+               with attaining amenities. Given this backdrop, the festive season is selected to see strong demand
+               for residential property since the monsoon and the Shradh period, the preceding quarter Q2 is
+               views as a poor sales time and sales are often considered in the October-December quarter.
+
+               On the overall financial performance, let me start with the standalone numbers. During Q2 FY
+               '23, the company reported a total income of Rs 183 crores as against Rs 119 Crores in Q2 FY
+               '22 year-on-year a growth of 53% year-on-year. In Q2 FY '23, EBITDA stood at Rs 26 crores
+               and remained Rs 11 crore in the corresponding period last year. EBITDA margin was at 14%.
+               Reported net profit of Rs 22 crores in Q2 FY '23 as against Rs 3 crores in Q2 FY '22 with a
+               growth of 535% year-on-year.
+
+               On a consolidated basis, Q2 FY '23, the company reported a total income of Rs 235 crores as
+               against Rs 161 crores in Q2 FY '22, which is a growth of 46% year-on-year. EBITDA stood at
+               Rs 29 crores, with EBITDA margin of 12% as against Rs 13 crores in Q2 FY '22. And the net
+               profit of Rs 23 crores as against Rs 3 crores in FY '22, which is a growth of 562% year-on-year.
+
+               On the strategy, the company stressed towards building a strong order book, enabling the
+               execution to continue at current levels. The EPC business will be prime focus for the company
+               going forward. With this, we can now open the call to question and answer. Thank you.
+
+               We'll take the first question from the line of Ranodeep Sen from MAS Capital.
+
+               So my question is with respect to the gold mine that we have in the Thane land. And I understand
+               out of the 150 acers land that Vascon has, I think, around 70 acres is of Vascon. Recently,
+               Amazon had a deal with a real estate developer in October, which is being counted as the biggest
+               real estate deal of 2022 valuing that planned at Rs 1,800 crores for 60 acres. So what is Vascon's
+               plan to unlock value for our shareholders?
+
+                                     Page 4 of 14
+Santosh Sundararajan:                                                                         Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       Yes, you are right, a couple of fantastic deals that happened in and around our land parcel. This
+                       is excellent news in the demand in that area is being established and the price is also being
+                       established at much higher than what we have ever calculated or signed to Vascon, of course,
+                       we hold it on our balance sheet at book value,. So, there is a huge gold mine there, as you rightly
+                       said.
+
+                       Our issue is that what the land that we possess is not entirely contiguous. And we will be waiting
+                       for some more time. And then we are talking to a few partners who are willing to partner us in
+                       acquiring land in and around our parcel, so that we can have kind of a swap deal and create a
+                       continuous parcel for both of us.
+
+                       So definitely work has started, but it is a long-term process. We do not want to be bagging values
+                       or application for shareholders in the short term over the next 2-3 years on this parcel. But this
+                       will yield great numbers, great profits, great revenue everything in the medium term. But we do
+                       not want to give any guidelines in the next 8 quarters or so.
+
+Ranodeep Sen:          My second question, I think first of all, congratulations on bagging the first three development
+                       project in Mumbai, I think at Rs 225 crore revenue opportunity sounds great. So in the larger
+                       scheme of things, do you see Vascon doing a lot of redevelopment in Mumbai, given the large
+                       Mumbai redevelopment opportunity that exists?
+
+Santosh Sundararajan:  Yes. So we do feel that smaller project from Vascon standpoint to be able to do extremely big
+                       projects in Mumbai is not in our bandwidth, we would want to focus on small projects like this,
+                       which we have acquired now. This is an excellent starting point for us. It's in a very prime
+                       location, probably one of the most prime locations from they can have on right in Bandra and so
+                       this would be our pilot project. We would want to get this kicked off. And yes, question, we're
+                       having a separate team that is entirely looking at redevelopment options wherever we feel the
+                       value is right and wherever the owners are ready to choose as us a partner. We are keen on
+                       making a few more entries within Mumbai in this aspect.
+
+Moderator:             We take the next question from the line of Mr. Bajrang Bafna from Sunidhi Securities.
+
+Bajrang Bafna:         Congratulations for a great set of numbers, sir. My first question pertains to the real estate
+                       business. If we see the pipeline projects, which we have categorized in two parts, one is the near
+                       term another one is the only pipeline closer to almost Rs 1,500 crores plus Rs 900 crores, so
+                       almost Rs 2,400 crores kind of sales value potential. If you can guide us the launch timeline and
+                       the completion timeline and at what time frame we expect this Rs 2,400 crores to be convert into
+                       sales and then eventually the position to be given? So if you could guide us will be really helpful.
+                       Some ballpark timelines on these projects?
+
+Santosh Sundararajan:  So all of these projects, which is in Powai in Mumbai, Kharadi in Pune, the other four acre
+                       housing in Pune, the Baner land and the Santacruz redevelopment that we have signed in
+                       Mumbai. All of these are tied up and at various stages of obtaining approval. So you can expect
+                       that these five projects should definitely be launched in the next months and putting an upper-
+
+                       Page 5 of 14
+                                                                                              Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       side number 12 to 15 months at max. And if you take -- if you expect two, three years max for
+                       execution. So in the next four years, the Rs 1,600 crores plus the Rs 900 of existing, all of this
+                       would definitely be getting executed, sold and revenue realized booked. But as we said, the real
+                       estate revenues come in a quarter where we obtain OC. So how we will be able to sort of linearize
+                       since by getting an OC every quarter yet to be seen because we do not have so many projects
+                       that we can keep getting OCs, but having said that, this quarter or the next quarter, somewhere
+                       the revenues will have to come, these profits will have to come. So yes, over a four year period,
+                       I think we target the depreciating both the buckets should get executed.
+
+Bajrang Bafna:         Yes. Sir, what I'm trying to sense is that we understand this accounting annually, which is
+                       existing. But fairly to understand from an average yearly perspective, Rs 500 crores to Rs 600
+                       crores kind of the top line that can be expected. I'm not purely asking from a P&L perspective.
+                       I'm just saying from a cash flow perspective.
+
+Santosh Sundararajan:  Yes, cash flow perspective, you're obviously right from next year we will see extremely healthy
+                       cash flows compared to what we have seen in the past in the real state. Cash flows come in
+                       advance and the recognition comes later. However, all projects that has being launched in the
+                       next 7-8 quarters, I do not know how many will actually reach the stage of OC. So suddenly,
+                       you would see an upside recognition of all the revenue for three years and four years from now.
+
+                       And the projects that we are booking will get recognized in the next year. But the one estate
+                       much more in volume than what production. So we've a lot of work to the real estate division to
+                       bring back positivity and kind of new projects. So all the remains in that every quarter, almost
+                       we are signing up a new project and yes. So we will be launching a new project every quarter
+                       going forward for sure. And even two years, given 20 - 24 months from today after that in every
+                       quarter will also see a completion in projects a in revenue growth taking place.
+
+Bajrang Bafna:         Yes. Sir, your voice is a little bit breaking. So we are not able to understand it fully. I don't know
+                       whether it is with me or with everybody. So just to get slightly more sense. Can you also start
+                       disclosing this because most of the real estate companies also gives the expected construction
+                       cost and the total operating cash flow, which can be expected from these projects. So that gives
+                       us some sort of valuation metrics. So what can be the expected construction cost, which can be
+                       assumed for these projects on a ballpark basis?
+
+Santosh Sundararajan:  So generally, on an average, I think Rs 3,000 /Sq. Ft. to Rs 3,300, Rs 3,500 kind of wherever it
+                       is, in general, could be taken as the construction cost. But rather than you calculate things
+                       because there are shares to the landowner. I understand what you're saying. And I think we will
+                       calculate this as a ballpark projection and share it.
+
+Bajrang Bafna:         That would be great, sir. That would be they give us some sort of cash flow that we are going to
+                       for the next 4-5 years from this order.
+
+                       Page 6 of 14
+Santosh Sundararajan:                                                                         Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       Yes. So we also have operating. So over a 4 year period, what would be our operating cost of
+                       running the real estate division? What would be the cost of construction for all these projects
+                       that we have? And then what is the top line? So effectively, what would be the...
+
+Bajrang Bafna:         The operating cash flow that -- so rather than going to P&L, it is better that we focus on cash
+                       flow that would be ­ are superior for us. And sir, my second question pertains to the EPC side
+                       where you have now almost Rs 1,500 crores order book and the execution cycle has picked up
+                       very well at least in this first half. So what can be sense in terms of this financial year and maybe
+                       going into next financial year, purely from the EPC side and getting into newer orders and all.
+                       So if you could guide us on that parameter, it will be really helpful?
+
+Santosh Sundararajan:  Yes. So EPC, fortunately, we had an excellent order book even now in hand. This year, we
+                       haven't bagged much. We do intend -- hopefully, we will bag a few more orders before the end
+                       of the year and keep this order book at same level or upward of what it is now. But having said
+                       that, even if the order bagging is a little bit delayed, the current run rate is expected to only
+                       increase with all these projects having taken shape and giving us full execution front on ground
+                       in all these projects.
+
+                       And so as you saw, our execution run rate has only increased quarter-on-quarter. We have done
+                       about Rs 156 crores in this quarter. So next two quarters would definitely be better than second
+                       quarter. Third quarter and fourth quarter generally are a better quarter for construction. We've
+                       already seen that in the month of October, we've done quite well, more than what we've done
+                       monthly in the previous quarter. So I would expect us to do a good percentage more than the
+                       first half in the second half of this year. So our guideline has always been about Rs 600 crores
+                       EPC. I think safely, we should do that much or more in EPC this year.
+
+                       And next year, we would like to have at least a 20-30% growth on this Rs 600 crore target of
+                       this year. So that would hopefully go up to Rs 750 crores, which we will definitely achieve
+                       considering the run rate at which we are working currently.
+
+Bajrang Bafna:         And sir, can we work with 10% sort of margin on this EPC on a conservative side?
+
+Santosh Sundararajan:  So what is happening in EPC is at the end of the day, we're still looking at a single-digit PAT, if
+                       it comes down to a PAT level. We do have EBITDA or gross profit in double digit in the teens...
+
+Bajrang Bafna:         No, I'm talking about operating margins, EBITDA margin.
+
+Santosh Sundararajan:  The EBITDA margin is over 10% anyway. So that is not a problem. But we will, hopefully, next
+                       year, when we reach Rs 750 crore and upwards of Rs 750 crores execution, that's when we will
+                       hope to at least reach 9-10% PAT because that is where we would want to be. 4-5% PAT is quite
+                       low, we will hopefully be closer to 10% PAT. That is our target for next year.
+
+Moderator:             We'll take the next question from the Rusmik Oza from Kotak Securities Limited.
+
+                       Page 7 of 14
+Rusmik Oza:                                                                                   Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       Sir, I just wanted to get a small clarification. You said you want to keep the order book at the
+                       current level by end of FY '23. Does it mean if you continue to remain at around 3.9 times of
+                       revenue or it was absolute figure?
+
+Santosh Sundararajan:  So I would actually talking of absolutely, you're right. I was actually talking about absolute
+                       figures. They are doing Rs 600 crores, and we won four times that, so we should be at Rs 2,400
+                       crores. That's a very ideal point to be in, but we still -- we've lost six months in focusing on our
+                       BG and getting those limits. So we've got our ratings plus. We are now at an advantage of mines
+                       to get our limit retention to the existing collateral we have. And then we'll be in a position to bid
+                       for much more projects.
+
+                       Today, we are a bit constrained in choosing which project we want to bid for. But having said
+                       that, we've taken an internal target that at least in the next six months, if I'm going to extinguish
+                       another Rs 300 crores, as me at least back Rs 300 crores and remain at Rs 1,500 crores, Rs 1,900
+                       crores level to start the next financial year. And then quickly within the first half of next financial
+                       year, we'll ramp that up towards upwards of Rs 2,000 crore, Rs 2,400 crore for sure. Yes, we
+                       should be at around Rs 2,400 crores so that the healthy growth story can continue for the next
+                       three, four years.
+
+Moderator:             Yes, sir, we can hear you, but Rasmik line is disconnected. So we are promoting the next
+                       question from the line of Mr. Balasubramanain.
+
+Balasubramanain:       My first question is monetization of Thane land and second question on progress on Powai
+                       project.
+
+Santosh Sundararajan: I'm not able to hear you. Your line is cracking.
+
+Moderator:             Sir, your line is breaking up, sir. If you are on speaker phone, I would request you to please use
+                       your handset.
+
+Balasubramanain:       My first question is monetization of Thane land. Any update on that? And any update on Powai
+                       projects and the Goa projects also.
+
+Santosh Sundararajan: The third one was Goa project is it?
+
+Balasubramanain:       Goa project.
+
+Santosh Sundararajan:  So the first one, Thane. I think I just answered we do not want to be giving any updates or
+                       highlights or expectations on that parcel for the next 8 quarters it is definitely moving in an
+                       excellent direction as far as we are concerned, as we all know, some deals are being signed and
+                       closed in and around land parcel exactly the same region in Thane, which is taking the valuation
+                       of the land much higher than what we have ever thought to. So it's a gold mine, which is waiting
+                       to be tapped. But I think we will still have to wait for a few more quarters to get a partner who
+                       will help us in test.
+
+                                     Page 8 of 14
+                                                                                              Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       So no guidelines for the short term. For the second one you mentioned was the Powai project.
+                       Yes, Prowai project we are working on launching a project over there. We've got an investor
+                       side up in principle who will be partnering us so that we get the initial cash flows required to get
+                       the approvals and launch the project. So we hope to launch that project within the next 12
+                       months, get the approvals and launch it. So we are working on that, that will get launched soon.
+                       And the third one in Goa, the project that we bagged so Goa Airport is going on fine. They are
+                       constructing it an EPC project. The other one that we had bagged, which was a convention center
+                       that is on hold as far as we are concerned. So we are not taking it in our order book as of now.
+
+Balasubramanain:       Next question regarding the margin side in this current quarter, around 5% margins. So we
+                       expect around 8-9% kind of in that?
+
+Santosh Sundararajan: Sorry, your voice you cracking?
+
+Balasubramanain:       Sir, right now, our current margin is around 5% for this quarter. So previously, if you look at a
+                       few quarters, we are around 8-9% margin. So when we can expect that recovery going forward?
+
+Santosh Sundararajan: Yes. I think over the next two quarters, the margin percentage would increase for sure.
+
+Balasubramanain:       Can the higher single digit or higher double digit?
+
+Santosh Sundararajan: Yes, high single digits, double digit will still take, hopefully, next year.
+
+Moderator:             We take the next question from the line of Mr. Rusmik Oza from Kotak Securities.
+
+Rusmik Oza:            So I was asking earlier a question is that we have execution project of 3.7 Million Mn Sq. Ft. in
+                       EPC, whereas our ability is around 8 Million Sq. Ft. I just wanted to understand how do you
+                       then look at tapping this ability of 8 Million Sq. Ft. or any path or guidelines you have in mind?
+
+Santosh Sundararajan:  So see, we always maintained that our ability to do Rs 800 crores, Rs 1,000 crores, Rs 1,000
+                       crores of -- as in we can always grow beyond that. It's not the feeding on our ability. But the
+                       current bandwidth that we have in terms of assets and senior staffing would enable us to execute
+                       about Rs 1,000 crores. We're doing about Rs 600 crore this year, next year, hopefully, we'll do
+                       Rs 750 crores, Rs 800 crores. The year after that, we will exhaust our bandwidth in terms of
+                       assets, capex and senior staffing. So three years from now, definitely, we will have to look at
+                       investments to grow beyond Rs 1,000 crore EPC mark.
+
+Rusmik Oza:            Sir, there is a slide in the presentation about noncore assets identified for sale, a 9-acre land
+                       parcel in Aurangabad and GMP Technical Solution. Can you just give us some timeline or
+                       guideline how this will play out in the future?
+
+Santosh Sundararajan:  So the nine-acre land parcel Aurangabad is currently that anyway consortium banks there being
+                       a lead banker to get our CC and BG limit. So in the meantime, we are looking to sell off that
+                       parcel because it is a non-core asset as far as we are concerned. If we do -- we are in talks with
+                       a party who is interested in purchasing. If the deal does go through, then you might realize about
+
+                       Page 9 of 14
+                                                                                              Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       Rs 30-odd crores cash flow, but that would gain it could not be free cash flow for us to reduce
+                       debt or use in business growth because it will have to be with SBI to retain the limits that we
+                       have as a collateral.
+
+                       The other one, GMP Technical Solution, we're still not looking actively to divest it yet. I think
+                       we will still give it a year or maybe year and half, two years to stabilize quarter-on-quarter, like
+                       Vascon EPC is now stabilizing in terms of execution run rates as well as bottom line. GMP is
+                       also at that turning point. It is doing well, the next two quarters, we expect to do much better
+                       than what it has done in the first two quarters. So we would wait for it to have a reasonable
+                       healthy EBITDA and PAT that is being seen at the end of each quarter. And then based on that,
+                       then we look at the valuation, maybe a year or two down the road to divest that company.
+
+Rusmik Oza:            And my last question, sir, is this entire Thane land parcel which we own in the book, what was
+                       the book value or the amount which is sitting in the balance sheet as of now on book value?
+
+Santosh Sundararajan: Book value, it's about Rs 50 crores.
+
+Rusmik Oza:            Rs 50 crores.
+
+Moderator:             We take the next question from the line of Mr. Vijay Sarda, Canara HSBC.
+
+Vijay Sarda:           My question pertains to two things. One, I just wanted to know about the construction cost for
+                       the real estate with the current cost on the steel and all that going down, so has that decreased a
+                       bit for us? And secondly, you already stated on the bank part, how things are getting on the
+                       bank's ratings last time when we spoke, you talked about the rerating and all that, so our limit
+                       will get announced so that we will be able to bid for a higher order book, so is that process going
+                       on? When can that get concluded?
+
+Santosh Sundararajan:  Yes, I'll answer the banking part first. The process is very much on. This quarter, we got about
+                       a couple of months ago, we've got a rating revision from CRISIL to BBB which is now a very
+                       positive news for us as far as the banking liquid is concern. The banks are now doing our
+                       credibility in a much more positive light. So we are in negotiation with the existing consortium
+                       of banks as well as with a new bank to see over offers the best limits within collaterals that we
+                       have. And so that is -- the discussions are going on, our finance team is continuously working
+                       on it. And hopefully, in the next call that I had by then we should hopefully have revised our
+                       limits with the consortium. So that is making positive progress. And yes, once the limits are
+                       revised, we will have much more bank guarantees in hand, and we can aggressively look for
+                       order booking. Sorry, what was the first question?
+
+Vijay Sarda:           First was regarding the cost of construction in residential, now has that gone down with the price
+                       decrease in the steel and all that?
+
+Santosh Sundararajan:  Yes, definitely. Suddenly, the steel and most raw material prices have gone to an extreme peak.
+                       I think they have stabilized a bit, but they are still much higher than pre-COVID levels. So it's
+                       not that it has come back down to what we were two years ago. So the price is also stabilizing
+
+                                            Page 10 of 14
+                                                                                              Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       at those levels. So yes, in real estate, considering that they are yet to launch, we are talking about.
+                       This is going to be stabilization of raw material price happens. And then we are able to sale price
+                       after calculating all our costs.
+
+Santosh Sundararajan:  Yes. So I said, yes, the costs have come down, and we will work out the cost of construction and
+                       the cost of operating real estate division, and therefore, the cash flows over the next few quarters
+                       based on the projects we are launching and the projects we have already launched, and we will
+                       share this.
+
+Vijay Sarda:           Okay. Sir, last question on this development project that we won in Santacruz. So that value is
+                       worth Rs 225 crores. So how much time execution will happen for this project? And secondly,
+                       what kind of margin can we expect? Because the Rs 225 crores order that is there, we have taken
+                       Rs 180 crores order book in EPC. So Rs 45 crores is a gap. So do we need to pay for rent and
+                       other costs also? So what's kind of the margin we can expect in this?
+
+Somnath B. Biswas:     The Rs 225 crores, orderbook of real estate so factoring all these things, the rent and everything
+                       has been calculated on this part. So really easy part. So this will be considered as the real estate
+                       part
+
+Vijay Sarda:           So what can be typical time frame for the completion in margin on this entire like project if we
+                       can...
+
+Santosh Sundararajan: Get full run rate 2-2.5 years.
+
+Vijay Sarda:           2- 2.5 years. Yes. Okay.
+
+Santosh Sundararajan: 3-4 years.
+
+Moderator:             We take the next question from the line of Mr. Manish Shah, individual investor.
+
+Manish Shah:           The Santacruz project is in our book?
+
+Santosh Sundararajan: Yes.
+
+Moderator:             We take the next follow up question from the line of Mr. Rusmik Oza, Kotak Securities.
+
+Rusmik Oza:            Yes, sorry. Sorry. You have given the guidance on the increase for this year around Rs 600
+                       crores next year, Rs 750 crores. Any guidance you would like to give on the real estate side are
+                       looking for a bit holistically on the overall potential revenue of the company for the next two
+                       years? And secondly, as I understand, maybe this year, next year, growth will be led by EPC
+                       and then as you are the launches certified, then that will fire up maybe after FY '24 and that will
+                       reality back ended and drive the growth in FY'24, FY'25, something like that?
+
+Santosh Sundararajan:  Yes, you're right. So I think it's fairly easy to give guidelines because it is recognized quarter-
+                       on-quarter in a linear fashion. So as long as we continue to grow our order book step by step and
+                       continue to execution, we can with offset such linear targets of growth. Real estate, we have now
+
+                                            Page 11 of 14
+                                                                                              Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       back in full trend, we lined up. We have five projects to be launched in the next 12 to 18 months,
+                       and then we have a couple of projects which we have launched, which are to be executed and
+                       finished.
+
+                       All this put together should get us more than Rs 2,000 crores of revenue to Vascon over the next
+                       four years. But now the recognition of this revenue will only come mostly in the third year and
+                       fourth year because the projects are getting launched now. And while cash flows will start
+                       accruing from the next few months itself, the revenue will get recognized as you rightly said, in
+                       FY'24 and FY'25 or rather FY'25 and FY'26 impact. And only then we will see at the balance
+                       sheet or P&L level that real estate is pushing growth as much or more than EPC. Till then in the
+                       books, it will look like EPC still be a significant contributor to our growth story. But the fact is
+                       that we are focusing very much on real estate as well.
+
+                       And we will continue to update you with the new projects we are launching. We will also share
+                       ­ as was pointed out, we will also share the cash flow projections over the next three, four years
+                       coming from real estate, and that will give you all an idea of where real estate is heading. The
+                       recognition will happen as per the guidelines down the line.
+
+Moderator:             The next question is from the line of Mr. Surya Nayak, Individual Investor.
+
+Surya Nayak:           So regarding the Ajanta project, around Rs 15 crores has been from the FSI sales we have got
+                       this quarter. So what is the case, if I see your project pipeline status, so our share from the Ajanta
+                       is around Rs 230 crores. So what is the future? When are you going to actualize these profits?
+                       Because of the cash flow statement, so it has not been increased. So what is the status of
+                       regarding the Ajanta case?
+
+Santosh Sundararajan:  So in Ajanta, you see the top line does not come to it'd be very difficult to monitor that we eat
+                       share of profits eventually from that entity that comes as top line and bottom line to our balance
+                       sheet. So that is why you're seeing what you're seeing. The Rs 230 crores is project in the future.
+                       It has not yet been launched. So that will happen over the next three years, that execution of Rs
+                       230 crores. And that plan is also with us in a very long time at low value. So Rs 230 crores will
+                       have upwards of 35% of gross profit when we execute that one.
+
+Surya Nayak:           So can we expect a similar kind of profit to come in the subsequent quarters?
+
+Santosh Sundararajan:  No, you will not see. So this quarter, we got a recognition because of certain sale and completion
+                       that could be recognized in the books from Ajanta. Next quarter, we not something similar. And
+                       then when this project is launched this Rs 230 crores. So we are already working on a project,
+                       which will get its OC in next quarter. So yes, in next quarter also, we will get some profits from
+                       Ajanta. And the next two, three quarters, we'll get some profit from Ajanta. After that, there will
+                       be a lull because this Rs 230 crores will get launched and will get executed over the next three
+                       years. And so only three years later will we be seeing the OC and recognition of those profits.
+                       But we'll see cash flows. Throughout the period, we will see positive cash flows coming in.
+
+                       Page 12 of 14
+Surya Nayak:                                                                                  Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       Okay. And regarding the other monetization of your projects, I mean one is your Kalyani Nagar
+                       Sorry, the Aurangabad land parcel. When the -- and along with the GMP Technical Solutions,
+                       when are you going to actualize those sales? Are there any parties going talks going with any
+                       parties or still it is in the nascent stage?
+
+Santosh Sundararajan:  So Aurangabad, we are in talks with parties who is interested and hopefully, we can close it in
+                       the second half of this year. I had explained that, however, that cash flow would not accrue to
+                       us as we can to be used in either business growth or debt reduction because the brand is pledged
+                       as collateral with our banking consortium or limit. So whatever we realized we have to be used
+                       as replacement for the collateral with the bank in the short term. So as far as GMP is concerned,
+                       we are not talking to anyone as it stands.
+
+                       We will be hopefully waiting for a year or two more. GMP is also doing well, stabilizing and
+                       expanding its footprint in market as well. So we expect that GMP over the next two quarters will
+                       do much better than it did in the first two quarters of this year. The projection has been very
+                       healthy. And hopefully, then if that trend continues next year will be much better for GMP. And
+                       once we are able to establish linear quarter-on-quarter growth in top line and bottom line for
+                       GMP,. Then it will be the right time to be able to value the company. Today, I don't think we
+                       will get the true value a bit of because we're not talking.
+
+Surya Nayak:           So you are waiting for good times to plan out in GMP to exit? Or because if you are looking so
+                       much optimistic about the future, then we should not be looking at exiting from the GMP?
+
+Santosh Sundararajan:  No. We will exit. I'll tell you what, as a long term as a we have been taking over the last three,
+                       four years and we'll be sticking to it, and we intend to continue to stick to it that we will be
+                       focusing on execution of EPC as much and as fast as we can. The second focus will be on lining
+                       of real estate, which is again verified EPC without huge investments in land parcel. So rising of
+                       joint venture development and focusing on those executions.
+
+                       So as a company, our expertise, our knowledge, our bandwidth is in executing these two aspects,
+                       and we will focus only on these as we go ahead. We do not intend to hold on as investment,
+                       shareholders' money that's invested by shareholders wherever they feel is right. GMP, we will
+                       exit. But I think today is absolutely not the right -- we will get an extremely wrong valuation for
+                       the company because we have balance sheet over the last eight, nine quarters is not going to
+                       support a good multiple or whatever that we look at in terms of valuing the company. So we'll
+                       let it stabilize for more five, six quarters more, get a linear bottom line, and then we'll value it
+                       and use those proceeds to focus back on our core strength, which is again, real estate and EPC.
+
+Surya Nayak:           And when the shareholders can look forward to good dividend distribution in terms of good
+                       results that is coming out?
+
+Santosh Sundararajan:  Yes, we haven't discussed this at the management of the board level. Hopefully, we have more
+                       two more quarters, let's see at the end of first quarter, we will take this with our Board and
+                       management and cash flows should we declare or we need investments and we wait for a year
+
+                       Page 13 of 14
+                                                                                              Vascon Engineers Limited
+                                                                                                       November 09, 2022
+
+                       or so more, then we may take the call. No commitment, no discussion on this at the board, so I
+                       do not want to give any guidelines on this. But we will come back after we discuss internally on
+                       this.
+
+Surya Nayak:           Yes. Seeing is believing so that is what would be...
+
+Moderator:             Thank you, sir. Ladies and gentlemen, that was the last question for the day. I now hand the
+                       conference over to Dr. Sundararajan for closing comments. Thank you, and over to you, sir.
+
+Santosh Sundararajan:  Thank you, everyone, and I will see you all again next quarter and hopefully with a better set of
+                       results than this quarter. Thank you.
+
+Moderator:             Thank you. On behalf of Vascon Engineers Limited, that concludes this conference call. Thank
+                       you for joining us, and you may now disconnect your lines
+
+                       Page 14 of 14
+

@@ -1,0 +1,83 @@
+Financial Statements                                                                                                                 Notes forming part of the Consolidated Financial Statements
+
+Notes forming part of the Consolidated Financial Statements                                                                          for the year ended 31st March, 2026
+
+for the year ended 31st March, 2026
+
+47. SEGMENT REPORTING (Contd.)                                                                                                       47. SEGMENT REPORTING (Contd.)
+
+Summarised segment information are as follows:                                                                                       (b) Geographical Segment
+
+(a) Business Segment                                                                                                                 Particulars                                                                                                                  (H in Crores)
+                                                                                                                                     Revenue from Operations
+                                                                                                                                     Within India                                               For the Year ended For the Year ended
+                                                                                                                                     Outside India^
+                                                                                                             (I in Crores)           Total                                                               31st March, 2026                                         31st March, 2025
+
+                                     EPC                     Developmental           Others                  Total
+                                                                  Projects
+                                                                                                                                                                                                          16,704.17                                                13,551.84
+                                     For the For the For the For the For the For the For the For the                                                                                                     10,438.89                                                 8,763.94
+                                                                                                                                                                                                         27,143.06                                                22,315.78
+Particulars                          Year        Year        Year        Year        Year        Year        Year        Year
+
+                                     ended 31st ended 31st ended 31st ended 31st ended 31st ended 31st ended 31st ended 31st
+
+                                     March, March, March, March, March, March, March, March,
+
+                                     2026        2025        2026        2025        2026        2025        2026        2025                                                                                                                                           (H in Crores)
+
+(i) Segment Revenue                  26,648.74 21,802.61 308.56          306.41 254.68           256.83 27,211.98 22,365.85                                                                                               As at                                                    As at
+                                                                                                                                                                                                         31st March, 2026                                         31st March, 2025
+Less: Inter-Segmental Revenue                                                                                68.92       50.07       Particulars
+
+Revenue from Operations                                                                                      27,143.06 22,315.78     Non Current Assets*
+                                                                                                                                     Within India
+(ii) Segment Results                 1,617.91 1,260.54 208.52            63.52       (9.89)      31.93 1,816.54 1,355.99             Outside India                                                       2,535.80                                                 2,052.51
+      (before finance cost and                                                                                                                                                                             556.58                                                  467.25
+      interest income)
+
+Add: Interest income                                                                                         54.69       43.34       * Excludes Intangibles, Goodwill, Financial assets, Non current tax and Deferred tax assets.
+                                                                                                                                     ^None of the geographies outside India contributes to more than 10% of the gross revenue in current year and previous year.
+Less: Finance Costs                                                                                          500.58      576.53
+
+Profit Before Tax                                                                                            1,370.65 822.80         48.Revenue from major customers - Public sector undertakings in India, is I 9.565.03 Crores (previous year I 7,867.70 Crores).
+
+Current Tax                                                                                                  417.19      312.25             Revenue from other individual customer is less than 10% of total revenue.
+
+Deferred Tax                                                                                                 (77.17) (56.72)         49.Performance obligations unsatisfied or partially satisfied amounts to I 65,869 crores (previous year I 64,495 crores) as
+
+Net Profit for the year                                                                                      1,030.63 567.27                at 31st March, 2026 for which revenue is expected to be recognized in future over the period of 1 to 6 years.
+
+(iii) Other Information                                                                                                              50.During the current year, the company has no transactions with companies struck off under section 248 of the Companies
+
+Depreciation and Amortisation                                                                                510.12 497.27                  Act, 2013 or section 560 of Companies Act, 1956.
+Expenses
+
+                                     EPC                     Developmental           Others                  Total                   During the previous year, the company has following transactions with companies struck off under section 248 of the
+                                                                  Projects                                                                  Companies Act, 2013 or section 560 of Companies Act, 1956.
+
+(iv) Segment Assets and Liabilities     As at       As at       As at       As at       As at       As at       As at       As at
+                                           31st        31st        31st        31st        31st        31st        31st        31st
+                                                                                                                                                                                 Nature of transactions  Balance                            (I in Crores)
+                                     March,      March,      March,      March,      March,      March,      March,      March,                                                                                                   Relationship with
+                                        2026        2025        2026        2025        2026        2025        2026        2025
+                                                                                                                                                                                                                                     the Struck off
+Segment Assets                       26,812.46 23,892.76 859.50 1,839.10 476.52                  541.33 28,148.48 26,273.19          Name of struck off Company                  with struck-off Company outstanding             company, if any, to
+
+Less: Inter segmental assets         357.20 687.33           76.67          -        1.76        1.77 435.63             689.10      Rupc Enterprises Private Limited                                                                 be disclosed
+                                                                                                                                     Shree Shakti Industries                                                                                  NA
+Net Segment Assets                   26,455.26 23,205.43 782.83 1,839.10 474.76 539.56 27,712.85 25,584.09                           Apr Security India Private Limited          Trade Payable           0.20                                 NA
+                                                                                                                                     Deepa Fabricators Private Limited           Trade Payable           0.06                                 NA
+Segment Liabilities                  19,406.18 17,961.81 769.46 1,480.59 240.24                  361.93 20,415.88 19,804.33          Pyrotech Electronics Private Limited        Trade Payable                                                NA
+                                                                                                                                     Rajdeep Automation Private Limited          Trade Payable             -                                  NA
+Less: Inter segmental liabilities    1.76        1.77        319.42      515.74      114.45      171.59 435.63           689.10      DDPM Contractors Private Limited            Trade Payable           0.00                                 NA
+                                                                                                                                     Eagle Star Services Private Limited         Trade Payable           0.06                                 NA
+Net Segment Liabilities              19,404.42 17,960.04 450.04 964.85               125.79      190.34 19,980.25 19,115.23          Prime Glasscon System Private Limited       Trade Payable           0.00                                 NA
+                                                                                                                                     Oriental Engineering Works Private Limited  Trade Payable                                                NA
+                                                                                                                                                                                 Trade Payable             -                                  NA
+                                                                                                                                                                                 Trade Payable             -
+                                                                                                                                                                                                           -
+                                                                                                                                                                                                           -
+
+416 Kalpataru Projects International Limited                                                                                                                                                    Integrated Annual Report 2025-26 417

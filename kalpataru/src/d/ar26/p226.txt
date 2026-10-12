@@ -1,0 +1,68 @@
+Notice
+Annual General Meeting 2025-26
+
+5.If you are holding shares in demat form and had              on an earlier e-voting of any company, then your
+       logged on to www.evotingindia.com and voted             existing password is to be used.
+
+6. If you are a first-time user follow the steps given below:
+
+PAN                             Enter your 10 digit alpha-numeric PAN issued by Income Tax Department (Applicable for both
+                                demat shareholders as well as physical shareholders).
+Dividend Bank Details
+OR Date of Birth (DOB)          Shareholders who have not updated their PAN with the Company/Depository Participant are
+                                requested to use the sequence number sent by Company/RTA or contact Company/RTA.
+                                Enter the Dividend Bank Details or Date of Birth (in dd/mm/yyyy format) as recorded in your
+                                demat account or in the company records in order to login.
+
+                                If both the details are not recorded with the depository or company, please enter the member
+                                id / folio number in the Dividend Bank details field.
+
+7.After entering these details appropriately, click on               16.If a demat account holder has forgotten the login
+       "SUBMIT" tab.                                                        password then Enter the User ID and the image
+                                                                            verification code and click on Forgot Password &
+8.Shareholders holding shares in physical form will                         enter the details as prompted by the system.
+       then directly reach the Company selection screen.
+       However, shareholders holding shares in demat                 17. There is also an optional provision to upload BR/
+       form will now reach `Password Creation' menu                         POA if any uploaded, which will be made available
+       wherein they are required to mandatorily enter                       to scrutinizer for verification.
+       their login password in the new password field.
+       Kindly note that this password is to be also used by   iii. INSTRUCTIONS FOR SHAREHOLDERS VOTING ON THE DAY
+       the demat holders for voting for resolutions of any           OF THE AGM ON E-VOTING SYSTEM ARE AS UNDER:
+       other company on which they are eligible to vote,
+       provided that company opts for e-voting through               1.The procedure for e-Voting on the day of the AGM
+       CDSL platform. It is strongly recommended not to                     is same as the instructions mentioned above for
+       share your password with any other person and take                   Remote e-voting.
+       utmost care to keep your password confidential.
+                                                                     2.Only those Members/ shareholders, who will be
+9.For shareholders holding shares in physical form,                         present in the AGM through VC/OAVM facility and
+       the details can be used only for e-voting on the                     have not casted their vote on the Resolutions
+       resolutions contained in this Notice.                                through remote e-voting and are otherwise not
+                                                                            barred from doing so, shall be eligible to vote
+10. Click on the EVSN for Kalpataru Projects                                through e-voting system available during the AGM.
+       International Limited on which you choose
+       to vote.                                                      3.If any votes are cast by the members through the
+                                                                            e-voting available during the AGM and if the same
+11. On the voting page, you will see "RESOLUTION                            members have not participated in the meeting
+       DESCRIPTION" and against the same the option                         through VC/OAVM facility, then the votes cast by
+       "YES/NO" for voting. Select the option YES or NO as                  such members shall be considered invalid as the
+       desired. The option YES implies that you assent                      facility of e-voting during the meeting is available
+       to the Resolution and option NO implies that you                     only to the members attending the meeting.
+       dissent to the Resolution.
+                                                                     4. Members who have voted through Remote
+12.Click on the "RESOLUTIONS FILE LINK" if you wish to                      e-voting will be eligible to attend the AGM. However,
+       view the entire Resolution details.                                  they will not be eligible to vote at the AGM.
+
+13.After selecting the resolution, you have decided to        iv. OTHER INSTRUCTIONS FOR SHAREHOLDERS ATTENDING THE
+       vote on, click on "SUBMIT". A confirmation box will           AGM THROUGH VC/OAVM & E-VOTING DURING MEETING
+       be displayed. If you wish to confirm your vote, click         ARE AS UNDER:
+       on "OK", else to change your vote, click on "CANCEL"
+       and accordingly modify your vote.                             1.The procedure for attending meeting & e-Voting
+                                                                            on the day of the AGM is same as the instructions
+14.Once you "CONFIRM" your vote on the resolution,                          mentioned above for e-voting.
+       you will not be allowed to modify your vote.
+                                                                     2.The link for VC/OAVM to attend meeting will
+15.You can also take a print of the votes cast by clicking                  be available where the EVSN of Company will
+       on "Click here to print" option on the Voting page.                  be displayed after successful login as per the
+                                                                            instructions mentioned above for e-voting.
+
+10 Kalpataru Projects International Limited

@@ -1,0 +1,48 @@
+INPUTS (Rs Cr)
+revenue 4518.8  materials 1577.35  receivables 1156.49  unbilled 639.99  stock 191.91  retention 442.67
+revenue per day = 4518.8/365 = 12.380274
+materials per day = 1577.35/365 = 4.321507
+days: DIO 44.4  contract-asset 51.7  DSO 93.4  DPO not priced
+
+CLAMP BOUNDS (leversFor, no terms passed)
+dio  now 44.41  min 0.00  max 66.61  target null  side ours  perDay 4.321507
+cad  now 51.69  min 0.00  max 72.37  target null  side ours  perDay 12.380274
+dso  now 93.41  min 0.00  max 130.78  target null  side theirs  perDay 12.380274
+
+SCENARIOS (simulate, one lever at a time)
+collection 10 days: 93.4 -> 83.4 days, released 123.80 Cr once, carry 0.00
+collection 30 days: 93.4 -> 63.4 days, released 371.41 Cr once, carry 0.00
+certification 10 days: 51.7 -> 41.7 days, released 123.80 Cr once, carry 0.00
+certification 30 days: 51.7 -> 21.7 days, released 371.41 Cr once, carry 0.00
+materials 10 days: 44.4 -> 34.4 days, released 43.22 Cr once, carry 0.00
+materials 30 days: 44.4 -> 14.4 days, released 129.65 Cr once, carry 0.00
+
+COMBINED (ONE simulate run, all three moved legs together; one scenario, not a sum of rows)
+all three 10 days: released 290.82 Cr once, carry 0.00; dio 44.4->34.4, cad 51.7->41.7, dso 93.4->83.4
+all three 30 days: released 872.46 Cr once, carry 0.00; dio 44.4->14.4, cad 51.7->21.7, dso 93.4->63.4
+
+VALUE OF A DAY (valueOfADay, rate 0)
+revenue day cash 12.38  carry 0.00
+
+BALANCES ONLY (not simulated)
+retention 442.67 Cr = 35.8 days of revenue; release basis not published
+customer advances 620.08 Cr: a balance owed to clients, not a lever
+
+ASSERTS
+PASS  no-negative-release  min cash 43.22
+PASS  interest-zero  combined carry 0, valueOfADay carry 0
+PASS  cross-check-collection-10  days x per day 123.80 vs simulate 123.80
+PASS  cross-check-materials-10  43.22 vs 43.22
+PASS  combined-is-one-run-10  released 290.82
+PASS  cross-check-collection-30  days x per day 371.41 vs simulate 371.41
+PASS  cross-check-materials-30  129.65 vs 129.65
+PASS  combined-is-one-run-30  released 872.46
+PASS  payables-never-release  no dpo lever, dpo cash 0
+PASS  basis-match-receivables  1156.49 vs 1156.49
+PASS  basis-match-unbilled  639.99 vs 639.99
+PASS  basis-match-stock-on-materials  stock priced on materials per day, never revenue per day
+PASS  no-lever-on-foreign-base  dio on materials; cad and dso on revenue
+PASS  never-below-client-term  receivable days after 30 = 63.4 >= 30
+PASS  retention-not-simulated  retention is a balance only
+
+ALL ASSERTS PASSED

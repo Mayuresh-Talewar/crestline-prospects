@@ -1,0 +1,71 @@
+Financial Statements                                                                                                               Standalone Statement of Cash Flows (Contd.)
+
+Standalone Statement of Cash Flows                                                                                                 for the year ended 31st March, 2026
+                                                                                                                                   NOTES:
+for the year ended 31st March, 2026                                                                                                (i) Cash and Cash Equivalents at the end of the year comprises:
+
+Particulars                                                                         For the Year ended              (H in Crores)
+                                                                                        31st March, 2026
+A. CASH FLOW FROM OPERATING ACTIVITIES:                                                                   For the Year ended
+       Profit for the year                                                                                    31st March, 2025
+       Adjustments for:
+       Tax Expense                                                                  831.75                647.95                                                                                                                          As at            (H in Crores)
+       Exceptional Items - Loss [Refer Note 56]                                                                                                                                                                          31st March, 2026
+       Depreciation and Amortization Expense                                            311.37             248.48                  Particulars                                                                                                                        As at
+       Finance Costs                                                                   356.16                33.00                                                                                                                          1.69     31st March, 2025
+       Dividend Income                                                                394.83                                       (a)Cash on hand
+       Interest Income                                                                368.03               374.85                  (b)Balances with Banks                                                                                                               2.34
+       (Profit) / Loss on Sale of Property, Plant and Equipment (net)                 (123.41)             380.65                  (i)In Current Accounts
+       Provision for Allowance for Expected Credit Losses                             (84.42)                                      (ii)In Fixed Deposit Accounts                                                                             789.71           968.11
+       Unrealised Foreign Exchange (Gain) / Loss (net)                                                              -              CASH AND CASH EQUIVALENTS AS PER STATEMENT OF CASH FLOWS                                                 430.36           462.38
+       Net gain arising on financial assets                                              (1.30)             (87.20)                                                                                                                        1,221.76        1,432.83
+       OPERATING PROFIT BEFORE WORKING CAPITAL CHANGES                                  97.82
+       Adjustments for:                                                               (83.50)                 (3.64)               (ii) Reconciliation of liabilities arising from financing activities:
+       Trade and other Receivables                                                       (0.72)              29.07
+       Inventories                                                                  2,066.61                 (31.39)                                                               As at                                      Foreign      Non-Cash        (H in Crores)
+       Trade and other Payables                                                                                (0.17)                                                        01st April,                                  exchange           Changes
+       CASH GENERATED FROM OPERATIONS                                                                     1,591.60                                                                                                       movement                                    As at
+       Income Tax Paid                                                                                                                                                             2025                                                             16.25    31st March,
+       NET CASH GENERATED FROM OPERATING ACTIVITIES                                 (2,066.47)            (2,144.71)               Particulars                                                            Cash Flow               34.45            143.16
+                                                                                       (391.79)              (131.15)                                                          3,392.32                                                                               2026
+B. CASH FLOW FROM INVESTING ACTIVITIES:                                               1,559.42                                     Borrowings                                                                 (603.08)                  -
+       Capital expenditure on property, plant and equipment & intangible assets       1,167.77            1,756.93                 Lease Liabilities                               68.58                        (56.94)                                          2,839.94
+       (after adjustment of increase / decrease in capital work-in-progress and        (403.31)           1,072.67
+       advances for capital expenditure)                                               764.46             (235.60)                                                                                                                                                  154.80
+       Proceeds from disposal of Property, Plant and Equipment
+       Proceeds from Sale of Investment                                                                    837.07                                                                  As at                                      Foreign                      (H in Crores)
+       Investment in Subsidiaries                                                                                                                                            01st April,                                  exchange
+       Proceeds from / (Investment in) Mutual Funds (net)                           (749.81)              (597.39)                 Particulars                                                            Cash Flow      movement          Non-Cash                  As at
+       Loans given to Subsidiaries, Joint Ventures and others                                                                                                                      2024                                                      Changes         31st March,
+       Repayment of loans by Subsidiaries, Joint Ventures and others                    45.26                  48.13               Borrowings                                                                   104.02              4.78
+       Interest Received                                                               215.86                       -              Lease Liabilities                           3,263.49                         (56.83)                            20.03              2025
+       Dividend Received                                                               (43.32)                                                                                                                                          -          58.69
+       Deposits with Banks (net)                                                       150.00               (101.95)                                                               66.72                                                                         3,392.32
+       NET CASH GENERATED FROM / (USED IN) INVESTING ACTIVITIES                        (186.15)            (150.00)
+                                                                                       691.82              (276.99)                                                                                                                                                  68.58
+C. CASH FLOW FROM FINANCING ACTIVITIES:                                                 50.43               338.48
+       Proceeds from Issue of Equity Shares                                             123.41                                     (iii)Cash Outflow for CSR activity is H 6.61 Crores (previous year H 9.27 Crores).
+       Proceeds from Current / Non-Current Borrowings                                 (138.26)                46.03
+       Proceeds from Issue of Non-Convertible Redeemable Debentures                    159.24                       -              (iv)The Statement of Cash Flows has been prepared under the "Indirect method" as set out in Indian Accounting Standard
+       Redemption of Non Convertible Debentures                                                                                           7- Statement of Cash Flows.
+       Repayment of Current / Non-Current Borrowings                                           -            (80.35)
+       Net increase / (decrease) in Short-Term Borrowings                                      -          (774.04)                 Also refer Notes forming part of the Standalone Financial Statements
+       Payment of Lease Liabilities                                                            -
+       Finance Costs Paid                                                                      -             982.21                                                          For and on behalf of the Board of Directors
+       Dividends Paid                                                                (362.79)               399.95
+       NET CASH GENERATED FROM / (USED IN) FINANCING ACTIVITIES                      (240.29)               500.00                 In terms of our report attached           Ram Patodia                                 Manish Mohnot
+       Effect of exchange rate changes on the balance of cash and cash equivalents     (56.94)             (573.00)                For B S R & Co. LLP                       Chief Financial Officer                     Managing Director & CEO
+       held in foreign currencies                                                     (323.77)               (111.68)              Chartered Accountants                                                                 DIN : 01229696
+                                                                                      (153.70)               (111.25)              Firm Registration No. : 101248W/W-100022
+D. NET (DECREASE) / INCREASE IN CASH AND CASH EQUIVALENTS                           (1,137.49)              (56.83)
+E. OPENING CASH AND CASH EQUIVALENTS                                                       2.72            (357.03)                Bhavesh Dhupelia                          Shweta Girotra                              Shailendra Kumar Tripathi
+F. CLOSING CASH AND CASH EQUIVALENTS                                                                       (129.96)                Partner                                   Company Secretary                           Deputy Managing Director
+                                                                                       (211.07)             542.41                 Membership No.: 042070                                                                DIN : 03156123
+                                                                                     1,432.83                                      Mumbai : 14th May, 2026                                                               Mumbai : 14th May, 2026
+                                                                                     1,221.76                   0.14
+
+                                                                                                            605.58
+                                                                                                            827.25
+                                                                                                          1,432.83
+
+284 Kalpataru Projects International Limited                                                                                                                                                                             Integrated Annual Report 2025-26 285

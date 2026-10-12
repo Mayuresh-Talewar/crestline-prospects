@@ -1,0 +1,33 @@
+##### BREAK=1
+FAIL 1 no negative release 
+Error: ASSERT FAILED: 1 no negative release 
+exit 1
+##### BREAK=2
+FAIL 2 interest = 0 (no single disclosed rate) 
+Error: ASSERT FAILED: 2 interest = 0 (no single disclosed rate) 
+exit 1
+##### BREAK=3
+FAIL 3 days x per day cross-check vs simulate 
+Error: ASSERT FAILED: 3 days x per day cross-check vs simulate 
+exit 1
+##### BREAK=4
+FAIL 4 payables never release cash (next 90, cash 465.8241142465754)
+Error: ASSERT FAILED: 4 payables never release cash (next 90, cash 465.8241142465754)
+exit 1
+##### BREAK=5
+FAIL 5 basis matches (balance / per day = printed days within 0.06) 
+Error: ASSERT FAILED: 5 basis matches (balance / per day = printed days within 0.06) 
+exit 1
+##### BREAK=6
+FAIL 3 days x per day cross-check vs simulate 
+Error: ASSERT FAILED: 3 days x per day cross-check vs simulate 
+exit 1
+##### BREAK=7
+FAIL 6 revenue legs at revenue per day, stock at materials per day, vendor credit not priced 
+Error: ASSERT FAILED: 6 revenue legs at revenue per day, stock at materials per day, vendor credit not priced 
+exit 1
+##### BREAK=8
+FAIL 3 days x per day cross-check vs simulate 
+Error: ASSERT FAILED: 3 days x per day cross-check vs simulate 
+exit 1
+(BREAK=8 prices collection inside the combined run: assert 3 trips first because the cross-check sees the extra leg; assert 7 is the structural guard.)

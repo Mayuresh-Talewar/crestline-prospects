@@ -1,0 +1,26 @@
+== A. Targets vs actuals (target page -> actual page in depth.md)
+FY25 EPC revenue (Q3T24 p9 'Rs 1,000 Cr'): target 1000, actual 1013, +1.3% vs target
+FY26 EPC revenue (Q4T25 p10 '1,200'): target 1200, actual 916.41, -23.6% vs target
+Order intake FY25 (Q4T24 p12 '~1,500 by Apr-25'): target 1500, actual 300, -80.0% vs target
+Order intake FY26 (Q2T26 p3 '~1,500'): target 1500, actual 762, -49.2% vs target
+Order backlog 1 Apr 2025 (Q4T24 p12 '4,000'): target 4000, actual 2825, -29.4% vs target
+Order backlog 1 Apr 2026 (Q1T26 p8 'upwards of 3,500'): target 3500, actual 2717, -22.4% vs target
+Q1 FY27 EPC revenue 148 as share of 'EPC 1,000' = 14.8 % ; CFO said Q1+Q2 = 30% of year (Q1T27 p13)
+
+== B. Net debt Jun-24 -> Mar-25 (company deck, Q4D25 p5/6 image) vs GMP net proceeds
+Jun-24 124.40 -> Mar-25 16.50 = -107.9 ; GMP net proceeds stated 'about 110' (Q3T25 p3). Residual = 2.1
+
+== C. Unbilled (net due from customers, standalone, AR24 p87 / AR25 p111 / AR26 p59) vs revenue
+net unbilled Mar-24->Mar-26 growth 87.4% ; standalone revenue FY24->FY26 24.3%
+Mar-23: receivable+net unbilled days  213.1; less trade payables   53.1  (standalone, EPC+RE, NOT the company's 45-day measure)
+Mar-24: receivable+net unbilled days  229.1; less trade payables   55.0  (standalone, EPC+RE, NOT the company's 45-day measure)
+Mar-25: receivable+net unbilled days  230.6; less trade payables   67.9  (standalone, EPC+RE, NOT the company's 45-day measure)
+Mar-26: receivable+net unbilled days  308.5; less trade payables   61.7  (standalone, EPC+RE, NOT the company's 45-day measure)
+
+== D. CRISIL EPC receivable days as printed (three different values for FY24)
+FY24: 93 (26 Jul 2024), 71 (21 Oct 2024), 88 (15 Jan 2026 as 'a year before' FY25's 72)
+
+== E. Order book (company) Jun-23..Jun-26 Rs Cr
+peak 3613 latest 2850 change from peak -21.1%
+
+== F. Cash credit consolidated (AR26 PDF p103 image): 1,077.06 -> 4,474.37 lakh = 44.74 Cr; x4.2

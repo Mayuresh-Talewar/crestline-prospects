@@ -1,0 +1,35 @@
+=== VALUE OF A DAY ===
+FY26 CONSOLIDATED revenue Cr: 5102.74; one day (revenue / 365) Cr: 13.98
+FY26 STANDALONE revenue Cr: 5066.56; one day (revenue / 365) Cr: 13.88
+Cash credit + WCDL drawn, 31 Mar 2026 (interest cap) Cr: consolidated 735.86, standalone 735.86
+
+=== STEPS ON NWC DAYS (CONSOLIDATED days, CONSOLIDATED revenue, CONSOLIDATED cap) ===
+10-day step: NWC 137 -> 127 days (from FY26 120: 110)
+  cash released once Cr: 139.80
+  interest a year at 9.90% / 12.35%, if it repays cash credit Cr: 13.84 / 17.27 (cap Cr 735.86, binds: false)
+30-day step: NWC 137 -> 107 days (from FY26 120: 90)
+  cash released once Cr: 419.40
+  interest a year at 9.90% / 12.35%, if it repays cash credit Cr: 41.52 / 51.80 (cap Cr 735.86, binds: false)
+
+=== STEP ON RECEIVABLE DAYS (STANDALONE days, STANDALONE revenue, STANDALONE cap) ===
+10-day step: receivable days 58.6 -> 48.60
+  cash released once Cr: 138.81
+  interest a year at 9.90% / 12.35%, if it repays cash credit Cr: 13.74 / 17.14 (cap Cr 735.86, binds: false)
+  (30-day step not drawn: 28.60 days is below the CFO's 40 to 45)
+
+=== RETENTION (CFO's words) in days of CONSOLIDATED revenue, via priceLevers ===
+Retention Rs 200 Cr = 14.3 days of FY26 consolidated revenue; less a 10-day step: 4.3 days
+Retention Rs 250 Cr = 17.9 days of FY26 consolidated revenue; less a 10-day step: 7.9 days
+A 10-day step on retention is the 10-day NWC row above: Rs 139.80 Cr once
+
+=== PAYABLES: try to release cash by paying later ===
+Payable days 203.3 asked +10: held at 203.30, cash released Cr: 0.00
+
+=== ASSERTS ===
+assert PASS: no negative release
+assert PASS: interest only at 9.90% and 12.35%, within the cap
+assert PASS: independent cross-check (Rs Mn x days / 365 / 10, own basis) equals simulate()
+assert PASS: NWC rows priced on CONSOLIDATED revenue, receivable row on STANDALONE (no basis mix)
+assert PASS: payables never release cash
+
+ALL ASSERTS PASSED

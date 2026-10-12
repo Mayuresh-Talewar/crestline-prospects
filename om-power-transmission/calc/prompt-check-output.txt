@@ -1,0 +1,12 @@
+placeholders -> []
+comments -> []
+dashes en/em -> []
+spaced hyphen -> []
+pt -> []
+internal -> []
+jargon -> ['Verified']
+design to reproduce -> []
+content-only4 -> []
+kept out -> {}
+other prospects -> {'patel': 3}
+interest figures -> []

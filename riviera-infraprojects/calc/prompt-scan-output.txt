@@ -1,0 +1,43 @@
+placeholders: 0
+comments: 0
+internal refs: 0
+jargon: 0
+dashes: 0
+pt: 0
+design words: 0
+keptout: 17
+    ('rating', 'aprojects Private Limited took total operating income from ₹553.64 Cr in FY24 to ₹813.')
+    ('rating', ' published measure. One day of total operating income is ₹2.23 Cr, so ten days less on')
+    ('rating', '22.30 Cr. One day = ₹813.82 Cr total operating income (FY25, unaudited) ÷ 365 = ₹2.23 ')
+    ('rating', 'ports a company that is growing and generating cash. Standalone, FY24 audited, FY25 un')
+    ('rating', 's, each with its source: > i · Total operating income · FY24 ₹553.64 Cr, FY25 ₹813.82 ')
+    ('rating', ' Cr at 30 June 2025, 3.6 times total operating income · CARE press release, 20 Aug 202')
+    ('rating', 'stats: > ₹2.23 Cr · one day of total operating income, FY25 [ARITH: ₹813.82 Cr ÷ 365] ')
+    ('rating', '59 less 135] > about ₹260 Cr · total operating income in Q1 FY26, unaudited  Footnote:')
+interest: 7
+    ('interest', 'is disclosed here: print no rate and no interest figure. A7. **Savings are scenarios.** ')
+    ('interest', 't is a scenario, not a forecast, and no interest is priced. > We would value thirty minu')
+    ('interest', ' Working capital is primarily funded by interest free mobilisation and material advances')
+    ('interest', 'o 125 days. ₹22.30 Cr released once. No interest priced. > Illustrative answer on publis')
+    ('interest', 'nd 3, and the arithmetic on page 10. No interest is priced. The owner line is an example')
+    ('interest', 'ter tax, cash from operations, gearing, interest coverage, order book and its split, gro')
+    ('interest', ' day is ₹813.82 Cr ÷ 365 = ₹2.23 Cr. No interest is priced, because no borrowing rate is')
+design instr: 2
+    ('layout', ' at the end of this prompt. Your job is layout, type and charts, in your own design.  ')
+    ('colour', 'as supplied, never redrawn, traced or recoloured. There is no Riviera Infraprojects lo')
+example sign: 5
+    ('+9', 'nce Private Limited, Pune, Maharashtra, +91 76209 35398, rajat@crestlineintelligen')
+    ('+9', 'nce Private Limited, Pune, Maharashtra, +91 76209 35398, rajat@crestlineintelligen')
+    ('+ 7', '56.3 days before the invoice (Estimate) + 78.7 days to be paid (Estimate) > Publish')
+    ('+9', 'oklet reached you in error, please call +91 76209 35398 and we will collect it. > ')
+    ('+9', 'e Private Limited > Pune, Maharashtra > +91 76209 35398 > rajat@crestlineintellige')
+The design to reproduce: 0
+prospect names checked 69 hits 0
+token hit booklet in done-booklet
+token hit booklet in done-booklet-51-to-100
+token hit infraprojects in np-infraprojects
+token hit projects in power-mech-projects
+token hit infraprojects in relcon-infraprojects
+token hit projects in scon-projects
+token hit infraprojects in thakur-infraprojects
+token hit infraprojects in vl-infraprojects

@@ -1,0 +1,69 @@
+Statutory Reports
+
+Business Responsibility and Sustainability Report (BRSR)
+
+9. Details of performance and career development reviews of employees and workers:                                                 Identified risks are evaluated and controlled using the hierarchy of controls, prioritizing elimination of hazards,
+                                                                                                                                                 followed by substitution, engineering controls, administrative controls, and use of personal protective equipment
+Category                                                 FY 2026                            FY 2025                                              (PPE) to minimize residual risks.
+                                                               No (B)                             No (D)
+Employees                                     Total (A)                % (B/A)   Total (C)                % (D/C)
+Male
+Female                                                                      100                                100                      (a)Ensuring quality and competency: KPIL ensures the effectiveness and quality of these processes by engaging
+Total                                                                       100                                100                             competent and trained personnel to conduct risk assessments. Regular training programs, certifications, and
+Workers                                       10,746     10,746            100   9,520      9,520              100                             refresher sessions are provided to enhance employee competency. Additionally, internal audits, inspections,
+Male                                             436        436                    350        350                                              and supervisory reviews are conducted to validate the adequacy and consistency of hazard identification
+Female                                                                      100                                100                             and risk assessment processes.
+Total                                         11,182     11,182             100  9,870      9,870                 0
+                                                                            100
+                                              6          6                       11         11                 100                 (b)Use of results for continual improvement: The outcomes of hazard identification and risk assessments, along
+                                                                                                                                                        with findings from incident investigations, 3rd Layered audits, and inspections, are systematically analyzed
+                                              0          0                       0          0                                                           to identify trends and areas for improvement. These insights are used to update control measures, revise
+                                                                                                                                                        procedures, and strengthen the Occupational Health and Safety Management System (OHSMS). Continuous
+                                              6          6                       11         11                                                          monitoring and feedback mechanisms ensure that the system evolves and improves over time.
+
+Note: All eligible employees have received performance and career development reviews.
+
+10. Health and Safety Management System                                                                                                  d.Do the employees of the entity have access to non-occupational medical and healthcare services?
+                                                                                                                                                (Yes/No)
+      a.Whether an occupational health and safety management system has been implemented by the
+             entity? (Yes/No). If yes, the coverage such system?                                                                   Yes, we offer medical and healthcare services to our employees that are not related to occupational activities.
+
+Yes, KPIL is committed to effective management of Occupational Health and Safety (OHS) as an integral part of                      11. Details of safety related incidents, in the following format
+              its business operations, with a strong focus on achieving "Zero Harm to People & Environment." The company
+              emphasizes prevention of injuries, protection of employee health, and safeguarding of the environment across         Sr.  Safety Incident/Number                                        Category                      FY 2026           FY 2025
+              all activities. It promotes a positive safety culture through training, communication, and active participation of   No.
+              employees and stakeholders, while ensuring compliance with applicable legal and other requirements. KPIL also                                                                           Employees                             0           0.022
+              focuses on continual improvement through regular audits, risk management practices, and adoption of best             1. Lost Time Injury Frequency Rate (LTIFR)                         Workers                             0.11          0.067
+              industry standards. We have adopted an ISO 45001:2018 certified occupational health and safety management                   (per one million-person hours worked)                       Employees
+              system. Occupational health and safety are managed through established practices including Hazard Identification                                                                        Workers                               0                  1
+              and Risk Assessment (HIRA) and detailed Root Cause Analysis. Through the use of Kalpa Suraksha Dashboard, KPIL       2. Total recordable work-related injuries                          Employees                           119               76
+              enhances transparency and real-time oversight of safety indicators across its operations.                                                                                               Workers
+                                                                                                                                   3. No. of fatalities                                               Employees                             0                 0
+                                                                                                                                                                                                      Workers                               9                 4
+      b.What are the processes used to identify work related hazards and assess risks on a routine and non-                        4. High consequence work-related injury or ill-health                                                    0                 0
+             routine basis by the entity?                                                                                                 (excluding fatalities)                                                                            0                 0
+
+KPIL recognizes the importance of identifying the hazards and assessment of safety and health risk. Therefore,                     12. Describe the measures taken by the entity to ensure a safe and healthy workplace.
+              all hazards or potential hazards at workplaces to be identified. All departmental and worker representatives are
+              involved in the risk assessment process.                                                                             KPIL ensures a safe and healthy workplace through a structured Occupational Health and Safety Management
+                                                                                                                                          System aligned with ISO 45001:2018. Systematic hazard identification and risk assessment processes are implemented,
+Following are process to identified the work-related hazards and assess risks of routine and non-routine basis.                           supported by defined SOPs and control measures. Regular training, safety inspections, audits, and strict use of PPE
+                                                                                                                                          ensure compliance and risk mitigation. Additionally, robust incident reporting, emergency preparedness, and health
+1)To carry out Group Risk Assessment                                                                                                      monitoring practices drive continual improvement in safety performance.
+
+2)To identify the hazard having significant risk                                                                                   13. Number of Complaints on the following made by employees and workers:
+
+3)Evaluate the Risk level of all identified hazard                                                                                                                                     FY 2026                                         FY 2025
+
+4)Suitable control measures to be implemented to control the risk.                                                                                                                        Pending                                         Pending
+                                                                                                                                                                                       resolution                                      resolution
+      c.Whether you have processes for employees to report the work-related hazards and to remove                                  Category                     Filed during        at the end of     Remarks      Filed during     at the end of     Remarks
+             themselves from such risks. (Y/N)                                                                                     Working Conditions                the year                                   -       the year                                -
+                                                                                                                                                                                                year                                            year
+KPIL follows a structured and systematic approach to identify work-related hazards and assess risks for both                                                                  0                                                  0
+              routine and non-routine activities. For routine operations, hazard identification is carried out through Job Safety                                                                  0                                               0
+              Analysis (JSA), adherence to Occupational Control Procedures (OCPs), regular workplace inspections & Audits.
+              For non-routine or high-risk activities, a Permit-to-Work (PTW) system is implemented, supported by detailed risk    Health and Safety                             0        0           -            1                            0     -
+              assessments and method statements prior to execution.
+
+234 Kalpataru Projects International Limited                                                                                                                                                                       Integrated Annual Report 2025-26 235

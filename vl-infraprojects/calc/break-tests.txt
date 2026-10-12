@@ -1,0 +1,47 @@
+##### BREAK=1
+FAIL  ASSERT cross-check: cad -10 simulate = days x per day (4.1025)
+FAIL  ASSERT cross-check: cad -30 simulate = days x per day (12.3074)
+FAIL  ASSERT cross-check: dso -10 simulate = days x per day (4.1025)
+FAIL  ASSERT cross-check: dso -30 simulate = days x per day (12.3074)
+FAIL  ASSERT cross-check: dio -10 simulate = days x per day (1.5455)
+FAIL  ASSERT no clamp: dio -30 lands on 89.4 (min 0, max 89.10)
+FAIL  ASSERT cross-check: dio -30 simulate = days x per day (4.6364)
+FAIL  ASSERT no negative release in any single-lever run
+8 ASSERT(S) FAILED
+exit 1
+##### BREAK=2
+FAIL  ASSERT interest = 0 for cad -10
+FAIL  ASSERT interest = 0 for cad -30
+FAIL  ASSERT interest = 0 for dso -10
+FAIL  ASSERT interest = 0 for dso -30
+FAIL  ASSERT interest = 0 for dio -10
+FAIL  ASSERT interest = 0 for dio -30
+FAIL  ASSERT combined -10: release not negative, interest 0
+FAIL  ASSERT combined -30: release not negative, interest 0
+8 ASSERT(S) FAILED
+exit 1
+##### BREAK=3
+FAIL  ASSERT payables never release cash: held at 38.5 with no terms, cash 0, in every run
+1 ASSERT(S) FAILED
+exit 1
+##### BREAK=4
+FAIL  ASSERT cross-check: cad -10 simulate = days x per day (4.1025)
+FAIL  ASSERT cross-check: cad -30 simulate = days x per day (12.3074)
+FAIL  ASSERT cross-check: dso -10 simulate = days x per day (4.1025)
+FAIL  ASSERT cross-check: dso -30 simulate = days x per day (12.3074)
+FAIL  ASSERT cross-check: dio -10 simulate = days x per day (1.5455)
+FAIL  ASSERT cross-check: dio -30 simulate = days x per day (4.6364)
+6 ASSERT(S) FAILED
+exit 1
+##### BREAK=5
+FAIL  ASSERT base: certification and collection both priced on revenue per day
+1 ASSERT(S) FAILED
+exit 1
+##### BREAK=6
+FAIL  ASSERT base: stock priced on materials consumed per day, never revenue per day
+1 ASSERT(S) FAILED
+exit 1
+##### BREAK=7
+FAIL  ASSERT basis: balance / own per-day base reproduces each published day within 0.06
+1 ASSERT(S) FAILED
+exit 1

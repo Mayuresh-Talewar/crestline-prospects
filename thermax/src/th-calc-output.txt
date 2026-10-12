@@ -1,0 +1,114 @@
+== STANDALONE FY26 ==
+EBITDA incl other income (PBT pre-exc + finance cost + D&A): 829.08
+EBITDA excl other income: 544.52
+EBITDA margin excl OI %: 8.35
+Trade receivable days: 85.4
+Contract asset days: 27.8
+Inventory days (on revenue): 27.0
+Trade payable days (on revenue): 79.6
+Contract liability days (unearned + advances): 65.4
+Operating NWC (TR+CA+Inv-TP-contract liabilities): -85.99
+Operating NWC days: -4.8
+MSME dues past due (MSME total less not due): 50.41
+OCF / EBITDA excl OI %: 76.49
+Value of one day of revenue: 17.86
+Borrowings total: 125.16
+== STANDALONE FY25 (AR26 comparative) ==
+EBITDA incl other income (PBT pre-exc + finance cost + D&A): 724.58
+EBITDA excl other income: 522.05
+EBITDA margin excl OI %: 8.36
+Trade receivable days: 82.3
+Contract asset days: 21.7
+Inventory days (on revenue): 22.2
+Trade payable days (on revenue): 67.5
+Contract liability days (unearned + advances): 70.8
+Operating NWC (TR+CA+Inv-TP-contract liabilities): -206.02
+Operating NWC days: -12.0
+MSME dues past due (MSME total less not due): 56.31
+OCF / EBITDA excl OI %: 71.48
+Value of one day of revenue: 17.11
+Borrowings total: 84.51
+Standalone FY26 gross TR ageing total (check 1,709.53): 1,709.53
+Standalone FY26 overdue gross: 779.52
+Standalone FY26 overdue % of gross: 45.60
+Standalone FY26 overdue > 1 year: 176.66
+Standalone impairment allowance % of gross TR: 10.84
+Standalone contract asset loss allowance % of gross CA: 20.04
+Standalone MSME paid beyond appointed day FY26 vs FY25 change: -253.75
+== CONSOLIDATED FY26 ==
+EBITDA incl other income: 1,293.33
+EBITDA excl other income: 1,025.85
+EBITDA margin excl OI %: 9.59
+PAT margin %: 6.74
+Trade receivable days: 75.3
+Contract asset days: 26.4
+Inventory days (on revenue): 31.0
+Trade payable days (on revenue): 70.2
+Contract liability days: 69.8
+Operating NWC: -214.81
+Operating NWC days: -7.3
+OCF / EBITDA excl OI %: 52.79
+Finance cost / borrowings % (rough, closing debt): 6.07
+Value of one day of revenue: 29.30
+== CONSOLIDATED FY25 (AR26 restated comparative) ==
+EBITDA incl other income: 1,159.76
+EBITDA excl other income: 907.54
+EBITDA margin excl OI %: 8.75
+PAT margin %: 6.04
+Trade receivable days: 70.5
+Contract asset days: 22.5
+Inventory days (on revenue): 25.2
+Trade payable days (on revenue): 61.5
+Contract liability days: 70.9
+Operating NWC: -401.84
+Operating NWC days: -14.1
+OCF / EBITDA excl OI %: 118.98
+Finance cost / borrowings % (rough, closing debt): 6.90
+Value of one day of revenue: 28.41
+Consol FY26 cash + other bank + current investments: 2,467.40
+Consol FY26 OCF change vs FY25 %: -49.85
+Consol FY26 borrowings change: 594.67
+Consol FY26 gross TR ageing total (check 2,500.19): 2,500.19
+Consol FY26 overdue gross: 1,443.42
+Consol FY26 overdue % of gross: 57.73
+Consol FY26 overdue > 1 year: 377.27
+Consol FY25 gross TR ageing total (check 2,315.24): 2,315.24
+Consol FY25 overdue % of gross: 61.98
+Consol MSME undisputed past due FY26 (937.42 less 857.50): 79.92
+Consol contract asset loss allowance % of gross CA: 17.91
+== VINTAGE: FY25 consolidated original (AR25) vs restated (AR26) ==
+TR current+noncurrent original: 2,565.35
+TR restated in AR26: 2,003.01
+OCF original: 1,042.79
+OCF restated: 1,079.79
+== CONSOLIDATED FY24 / FY23 (AR24 vintage) ==
+FY24 TR days (cur+noncur): 88.8
+FY23 TR days (cur+noncur): 84.7
+FY24 OCF / PAT %: 38.45
+FY23 OCF / PAT %: 101.97
+FY25 OCF / PAT % (AR26 vintage): 172.30
+FY26 OCF / PAT %: 75.19
+Standalone FY24 TR days (cur+noncur): 102.9
+Standalone FY23 TR days (cur+noncur): 93.9
+Standalone FY24 OCF / PAT %: 20.75
+== INDUSTRIAL INFRA SEGMENT ==
+FY26 (AR26 vintage): PBIT margin 5.0% | segment net assets 160.12 | net assets days 13.4 | gross segment assets days 209.0 | value of a day 11.91
+FY25 (AR26 restated): PBIT margin 2.3% | segment net assets 137.49 | net assets days 10.7 | gross segment assets days 193.7 | value of a day 12.86
+FY25 (AR25 original): PBIT margin 2.3% | segment net assets 132.58 | net assets days 10.3 | gross segment assets days 231.9 | value of a day 12.92
+FY24 (AR24): PBIT margin 4.7% | segment net assets 387.27 | net assets days 31.7 | gross segment assets days 222.2 | value of a day 12.21
+FY23 (AR24): PBIT margin 5.5% | segment net assets 173.95 | net assets days 16.2 | gross segment assets days 236.9 | value of a day 10.76
+FY26 (Q1FY27 recast, Bioenergy moved out): PBIT margin 6.1% | segment net assets 138.57 | net assets days 12.4 | gross segment assets days 212.1 | value of a day 11.20
+Q1 FY27 Industrial Infra PBIT margin % (recast): -8.68
+Q1 FY27 Industrial Infra net assets: -96.98
+Industrial Infra order balance / FY26 segment revenue (years): 1.71
+== ORDERS ==
+Consol order balance 31-Mar-26 / FY26 revenue (years): 1.27
+Order booking growth FY26 %: 34.19
+Standalone order balance / standalone FY26 revenue (years): 0.98
+Anuppur order as % of consol order balance 31-Mar-26: 11.76
+== INTEREST AT DISCLOSED RATES (scenario inputs, not savings) ==
+Standalone: annual interest at 7.30% on the Rs 25 cr term loan (cap): 1.82
+Standalone: annual interest at 6.19% on Rs 100.16 cr packing credit (top of range, cap): 6.20
+Standalone: carry of one day of revenue for a year at 7.30% (only if cash repays debt): 1.30
+Industrial Infra: one day of revenue: 11.91
+Consolidated: carry of one day at 7.67% (unsecured FI line, Rs 199 cr cap): 2.25

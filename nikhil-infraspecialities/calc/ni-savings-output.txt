@@ -1,0 +1,58 @@
+# CLEAN RUN
+perDay = 50.26 / 365 = 0.1376986301369863  (Rs Cr per day)
+valueOfADay(perDay, 0) = cash 0.1376986301369863, carry 0
+step 10d: days 476 -> 466, moved -10, cash released 1.3769863013698629 Cr, carry 0 Cr
+   rounded: cash Rs 1.38 Cr, per day Rs 13.77 L
+step 30d: days 476 -> 446, moved -30, cash released 4.130958904109589 Cr, carry 0 Cr
+   rounded: cash Rs 4.13 Cr, per day Rs 13.77 L
+PASS  no negative release (10d)  (cash 1.3769863013698629)
+PASS  interest is zero (10d)  (carry 0)
+PASS  cross-check days x per day vs simulate (10d)  (independent 1.3769863013698629 vs simulate 1.3769863013698629)
+PASS  days after step (10d)  (466)
+PASS  no negative release (30d)  (cash 4.130958904109589)
+PASS  interest is zero (30d)  (carry 0)
+PASS  cross-check days x per day vs simulate (30d)  (independent 4.130958904109589 vs simulate 4.130958904109589)
+PASS  days after step (30d)  (446)
+PASS  30d is exactly 3x 10d  (4.130958904109589 vs 4.130958904109589)
+PASS  payables never release cash (stretch to 200 days)  (next 60, cash 0)
+ALL ASSERTS PASSED
+
+# BREAK=1 (deliberate break, must fail)
+perDay = 50.26 / 365 = 0.1396111111111111  (Rs Cr per day)
+step 10d: days 476 -> 466, moved -10, cash released 1.396111111111111 Cr, carry 0 Cr
+step 30d: days 476 -> 446, moved -30, cash released 4.1883333333333335 Cr, carry 0 Cr
+PASS  no negative release (10d)  (cash 1.396111111111111)
+PASS  interest is zero (10d)  (carry 0)
+FAIL  cross-check days x per day vs simulate (10d)  (independent 1.3769863013698629 vs simulate 1.396111111111111)
+Error: ASSERT FAILED: cross-check days x per day vs simulate (10d)
+
+# BREAK=2 (deliberate break, must fail)
+perDay = 50.26 / 365 = 0.1376986301369863  (Rs Cr per day)
+step 10d: days 476 -> 466, moved -10, cash released 1.3769863013698629 Cr, carry 0.1376986301369863 Cr
+step 30d: days 476 -> 446, moved -30, cash released 4.130958904109589 Cr, carry 0.4130958904109589 Cr
+PASS  no negative release (10d)  (cash 1.3769863013698629)
+FAIL  interest is zero (10d)  (carry 0.1376986301369863)
+Error: ASSERT FAILED: interest is zero (10d)
+
+# BREAK=3 (deliberate break, must fail)
+perDay = 50.26 / 365 = 0.1376986301369863  (Rs Cr per day)
+step 10d: days 476 -> 466, moved -10, cash released 1.3769863013698629 Cr, carry 0 Cr
+step 30d: days 476 -> 446, moved -30, cash released 4.130958904109589 Cr, carry 0 Cr
+FAIL  no negative release (10d)  (cash -1.3769863013698629)
+Error: ASSERT FAILED: no negative release (10d)
+
+# BREAK=4 (deliberate break, must fail)
+perDay = 50.26 / 365 = 0.1376986301369863  (Rs Cr per day)
+step 10d: days 476 -> 466, moved -10, cash released 1.3769863013698629 Cr, carry 0 Cr
+step 30d: days 476 -> 446, moved -30, cash released 4.130958904109589 Cr, carry 0 Cr
+PASS  no negative release (10d)  (cash 1.3769863013698629)
+PASS  interest is zero (10d)  (carry 0)
+PASS  cross-check days x per day vs simulate (10d)  (independent 1.3769863013698629 vs simulate 1.3769863013698629)
+PASS  days after step (10d)  (466)
+PASS  no negative release (30d)  (cash 4.130958904109589)
+PASS  interest is zero (30d)  (carry 0)
+PASS  cross-check days x per day vs simulate (30d)  (independent 4.130958904109589 vs simulate 4.130958904109589)
+PASS  days after step (30d)  (446)
+PASS  30d is exactly 3x 10d  (4.130958904109589 vs 4.130958904109589)
+FAIL  payables never release cash (stretch to 200 days)  (next 60, cash 1)
+Error: ASSERT FAILED: payables never release cash (stretch to 200 days)

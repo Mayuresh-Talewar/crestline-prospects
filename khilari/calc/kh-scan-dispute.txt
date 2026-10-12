@@ -1,0 +1,28 @@
+[dispute] planted hit detected OK
+src/r/202410121041_Khilari_Infrastructure_Private_Limited.txt:171: 'Default' :: Definition of Default
+src/r/202410121041_Khilari_Infrastructure_Private_Limited.txt:405: 'claim' :: Disclaimer:
+src/r/202510121011_Khilari_Infrastructure_Private_Limited.txt:176: 'Default' :: Definition of Default
+src/r/202510121011_Khilari_Infrastructure_Private_Limited.txt:423: 'claim' :: Disclaimer:
+src/r/202510121011_Khilari_Infrastructure_Private_Limited.txt:424: 'claim' :: This disclaimer pertains to the ratings issued and content published by CARE Ratings Limited (“CareEdge Ratings”). Ratings are opinions on t
+src/r/202510121011_Khilari_Infrastructure_Private_Limited.txt:433: 'CLAIM' :: CAREEDGE RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, TO THE EXTENT PERMITTED BY
+src/r/bwr_103900.txt:225: 'claim' :: Disclaimer
+src/r/bwr_103900.txt:234: 'claim' :: ) guarantee the accuracy, completeness or adequacy of the Ratings, and no BWR Party shall have any liability for any errors, omissions, or i
+src/r/bwr_103900.txt:234: 'legal' :: ) guarantee the accuracy, completeness or adequacy of the Ratings, and no BWR Party shall have any liability for any errors, omissions, or i
+src/r/bwr_103900.txt:239: 'claim' :: This disclaimer forms an integral part of the Ratings Rationales / Rating Reports or other press releases, advisories, communications issued
+src/r/bwr_103900.txt:239: 'claim' :: This disclaimer forms an integral part of the Ratings Rationales / Rating Reports or other press releases, advisories, communications issued
+src/r/bwr_Khilari-Infrastructure-15Dec2020.txt:973: 'CLAIM' :: DISCLAIMER : ​Brickwork Ratings India Pvt. Ltd. (BWR), a Securities and Exchange Board of India [SEBI]
+src/r/bwr_Khilari-Infrastructure-15Dec2020.txt:1379: 'claim' :: results obtained from the use of any part of the Rating Rationales or Rating Reports. Each BWR Party disclaims all
+src/r/bwr_Khilari-Infrastructure-15Dec2020.txt:1439: 'legal' :: incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees, or
+src/r/bwr_Khilari-Infrastructure-15Dec2020.txt:1628: 'claim' :: This disclaimer forms an integral part of the Ratings Rationales / Rating Reports or other press releases, advisories,
+src/r/bwr_Khilari-Infrastructure-15Dec2020.txt:1646: 'claim' :: communications issued by BWR and circulation of the ratings without this disclaimer is prohibited.
+src/r/bwr_Khilari-Infrastructure-31Mar2020.txt:598: 'CLAIM' :: DISCLAIMER Brickwork Ratings (BWR) has assigned the rating based on the information obtained
+src/r/crisil_2017-01-24.txt:63: 'CLAIM' :: DISCLAIMER
+src/r/crisil_2017-01-24.txt:65: 'claim' :: This disclaimer f orms part of and applies to each credit rating report and/or credit rating rationale that we prov ide (each a “Report”). F
+src/r/crisil_2017-01-24.txt:96: 'CLAIM' :: DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF
+src/r/crisil_2017-01-24.txt:98: 'legal' :: party f or any direct, indirect, incidental, exemplary , compensatory , punitiv e, special or consequential damages, costs, expenses, legal 
+src/r/crisil_2017-01-24.txt:359: 'default' :: CRISILs Bank Loan Ratings - process, scale and default recognition
+src/r/crisil_2017-01-24.txt:438: 'CLAIM' :: DISCLAIMER
+src/r/crisil_2017-01-24.txt:439: 'claim' :: This disclaimer forms part of and applies to each credit rating report and/or credit rating rationale that we provide (each a “Report”). For
+src/r/crisil_2017-01-24.txt:460: 'CLAIM' :: cause, or for the results obtained from the use of any part of the Report. EACH CRISIL PARTY DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRAN
+src/r/crisil_2017-01-24.txt:463: 'legal' :: legal fees, or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any p
+[dispute] files=6 hits=26

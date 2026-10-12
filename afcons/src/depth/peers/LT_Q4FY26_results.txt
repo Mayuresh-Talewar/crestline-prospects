@@ -1,0 +1,1006 @@
+                                                           LARSEN & TOUBRO LIMITED
+
+                                             Registered Office: L&T House, Ballard Estate, Mumbai 400 001
+                                                                   CIN: L99999MH1946PLC004768
+
+STATEMENT OF AUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE YEAR ENDED MARCH 31, 2026
+
+                                                                                                                                                       Crore
+
+                                                                                                         Quarter ended               Year ended
+
+                                                                                            March 31,    December 31,   March 31,    March 31,     March 31,
+                                                                                                               2025
+                                                              Particulars                      2026                        2025         2026          2025
+                                                                                            [Audited]      [Reviewed]   [Audited]    [Audited]     [Audited]
+1 Income:                                                                                   [Note (vi)]                 [Note (vi)]
+a) Revenue from operations
+b) Other income (net)                                                                       82762.16     71449.70       74392.28     285874.36     255734.45
+                                                                                             1578.59      1441.04        1135.05        5760.68       4124.82
+     Total Income
+2 Expenses:                                                                                 84340.75     72890.74       75527.33     291635.04     259859.27
+a) Manufacturing, construction and operating expenses:
+                                                                                            10342.39      8466.47        8972.39      33031.76      27655.02
+     i) Cost of raw materials and components consumed                                       18352.95     15049.16       18960.34      63388.65      63526.44
+     ii) Construction materials consumed
+     iii) Purchase of stock-in-trade                                                           449.57       298.29         262.97       1262.30       1402.14
+     iv) Stores, spares and loose tools consumed                                             1243.50        935.10       1138.48        4171.98       4393.39
+     v) Sub-contracting charges                                                             15173.09     11915.11       11137.57      49446.73      40570.92
+     vi) Changes in inventories of finished goods, stock-in-trade and work-in-progress      (1290.00)        (11.13)                   (1963.12)       (410.79)
+     vii) Other manufacturing, construction and operating expenses                          11461.83      9635.61          243.79     36502.91      27533.55
+b) Finance cost of financial services business and finance lease activity                    1808.76      1773.40        8349.71        6995.34       6302.23
+c) Employee benefits expense                                                                13762.92     12799.86        1673.40      52187.22      46768.68
+d) Sales, administration and other expenses                                                  2846.89      3171.02       12357.29      11699.45      11558.13
+e) Finance costs                                                                                            625.13       3093.80        2848.82       3334.37
+f) Depreciation, amortisation, impairment and obsolescence                                     679.27     1071.74                       4364.75       4121.18
+     Total Expenses                                                                          1167.95     65729.76          745.93    263936.79     236755.26
+                                                                                            75999.12                     1052.42
+                                                                                                                        67988.09
+
+3 Profit before exceptional items and tax (1-2)                                             8341.63      7160.98        7539.24      27698.25          23104.01
+4 Exceptional items [gain/(loss)]                                                               68.65    (1791.09)       474.78      (1722.44)            474.78
+5 Profit before tax (3+4)                                                                                5369.89                     25975.81
+6 Tax expense:                                                                              8410.28                     8014.02                        23578.79
+a) Current tax                                                                                           1442.03
+b) Deferred tax                                                                              2215.45         98.63      1751.70       6752.96           6100.82
+                                                                                             (122.70)                    128.88           63.45          (209.42)
+     Total tax expense                                                                      2092.75      1540.66                                        5891.40
+7 Net profit after tax (5-6)                                                                 6317.53     3829.23        1880.58       6816.41          17687.39
+8 Share in profit/(loss) after tax of joint ventures/associates (net)                        (184.47)                   6133.44      19159.40
+9 Net profit after tax including share in profit/(loss) of joint ventures/associates (7+8)   6133.06          (4.58)                                       (14.06)
+                                                                                             5325.60     3824.65           22.38       (205.52)        17673.33
+     Attributable to: Owners of the Company                                                   807.46     3215.11        6155.82      18953.88          15037.11
+                            Non-controlling interests                                                                   5497.26      16083.99
+                                                                                               (93.33)     609.54                                       2636.22
+10 Other comprehensive income (OCI)                                                             24.92                    658.56       2869.89
+a) i) Items that will not be reclassified to profit and loss                                (2194.52)        99.72                                       (308.74)
+                                                                                              539.51        (28.79)     (162.45)         (115.88)           69.24
+     ii) Income tax relating to items that will not be reclassified to profit and loss      (1723.42)      753.44          33.42           30.54
+b) i) Items that will be reclassified to profit and loss                                    (1384.16)     (176.82)                                        356.73
+                                                                                             (339.26)      647.55       1065.33          (723.61)        (105.94)
+     ii) Income tax relating to items that will be reclassified to profit and loss          4409.64        680.92       (203.37)          402.45
+     Other comprehensive income [net of tax] (a+b)                                           3941.44        (33.37)      732.93          (406.50)           11.29
+     Attributable to: Owners of the Company                                                   468.20     4472.20         631.86           185.98            37.35
+                                                                                              275.13     3896.03         101.07          (592.48)          (26.06)
+                         Non-controlling interests                                                         576.17       6888.75       18547.38         17684.62
+11 Total comprehensive income (9+10)                                                                       275.12       6129.12       16269.97         15074.46
+                                                                                                                         759.63         2277.41         2610.16
+     Attributable to: Owners of the Company                                                 38.71        23.37           275.04           275.13          275.04
+                         Non-controlling interests                                          38.70        23.36                       109014.67         97380.56
+                                                                                                                           39.98
+12 Paid-up equity share capital (face value of share: 2 each)                                                              39.95          116.93          109.36
+13 Other equity attributable to owners of the Company                                                                                     116.88          109.28
+14 Earnings per equity share (EPS) (not annualised):
+
+     (a) Basic EPS ( )
+     (b) Diluted EPS ( )
+
+Notes:
+ (i) The Board of Directors recommended a final dividend of 38 per equity share of face value of 2 each.
+
+ (ii) During the quarter, the Company has allotted 51,318 equity shares of 2 each fully paid-up, on exercise of stock options by employees in accordance with the Company's stock option
+       schemes.
+
+ (iii) During the quarter, L&T Power Development Limited, a wholly owned subsidiary of the Company, has entered into a Securities Purchase Agreement ("SPA"), to divest its entire stake in
+       equity and convertible instruments held in Nabha Power Limited ("NPL"), a wholly owned step-down subsidiary. The transaction is subject to fulfilment of closing conditions as per the
+       SPA and expected to get completed by June 30, 2026. Pursuant to this, the Assets & the Liabilities of the NPL have been classified as "Held for Sale" as at March 31, 2026.
+
+ (iv) The Company has signed a Share Purchase Agreement on April 29, 2026, with Hyderabad Metro Rail Limited, a Government of Telangana Enterprise, to divest its entire equity stake in
+       its subsidiary L&T Metro Rail (Hyderabad) Limited ["LTMRHL"]. The transaction is subject to satisfaction of customary conditions and expected to get completed by June 30, 2026.
+       Pursuant to this, the Assets & the Liabilities of the LTMRHL have been classified as "Held for Sale" as at March 31, 2026.
+
+(v) Effective November 21, 2025, the Government of India consolidated 29 existing labour regulations into four Labour codes, namely, The Code on Wages, 2019, The Industrial Relations
+     Code, 2020, The Code on Social Security, 2020 and The Occupational Safety, Health and Working Conditions Code, 2020, collectively referred to as the 'New Labour Codes'. The New
+     Labour Codes has resulted in a one-time material increase in provision for employee benefits on account of recognition of past service costs. Based on the requirements of New Labour
+     Codes and the ICAI clarification, the Group has assessed and accounted the estimated incremental impact of ` 1722.44 crore (before tax) as Exceptional items in the Consolidated
+     Financial Results for the year ended March 31, 2026. Accordingly, profit after tax (without considering exceptional items) attributable to owners of the Company is as follows:
+
+                                                                                                                                                                                            Crore
+
+                                                                                                         Quarter ended                     Year ended
+
+Particulars                                                                                 March 31, December 31, March 31,         March 31,     March 31,
+
+                                                                                            2026         2025           2025         2026              2025
+
+I Profit before exceptional items and tax [3]                                               8341.63      7160.98        7539.24      27698.25          23104.01
+
+II Tax expenses (without considering exceptional items)                                     2074.98      1987.99        1880.58      7245.96           5891.40
+
+III Share in profit/(loss) after tax of joint ventures/associates (net) [8]                 (184.47)     (4.58)         22.38        (205.52)          (14.06)
+
+IV Profit after tax (without considering exceptional items) (I-II+III)                      6082.18      5168.41        5681.04      20246.77          17198.55
+
+V Attributable to: Owners of the Company (a)                                                5289.34      4405.86        5022.48      17238.50          14562.33
+
+Non-controlling interests (b)                                                               792.84       762.55         658.56       3008.27           2636.22
+
+(vi) Figures for the quarter ended March 31, 2026 and March 31, 2025 represent the difference between audited figures for the financial year and the limited reviewed figures for the nine
+
+months period ended December 31, 2025 and December 31, 2024 respectively.
+(viii) Consolidated Statement of Assets and Liabilities:                                                  Crore
+
+                                                                         Particulars               As at
+
+                  ASSETS:                                                             March 31,           March 31,
+                  Non-current assets
+                  Property, plant and equipment                                          2026                2025
+                  Capital work-in-progress                                            [Audited]           [Audited]
+                  Investment property
+                  Investment property under construction                              15663.02            14128.56
+                  Goodwill                                                             3036.25             2390.86
+                  Other intangible assets                                                223.22            1157.33
+                  Intangible assets under development                                    897.12              501.30
+                  Right-of-use assets                                                  8481.54             8348.48
+                  Financial assets:                                                    1828.21
+                                                                                         274.70           17050.76
+                                Investments in joint ventures and associates           3773.80               197.82
+                                Other investments
+                                Loans towards financing activities                     2258.01             2869.02
+                                Other loans                                            6593.92
+                                Other financial assets                                74995.72             2318.42
+                                                                                                           9126.23
+                                                                                         586.81           62847.35
+                                                                                       4276.78
+                                                                                                             348.96
+                                                                                                           1863.04
+
+Deferred tax assets (net)                                                                4252.76             3792.88
+Current tax assets (net)                                                                 4397.21             4581.60
+Other non-current assets                                                                 2699.49             2659.78
+                                                                                      134238.56           134182.39
+                            Sub-total - Non-current assets
+
+Current assets                                                                         9530.93             7670.55
+Inventories
+Financial assets:                                                                     59524.86            43360.62
+                                                                                      60461.26            53713.68
+              Investments                                                             15391.24            12187.00
+              Trade receivables                                                                           10778.34
+              Cash and cash equivalents                                                5456.43            36077.51
+              Other bank balances                                                     42825.48
+              Loans towards financing activities                                                             416.85
+              Other loans                                                                634.46            5419.89
+              Other financial assets                                                   7713.29
+
+Other current assets                                                                   91303.18            75559.83
+                                                                                      292841.13           245184.27
+                            Sub-total - Current assets
+
+Group(s) of assets classified as held for sale                                        25470.19            157.44
+
+                            TOTAL ASSETS                                              452549.88           379524.10
+
+EQUITY AND LIABILITIES:
+
+EQUITY                                                                                     275.13              275.04
+              Equity share capital                                                    109014.67            97380.56
+              Other equity                                                            109289.80            97655.60
+                                                                                                           17748.08
+Equity attributable to owners of the Company                                           19240.66           115403.68
+              Non-controlling interest                                                128530.46
+                                                   TOTAL EQUITY
+                                                                                      63738.59            57503.34
+LIABILITIES                                                                            2767.05             2265.24
+Non-current liabilities                                                                1979.86               252.18
+Financial liabilities:
+
+              Borrowings
+              Lease liabilities
+              Other financial liabilities
+
+Provisions                                                                               832.48            1124.01
+Deferred tax liabilities (net)                                                           167.11              410.01
+Other non-current liabilities                                                                                594.74
+                                                                                           36.82
+                                      Sub-total - Non-current liabilities             69521.91            62149.52
+
+Current liabilities                                                                    34778.53            35861.30
+Financial liabilities:                                                                 23165.90            36194.70
+
+              Borrowings                                                                 1046.52               584.34
+
+              Current maturities of long term borrowings                                 1840.35             1414.23
+                                                                                       67615.28            51045.11
+              Lease liabilities                                                        11092.88
+                                                                                       85861.52              6273.37
+              Trade payables:                                                                              63326.97
+                  Due to micro enterprises and small enterprises                         5009.03
+                  Due to others                                                          3121.46             4691.67
+                                                                                      233531.47              2579.21
+              Other financial liabilities                                                                 201970.90
+Other current liabilities
+Provisions
+Current tax liabilities (net)
+
+                                          Sub-total - Current liabilities
+
+Liabilities associated with group(s) of assets classified as held for sale            20966.04            -
+
+                            TOTAL LIABILITIES                                         324019.42           264120.42
+
+                            TOTAL EQUITY AND LIABILITIES                              452549.88           379524.10
+
+(ix) The Company reports its consolidated financial results on a quarterly basis. The standalone financial results are available on the Company's website viz. www.larsentoubro.com and on
+      the websites of BSE (www.bseindia.com) and NSE (www.nseindia.com). The specified items of the standalone financial results of the Company for the quarter and year ended March 31,
+      2026 are given below:
+
+                                                                                                                                                Crore
+
+                                                                                                   Quarter ended                    Year ended
+
+                            Particulars                                               March 31,    December 31,        March 31,    March 31,  March 31,
+
+                                                                                         2026            2025             2025         2026       2025
+                                                                                      [Audited]     [Reviewed]         [Audited]    [Audited]  [Audited]
+                                                                                      [Note (vi)]                      [Note (vi)]
+
+a) Revenue from operations                                                            47190.86            37902.84     42328.96     153680.17  142509.01
+
+b) Profit before exceptional items and tax                                            5297.99             4493.64      3964.04      16262.95    13098.98
+
+c) Profit/(loss) before tax (after exceptional items)                                 4697.99             3384.91      4438.82      9141.22     13573.76
+
+d) Net profit/(loss) after tax (after exceptional items)                              3560.92             2832.08      3508.99      6287.13     10870.72
+(vii) Additional disclosures as per Regulation 52(4) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015:
+
+Sr.                                                                                  Quarter ended                                 Year ended
+No.                                                                                  December 31,
+                                    Particulars                      March 31,                           March 31,         March 31,         March 31,
+ 1 Debt equity ratio [c]                                                2026               2025             2025              2026              2025
+
+                                                                               0.95                1.06            1.12            0.95        1.12
+
+2 Debt service coverage ratio (DSCR)                                 9.00            1.86                5.92                      2.27        2.55
+
+3 Interest service coverage ratio (ISCR)                             11.55           10.65               9.89                      9.19        6.75
+
+4 Current ratio                                                      1.25            1.26                1.21                      1.25        1.21
+
+5 Long term debt to working capital ratio                            1.05            1.21                1.18                      1.05        1.18
+
+6 Bad debts to accounts receivable ratio                             0.01            0.00                0.00                      0.01        0.01
+
+7 Current liability ratio                                            0.72            0.73                0.76                      0.72        0.76
+
+8 Total debt to total assets ratio                                   0.27            0.32                0.34                      0.27        0.34
+
+9 Debtors turnover ratio                                             4.34            4.64                4.31                      4.34        4.31
+
+10 Operating margin (%)                                              10.40%          10.38%              11.03%                    10.20%      10.34%
+
+11 Net profit margin (%)                                             7.41%           5.35%               8.27%                     6.63%       6.91%
+
+12 Inventory turnover ratio (refer note below)                             NA              NA                  NA                        NA          NA
+13 Capital Redemption Reserve/Debenture Redemption Reserve [ Crore]  338.23          338.23              338.23                    338.23      338.23
+
+14 Net worth [ Crore] (As per section 2(57) of Companies Act, 2013)  107329.44       101996.02           95987.31          107329.44           95987.31
+
+Notes:
+ (a) The ratios are to be read and interpreted considering that the Group has diversified nature of businesses.
+ (b) Above ratios have been computed excluding the assets/liabilities classified as held for sale.
+ (c) Considering borrowings are also included under the heading "held for sale", the debt-equity ratio including these borrowings for the quarter and year ended
+
+       March 31, 2026 is 1.08.
+
+ (d) Formulae for computation of above ratios are as follows:
+
+Sr.                                 Particulars                                                              Formulae
+No.
+                                                                                                         Total borrowings
+ 1 Debt equity ratio                                                                                        Total equity
+
+2 Debt service coverage ratio (DSCR)                                                       Profit before interest, tax and exceptional items^
+                                                                     Finance costs^ + Principal repayments (net of refinancing) made during the period
+
+                                                                                                          for long term borrowings^
+                                                                              (^ Excluding Financial Services and Finance lease model business)
+
+3 Interest service coverage ratio (ISCR)                                                    Profit before interest, tax and exceptional items^
+4 Current ratio                                                                                                   Finance costs^
+5 Long term debt to working capital ratio
+6 Bad debts to accounts receivable ratio                                       (^ Excluding Financial Services and Finance lease model business)
+7 Current liability ratio
+8 Total debt to total assets ratio                                                                                 Current assets
+9 Debtors turnover ratio                                                                                         Current liabilities
+
+10 Operating margin (%)                                                   Long term borrowings (including current maturities of long term borrowings)
+                                                                         Current assets (-) Current liabilities [excluding current maturities of long term
+
+                                                                                                                     borrowings]
+
+                                                                                                                     Bad debts^
+                                                                                                      Average gross trade receivables^
+                                                                                                       (^ Excluding Financial Services)
+
+                                                                                                                 Current liabilities
+                                                                                                                   Total liabilities
+
+                                                                                                                 Total borrowings
+                                                                                                                    Total assets
+
+                                                                                            Revenue from operations for trailing 12 months^
+                                                                                                      Average gross trade receivables^
+                                                                                                       (^ Excluding Financial Services)
+
+                                                                                   Profit before depreciation, interest^, tax and exceptional items
+                                                                                                                 (-) Other income
+
+                                                                                                           Revenue from operations
+                                                                     (^ Excluding Finance cost of Financial Services and Finance lease model business)
+
+11 Net profit margin (%)                                             Net profit after tax including share in profit/(loss) of joint ventures/associates
+                                                                                                      Revenue from operations
+
+12 Inventory turnover ratio                                                                              Cost of Goods Sold
+                                                                                                          Average Inventory
+
+                                                                     Not material considering the size and the nature of operations of the Group
+(x) Consolidated Statement of Cash Flows:                                                                                 crore
+
+                                                                 Particulars                                 Year ended
+
+  A. Cash flow from operating activities:                                                                    March 31, 2026 March 31, 2025
+        Profit before exceptional items and tax
+           Adjustments for:                                                                                  [Audited]    [Audited]
+             Dividend received
+             Depreciation, amortisation, impairment and obsolescence                                          27698.25     23104.01
+             Exchange difference on items grouped under financing/investing activities
+             Effect of exchange rate changes on cash and cash equivalents                                       (291.84)     (117.05)
+             Finance costs                                                                                     4364.75      4121.18
+             Interest income
+             (Profit)/loss on sale of Property, plant and equipment, Investment property and                       81.06        (5.91)
+             Intangible assets (net)                                                                            (309.83)        (2.17)
+             (Profit)/loss on sale/fair valuation of investments (net)                                         2625.46      3173.35
+             Bad debts and advances written off & Allowances for expected credit loss (net)                   (3017.25)    (2449.87)
+             Employee stock option-discount
+             (Profit)/loss on sale/fair valuation of investments and loans towards financing activity (net)      (79.08)     (187.64)
+             Profit on transfer of business undertaking in Development Projects business                      (1862.65)    (1133.12)
+             Others                                                                                            4036.46      3532.08
+        Operating profit before working capital changes
+           Adjustments for:                                                                                      115.31       222.60
+             (Increase)/decrease in trade and other receivables                                                     7.43      (67.20)
+             (Increase)/decrease in inventories                                                                       -      (187.44)
+             Increase/(decrease) in trade and other payables                                                                  (21.72)
+        Cash generated from operations before financing activities                                              (138.34)   29981.10
+             (Increase)/decrease in loans and advances towards financing activities                           33229.73
+        Cash generated from operations                                                                                    (10316.00)
+             Direct taxes paid [net]                                                                         (28150.93)      (539.52)
+        Net cash generated from operating activities                                                          (2200.95)     9835.07
+                                                                                                              45127.59
+                                                                                                              48005.44     28960.65
+                                                                                                                          (14208.20)
+                                                                                                             (25233.30)    14752.45
+                                                                                                              22772.14
+                                                                                                              (6031.17)    (5601.10)
+                                                                                                              16740.97      9151.35
+
+B. Cash flow from investing activities:                                                                       (4809.19)    (4418.83)
+           Purchase of Property, plant and equipment, Investment property and Intangible assets                  340.51       878.17
+           Sale of Property, plant and equipment, Investment property and Intangible assets
+           Purchase of non-current investments                                                                (2114.32)    (2284.26)
+           Sale of non-current investments                                                                     1190.36      1726.33
+           (Purchase)/sale of current investments (net)                                                      (10832.06)    (5950.82)
+           Change in other bank balance and cash not available for immediate use                               3010.75     (7192.21)
+           Deposits/loans given to associates, joint ventures and third parties                                 (422.67)     (448.54)
+           Deposits/loans repaid by associates, joint ventures and third parties
+           Interest received                                                                                     334.74       318.77
+           Dividend received from joint ventures/associates                                                    2700.71      2083.51
+           Dividend received on other investments
+           Consideration received on disposal of subsidiaries/joint venture                                        35.47        27.27
+           Consideration received on transfer of business undertaking in Development Projects business           291.84       117.05
+           Consideration received on transfer of other business undertaking
+                                                                                                                      -     1065.37
+           Consideration paid on acquisition of business                                                              -       634.20
+           Consideration paid on acquisition of subsidiaries (including contingent consideration)
+           Cash and cash equivalents acquired pursuant to acquisition of subsidiaries/business                        -         52.54
+           Cash and cash equivalents classified to held for sale
+           Consideration paid on acquisition of stake in an associate/joint venture                             (745.10)           -
+      Net cash used in investing activities                                                                     (269.43)   (1049.85)
+                                                                                                                 123.74
+                                                                                                                (319.05)        29.71
+                                                                                                                (255.14)           -
+                                                                                                             (11738.84)
+                                                                                                                           (1096.56)
+                                                                                                                          (15508.15)
+
+C. Cash flow from financing activities:                                                                             7.52         9.32
+           Proceeds from issue of share capital (including share application money) [net]                     40637.03    38199.71
+           Proceeds from non-current borrowings                                                              (36403.49)   (30782.41)
+           Repayment of non-current borrowings
+           Proceeds from/(repayment of) other borrowings (net)                                                 3056.63      8297.30
+           Payment (to)/from non-controlling interest (net)                                                     (914.66)   (1196.18)
+           Settlement of derivative contracts related to borrowings
+           Dividends paid                                                                                          37.27       50.24
+           Repayment of lease liability                                                                       (4676.22)    (3849.57)
+           Interest paid on lease liability
+           Interest paid (including cash flows on account of interest rate swaps)                               (718.28)     (562.30)
+                                                                                                                (233.43)     (193.84)
+      Net cash generated from/(used in) financing activities                                                  (2948.80)    (3415.65)
+                                                                                                              (2156.43)     6556.62
+
+Net increase/(decrease) in cash and cash equivalents (A + B + C)                                              2845.70        199.82
+Cash and cash equivalents at beginning of the year                                                           12187.00     11958.50
+Effect of exchange rate changes on cash and cash equivalents
+Cash and cash equivalents at end of the year                                                                    358.54        28.68
+
+                                                                                                             15391.24     12187.00
+
+Notes:
+  1 Statement of Cash Flows has been prepared under the Indirect Method as set out in the Indian Accounting Standard (Ind AS) 7 "Statement of Cash
+        Flows" as specified in the Companies (Indian Accounting Standards) Rules, 2015.
+
+  2 Property, plant and equipment, Investment property and Intangible assets are adjusted for movement of (a) Capital work-in-progress for Property,
+        plant and equipment and Investment property and (b) Intangible assets under development during the year.
+
+(xi) Figures for the previous periods have been regrouped/reclassified to conform to the classification of the current periods.
+(xii) The above consolidated financial results of the Parent Company including its Subsidiaries, Associates & Joint Ventures have been prepared in
+
+       accordance with the recognition and measurement principles laid down in the Indian Accounting Standards (Ind AS) as prescribed under section 133
+       of the Companies Act, 2013 read with the relevant rules issued thereunder and the other accounting principles generally accepted in India. These
+       results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on May 5, 2026.
+
+                                                                                                                                                         for LARSEN & TOUBRO LIMITED
+
+Mumbai                                                                                                           S. N. SUBRAHMANYAN
+May 5, 2026                                                                                                  Chairman & Managing Director
+Audited Consolidated Segment-wise Revenue, Results, Total Assets and Total Liabilities:
+
+                                                                       Quarter ended                       Year ended
+                                                                       December 31,
+                                                           March 31,                     March 31,   March 31,   March 31,
+                                                              2026           2025           2025
+                                           Particulars                   [Reviewed]                  2026              2025
+                                                           [Audited]                     [Audited]
+Gross segment revenue                                      [Note (V)]                    [Note (V)]  [Audited]   [Audited]
+ 1 Infrastructure Projects
+ 2 Energy Projects                                         40160.37    34004.23          39374.79    135344.58   131314.52
+ 3 Hi-Tech Manufacturing                                   16600.25    12730.43          12249.45     54888.59    40676.89
+ 4 IT & Technology Services                                                                           14488.79    10180.86
+ 5 Financial Services                                       4913.85     3381.99           3496.12     53946.53    48453.32
+ 6 Development Projects                                    14237.52    13676.45          12717.10     17283.43    15193.95
+ 7 Others                                                                                               5118.51     5389.07
+                                                            4669.29     4476.80           3812.08       7978.01     7816.40
+     Total                                                  1175.71     1160.52           1232.71
+     Less: Inter-segment revenue                            2025.05     2821.69           2639.00    289048.44   259025.01
+Net segment revenue                                        83782.04    72252.11          75521.25       3174.08     3290.56
+                                                            1019.88                       1128.97
+                                                           82762.16       802.41         74392.28    285874.36   255734.45
+                                                                       71449.70
+
+Segment results                                            3154.11      1695.08          2756.41       7759.98           6921.45
+ 1 Infrastructure Projects                                   957.34      677.32            932.04     3374.38            3178.23
+ 2 Energy Projects                                           794.91      535.72            593.85     2105.13            1459.05
+ 3 Hi-Tech Manufacturing                                                                               8633.94           7682.15
+ 4 IT & Technology Services                                2161.74      2216.03          1857.07      4032.05            3491.31
+ 5 Financial Services                                      1079.26      1020.69            805.54
+ 6 Development Projects                                                                    313.39       538.95            716.00
+ 7 Others                                                    161.40      158.88            835.89     2085.70            1934.81
+                                                             433.72      817.84                      28530.13          25383.00
+     Total                                                 8742.48      7121.56          8094.19
+     Less: Inter-segment margins on capital jobs                                            38.43       114.25            116.53
+     Less: Finance costs                                      50.50        16.67                      2848.82            3334.37
+     Add: Unallocable corporate income net of expenditure    679.27      625.13            745.93     2131.19            1171.91
+Profit before exceptional items and tax                      328.92      681.22            229.41    27698.25          23104.01
+                                                           8341.63     7160.98           7539.24     (1722.44)            474.78
+     Add/(less): Exceptional items [gain/(loss)]              68.65    (1791.09)          474.78     25975.81          23578.79
+Profit before tax (including exceptional items)            8410.28     5369.89           8014.02
+
+Segment assets                                                                                       115059.75    97183.24
+ 1 Infrastructure Projects                                                                             39400.94   29342.12
+ 2 Energy Projects                                                                                     17455.49   13342.07
+ 3 Hi-Tech Manufacturing                                                                               56134.40   49124.05
+ 4 IT & Technology Services                                                                                      118627.16
+ 5 Financial Services                                                                                140383.98    25125.12
+ 6 Development Projects                                                                                25008.07   16312.18
+ 7 Others                                                                                              18623.09  349055.94
+
+     Total segment assets                                                                            412065.72      4779.99
+     Less: Inter-segment assets                                                                         4032.20   35248.15
+     Add: Unallocable corporate assets                                                                           379524.10
+Total assets                                                                                           44516.36
+                                                                                                     452549.88
+
+Segment liabilities                                                                                    93245.91   72180.50
+ 1 Infrastructure Projects                                                                             41934.07   27064.51
+ 2 Energy Projects                                                                                     13456.22   11092.07
+ 3 Hi-Tech Manufacturing                                                                               17319.77   11420.88
+ 4 IT & Technology Services                                                                          114148.04    94750.56
+ 5 Financial Services
+ 6 Development Projects                                                                                 6328.60     6858.74
+ 7 Others                                                                                               9650.92     7649.17
+                                                                                                     296083.53   231016.43
+     Total segment liabilities                                                                          4032.20     4779.99
+     Less: Inter-segment liabilities                                                                   31968.09   37883.98
+     Add: Unallocable corporate liabilities
+                                                                                                     324019.42   264120.42
+Total liabilities
+
+Notes:
+
+ (I) The Group has reported segment information as per Ind AS 108 "Operating Segments". The identification of operating segments is consistent with performance
+     assessment and resource allocation by the management.
+
+(II) The Segment composition: Infrastructure Projects segment comprises engineering and construction of (a) building and factories, (b) transportation infrastructure, (c)
+     heavy civil infrastructure, (d) power transmission & distribution, (e) renewables, (f) water & effluent treatment and (g) minerals and metals. Energy Projects segment
+     comprises of (a) Hydrocarbon onshore and offshore businesses covering EPC solutions in oil & gas, refineries, petrochemicals & offshore wind energy sectors, from front-
+     end design through detailed engineering, modular fabrication, procurement, project management, construction, installation and commissioning, (b) CarbonLite Solutions
+     business covering BTG scope for power generation plants including associated systems and/or carbon capture utilisation & utility packages and (c) EPC solutions in clean
+     energy space. Hi-Tech Manufacturing segment comprises design, manufacture/construct, supply and revamp/retrofit of (a) custom designed, engineered critical
+     equipment & systems to the process plant, nuclear energy and green hydrogen sectors, (b) marine and land platforms including related equipment & systems; aerospace
+     products & systems; precision and electronic products & systems for the defence, security, space and industrial sectors and (c) electrolysers. IT & Technology Services
+     segment comprises (a) information technology and integrated engineering services (including smart infrastructure & communication projects), (b) e-commerce/digital
+     platforms, cloud services & data centres and (c) semiconductor chip design. Financial Services segment primarily comprises retail finance. Development Projects
+     segment comprises (a) development, operation and maintenance of Hyderabad metro project, including transit oriented development, (b) toll roads (upto the date of
+     divestment) and (c) power generation & development ­ (i) thermal power and (ii) green energy. Others segment includes (a) realty, (b) construction equipment & industrial
+     product design development comprising of (i) manufacture and sale of industrial valves, (ii) manufacture (upto the date of sale), marketing and servicing of construction
+     equipment, mining machinery and parts thereof, (iii) manufacture and sale of components of construction equipment and (iv) manufacture and sale of rubber processing
+     machinery.
+
+(III) Segment revenue comprises sales and operational income allocable specifically to a segment and includes in the case of Development Projects and Realty business
+     (grouped under "Others" segment) profits on sale of business undertaking/stake in the subsidiary and/or joint venture companies in those segments. Segment result
+     represents profit before interest and tax. Unallocable corporate income includes majorly interest income, dividends and investment related gains. Unallocable expenditure
+     includes majorly corporate expenses not allocated to segments.
+     Unallocable corporate assets comprise majorly investments. Investment in joint ventures and associates identified with a particular segment are reported as part of the
+     segment assets of those respective segments. Unallocable corporate liabilities comprise majorly borrowings. In respect of (a) Financial Services segment and (b)
+     Development Projects segment relating to a power generation asset given on finance lease, segment liabilities include borrowings as finance costs on the borrowings are
+     accounted as segment expense.
+
+(IV) In respect of segments of the Group, revenue and margin do not accrue uniformly during the year.
+
+(V) Figures for the quarter ended March 31, 2026 and March 31, 2025 represent the difference between audited figures for the financial year and the limited reviewed figures
+     for the nine months period ended December 31, 2025 and December 31, 2024 respectively.
+
+(VI) Figures for the previous periods have been regrouped/reclassified to conform to the classification of the current periods.
+
+                                                                                                     for LARSEN & TOUBRO LIMITED
+
+Mumbai                                                                                                   S. N. SUBRAHMANYAN
+May 5, 2026                                                                                          Chairman & Managing Director
+                                                             LARSEN & TOUBRO LIMITED
+
+                                              Registered Office: L&T House, Ballard Estate, Mumbai 400 001
+                                                                    CIN: L99999MH1946PLC004768
+
+   STATEMENT OF AUDITED STANDALONE FINANCIAL RESULTS FOR THE YEAR ENDED MARCH 31, 2026
+
+                                                                                                     Quarter ended                             Year ended
+                                                                                                     December 31,
+                                                                                        March 31,                   March 31,       March 31,    March 31,
+                                                                                           2026            2025        2025
+                                                           Particulars                                                              2026                   2025
+                                                                                        [Audited]      [Reviewed]   [Audited]
+1 Income:                                                                               [Note (vi)]                 [Note (vi)]     [Audited]              [Audited]
+a) Revenue from operations
+b) Other income(net)                                                                    47190.86     37902.84            42328.96   153680.17              142509.01
+                                                                                         1502.84      2176.08              1196.56     7358.45                5669.21
+     Total Income
+2 Expenses:                                                                             48693.70     40078.92            43525.52   161038.62              148178.22
+a) Manufacturing, construction and operating expenses:
+                                                                                         6547.59      4956.72        4816.54         19804.95               15219.90
+     i) Cost of raw materials and components consumed                                   13985.12     10417.03       12716.26         45669.73               45457.97
+     ii) Construction materials consumed
+     iii) Purchases of stock-in-trade                                                      434.45       297.65         256.04          1250.49                1409.90
+     iv) Stores, spares and loose tools consumed                                           848.94       503.85         760.98          2581.14                3060.70
+     v) Sub-contracting charges                                                         11972.11     10095.16       10515.29         39966.86               35741.21
+     vi) Changes in inventories of finished goods, stock-in-trade and work-in-progress   (207.55)       233.73       1030.65                                  1089.23
+     vii) Other manufacturing, construction and operating expenses                       5081.13      4310.55        4403.66             139.05             14676.41
+b) Employee benefits expense                                                             3108.43      2915.04        2698.19         16597.71               10380.08
+c) Sales, administration and other expenses                                                730.11      1009.13       1373.84         11602.89                 3885.36
+d) Finance costs                                                                           374.47       350.60         502.65                                 2195.46
+e) Depreciation, amortisation, impairment and obsolescence                                 520.91       495.82         487.38          3502.03                1963.02
+     Total Expenses                                                                     43395.71     35585.28       39561.48           1675.42             135079.24
+3 Profit before exceptional items and tax (1-2)                                          5297.99       4493.64       3964.04           1985.40              13098.98
+4 Exceptional items before tax (net) [gain/(loss)]                                      (600.00)     (1108.73)        474.78        144775.67
+5 Profit/(loss) before tax (3+4)                                                         4697.99       3384.91       4438.82         16262.95                   474.78
+6 Tax expense:                                                                                                                       (7121.73)              13573.76
+a) Current tax                                                                           1150.51        563.43       1031.81           9141.22
+b) Deferred tax                                                                            (13.44)      (10.60)      (101.98)                                 2849.97
+     Total tax expense                                                                   1137.07        552.83                         2866.39                (146.93)
+7 Net profit/(loss) after tax (5-6)                                                      3560.92       2832.08         929.83           (12.30)               2703.04
+8 Other comprehensive income (OCI)                                                                                   3508.99           2854.09              10870.72
+a) i) Items that will not be reclassified to profit and loss                             (146.72)         69.73                        6287.13
+     ii) Income tax relating to items that will not be reclassified to profit and loss       36.92      (17.55)      (127.59)                                 (266.31)
+b) i) Items that will be reclassified to profit and loss                                                869.12           32.11         (195.14)                  67.02
+     ii) Income tax relating to items that will be reclassified to profit and loss       (490.83)     (225.42)                            49.11
+     Other comprehensive income [net of tax] (a+b)                                           97.50      695.88         435.37                                   604.74
+9 Total comprehensive income (7+8)                                                                     3527.96       (106.63)          1527.59                (146.20)
+                                                                                         (503.13)                                      (413.04)
+10 Paid-up equity share capital (face value of share: 2 each)                            3057.79        275.12         233.26                                   259.25
+11 Other equity                                                                                                      3742.25             968.52             11129.97
+                                                                                           275.13                                      7255.65
+                                                                                                                       275.04                                   275.04
+                                                                                                                                         275.13             71620.80
+                                                                                                                                     74257.77
+
+12 Earnings per equity share (EPS) (not annualised):                                    25.89        20.59          25.52                 45.71                  79.06
+     (a) Basic EPS ( )                                                                  25.88        20.58          25.50                 45.69                  79.00
+     (b) Diluted EPS ( )
+
+Notes:
+  (i) The Board of Directors recommended a final dividend of ` 38 per equity share of face value of ` 2 each.
+
+  (ii) During the quarter, the Company has allotted 51,318 equity shares of 2 each fully paid-up, on exercise of stock options by employees in accordance with the Company's stock
+      option schemes.
+
+ (iii) Effective November 21, 2025, the Government of India consolidated 29 existing labour regulations into four Labour codes, namely, The Code on Wages, 2019, The Industrial
+      Relations Code, 2020, The Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020, collectively referred to as the 'New Labour
+      Codes', The New Labour Codes has resulted in a one-time material increase in provision for employee benefits on account of recognition of past service costs. Based on the
+      requirements of New Labour Codes and the ICAI clarification, the Company has assessed and accounted the estimated incremental impact of ` 1108.73 crore (before tax) as
+      Exceptional items in the financial results for the year ended March 31, 2026.
+
+ (iv) The Board of Directors of the Company at its meeting held on December 08, 2025 approved a Scheme of Arrangement amongst the Company, L&T Realty Properties Limited, a
+      wholly owned subsidiary of the Company and their respective shareholders and creditors pursuant to Sections 230 to 232 and other applicable provisions of the Companies Act,
+      2013, for transfer and vesting of the Company's Realty Undertaking to L&T Realty Properties Limited ( LTRPL), on a going concern basis by way of slump sale with appointed date
+      of April 01, 2026 or such other date as may be mutually agreed. The Scheme is subject to approval of the Hon'ble National Company Law Tribunal ("NCLT"), Mumbai bench and
+      such other regulatory and other approvals as may be required. Pending receipt of requisite approvals, the financial results of the said undertaking continue to be included in the
+      results of the Company.
+
+  (v) The Company has signed a Share Purchase Agreement on April 29, 2026, with Hyderabad Metro Rail Limited, a Government of Telangana Enterprise, to divest its entire equity
+      stake in its subsidiary L&T Metro Rail (Hyderabad) Limited ["LTMRHL"]. The transaction is subject to satisfaction of customary conditions and expected to get completed by June
+      30, 2026. Accordingly, the Company has written down its investment in LTMRHL to its net realisable value and recognised the impairment provision of ` 6013.00 crore as
+      Exceptional items for the year. Further, as at March 31, 2026, the investment in the LTMRHL has been classified as a "Held for Sale".
+
+ (vi) Figures for the quarter ended March 31, 2026 and March 31, 2025 represent the difference between audited figures for the financial year and the limited reviewed figures for the
+      nine months period ended December 31, 2025 and December 31, 2024 respectively.
+
+#
+   (vii) Statement of Assets and Liabilities:                                          Crore
+
+                                              Particulars                       As at
+
+   ASSETS:                                                           March 31,         March 31,
+   Non-current assets                                                   2026              2025
+   Property, plant and equipment
+   Capital work-in-progress                                          [Audited]         [Audited]
+   Investment property
+   Investment property under construction                             9354.83           9155.12
+   Goodwill                                                           1439.81           1117.33
+   Other intangible assets                                            1025.57
+   Intangible assets under development                                                    741.34
+   Right-of-use assets                                                  553.53            565.82
+   Financial assets:                                                    121.86            121.86
+                                                                        118.46            107.95
+          Investments
+          Loans                                                           31.47             21.76
+          Other financial assets                                      1066.94             561.89
+   Deferred tax assets (net)
+   Current tax assets (net)                                          26993.91          32853.88
+   Other non-current assets                                             808.69            726.67
+                                                                        827.56            976.02
+                            Sub total - Non-current assets
+                                                                      1148.77           1544.69
+   Current assets                                                     3240.44           3511.16
+   Inventories                                                        1495.14           1838.30
+   Financial assets:                                                 48226.98          53843.79
+
+          Investments                                                   3690.92           3398.77
+          Trade receivables
+          Cash and cash equivalents                                   29612.56          24788.29
+          Other bank balances                                         45330.30          38330.18
+          Loans
+          Other financial assets                                        6152.25           3583.55
+   Other current assets                                                 1392.07            763.06
+                                                                                            635.02
+                                Sub total - Current assets                352.71
+                                                                        5384.61           3775.12
+   Group(s) of assets classified as held for sale                     66396.73          57141.13
+                                                                     158312.15         132415.12
+                                      TOTAL ASSETS
+                                                                        1599.11            157.44
+   EQUITY AND LIABILITIES:
+   EQUITY                                                            208138.24         186416.35
+
+          Equity share capital                                          275.13            275.04
+          Other equity                                               74257.77          71620.80
+                                                                     74532.90          71895.84
+                                       TOTAL EQUITY
+   LIABILITIES                                                        9787.67           9286.00
+   Non-current liabilities                                              348.91            198.19
+   Financial liabilities:                                               292.01            143.07
+                                                                        769.32            765.72
+          Borrowings                                                      22.02             18.47
+          Lease liabilities
+          Other financial liabilities                                11219.93          10411.45
+   Provisions
+   Other non-current liabilities                                        1593.46           3743.58
+                                                                          392.20          8905.30
+                           Sub total - Non-current liabilities            535.73
+   Current liabilities                                                                      162.18
+   Financial liabilities:                                               1524.75
+                                                                      47615.76            1170.16
+          Borrowings                                                                    37625.83
+          Current maturities of long term borrowings                    5177.07
+          Lease liabilities                                           60674.27            3450.20
+          Trade payables:                                                               44764.13
+                                                                        2702.49
+              Due to micro enterprises and small enterprises            2138.26           2398.23
+              Due to others                                          122353.99            1889.45
+          Other financial liabilities                                                  104109.06
+   Other current liabilities                                              31.42
+   Provisions                                                                                  -
+   Current tax liabilities (net)                                     133605.34
+                                                                                       114520.51
+                              Sub total - Current liabilities        208138.24
+                                                                                       186416.35
+   Liabilities associated with the group(s) of assets classified as
+   held for sale
+
+                                    TOTAL LIABILITIES
+
+                          TOTAL EQUITY AND LIABILITIES
+
+#
+(viii) Additional disclosures as per Regulation 52(4) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015:
+
+                                                                                              Quarter ended                         Year ended
+
+Sr. No.                             Particulars                                    March 31,  December 31,   March 31,  March 31,                              March 31,
+                                                                                      2026          2025        2025       2026                                   2025
+
+1 Debt equity ratio                                                                0.16       0.20           0.31                   0.16                          0.31
+2 Debt service coverage ratio (DSCR)
+                                                                                   15.15      1.47           8.89                   1.81                          2.14
+
+3 Interest service coverage ratio (ISCR)                                           15.15      13.82          8.89                   10.71                         6.97
+4 Current ratio
+                                                                                   1.29       1.30           1.27                   1.29                          1.27
+
+5 Long term debt to working capital ratio                                          0.28       0.31           0.49                   0.28                          0.49
+6 Bad debts to accounts receivable ratio
+7 Current liability ratio                                                          0.01       0.00           0.01                   0.01                          0.01
+
+                                                                                   0.92       0.91           0.91                   0.92                          0.91
+
+8 Total debt to total assets ratio                                                   0.06       0.07           0.12                   0.06                       0.12
+9 Debtors turnover ratio                                                             3.31       3.49           3.39                   3.31                       3.39
+10 Operating margin (%)                                                            9.94%      8.35%          8.88%                  8.18%                      8.13%
+
+11 Net profit margin (%)                                                           7.55%      7.47%          8.29%                  4.09%                      7.63%
+12 Inventory turnover ratio (refer note below)                                         NA         NA             NA                     NA                         NA
+
+13 Capital Redemption Reserve/Debenture Redemption Reserve [ Crore]                266.25     266.25         266.25                 266.25                     266.25
+
+14 Net worth [ Crore] (As per section 2(57) of Companies Act, 2013)                72930.98   69469.77       71413.12               72930.98                   71413.12
+
+15 The Company has not issued any secured listed non-convertible debt securities.
+
+Note:
+Formulae for computation of ratios are as follows:
+
+Sr. No.                             Particulars                                                                                        Formulae
+
+1 Debt equity ratio                                                                                                                Total borrowings
+                                                                                                                                      Total equity
+2 Debt service coverage ratio (DSCR)
+                                                                                                              Profit before interest, tax and exceptional items
+3 Interest service coverage ratio (ISCR)                                           Finance cost + Principal repayments (net of refinancing) made during the period for long
+4 Current ratio
+5 Long term debt to working capital ratio                                                                                          term borrowings
+
+                                                                                                              Profit before interest, tax and exceptional items
+                                                                                                                                     Finance cost
+
+                                                                                                                                    Current assets
+                                                                                                                                   Current liabilities
+
+                                                                                            Long term borrowings (including current maturities of long term borrowings)
+                                                                                   Current assets (-) Current liabilities [excluding current maturities of long term borrowings]
+
+6 Bad debts to accounts receivable ratio                                                                                       Bad debts
+7 Current liability ratio                                                                                       Average gross trade receivables
+8 Total debt to total assets ratio
+9 Debtors turnover ratio                                                                                                   Current liabilities
+10 Operating margin (%)                                                                                                      Total liabilities
+
+                                                                                                                           Total borrowings
+                                                                                                                              Total assets
+
+                                                                                                       Revenue from operations for trailing 12 months
+                                                                                                                Average gross trade receivables
+
+                                                                                              Profit before depreciation, interest, tax and exceptional items
+                                                                                                                           (-) Other income
+
+                                                                                                                     Revenue from operations
+
+11 Net profit margin (%)                                                                                               Net profit/(loss) after tax
+12 Inventory turnover ratio                                                                                           Revenue from operations
+
+                                                                                                                          Cost of Goods Sold
+                                                                                                                           Average Inventory
+
+                                                                                   Not material considering the size and the nature of operations of the Company
+
+#
+   (ix) Statement of Cash Flows:                                                                       March 31,               C rore
+                                                                                                          2026
+                                                                  Particulars                                        March 31,
+                                                                                                       [Audited]        2025
+      A. Cash flow from operating activities:
+             Profit before exceptional items and tax                                                                 [Audited]
+             Adjustments for:
+                  Dividend received                                                                      16262.95    13098.98
+                  Depreciation, amortisation, impairment and obsolescence
+                  Exchange difference on items grouped under financing/investing activities             (3441.74)    (2977.27)
+                  Effect of exchange rate changes on cash and cash equivalents                            1985.40      1963.02
+                  Finance costs                                                                               10.38         8.47
+                  Interest income                                                                           (90.99)         7.82
+                  (Profit)/loss on sale of Property, plant and equipment, Investment property and         1521.76      2070.62
+                  Intangible assets (net)
+                  (Profit)/loss on sale/fair valuation of investments (net)                             (1835.94)    (1368.61)
+                  Bad debts/Allowance for expected credit loss (net)
+                  Employee stock option-discount                                                            (69.76)   (407.70)
+                  Others                                                                                (1056.02)     (457.20)
+             Operating profit before working capital changes
+             Adjustments for:                                                                             1098.76       967.68
+                  (Increase)/decrease in trade and other receivables                                          42.40       83.83
+                  (Increase)/decrease in inventories                                                          16.69       16.09
+                  Increase/(decrease) in trade and other payables
+             Cash generated from operations                                                              14443.89    13005.73
+             Direct taxes paid (net)
+             Net cash generated from operating activities                                              (19180.95)    (1639.68)
+                                                                                                          (268.51)      132.99
+      B. Cash flow from investing activities:                                                            29235.41
+             Purchase of Property, plant and equipment, Investment property and Intangible assets        24229.84      3599.34
+             Sale of Property, plant and equipment, Investment property and Intangible assets                        15098.38
+             Investment in subsidiaries, associates and joint venture companies                         (2301.89)    (2395.33)
+             Divestment of stake in subsidiaries, associates and joint venture companies (net)           21927.95    12703.05
+             Purchase of non-current investments
+             Sale of non-current investments                                                            (2241.73)    (2725.01)
+             (Purchase)/sale of current investments (net)                                                   327.83      685.17
+             Change in other bank balances and cash not availabe for immediate use
+             Long term deposits/loans (given) - subsidiaries, associates, joint venture companies and   (1432.15)    (2215.31)
+             third parties                                                                                      -      1065.37
+             Long term deposits/loans repaid - subsidiaries, associates, joint venture companies and                        -
+             third parties                                                                                  (62.50)         -
+             Short term deposits/loans (given)/repaid (net) - subsidiaries, associates, joint venture         6.43
+             companies and third parties                                                                             (7306.59)
+             Advance received towards transfer of business undertaking                                  (4028.23)       155.99
+             Interest received                                                                            (740.03)
+             Dividend received from subsidiaries, joint venture and associate companies                               (111.48)
+             Dividend received on other investments                                                         (53.17)
+             Cash and cash equivalents classified to held for sale                                                          4.51
+             Net cash used in investing activities                                                             5.00
+                                                                                                                      (134.46)
+      C. Cash flow from financing activities:                                                               286.00          -
+             Proceeds from fresh issue of share capital (including share application money) [net]             42.90
+             Proceeds from non-current borrowings                                                                      1260.14
+             Repayments of non-current borrowings                                                         1684.87      2957.73
+             Proceeds/(repayments) from other borrowings (net)                                            3403.39
+             Settlement of derivative contracts related to borrowings                                                     19.54
+             Interest paid on lease liability                                                                 38.35         -
+             Repayment of lease liability                                                                    (0.26)
+             Dividends paid                                                                             (2763.30)    (6344.40)
+             Interest paid (including cash flows from interest rate swaps)
+             Net cash used in financing activities                                                             7.52         9.32
+             Net increase/(decrease) in cash and cash equivalents (A + B + C)                               500.00     5500.00
+             Cash and cash equivalents at beginning of the year                                         (8254.71)    (4950.00)
+             Effect of exchange rate changes on cash and cash equivalents                               (2134.85)    (1120.48)
+             Cash and cash equivalents at end of the year
+                                                                                                              37.27       50.24
+                                                                                                            (48.89)     (23.30)
+                                                                                                          (235.06)    (136.03)
+                                                                                                        (4676.22)    (3849.57)
+                                                                                                        (1896.16)    (2192.29)
+                                                                                                       (16701.10)    (6712.11)
+                                                                                                          2463.55     (353.46)
+                                                                                                          3583.55      3940.99
+                                                                                                            105.15
+                                                                                                          6152.25         (3.98)
+                                                                                                                       3583.55
+
+   Notes:
+         1 Statement of Cash Flows has been prepared under the Indirect Method as set out in the Indian Accounting Standard (Ind AS) 7
+            "Statement of Cash Flows" as specified in the Companies (Indian Accounting Standards) Rules, 2015.
+
+         2 Property, plant and equipment, Investment property and Intangible assets are adjusted for movement of (a) capital work-in-progress for
+            property, plant and equipment and investment property and (b) intangible assets under development during the year.
+
+   (x) Figures for the previous periods have been regrouped/reclassified to conform to the classification of the current periods.
+
+   (xi) The above financial results of the Company have been prepared in accordance with the recognition and measurement principles laid
+        down in the Indian Accounting Standards (Ind AS) as prescribed under section 133 of the Companies Act, 2013 read with the relevant
+        rules issued thereunder and the other accounting principles generally accepted in India. These results have been reviewed by the Audit
+        Committee and approved by the Board of Directors at its meeting held on May 5, 2026.
+
+                                                                                                       for LARSEN & TOUBRO LIMITED
+
+   Mumbai                                                                                                  S. N. SUBRAHMANYAN
+   May 5, 2026                                                                                         Chairman & Managing Director
+
+#
+Audited Standalone Segment-wise Revenue, Results, Total Assets and Total Liabilities:
+
+                                                                           Quarter ended                       Year ended
+                                                                           December 31,
+                                                               March 31,                  March 31,      March 31,      March 31,
+                                                                  2026           2025        2025
+                                          Particulars                                                    2026              2025
+                                                               [Audited]     [Reviewed]   [Audited]
+Gross segment revenue                                          [Note (v)]                 [Note (v)]     [Audited]      [Audited]
+  1 Infrastructure Projects
+  2 Energy Projects                                            32637.03    26439.42          30988.06    107442.62         105100.36
+  3 Hi-Tech Manufacturing                                       8890.26     6897.57            6899.72    28530.88          24042.96
+  4 Others                                                      4774.94     3242.57            3441.33    13979.45          10112.86
+       Total                                                    1207.11     1536.63            1384.24      4687.27           4624.29
+        Less : Inter-segment revenue
+                                                               47509.34    38116.19          42713.35    154640.22         143880.47
+Net segment revenue                                               318.48      213.35             384.39       960.05          1371.46
+
+                                                               47190.86    37902.84          42328.96    153680.17         142509.01
+
+Segment results                                                2675.34       1089.65      2045.77          5685.73          5058.60
+  1 Infrastructure Projects                                      919.27       740.14       649.91          2776.98          2768.92
+  2 Energy Projects                                              777.13       522.34       578.84          1979.17          1470.40
+  3 Hi-Tech Manufacturing                                        196.55       460.73       302.82          1025.90          1024.81
+  4 Others                                                                                               11467.78          10322.73
+       Total                                                   4568.29       2812.86      3577.34
+        Less : Inter-segment margins on capital jobs              26.26         (4.93)       13.08            48.71             44.48
+        Less : Finance costs                                                  350.60                       1675.42          2195.46
+                                                                 374.47                    502.65          6519.30          5016.19
+        Add : Unallocable corporate income net of expenditure  1130.43       2026.45       902.43
+                                                                                                         16262.95          13098.98
+Profit before exceptional items and tax                        5297.99       4493.64      3964.04
+        Add/(Less) : Exceptional items                                                                   (7121.73)            474.78
+                                                               (600.00)    (1108.73)       474.78
+Profit/(loss) before tax                                                                                   9141.22         13573.76
+                                                               4697.99       3384.91      4438.82
+
+Segment assets                                                                                            88371.68          80847.03
+  1 Infrastructure Projects                                                                               24662.13          17120.03
+  2 Energy Projects                                                                                       16486.13          12544.05
+  3 Hi-Tech Manufacturing
+  4 Others                                                                                                  9180.05           8911.73
+       Total segment assets                                                                              138699.99         119422.84
+
+       Less : Inter-segment assets                                                                            926.52          1239.28
+       Add : Unallocable corporate assets
+                                                                                                          70364.77          68232.79
+Total assets                                                                                             208138.24         186416.35
+
+Segment liabilities                                                                                       71456.36          59255.57
+  1 Infrastructure Projects                                                                               28332.78          15469.62
+  2 Energy Projects                                                                                       13233.24          11189.90
+  3 Hi-Tech Manufacturing
+  4 Others                                                                                                  4700.62           3999.46
+       Total segment liabilities                                                                         117723.00          89914.55
+
+       Less : Inter-segment liabilities                                                                       926.52          1239.28
+       Add : Unallocable corporate liabilities
+                                                                                                          16808.86          25845.24
+Total liabilities                                                                                        133605.34         114520.51
+
+Notes:
+
+(I) The Company has reported segment information as per Ind AS 108 "Operating Segments". The identification of operating segments is consistent with performance
+    assessment and resource allocation by the management.
+
+(II) Segment composition: Infrastructure Projects segment comprises engineering and construction of (a) building and factories, (b) transportation infrastructure, (c)
+    heavy civil infrastructure, (d) power transmission & distribution, (e) renewables, (f) water & effluent treatment and (g) minerals and metals. Energy Projects segment
+    comprises of (a) Hydrocarbon onshore and offshore businesses covering EPC solutions in oil & gas, refineries, petrochemicals & offshore wind energy sectors, from
+    front-end design through detailed engineering, modular fabrication, procurement, project management, construction, installation and commissioning, (b) CarbonLite
+    Solutions business covering BTG scope for power generation plants including associated systems and/or carbon capture utilisation & utility packages and (c) EPC
+    solutions in clean energy space. Hi-Tech Manufacturing segment comprises design, manufacture/construct, supply and revamp/retrofit of (a) custom designed,
+    engineered critical equipment & systems to the process plant and nuclear energy (b) marine and land platforms including related equipment & systems; aerospace
+    products & systems; precision and electronic products & systems for the defence, security, space and industrial sectors. Others segment includes (a) realty, (b) smart
+    infrastructure & communication projects, (c) construction equipment & industrial product design development comprising of (i) marketing and servicing of construction
+    equipment, mining machinery and parts thereof, (ii) manufacture and sale of rubber processing machinery and (d) e-commerce/digital platforms & data centres.
+
+(III) Unallocable corporate income includes majorly interest income, dividends and investment related gains. Unallocable expenditure includes majorly corporate expenses
+      not allocated to segments. Unallocable corporate assets comprise majorly investments. Unallocable corporate liabilities comprise majorly borrowings.
+
+(IV) In respect of segments of the Company, revenue and margin do not accrue uniformly during the year.
+
+(V) Figures for the quarter ended March 31, 2026 and March 31, 2025 represent the difference between audited figures for the financial year and the limited reviewed
+      figures for the nine months period ended December 31, 2025 and December 31, 2024 respectively.
+
+(VI) Figures for the previous periods have been regrouped/reclassified to conform to the classification of the current periods.
+
+                                                                                          for LARSEN & TOUBRO LIMITED
+
+     Mumbai                                                                                   S. N. SUBRAHMANYAN
+     May 5, 2026                                                                          Chairman & Managing Director
+
+#
+

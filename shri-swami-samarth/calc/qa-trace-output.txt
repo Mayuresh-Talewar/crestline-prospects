@@ -1,0 +1,39 @@
+ACUITE OK  630.37 <- 630.37 Cr. in FY26
+ACUITE OK  432.42 <- 432.42 Cr. in FY25
+ACUITE OK  ~46 percent <- ~46 percent
+ACUITE OK  56.28 <- 56.28
+ACUITE OK  30.17 <- 30.17
+ACUITE OK  18 percent <- 18 percent in FY26
+ACUITE OK  19.10 percent <- 19.10 percent in FY25
+ACUITE OK  1181.27 <- 1181.27 Cr. as of May 31, 2026
+ACUITE OK  236.85 <- 236.85 Cr. as on March 31, 2026
+ACUITE OK  151.03 <- 151.03 Cr. as on March 31, 2025
+ACUITE OK  GCA 132/169 <- 132 days in FY26 (169 days in FY25)
+ACUITE OK  receivables 65/81 <- 65 days in FY26 (81 days in FY25)
+ACUITE OK  date <- July 06, 2026
+ACUITE OK  self-execution <- self-execution of orders and utilising their own construction equipment
+ACUITE OK  Pune/EPC <- Pune based
+ACUITE OK  roads flyovers <- roads, flyovers, bridges, canals, dams
+CALC perday 1.727041 printed 1.727 -> True
+CALC 10 days 17.2704 printed 17.27 OK | from printed rounded day 17.27
+CALC 30 days 51.8112 printed 51.81 OK | from printed rounded day 51.81
+CALC days 65-10 55 65-30 35
+TOKENS total 309 unexpected ['01', '02', '03', '04', '05']
+SCAN placeholders planted-detected hits 0 []
+SCAN comments planted-detected hits 0 []
+SCAN internal planted-detected hits 1 ['Verified']
+SCAN jargon planted-detected hits 0 []
+SCAN dashes planted-detected hits 0 []
+SCAN pt planted-detected hits 0 []
+SCAN company-names planted-detected hits 0 []
+SCAN kept-out planted-detected hits 0 []
+SCAN interest-figures planted-detected hits 0 []
+SCAN design-section planted-detected hits 0 []
+SCAN signed planted-detected hits 3 ['+9', '+9', '+9']
+SCAN Cr-abbrev planted-detected hits 0 []
+SCAN agency-other planted-detected hits 0 []
+SCAN rating-grade planted-detected hits 0 []
+SECTION no "## 2. The design" True
+COUNT p8 days in tile lines: []
+p13 digits in body (excluding headings): []
+pages Keys has 16 page headings

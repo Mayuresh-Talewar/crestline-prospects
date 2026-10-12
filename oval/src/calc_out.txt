@@ -1,0 +1,33 @@
+rev growth FY25/FY24 31.2%  FY26/FY25 49.7%  FY26/FY24 x1.96
+PAT FY26/FY25 58.6%  FY26/FY24 consolidated-restated x3.37  vs standalone x3.39
+PAT margin FY26 9.67%  FY25 9.13%
+EBITDA incl other income excl extraordinary (press release basis) 2824.54 lakh -> 28.25 Cr; AR basis excl other income 2492.10
+FY26 avg receivable days on revenue: 93.1; closing receivable days 83.6
+FY25 avg receivable days on revenue: 108.6; closing receivable days 153.7
+AR26 note37 turnover 4.54 -> 80.4 d ; 3.95 -> 92.4 d ; payables 3.49 -> 104.6 d ; 2.46 -> 148.4 d ; inventory 2.98 -> 122.5; 2.45 -> 149.0
+trade payables FY26 current 1293.99 + LT 684.66 = 1978.65; FY25 3405.96; change -1427.31 (AR26 says -2111.97 on current only: -2111.97)
+FY26 ageing sum 3507.15 vs 3507.15; unbilled 48.1%; >6m 395.73 (11.3%); >1y 321.03 (9.2%)
+FY25 ageing sum 4306.56 vs 4306.55; unbilled 0.0%; >6m 493.50 (11.5%); >1y 445.01 (10.3%)
+payables ageing sums FY26 1293.99 (1293.99), FY25 3405.96 (3405.96); >1y FY26 96.16
+FY26 streams sum 15314.19 vs 15314.19; shares O&G works 50.9%, Spec infra 26.9%, Other services 2.1%, Trading 20.2%
+FY25 streams sum 10228.90 vs 10228.9; shares O&G works 61.9%, Spec infra 34.1%, Other services 4.0%
+RHP verticals FY25: sum 10228.99 vs 10228.99; O&G 46.15% O&M 3.79% SpecInfra 50.06%
+RHP verticals FY24: sum 7796.54 vs 7796.54; O&G 61.62% O&M 3.20% SpecInfra 35.17%
+RHP verticals FY23: sum 5902.14 vs 5902.14; O&G 71.56% O&M 2.73% SpecInfra 25.71%
+RHP 'skills development' FY25 144.75 = 1.42% of revenue
+borrowings standalone FY26 5522.61 FY25 4195.76; trade payables+borrowings-adjusted; interest cost/avg borrowings (AR26 avg 4859.19): 13.2% (incl non-interest charges, NOT a disclosed rate)
+net worth FY26 11122.23; debt/equity (total borrowings/NW) 0.50; AR26 reports 0.12 on LT only: 0.12
+CF sum FY26 806.32 (806.32) ; opCF before WC 2687.04 ; WC outflow: -308.89
+FY26 WC lines: rec +799.40 loans/adv -2404.84 stock -1537.84 prov +241.98 CL -40.77 TP -2111.97 tax -628.93 = -5682.97 (stmt -5682.97)
+advances to vendors & others FY26 2909.63 vs FY25 1109.15 = x2.62; inventories+advances+receivables FY26 12323.52
+BG limit 75.00 Cr vs guarantees outstanding 5984.70 lakh = 59.85 Cr -> 79.8% of BG limit
+Note40 months 12; max gap -8.81 Cr (Dec-25 is index 8: -8.46); months with returns > books: 12/12; avg gap -3.69
+order book/rev: 796/153.14 = 5.20x ; 780/153.14 = 5.09x ; RHP 452.9961 Cr vs 780: +72% in 51 days (9 Apr -> 30 May 2025)
+H1 FY26 revenue as published 18-Oct-2025 6154.24 vs May-2026 comparative 6096.24 = 58.00 lakh; PAT 677.03 vs 635.92 = 41.11
+H2 vs H1 FY26 revenue (May-2026 cols) 51.2% ; PR labels 'H2 FY26 vs H1 FY25 YoY 51%' ; PAT H2/H1 33.0%
+IPO: 5499200 x 85 = 46.7432 Cr ; WC object 3702.60 lakh = 37.03 Cr; monitoring agency utilised WC 29.81 of 37.03 (Mar-2026)
+customer concentration FY25 top1 22.14% top5 58.95% top10 79.25%; gov entities 9223.36/10228.99 = 90.17%
+RHP restated consolidated WC gap FY25 8121.36 vs FY24 4125.90 = x1.97; FY23 3267.21
+RHP receivable days recomputed: closing FY25 151.9 FY24 83.4 FY23 112.9 ; average FY25 107.7 FY24 84.4
+Year-end indicative bank-limit use: loans repayable on demand from banks 2352.65 lakh vs cash credit limit 2650 lakh = 88.8% (AR26 p162 Note 9.10 vs p162 limits); FY25 2264.90 lakh (limit not stated in FY26 doc for FY25). CAUTION: year-end snapshot, ODFD/CC split not disclosed
+Likhitha FY22 AR (wrong vintage, NOT used): debtors days 96.21 vs 74.37 in FY21 = rise, not reduction

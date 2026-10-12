@@ -1,0 +1,102 @@
+=== 0. Table integrity checks ===
+[check] ageing Mar-26: buckets sum 2,223.10 vs stated total 2,223.10 -> OK
+[check] ageing Mar-25 (FY26 AR vintage): buckets sum 2,136.86 vs stated total 2,136.85 -> OK
+[check] ageing Mar-25 (FY25 AR vintage): buckets sum 2,136.85 vs stated total 2,136.85 -> OK
+[check] ageing Mar-24: buckets sum 2,022.75 vs stated total 2,022.75 -> OK
+[check] ageing Mar-23 (lakh converted): buckets sum 1,990.43 vs stated total 1,990.43 -> OK
+[check] gross - ECL = 2,223.10 vs net 2,223.10
+[check] EBITDA FY26 = PBT+finance+D&A = 69.97 (PR 30 Apr 2026 states 69.97)
+[check] EBITDA FY25 = 44.28 (PR states 44.28)
+[check] borrowings total = 2,083.15 (AR FY26 p92 states 2,083.17)
+Mar-23 ageing bucket <6m in crore (from lakh): 93.22 Cr
+Mar-23 ageing bucket 6m-1y in crore (from lakh): 0.20 Cr
+Mar-23 ageing bucket 1-2y in crore (from lakh): 0.00 Cr
+Mar-23 ageing bucket 2-3y in crore (from lakh): 0.00 Cr
+Mar-23 ageing bucket >3y in crore (from lakh): 1,897.01 Cr
+Mar-23 ageing total in crore (from lakh): 1,990.43 Cr
+Mar-24 stores + bought-out components + scrap: 5.82 Cr
+Mar-25 stores + bought-out components + scrap: 6.56 Cr
+Mar-26 stores + bought-out components + scrap: 12.31 Cr
+
+=== 1. Growth and margins ===
+FY23 revenue from operations (lakh to crore): 229.23 Cr
+FY24 revenue growth vs FY23: 96.91 %
+FY25 revenue growth, original vintage (497.83 vs 451.38): 10.29 %
+FY26 revenue growth vs FY25 restated (750.87 vs 498.04): 50.76 %
+FY26 total income growth (772.44 vs 504.50): 53.11 %
+FY25 standalone PAT growth (35.81 vs 29.44): 21.64 %
+FY25 CONSOLIDATED PAT growth (35.57 vs 28.86): 23.25 %
+FY26 standalone PAT growth (56.04 vs 35.81): 56.49 %
+FY26 EBITDA incl. other income: 69.97 Cr
+FY26 EBITDA excl. other income: 48.40 Cr
+FY26 EBITDA excl. other income / revenue from operations: 6.45 %
+FY25 EBITDA excl. other income / revenue (restated): 7.59 %
+Other income share of FY26 PBT: 39.42 %
+Q1 FY27 revenue growth vs Q1 FY26: 61.00 %
+Q1 FY27 PAT growth vs Q1 FY26: 74.37 %
+Q1 FY27 revenue vs Q4 FY26: 7.30 %
+Q4 FY25 standalone PAT change vs Q4 FY24: -18.49 %
+Q4 FY25 standalone PBT change vs Q4 FY24: 141.85 %
+Q4 FY25 CONSOLIDATED PAT change vs Q4 FY24 (11.93 vs 14.12, results p13): -15.51 %
+Order book over 1,900 / FY25 revenue (dossier's 3.8x): 3.82 x
+
+=== 2. Receivables: legacy against running business ===
+Mar-23 >3y bucket share of net receivables: 95.31 %
+Mar-23 running book (all buckets up to 3y): 93.42 Cr
+Mar-24 >3y bucket share of net receivables: 93.84 %
+Mar-24 running book (all buckets up to 3y): 124.51 Cr
+Mar-25 (FY26 vintage) >3y bucket share of net receivables: 85.98 %
+Mar-25 (FY26 vintage) running book (all buckets up to 3y): 299.53 Cr
+Mar-26 >3y bucket share of net receivables: 89.25 %
+Mar-26 running book (all buckets up to 3y): 238.93 Cr
+Mar-26 >3y share of total assets: 68.11 %
+Mar-26 receivables share of total assets (auditor states 76.30%): 76.31 %
+Mar-26 foreign branch receivables share of net receivables: 9.39 %
+Mar-26 ECL provision cover on gross receivables: 0.66 %
+Mar-26 ECL provision cover on >3y bucket: 0.74 %
+Change in >3y bucket Mar-25 to Mar-26: 146.85 Cr
+of which explainable by Mar-25 2-3y bucket ageing in: 7.09 Cr
+Unexplained rise in >3y bucket (ageing roll-forward gap): 139.76 Cr
+Mar-25 vintage difference FY26 AR minus FY25 AR [<6m]: 46.12 Cr
+Mar-25 vintage difference FY26 AR minus FY25 AR [6m-1y]: -9.21 Cr
+Mar-25 vintage difference FY26 AR minus FY25 AR [1-2y]: -36.88 Cr
+Mar-25 vintage difference FY26 AR minus FY25 AR [2-3y]: 0.00 Cr
+Mar-25 vintage difference FY26 AR minus FY25 AR [>3y]: -0.02 Cr
+
+=== 3. Days (balance / annual flow x 365). Receivables include GST; revenue excludes it ===
+FY26 revenue from operations per day: 2.057 Cr/day
+Q1 FY27 revenue per day (91 days): 2.763 Cr/day
+Total net receivables days on FY26 revenue: 1,081 days
+Running book (<=3y) days on FY26 revenue: 116 days
+Under-6-months bucket days on FY26 revenue: 104 days
+Running book (<=3y) days on FY25 restated revenue, Mar-25: 220 days
+Under-6-months bucket days on FY25 restated revenue, Mar-25: 129 days
+Inventory days on FY26 revenue: 71 days
+Inventory days on FY26 cost of materials consumed: 123 days
+Inventory days on FY25 revenue (restated): 69 days
+Customer advances days on FY26 revenue: 45 days
+Customer advances days on FY25 revenue (restated): 98 days
+Current trade payables days on FY26 materials + erection/subcontract cost: 67 days
+Running-business NWC proxy Mar-26 (running receivables + unbilled + inventory - current TP - advances): 181.27 Cr
+same, in days of FY26 revenue: 88 days
+
+=== 4. MSME, cash, borrowings, guarantees ===
+MSME dues aged beyond 6 months from due date: 0.15 Cr
+MSME dues total: 5.51 Cr
+Cumulative operating cash flow FY24 to FY26: -465.39 Cr
+Fall in cash and cash equivalents FY26: 366.50 Cr
+Borrowings total Mar-26: 2,083.15 Cr
+Resolution-plan instruments (NCD + financial creditors) share of borrowings: 96.42 %
+Bank guarantees outstanding growth FY26: 176.70 %
+Increase in margin money with bank FY26: 98.63 Cr
+Margin money / bank guarantees outstanding Mar-26: 120.42 %
+Margin money in days of FY26 revenue: 72 days
+Change in net receivables Mar-25 to Mar-26: 86.25 Cr
+Change in net receivables Mar-25 to Sep-25 (Q2 SoAL): 50.60 Cr
+
+=== 5. Order book ===
+FY26 major orders named in AR FY26 p15 (sum): 1,015.81 Cr
+Order book 1 Apr 2026 / FY26 revenue: 3.03 x
+Implied FY26 inflow if opening = 1,900 (PR): closing - opening + revenue: 1,124.87 Cr
+Implied FY26 inflow if opening = 1,800 (AR FY25): 1,224.87 Cr
+Gap between the two stated 1 Apr 2025 order books: 100.00 Cr

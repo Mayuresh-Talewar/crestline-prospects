@@ -1,0 +1,794 @@
+
+Rating Rationale
+ | 
+ | 
+ | 
+ Rating Rationale | 
+ August 22, 2025 | Mumbai | 
+ | 
+Afcons Infrastructure Limited | 
+'Crisil AA-/Stable' assigned to Non Convertible Debentures; Rated amount enhanced for Bank Debt | 
+ | 
+Rating Action | 
+Total Bank Loan Facilities Rated | Rs.25460 Crore (Enhanced from Rs.21960 Crore) | 
+Long Term Rating | Crisil AA-/Stable (Reaffirmed) | 
+ | 
+ | 
+Rs.500 Crore Non Convertible Debentures | Crisil AA-/Stable (Assigned) | 
+Rs.500 Crore Commercial Paper | Crisil A1+ (Reaffirmed) | 
+ | 
+Note: None of the Directors on Crisil Ratings Limited’s Board are members of rating committee and thus do not participate in discussion or assignment of any ratings. The Board of Directors also does not discuss any ratings at its meetings. | 
+1 crore = 10 million | 
+Refer to Annexure for Details of Instruments & Bank Facilities | 
+ | 
+ | 
+Detailed Rationale
+Crisil Ratings has assigned its ‘Crisil AA-/Stable’ rating to the Rs 500 crore proposed non-convertible debentures (NCDs) of Afcons Infrastructure Ltd (Afcons; a part of the Shapoorji Pallonji group). Also, Crisil Ratings has reaffirmed its ‘Crisil AA-/Stable/Crisil A1+’ ratings on the long-term bank facilities and commercial paper programme of the company.
+The ratings reflect the strong business profile of Afcons, demonstrated by its established track record and ability to execute complex infrastructure engineering projects in India and overseas. Aided by healthy order inflow of Rs 15,960 crore in fiscal 2025, the company had an order book of Rs 36,869 crore as on March 31, 2025, diversified across the urban infrastructure, hydro and underground including water and irrigation projects, surface transport, marine and oil and gas segments. Around 86% of the order book is domestic, while around 14% is overseas and involves varied counterparties. This level of diversification shall reduce risk associated with a particular segment, geography or counterparty. It is to be noted that in addition to this, Afcons has L1 orders of Rs 21,556 crore as on June 30, 2025, which are awaiting letter of award.
+As of March 2025, around 46% of the order book was in early stages of execution with less than 10% completion, on account of the recent order inflow. However, given the company’s track record of timely project execution, the risk of delays in these projects is expected to be low. 
+The company exhibits healthy operating efficiency, as reflected in the double-digit operating margin on a sustained basis and strong return on capital employed (RoCE) of more than 17% for the five fiscals through 2025. However, it is to be noted that the company’s receivables under contract assets, pertaining to uncertified work projects, have increased materially to Rs 7,096 crore as on March 31, 2025 (Rs 5,225 crore a year ago). This increase is due to delays in certification of bills in the Jal Jeevan mission project, new projects where billing milestones have yet to be reached and some ongoing projects where certifications are scheduled for the latter stages of their execution cycle. While this is owing to the nature of engineering, procurement and construction (EPC) business and is typical for players across the industry, any such increase in the overall receivables can put stress on the working capital management for Afcons and shall remain a key monitorable.
+The company has maintained average cash and equivalent of more than Rs 600 crore from fiscal 2020 onwards, which supports financial flexibility. The company has access to fund-based working capital limit, with average utilisation of around 69% over the 12 months through May 2025, providing an additional cushion of more than Rs 650 crore. Financial flexibility is also aided by available lines of mobilisation advances of Rs 420 crore not yet tapped by the company.
+These strengths are partially offset by large working capital requirement in the EPC business, moderate leverage indicators, delays in realisation of arbitration receivables and pending certification of bills in a few projects. The company historically had higher leverage, with a five-year average total outside liabilities to tangible networth (TOL/TNW) ratio of around 3.5 times, which improved to 2.3 times in as on March 31, 2025, post the company’s initial public offering (IPO).
+The company has negligible operating and financial linkages with entities of the Shapoorji Pallonji group, with only ~1% of its total revenue and less than 0.5% of the order book as of March 2025 coming from group entities (majorly towards the tunnel works at Pandoh-Takoli highway and breakwater at Chhara where Afcons is as an EPC contractor for its group companies). As of March 2025, there were receivables of around Rs 330 crore under projects which are at an advanced stage of completion. Timely realisation of these receivables/advances shall remain monitorable. It is to be noted that work-related advance of around Rs 100 crore, which was extended to Shapoorji Pallonji and Company Pvt Ltd (SPCPL) in fiscal 2019 has been realised this fiscal. Barring these, Afcons has not extended any loans/advances/equity to other group companies for many years. Its annual dividend payout in previous years through fiscal 2025 has been below Rs 35 crore. The company’s management has articulated to continue the status quo on related party transactions and Crisil Ratings expects these to remain negligible.
+The Shapoorji Pallonji group has large debt in its key promoter-holding companies, which is non-recourse to the cash flow of Afcons. Crisil Ratings understands that the debt will either be refinanced or be serviced through asset monetisation plans of the group without any bearing on the cash flow of Afcons. Besides, Afcons has largely been managed professionally and independently and did not extend financial support towards servicing of debt in promoter companies. This is expected to continue and any action by the company contrary to this understanding shall be a key rating sensitivity factor.
+ | 
+ | 
+ | 
+Analytical Approach
+Crisil Ratings has combined the business and financial risk profiles of Afcons and its subsidiaries as all the entities are in the same business. The list of entities consolidated is provided in the annexure.
+Please refer Annexure - List of Entities Consolidated, which captures the list of entities considered and their analytical treatment of consolidation.
+ | 
+ | 
+ | 
+Key Rating Drivers & Detailed Description
+Strengths:
+Strong business profile with established market position in the EPC segment: The company has a strong track record of timely execution of complex engineering projects in India and overseas. It has executed marquee infrastructure projects such as Atal Tunnel and Chenab Rail Bridge in India and Ghana Rail and Zambia City Decongestion overseas. Additionally, the company has demonstrated its expertise in executing underground metros and tunnel works by undertaking multiple metro projects and is undertaking a section of the Mumbai-Ahmedabad High Speed Rail Corridor.
+As on March 31, 2025, the company had an order book of Rs 36,869 crore, which is well diversified across metro and urban infrastructure (~55%), hydro and underground (~24%), marine works (~12%), with the remainder fragmented across roads, railways, bridges, tunnel works and oil and gas. These provide strong revenue visibility over three fiscals.
+Healthy operating efficiency on a sustained basis: The company has healthy operating efficiency, with a five-year average operating margin of 10.8% (including foreign currency translation gains or losses) due to selective bidding and limited competition at the time of bidding in complex engineering space. The operating efficiency is also reflected in healthy RoCE of more than 17% for the five years through 2025, which is likely to sustain over the medium term.
+Afcons will maintain a healthy operating margin, driven by careful selection of projects and ability to execute orders on time.
+Healthy financial flexibility: The financial flexibility is supported by cash and equivalent of around Rs 800 crore as on March 31, 2025, and fund-based working capital limit with average utilisation of 69% over the 12 months through May 2025. The company has been keeping at least 25% of the bank limit free at all times, providing additional cushion of over Rs 650 crore. The financial flexibility is also aided by available lines of mobilisation advances of Rs 420 crore not yet tapped by the company. 
+Weaknesses:
+Increased working capital intensity: Operations are working capital intensive due to the inherent nature of the EPC business and average project execution cycle of 3-4 years. Receivables are high in this business due to sizeable retention money blocked in projects till the end of the performance guarantee period as well as certain changes in scope variations, which are required to be negotiated with the counterparties for approvals.
+The working capital intensity increased in fiscal 2025, with gross current assets of around 321 days as on March 31, 2025, up from 293 days a year ago. Current contract asset days also rose to Rs 5,449 crore (158 days), from Rs 3,954 crore (109 days), due to delays in certification of bills in the Jal Jeevan mission project, new projects where billing milestones have yet to be reached and some ongoing projects where certifications are scheduled for the latter stages of their execution cycle.
+Sizeable receivables under arbitration and non-current contract assets: The company had receivables of Rs 860 crore under arbitration as of March 2025, down from Rs 1,065 crore last fiscal. Of the above receivables, the company has received around Rs 613 crore against submission of bank guarantees pending final legal outcome. Any negative verdict against the company and subsequent cash outflow can impact its liquidity, which will remain monitorable. 
+Similarly, Afcons had non-current contract assets of Rs 1,647 crore as of March 2025, up from Rs 1,271 crore last fiscal, pertaining to a few legacy projects, where certification of change in scope is pending approval and is under negotiations with the counterparties. The funding required for arbitration receivables and contract assets resulted in a high TOL/TNW ratio in previous fiscals. 
+Moderate coverage indicators and high, though improving, leverage indicators: The company historically had higher leverage, with a five-year average TOL/TNW ratio of around 4 times. However, the ratio improved to around 2.3 times in fiscal 2025 (from about 3.5 times in fiscal 2024) on account of IPO proceeds of Rs 1,250 crore and repayment to creditors and reduction in working capital loans. 
+The company had total debt of Rs 2,230 crore as on March 31, 2025 (Rs 2,451 crore a year ago). While the working capital debt has been reduced through IPO proceeds during fiscal 2025, the company is undertaking sizeable capital expenditure (capex; including import of tunnel boring machines) of around Rs 2,000 crore over the medium term. This capex will be funded through a mix of debt and internal cash accrual, which is likely to keep the overall indebtedness high.
+Adjusted interest coverage ratio moderated to 2.7 times in fiscal 2025, from 3.1 times in fiscal 2024, due to a higher interest expense resulting from increased interest-bearing mobilization advances. The metric is expected to remain at around 3 times over the medium term.
+ | 
+ | 
+ | 
+Liquidity: Strong
+Liquidity is supported by cash and cash equivalent of around Rs 800 crore as on March 31, 2025, and annual cash accrual of more than Rs 1,000 crore as against yearly debt obligation of Rs 250-500 crore over the medium term. The company has been maintaining a minimum unencumbered cash balance of over Rs 600 crore. The fund-based bank limit was utilised at around 69% over the 12 months through May 2025. Unutilised, mobilisation advances of around Rs 420 crore as on June 30, 2025 will aid financial flexibility. 
+ | 
+ | 
+ | 
+Outlook: Stable
+Afcons will continue to benefit from its strong market position in the complex EPC segment the urban infrastructure spending in India over the medium term. Its profitability is expected to remain steady, backed by the healthy margin profile of the orders being bid for.
+ | 
+ | 
+ | 
+Rating sensitivity factors
+Upward factors
+ Healthy revenue growth over the medium term while sustaining double-digit operating margin and revenue visibility of 3-4 years 
+ Timely realisation of non-current contract assets and disputed receivables resulting in a marked improvement in the working capital intensity 
+ Improvement in interest coverage to above 4 to 4.5 times on a sustained basis
+Downward factors
+ Moderation in operating margin to below 9% or marked increase in working capital intensity on a sustained basis
+ Extension of financial support to Shapoorji Pallonji Group entities in the form of sizeable dividends, or loans/ advances/equity/quasi-equity to group companies, materially impacting the liquidity and financial profile
+ Weakening of the company’s ability to raise additional funds or working capital as a result of any restrictive/limiting measures imposed by lenders
+ | 
+ | 
+ | 
+About the Company
+Afcons was incorporated in 1959 as Rodio Hazarat & Co and was acquired by the Shapoorji Pallonji group in 2000. It is an Indian construction and engineering company involved in infrastructure projects across elevated and underground metro, bridges, roads, tunnels, ports and marine works and oil and gas.
+The Shapoorji Pallonji group holds 50.17% in Afcons, with Goswami Infratech Pvt Ltd holding 25.03%, SPCPL holding 15.41% and the remaining held by other promoter entities. Afcons concluded its IPO raising Rs 1,250 crore from primary issuance of shares. The company got listed on Indian stock exchanges on November 4, 2024.
+ | 
+ | 
+ | 
+Key Financial Indicators– consolidated
+ Particulars
+ | 
+ Unit
+ | 
+ 2025
+ | 
+ 2024
+ | 
+ Operating income
+ | 
+ Rs crore
+ | 
+ 12,553
+ | 
+ 13,277
+ | 
+ Profit after tax (PAT)
+ | 
+ Rs crore
+ | 
+ 487
+ | 
+ 450
+ | 
+ PAT margin
+ | 
+ %
+ | 
+ 3.88
+ | 
+ 3.39
+ | 
+ Adjusted debt/adjusted networth
+ | 
+ Times
+ | 
+ 0.42
+ | 
+ 0.68
+ | 
+ Adjusted Interest coverage
+ | 
+ Times
+ | 
+ 2.73
+ | 
+ 3.09
+ | 
+Financials as per analytical adjustments made by Crisil Ratings
+ | 
+ | 
+ | 
+Any other information: Not Applicable
+ | 
+ | 
+ | 
+Note on complexity levels of the rated instrument:
+Crisil Ratings` complexity levels are assigned to various types of financial instruments and are included (where applicable) in the 'Annexure - Details of Instrument' in this Rating Rationale.
+Crisil Ratings will disclose complexity level for all securities - including those that are yet to be placed - based on available information. The complexity level for instruments may be updated, where required, in the rating rationale published subsequent to the issuance of the instrument when details on such features are available.
+For more details on the Crisil Ratings` complexity levels please visit www.crisilratings.com. Users may also call the Customer Service Helpdesk with queries on specific instruments.
+ | 
+ | 
+ | 
+Annexure - Details of Instrument(s)
+ ISIN | 
+ Name Of Instrument | 
+ Date Of Allotment | 
+ Coupon Rate (%) | 
+ Maturity Date | 
+ Issue Size (Rs. Crore) | 
+ Complexity Levels | 
+ Rating Outstanding with Outlook | 
+ NA | 
+ Commercial Paper | 
+ NA | 
+ NA | 
+ 7-365 days | 
+ 500.00 | 
+ Simple | 
+ Crisil A1+ | 
+ NA | 
+ Non Convertible Debentures# | 
+ NA | 
+ NA | 
+ NA | 
+ 500.00 | 
+ Simple | 
+ Crisil AA-/Stable | 
+ NA | 
+ Bank Guarantee | 
+ NA | 
+ NA | 
+ NA | 
+ 17340.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Cash Credit & Working Capital Demand Loan | 
+ NA | 
+ NA | 
+ NA | 
+ 1800.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Letter of Credit | 
+ NA | 
+ NA | 
+ NA | 
+ 1600.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Proposed Bank Guarantee | 
+ NA | 
+ NA | 
+ NA | 
+ 2550.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Proposed Letter of Credit | 
+ NA | 
+ NA | 
+ NA | 
+ 400.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Proposed Working Capital Facility | 
+ NA | 
+ NA | 
+ NA | 
+ 800.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Proposed Term Loan | 
+ NA | 
+ NA | 
+ NA | 
+ 210.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Term Loan | 
+ NA | 
+ NA | 
+ 30-Sep-27 | 
+ 60.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Term Loan | 
+ NA | 
+ NA | 
+ 30-Sep-29 | 
+ 250.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Term Loan | 
+ NA | 
+ NA | 
+ 31-Mar-29 | 
+ 120.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Term Loan | 
+ NA | 
+ NA | 
+ 29-Feb-28 | 
+ 130.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Term Loan | 
+ NA | 
+ NA | 
+ 31-Jan-30 | 
+ 75.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Term Loan | 
+ NA | 
+ NA | 
+ 31-Mar-26 | 
+ 40.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Term Loan | 
+ NA | 
+ NA | 
+ 30-Jun-29 | 
+ 35.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+ NA | 
+ Term Loan | 
+ NA | 
+ NA | 
+ 31-Dec-30 | 
+ 50.00 | 
+ NA | 
+ Crisil AA-/Stable | 
+# Yet to be issued
+ | 
+ | 
+ | 
+Annexure – List of entities consolidated
+ Names of entities consolidated
+ | 
+ Extent of consolidation 
+ | 
+ Rationale for consolidation 
+ | 
+ Hazarat and Company Pvt Ltd
+ | 
+ Full
+ | 
+ The subsidiaries and step-down subsidiaries are in similar business.
+ | 
+ Afcons Hydrocarbons Engineering Pvt Ltd
+ | 
+ Full
+ | 
+ Afcons Corrosion Protection Pvt Ltd
+ | 
+ Full
+ | 
+ Afcons Oil and Gas Services Pvt Ltd
+ | 
+ Full
+ | 
+ Afcons Overseas Singapore Pte Ltd
+ | 
+ Full
+ | 
+ Afcons Construction Mideast LLC
+ | 
+ Full
+ | 
+ Afcons Infrastructures Kuwait
+ | 
+ Full
+ | 
+ Afcons Mauritius Infrastructure Ltd
+ | 
+ Full
+ | 
+ Afcons Contracting Company
+ | 
+ Full
+ | 
+ Afcons Gulf International Projects Services FZE
+ | 
+ Full
+ | 
+ Afcons Infra Projects Kazakhstan LLP
+ | 
+ Full
+ | 
+ Afcons Overseas Project Gabon SARL
+ | 
+ Full
+ | 
+ | 
+ | 
+ | 
+ Annexure - Rating History for last 3 Years | 
+ | 
+ Current | 
+ 2025 (History) | 
+ 2024 | 
+ 2023 | 
+ 2022 | 
+ Start of 2022 | 
+ Instrument | 
+ Type | 
+ Outstanding Amount | 
+ Rating | 
+ Date | 
+ Rating | 
+ Date | 
+ Rating | 
+ Date | 
+ Rating | 
+ Date | 
+ Rating | 
+ Rating | 
+ Fund Based Facilities | 
+ LT | 
+ 3570.0 | 
+ Crisil AA-/Stable | 
+ 10-03-25 | 
+ Crisil AA-/Stable | 
+ | 
+ -- | 
+ | 
+ -- | 
+ | 
+ -- | 
+ Withdrawn | 
+ | 
+ | 
+ | 
+ -- | 
+ 28-01-25 | 
+ Crisil AA-/Stable | 
+ | 
+ -- | 
+ | 
+ -- | 
+ | 
+ -- | 
+ Withdrawn | 
+ Non-Fund Based Facilities | 
+ LT | 
+ 21890.0 | 
+ Crisil AA-/Stable | 
+ 10-03-25 | 
+ Crisil AA-/Stable | 
+ | 
+ -- | 
+ | 
+ -- | 
+ | 
+ -- | 
+ Withdrawn | 
+ | 
+ | 
+ | 
+ -- | 
+ 28-01-25 | 
+ Crisil AA-/Stable | 
+ | 
+ -- | 
+ | 
+ -- | 
+ | 
+ -- | 
+ Withdrawn | 
+ Commercial Paper | 
+ ST | 
+ 500.0 | 
+ Crisil A1+ | 
+ 10-03-25 | 
+ Crisil A1+ | 
+ | 
+ -- | 
+ | 
+ -- | 
+ | 
+ -- | 
+ Withdrawn | 
+ | 
+ | 
+ | 
+ -- | 
+ 28-01-25 | 
+ Crisil A1+ | 
+ | 
+ -- | 
+ | 
+ -- | 
+ | 
+ -- | 
+ -- | 
+ Non Convertible Debentures | 
+ LT | 
+ 500.0 | 
+ Crisil AA-/Stable | 
+ | 
+ -- | 
+ | 
+ -- | 
+ | 
+ -- | 
+ | 
+ -- | 
+ -- | 
+ | 
+ All amounts are in Rs.Cr. | 
+ | 
+ | 
+ Annexure - Details of Bank Lenders & Facilities | 
+ Facility | 
+ Amount (Rs.Crore) | 
+ Name of Lender | 
+ Rating | 
+ Bank Guarantee | 
+ 680 | 
+ Axis Bank Limited | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 1180 | 
+ Bank of Baroda | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 500 | 
+ Bank Of India Limited | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 200 | 
+ Bank of Maharashtra | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 454 | 
+ DBS Bank Limited | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 1620 | 
+ Export Import Bank of India | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 679 | 
+ The Hongkong and Shanghai Banking Corporation Limited | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 1060 | 
+ ICICI Bank Limited | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 590 | 
+ IDBI Bank Limited | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 500 | 
+ Indian Bank | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 250 | 
+ Indian Overseas Bank | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 240 | 
+ IndusInd Bank Limited | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 150 | 
+ The Karnataka Bank Limited | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 300 | 
+ Punjab and Sind Bank | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 860 | 
+ Punjab National Bank | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 6457 | 
+ State Bank of India | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 325 | 
+ UCO Bank | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 600 | 
+ Union Bank Of India Limited | 
+ Crisil AA-/Stable | 
+ Bank Guarantee | 
+ 695 | 
+ YES Bank Limited | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 130 | 
+ Axis Bank Limited | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 150 | 
+ Bank of Baroda | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 75 | 
+ Bank Of India Limited | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 50 | 
+ Bank of Maharashtra | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 26 | 
+ DBS Bank Limited | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 40 | 
+ The Hongkong and Shanghai Banking Corporation Limited | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 25 | 
+ ICICI Bank Limited | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 100 | 
+ IDBI Bank Limited | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 64 | 
+ Indian Bank | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 50 | 
+ Indian Overseas Bank | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 10 | 
+ IndusInd Bank Limited | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 50 | 
+ The Karnataka Bank Limited | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 50 | 
+ Punjab and Sind Bank | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 155 | 
+ Punjab National Bank | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 700 | 
+ State Bank of India | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 50 | 
+ UCO Bank | 
+ Crisil AA-/Stable | 
+ Cash Credit & Working Capital Demand Loan | 
+ 75 | 
+ Union Bank Of India Limited | 
+ Crisil AA-/Stable | 
+ Letter of Credit | 
+ 470 | 
+ Axis Bank Limited | 
+ Crisil AA-/Stable | 
+ Letter of Credit | 
+ 5 | 
+ Bank of Baroda | 
+ Crisil AA-/Stable | 
+ Letter of Credit | 
+ 300 | 
+ ICICI Bank Limited | 
+ Crisil AA-/Stable | 
+ Letter of Credit | 
+ 125 | 
+ IDBI Bank Limited | 
+ Crisil AA-/Stable | 
+ Letter of Credit | 
+ 100 | 
+ Punjab National Bank | 
+ Crisil AA-/Stable | 
+ Letter of Credit | 
+ 500 | 
+ State Bank of India | 
+ Crisil AA-/Stable | 
+ Letter of Credit | 
+ 100 | 
+ Union Bank Of India Limited | 
+ Crisil AA-/Stable | 
+ Proposed Bank Guarantee | 
+ 150 | 
+ Not Applicable | 
+ Crisil AA-/Stable | 
+ Proposed Bank Guarantee | 
+ 2400 | 
+ Not Applicable | 
+ Crisil AA-/Stable | 
+ Proposed Letter of Credit | 
+ 400 | 
+ Not Applicable | 
+ Crisil AA-/Stable | 
+ Proposed Term Loan | 
+ 210 | 
+ Not Applicable | 
+ Crisil AA-/Stable | 
+ Proposed Working Capital Facility | 
+ 100 | 
+ Not Applicable | 
+ Crisil AA-/Stable | 
+ Proposed Working Capital Facility | 
+ 700 | 
+ Not Applicable | 
+ Crisil AA-/Stable | 
+ Term Loan | 
+ 60 | 
+ Bank of Baroda | 
+ Crisil AA-/Stable | 
+ Term Loan | 
+ 35 | 
+ UCO Bank | 
+ Crisil AA-/Stable | 
+ Term Loan | 
+ 75 | 
+ SBM Bank (India) Limited | 
+ Crisil AA-/Stable | 
+ Term Loan | 
+ 250 | 
+ Export Import Bank of India | 
+ Crisil AA-/Stable | 
+ Term Loan | 
+ 120 | 
+ Indian Bank | 
+ Crisil AA-/Stable | 
+ Term Loan | 
+ 40 | 
+ State Bank of India | 
+ Crisil AA-/Stable | 
+ Term Loan | 
+ 50 | 
+ Union Bank Of India Limited | 
+ Crisil AA-/Stable | 
+ Term Loan | 
+ 130 | 
+ Punjab National Bank | 
+ Crisil AA-/Stable | 
+ | 
+ | 
+ | 
+Criteria Details
+ Links to related criteria | 
+Basics of Ratings (including default recognition, assessing information adequacy) | 
+Criteria for manufacturing, trading and corporate services sector (including approach for financial ratios) | 
+Criteria for consolidation | 
+Media Relations
+ | Analytical Contacts
+ | Customer Service Helpdesk
+ | 
+Ramkumar Uppara
+Media Relations
+Crisil Limited
+M: +91 98201 77907
+B: +91 22 6137 3000
+ramkumar.uppara@crisil.com
+Kartik Behl
+Media Relations
+Crisil Limited
+M: +91 90043 33899
+B: +91 22 6137 3000
+kartik.behl@crisil.com
+Divya Pillai
+Media Relations
+Crisil Limited
+M: +91 86573 53090
+B: +91 22 6137 3000
+divya.pillai1@ext-crisil.com
+ | Manish Kumar Gupta
+Senior Director
+Crisil Ratings Limited
+B:+91 22 6137 3000
+manish.gupta@crisil.com
+Gautam Shahi
+Director
+Crisil Ratings Limited
+B:+91 124 672 2000
+gautam.shahi@crisil.com
+Varad Joshi
+Senior Rating Analyst
+Crisil Ratings Limited
+B:+91 22 6137 3000
+varad.joshi@crisil.com | Timings: 10.00 am to 7.00 pm
+Toll free Number:1800 267 3850
+For a copy of Rationales / Rating Reports:
+CRISILratingdesk@crisil.com
+For Analytical queries:
+ratingsinvestordesk@crisil.com
+ | 
+ | 
+ | 
+ Note for Media:
+This rating rationale is transmitted to you for the sole purpose of dissemination through your newspaper/magazine/agency. The rating rationale may be used by you in full or in part without changing the meaning or context thereof but with due credit to Crisil Ratings. However, Crisil Ratings alone has the sole right of distribution (whether directly or indirectly) of its rationales for consideration or otherwise through any media including websites and portals.
+ | 
+ | 
+About Crisil Ratings Limited (A subsidiary of Crisil Limited, an S&P Global Company)
+Crisil Ratings pioneered the concept of credit rating in India in 1987. With a tradition of independence, analytical rigour and innovation, we set the standards in the credit rating business. We rate the entire range of debt instruments, such as bank loans, certificates of deposit, commercial paper, non-convertible/convertible/partially convertible bonds and debentures, perpetual bonds, bank hybrid capital instruments, asset-backed and mortgage-backed securities, partial guarantees and other structured debt instruments. We have rated over 33,000 large and mid-scale corporates and financial institutions. We have also instituted several innovations in India in the rating business, including ratings for municipal bonds, partially guaranteed instruments and infrastructure investment trusts (InvITs).
+Crisil Ratings Limited ('Crisil Ratings') is a wholly-owned subsidiary of Crisil Limited ('Crisil'). Crisil Ratings Limited is registered in India as a credit rating agency with the Securities and Exchange Board of India ("SEBI").
+For more information, visit www.crisilratings.com 
+About Crisil Limited
+Crisil is a leading, agile and innovative global analytics company driven by its mission of making markets function better. 
+It is India’s foremost provider of ratings, data, research, analytics and solutions with a strong track record of growth, culture of innovation, and global footprint.
+It has delivered independent opinions, actionable insights, and efficient solutions to over 100,000 customers through businesses that operate from India, the US, the UK, Argentina, Poland, China, Hong Kong and Singapore.
+It is majority owned by S&P Global Inc, a leading provider of transparent and independent ratings, benchmarks, analytics and data to the capital and commodity markets worldwide.
+For more information, visit www.crisil.com
+Connect with us: TWITTER | LINKEDIN | YOUTUBE | FACEBOOK
+CRISIL PRIVACY NOTICE
+Crisil respects your privacy. We may use your contact information, such as your name, address and email id to fulfil your request and service your account and to provide you with additional information from Crisil. For further information on Crisil's privacy policy please visit www.crisil.com.
+DISCLAIMER
+This disclaimer is part of and applies to each credit rating report and/or credit rating rationale ('report') provided by Crisil Ratings Limited ('Crisil Ratings'). For the avoidance of doubt, the term 'report' includes the information, ratings and other content forming part of the report. The report is intended for use only within the jurisdiction of India. This report does not constitute an offer of services. Without limiting the generality of the foregoing, nothing in the report is to be construed as Crisil Ratings provision or intention to provide any services in jurisdictions where Crisil Ratings does not have the necessary licenses and/or registration to carry out its business activities. Access or use of this report does not create a client relationship between Crisil Ratings and the user.
+The report is a statement of opinion as on the date it is expressed, and it is not intended to and does not constitute investment advice within meaning of any laws or regulations (including US laws and regulations). The report is not an offer to sell or an offer to purchase or subscribe to any investment in any securities, instruments, facilities or solicitation of any kind to enter into any deal or transaction with the entity to which the report pertains. The recipients of the report should rely on their own judgment and take their own professional advice before acting on the report in any way. 
+Crisil Ratings and its associates do not act as a fiduciary. The report is based on the information believed to be reliable as of the date it is published, Crisil Ratings does not perform an audit or undertake due diligence or independent verification of any information it receives and/or relies on for preparation of the report. THE REPORT IS PROVIDED ON “AS IS” BASIS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAWS, CRISIL RATINGS DISCLAIMS WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHER WARRANTIES OR CONDITIONS, INCLUDING WARRANTIES OF MERCHANTABILITY, ACCURACY, COMPLETENESS, ERROR-FREE, NON-INFRINGEMENT, NON-INTERRUPTION, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE OR INTENDED USAGE. In no event shall Crisil Ratings, its associates, third-party providers, as well as their directors, officers, shareholders, employees or agents be liable to any party for any direct, indirect, incidental, exemplary, compensatory, punitive, special or consequential damages, costs, expenses, legal fees or losses (including, without limitation, lost income or lost profits and opportunity costs) in connection with any use of any part of the report even if advised of the possibility of such damages.
+The report is confidential information of Crisil Ratings and Crisil Ratings reserves all rights, titles and interest in the rating report. The report shall not be altered, disseminated, distributed, redistributed, licensed, sub-licensed, sold, assigned or published any content thereof or offer access to any third party without prior written consent of Crisil Ratings.
+Crisil Ratings or its associates may have other commercial transactions with the entity to which the report pertains or its associates. Ratings are subject to revision or withdrawal at any time by Crisil Ratings. Crisil Ratings may receive compensation for its ratings and certain credit-related analyses, normally from issuers or underwriters of the instruments, facilities, securities or from obligors. 
+Crisil Ratings has in place a ratings code of conduct and policies for managing conflict of interest. For more detail, please refer to: https://www.crisil.com/en/home/our-businesses/ratings/regulatory-disclosures/highlighted-policies.html. Public ratings and analysis by Crisil Ratings, as are required to be disclosed under the Securities and Exchange Board of India regulations (and other applicable regulations, if any), are made available on its websites, www.crisilratings.com and https://www.ratingsanalytica.com (free of charge). Crisil Ratings shall not have the obligation to update the information in the Crisil Ratings report following its publication although Crisil Ratings may disseminate its opinion and/or analysis. Reports with more detail and additional information may be available for subscription at a fee. Rating criteria by Crisil Ratings are available on the Crisil Ratings website, www.crisilratings.com. For the latest rating information on any company rated by Crisil Ratings, you may contact the Crisil Ratings desk at crisilratingdesk@crisil.com, or at (0091) 1800 267 3850.
+Crisil Ratings shall have no liability, whatsoever, with respect to any copies, modifications, derivative works, compilations or extractions of any part of this [report/ work products], by any person, including by use of any generative artificial intelligence or other artificial intelligence and machine learning models, algorithms, software, or other tools. Crisil Ratings takes no responsibility for such unauthorized copies, modifications, derivative works, compilations or extractions of its [report/ work products] and shall not be held liable for any errors, omissions of inaccuracies in such copies, modifications, derivative works, compilations or extractions. Such acts will also be in breach of Crisil Ratings’ intellectual property rights or contrary to the laws of India and Crisil Ratings shall have the right to take appropriate actions, including legal actions against any such breach.
+ | 
+ | 
+Crisil Ratings uses the prefix 'PP-MLD' for the ratings of principal-protected market-linked debentures (PPMLD) with effect from November 1, 2011, to comply with the SEBI circular, "Guidelines for Issue and Listing of Structured Products/Market Linked Debentures". The revision in rating symbols for PPMLDs should not be construed as a change in the rating of the subject instrument. For details on Crisil Ratings' use of 'PP-MLD' please refer to the notes to Rating scale for Debt Instruments and Structured Finance Instruments at the following link: https://www.crisilratings.com/en/home/our-business/ratings/credit-ratings-scale.html
+ | 
+ | 
+ | 

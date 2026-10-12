@@ -1,0 +1,61 @@
+Statutory Reports
+
+Business Responsibility and Sustainability Report (BRSR)
+
+3. Provide details of the following disclosures related to water, in the following format.                                                        Parameter                                                                                  FY 2026      FY 2025
+                                                                                                                                                  (v)Others
+Parameter                                                                                    FY 2026         FY 2025                              -No treatment (Used for gardening purposes)                                                65,723       143,882
+Water withdrawal by source (in kiloliters)                                                                                                        -With treatment  please specify level of treatment
+(i)Surface water                                                                            597,194        554,558                                Total water discharged (in kiloliters)
+(ii)Groundwater                                                                           1,058,735      1,098,545
+(iii)Third party water                                                                    1,526,222       1,773,653                               * Note: The surface water discharge is attributable to the Oil and Gas Division and Water Division projects arising after hydro testing. This water
+(iv)Seawater/desalinated water                                                                                                                            is devoid of any effluents or harmful chemicals and KPIL maintains water quality reports to ascertain the same.
+(v)Others                                                                                            -               -
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v)                     24,462          15,500                               **Note: The 'Groundwater Discharge' data has been restated under 'Third-Party Discharge'. This reclassification more accurately reflects our
+Total volume of water consumption (in kiloliters)                                        3,206,613      3,442,256                                         operational boundary, as our responsibility ceases upon transfer of water to the external entity
+Water intensity per rupee of turnover (Water consumed in KL/ Revenue)                    3,140,889      3,298,373
+                                                                                              135.32                                              Note: Indicate if any independent assessment/ evaluation has been carried out by an external agency? (Y/N) If yes, name of the external
+(in KL/H Crore)                                                                                                174.6                                      agency.
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total      275.25
+water consumption in KL/Revenue from operations adjusted for PPP) (in KL/PPP Mn USD)                         360.78                               Yes, independent reasonable assurance has been undertaken by TV SD South Asia Pvt. Ltd.
+Water intensity in terms of physical output*                                                       NA
+Water intensity (optional)  the relevant metric may be selected by the entity                222.0              NA                              5. H as the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage
+KL/Employee                                                                                                    244.7                                    and implementation.
+
+For FY 202526, the most recent IMF PPP conversion rate of 20.343 has been applied, accessed from the IMF DataMapper portal on April 22,           During the reporting year, all four of KPIL's facilities--two located in Rajasthan, one in Gandhinagar, and one in Raipur--
+        2026. In October 2024, the IMF revised its PPP methodology and updated conversion rates. Accordingly, for FY 202425, the latest IMF PPP          continued to operate with Zero Liquid Discharge (ZLD) systems. As a result, no liquid effluents were released outside the
+        conversion rate of 20.66 was used. Link: IMF PPP Conversion Rate  India                                                                         premises. Treated water was sustainably reused for nonpotable purposes such as landscaping and toilet flushing,
+                                                                                                                                                         reinforcing the Company's commitment to responsible water management.
+250+ projects sites being EPC in nature which are spread across national and international locations, accurate tracking of water usage
+        is a challenge due to different sources, availability and consumption patterns. Areas where direct measurement is not possible, indirect  6. Provide details of air emissions (other than GHG emissions) by the entity, in the following format.
+        estimations based on activity level data is used.
+                                                                                                                                                  Parameter                                                  Please specify unit             FY 2026      FY 2025
+Water intensity is reduced by 23% this year due to our operational project site have been reduced compared to last reported year. This is also    NOx                                                        g/m3                                26.6            31
+        supported by strengthening of training to primary data owners towards our water accounting methodology.                                   SOx                                                        g/m3                                 15.4           27
+                                                                                                                                                  Particulate matter (PM)                                    g/m3                                46.7           43
+KPIL is constantly engaged in awareness building on implementing water monitoring, efficiency and conservation measures across                    Persistent organic pollutants (POP)                        -                                       -            -
+        project sites                                                                                                                             Volatile organic compounds (VOC)                           -                                       -            -
+                                                                                                                                                  Hazardous air pollutants (HAP)                             mg/m3                                 NIL
+Note: Indicate if any independent assessment/ evaluation has been carried out by an external agency? (Y/N) If yes, name of the                    Others- please specify                                     PPM                                   NIL          NIL
+        external agency.                                                                                                                                                                                                                                        NIL
+
+Yes, independent reasonable assurance has been undertaken by TV SD South Asia Pvt. Ltd.
+
+4. Provide the following details related to water discharged:                            FY 2026        FY 2025                                   Note: Air emission values are collected from EPC and plant operations and the average value of nearby air quality monitored is disclosed.
+                                                                                          13,959         19,879                                           However, the parameters from operations are compliant to applicable emission limits.
+         Parameter
+        Water discharge by destination and level of treatment (in kiloliters)                                                                     Note: Indicate if any independent assessment/ evaluation has been carried out by an external agency? (Y/N) If yes, name of the external
+        (i)To Surface water                                                                                                                               agency.
+        -No treatment*
+        -With treatment  please specify level of treatment                                                                                       No, independent reasonable assurance has been undertaken.
+        (ii)To Groundwater
+        -No treatment                                                                       -           -
+        -With treatment  please specify level of treatment
+        (iii)To Seawater                                                                       39,746     120,540**
+        - No treatment
+        - With treatment  please specify level of treatment                                  12,018        3,463 
+        (iv)Sent to third parties                                                        Secondary      Secondary
+        -No treatment**                                                                   treatment      treatment
+        -With treatment  please specify level of treatment
+
+246 Kalpataru Projects International Limited                                                                                                                                                                 Integrated Annual Report 2025-26 247

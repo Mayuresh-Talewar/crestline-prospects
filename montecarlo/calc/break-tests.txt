@@ -1,0 +1,51 @@
+=== BREAK=no-negative
+ASSERTS
+FAIL  no-negative-release  min cash 43.22
+1 ASSERT(S) FAILED
+=== BREAK=interest-zero
+ASSERTS
+FAIL  interest-zero  combined carry 0, valueOfADay carry 0
+1 ASSERT(S) FAILED
+=== BREAK=cross-check-collection
+ASSERTS
+FAIL  cross-check-collection-10  days x per day 123.80 vs simulate 123.80
+FAIL  cross-check-collection-30  days x per day 371.41 vs simulate 371.41
+2 ASSERT(S) FAILED
+=== BREAK=cross-check-materials
+ASSERTS
+FAIL  cross-check-materials-10  43.22 vs 43.22
+FAIL  cross-check-materials-30  129.65 vs 129.65
+2 ASSERT(S) FAILED
+=== BREAK=combined-is-one
+ASSERTS
+FAIL  combined-is-one-run-10  released 290.82
+FAIL  combined-is-one-run-30  released 872.46
+2 ASSERT(S) FAILED
+=== BREAK=payables
+ASSERTS
+FAIL  payables-never-release  no dpo lever, dpo cash 0
+1 ASSERT(S) FAILED
+=== BREAK=basis-match-rec
+ASSERTS
+FAIL  basis-match-receivables  1156.49 vs 1156.49
+1 ASSERT(S) FAILED
+=== BREAK=basis-match-unb
+ASSERTS
+FAIL  basis-match-unbilled  639.99 vs 639.99
+1 ASSERT(S) FAILED
+=== BREAK=basis-match-stock
+ASSERTS
+FAIL  basis-match-stock-on-materials  stock priced on materials per day, never revenue per day
+1 ASSERT(S) FAILED
+=== BREAK=no-lever
+ASSERTS
+FAIL  no-lever-on-foreign-base  dio on materials; cad and dso on revenue
+1 ASSERT(S) FAILED
+=== BREAK=never-below
+ASSERTS
+FAIL  never-below-client-term  receivable days after 30 = 63.4 >= 30
+1 ASSERT(S) FAILED
+=== BREAK=retention
+ASSERTS
+FAIL  retention-not-simulated  retention is a balance only
+1 ASSERT(S) FAILED

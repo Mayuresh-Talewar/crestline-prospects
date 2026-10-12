@@ -1,0 +1,41 @@
+=== 1. EPC trend, STANDALONE (single EPC segment), Rs Cr, 31 March ===
+Source: AR FY22-FY26 standalone statements (pages in data.md s.2). Days are crude: balance / (revenue/365).
+Year | Revenue | Receivables | Recv days | Contract assets | CA days | Retention | Payables | Contract liab. | Net trade WC* | CFO
+FY22 | 236.6 | 78.5 | 121 | 0.0 | 0.0 | 4.2 | 20.3 | 61.2 | 0.0 | 15.9
+FY23 | 797.8 | 277.1 | 127 | 0.7 | 0.3 | 61.5 | 107.0 | 71.8 | 100.6 | 24.8
+FY24 | 708.3 | 67.2 | 35 | 9.2 | 4.7 | 6.7 | 48.9 | 28.1 | 2.8 | 230.2
+FY25 | 394.7 | 61.2 | 57 | 0.0 | 0.0 | 4.2 | 46.1 | 7.3 | 10.8 | 15.4
+FY26 | 285.6 | 37.9 | 48 | 11.6 | 14.8 | 3.6 | 18.7 | 74.6 | -42.8 | 46.8
+* Net trade WC = receivables + contract assets + stores - trade payables - contract liabilities (Computed).
+  Retention is NOT added: it may sit inside receivables (FY23 retention 61.5 = the non-current receivable line).
+Revenue FY26 vs FY23: -64.2%; vs FY25: -27.7%
+Receivables FY26 vs FY23: -86.3%
+Order book Mar-23 980+ -> Jun-26 305: -68.9% (company presentations; 980 is a floor, '980+')
+Related-party receivables FY26 Rs 6.4 Cr = 16.9% of Rs 37.9 Cr; third-party receivables Rs 31.5 Cr
+
+=== 2. FY26 basis (STANDALONE = EPC) ===
+Per day = 285.6 / 365 = Rs 0.782 Cr/day (Rs 78 lakh a day)
+Receivable days 48.4 | Contract-asset days 14.8 (Crestline analytical metric, not GAAP)
+Levers the app can draw: cad (Built, waiting to be certified), dso (Invoiced, waiting to be paid)
+toTerms: {} -> no contract terms are published, so there is no "to terms" scenario.
+Value of one day (valueOfADay, rate 0 passed explicitly): cash Rs 0.8 Cr once
+
+=== 3. Scenarios, cash released ONCE (rows overlap, never added) ===
+A  Receivables 10 days faster: dso 48.4 -> 38.4 days => Rs 7.8 Cr cash, once
+B  Contract assets 10 days faster to bill: cad 14.8 -> 4.8 days => Rs 7.8 Cr cash, once
+C  Receivables 30 days faster: dso 48.4 -> 18.4 days => Rs 23.5 Cr cash, once
+D  Contract assets 30 days faster (capped at the whole balance): cad 14.8 -> 0.0 days => Rs 11.6 Cr cash, once
+Largest single row C = 1.06% of standalone total assets (Rs 2,220.2 Cr, AR26 p.108) and 4.2% of standalone cash + bank deposits + current investments (Rs 557.8 Cr).
+Row C = 62% of all FY26 receivables; it assumes collection 30 days faster with no published payment term to test it against.
+
+=== 4. priceLevers (rate 0) ===
+Release the retention that has already met its milestone: ceiling Rs 3.6 Cr = 4.6 days of revenue. Milestone status NOT published: whole balance is a ceiling, not a claim.
+
+=== 5. ILLUSTRATIVE: per Rs 1,000 Cr of new EPC order value ===
+Assumes billing spread evenly over the execution period; MD said the current book executes over 3 to 4 years (Q4 FY26 call, 14 May 2026, p.3).
+Executed over 1 year: each 10 days of billing-to-cash = Rs 27.4 Cr cash, once
+Executed over 3 years: each 10 days of billing-to-cash = Rs 9.1 Cr cash, once
+Executed over 4 years: each 10 days of billing-to-cash = Rs 6.8 Cr cash, once
+No order of this size is signed: the MD (21 Aug 2026) described one as under negotiation.
+
+Checks passed: no negative release; carry = 0 on every row (rate 0 passed explicitly); no interest printed.

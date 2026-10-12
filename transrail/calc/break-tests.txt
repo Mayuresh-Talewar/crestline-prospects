@@ -1,0 +1,42 @@
+### BREAK=1 (expect exit 1)
+FAIL A1 no negative release cad 10d: cash -188.50
+FAIL A3 independent cross-check cad 10d: sim -188.50 vs bigint 188.50
+FAIL A1 no negative release dso 10d: cash -188.50
+FAIL A3 independent cross-check dso 10d: sim -188.50 vs bigint 188.50
+FAIL A1 no negative release cad 30d: cash -565.49
+FAIL A3 independent cross-check cad 30d: sim -565.49 vs bigint 565.49
+FAIL A1 no negative release dso 30d: cash -565.49
+FAIL A3 independent cross-check dso 30d: sim -565.49 vs bigint 565.49
+FAILED 8: A1 no negative release cad 10d | A3 independent cross-check cad 10d | A1 no negative release dso 10d | A3 independent cross-check dso 10d | A1 no negative release cad 30d | A3 independent cross-check cad 30d | A1 no negative release dso 30d | A3 independent cross-check dso 30d
+exit 1
+### BREAK=2 (expect exit 1)
+FAIL A2 interest cad 10d: applied 188.50 <= 252.49, interest 19.79
+FAIL A2 interest dso 10d: applied 188.50 <= 252.49, interest 19.79
+FAIL A2 interest cad 30d: applied 252.49 <= 252.49, interest 26.51
+FAIL A2 interest dso 30d: applied 252.49 <= 252.49, interest 26.51
+FAIL A2 interest wc 10d: applied 188.50, interest 19.79
+FAIL A2 interest wc 30d: applied 252.49, interest 26.51
+FAILED 6: A2 interest cad 10d | A2 interest dso 10d | A2 interest cad 30d | A2 interest dso 30d | A2 interest wc 10d | A2 interest wc 30d
+exit 1
+### BREAK=3 (expect exit 1)
+FAIL A3 independent cross-check cad 10d: sim 190.38 vs bigint 188.50
+FAIL A3 independent cross-check cad 30d: sim 571.14 vs bigint 565.49
+FAIL A5 basis: per day equals revenue / 365 exactly: dso 18.85 cad 19.04
+FAILED 3: A3 independent cross-check cad 10d | A3 independent cross-check cad 30d | A5 basis: per day equals revenue / 365 exactly
+exit 1
+### BREAK=4 (expect exit 1)
+FAIL A4 payables release no cash (ask 130 days): cash 565.49, next 130.00 (ceiling 160.00)
+FAIL A4 payables release no cash (ask 1000 days): cash 1130.98, next 160.00 (ceiling 160.00)
+FAIL A4 asking for later payment changes nothing: 1507.97 vs 376.99
+FAILED 3: A4 payables release no cash (ask 130 days) | A4 payables release no cash (ask 1000 days) | A4 asking for later payment changes nothing
+exit 1
+### BREAK=5 (expect exit 1)
+FAIL A3 independent cross-check cad 10d: sim 188.46 vs bigint 188.50
+FAIL A3 independent cross-check dso 10d: sim 188.46 vs bigint 188.50
+FAIL A3 independent cross-check cad 30d: sim 565.37 vs bigint 565.49
+FAIL A3 independent cross-check dso 30d: sim 565.37 vs bigint 565.49
+FAIL A3 independent cross-check wc 10d: 188.46 vs 188.50
+FAIL A3 independent cross-check wc 30d: 565.37 vs 565.49
+FAIL A5 basis: revenue consolidated 6,880.11 and deck prints 6,880: revenue 6878.63
+FAILED 7: A3 independent cross-check cad 10d | A3 independent cross-check dso 10d | A3 independent cross-check cad 30d | A3 independent cross-check dso 30d | A3 independent cross-check wc 10d | A3 independent cross-check wc 30d | A5 basis: revenue consolidated 6,880.11 and deck prints 6,880
+exit 1

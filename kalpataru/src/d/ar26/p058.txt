@@ -1,0 +1,52 @@
+Capitals that Power Our Value Creation
+
+NATURAL CAPITAL
+
+procurement. Advanced technologies such as wet and dry     The WFA also emphasises the importance of certifications     02 Energy Efficiency & Renewable Initiatives
+processing of construction and demolition waste are being  and monitoring mechanisms in driving sustainable
+explored to produce aggregates and sand for construction   waste management. We refer to BREEAM credits for good        Padampur Power Plant (PPP)                                   This initiative reflects the principle of process
+activities. In addition, KPIL is committed to sustainable  practice in materials resource efficiency and have outlined                                                               optimisation, where energy demand is reduced by
+practices for managing food waste, plastic waste, ewaste,  templates for waste monitoring and baseline studies.         Modification in Central Cooling                              aligning operations with seasonal requirements.
+and metal waste, through composting, plastic granulation,  Through these initiatives, KPIL is enhancing sustainability  AC Water Supply
+and modular design for electronic products.                performance, embedding circular economy principles,                                                                       Impacts
+                                                           and ensuring that our operations remain environmentally      The Variable Refrigerant Volume (VRV) unit is installed       Energy Savings: 15,120 kWh annually
+                                                           responsible and aligned with global sustainability goals.    for maintaining the air conditioning in the Control Room.     Operational Benefit: Simplified cooling operations,
+                                                                                                                        Its water-cooled condenser unit discharge line has a
+BIOMASS DIVISION INITIATIVES                                                                                            separate pump for circulating water in the loop. Now, this       reduced wear and tear, and improved system
+    01 Electricity Production                                                                                           unit has been connected to the existing Auxiliary Cooling        reliability.
+                                                                                                                        Water Pump's discharge line. This modification eliminates
+                                                                                                                        the need for the 3.7 kW AC water pump, especially during
+                                                                                                                        winter season, resulting in energy savings.
+
+Padampur Power Plant (PPP)                                 Uniara Power Plant (UPP)                                     Uniara Power Plant (UPP)                                     Replacement of Cooling Tower Fan Blades
+
+Installation of Motorised Rotary                           Installation of 15 TPH Capacity Soil                         Installation of Air Compressor Units with VSD                Lightweight E glass epoxy blades replaced conventional
+Soot Blower (RSB)                                          Separator (Trommel) System                                                                                                FRP blades, reducing fan load by 7 kW. This initiative
+                                                                                                                        Two old, inefficient air compressors with new units          is an example of material innovation, where
+The manual and mechanically operated soot blower for       Agricultural fuel contains high dust levels, exacerbated     having a volumetric flow rate of 125 CFM. Both               advanced materials improve efficiency and durability
+super heater tubes has been replaced with a motorised      by adulteration, which increases boiler maintenance          compressors are equipped with in built Variable              simultaneously.
+system. This upgrade enables easier, more precise          frequency and decreases boiler efficiency. To mitigate       Speed Drives (VSD), enabling optimisation of power
+operation and effective ash deposit removal from boiler    this, we have enhanced our soil separation capacity          consumption according to demand. Each unit delivers           Energy Savings: 53,760 kWh annually
+tubes. It delivers qualitative improvements through its    by adding a parallel 15 TPH Trommel unit to the existing     a saving of 9 kW, reflecting the principle of variable load
+automatic activation during set durations under routine    6 TPH asset. This upgrade fully meets the boiler's daily     management, where equipment adjusts energy use                Impact: Reduced fan load, improved cooling
+operations.                                                processed fuel requirements.                                 based on operational requirements.                               efficiency, and extended equipment life.
+
+                                                                                                                         Energy Savings: 75,600 kWh annually                        Both PPP and UPP plants have implemented energy
+                                                                                                                                                                                     efficiency initiatives to reduce auxiliary consumption.
+                                                                                                                         Impact: Improved compressor efficiency, reduced            These include installing LED street lights, replacing
+                                                                                                                            operational costs, and stabilised air supply.            conventional motors with energyefficient IE3/IE4 motors,
+                                                                                                                                                                                     and deploying BLDC fans. Collectively, these measures
+                                                                                                                        Energy Efficient Main Cooling Water Pump                     enhance operational efficiency and contribute to
+                                                                                                                                                                                     longterm carbon emission reduction.
+                                                                                                                        A 90 kW pump was replaced with a 75 kW energy
+                                                                                                                        efficient pump, delivering the same flow rate. This
+                                                                                                                        demonstrates technology substitution, where modern,
+                                                                                                                        efficient equipment replaces legacy systems to reduce
+                                                                                                                        energy intensity.
+
+                                                                                                                         Energy Savings: 76,800 kWh annually
+
+                                                                                                                         Impact: Lowered pump energy intensity, reduced
+                                                                                                                            maintenance, and enhanced cooling reliability.
+
+110 Kalpataru Projects International Limited                                                                                                                                         Integrated Annual Report 2025-26 111

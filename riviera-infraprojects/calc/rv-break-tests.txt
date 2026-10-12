@@ -1,0 +1,18 @@
+== BREAK 1
+FAIL  no negative release
+ASSERT FAILED: no negative release
+== BREAK 2
+FAIL  interest = 0 (no rate disclosed)
+ASSERT FAILED: interest = 0 (no rate disclosed)
+== BREAK 3
+FAIL  basis matches: only the receivable leg, priced at TOI/365
+FAIL  no lever priced on a base it does not belong to (dio, cad, dpo absent)
+ASSERT FAILED: basis matches: only the receivable leg, priced at TOI/365 | no lever priced on a base it does not belong to (dio, cad, dpo absent)
+== BREAK 4
+FAIL  cross-check days x per day == simulate
+FAIL  basis matches: only the receivable leg, priced at TOI/365
+FAIL  10 and 30 day figures
+ASSERT FAILED: cross-check days x per day == simulate | basis matches: only the receivable leg, priced at TOI/365 | 10 and 30 day figures
+== BREAK 5
+FAIL  payables never release cash
+ASSERT FAILED: payables never release cash

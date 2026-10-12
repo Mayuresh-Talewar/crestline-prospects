@@ -1,0 +1,53 @@
+Statutory Reports                                                                                                                   LEADERSHIP INDICATORS
+
+Business Responsibility and Sustainability Report (BRSR)                                                                            1.Channels/platforms where information on products and services of the entity can be accessed (provide
+                                                                                                                                          web link, if available).
+5.Does the entity have a framework/policy on cyber security and risks related to data privacy? (Yes/No) If
+      available, provide a web-link of the policy.                                                                                  The Comprehensive information on KPIL's business offerings is available on the Company's official website: https://
+                                                                                                                                           kalpataruprojects.com/our-businesses. The "Products and Services" section provides an overview of KPIL's diverse
+Yes. KPIL remains firmly committed to maintaining high standards of cybersecurity and data privacy under the                               portfolio and highlights its capabilities across a wide range of infrastructure and construction solutions, reflecting the
+       oversight of its Risk Management Committee. The Company's comprehensive Cybersecurity Policy and Cyber Security                     Company's integrated Engineering, Procurement and Construction (EPC) offerings across key sectors.
+       Assurance Framework focus on three core pillars; people, processes, and technology. Our information security policies
+       and procedures are designed to ensure the confidentiality, integrity, and availability (CIA) of all information systems and  2.Steps taken to inform and educate consumers about safe and responsible usage of products and/or
+       data. These policies align with industry best practices (ISO/IEC:27001), applicable legal and regulatory requirements,             services.
+       and our organizational goals.
+                                                                                                                                    KPIL operates as an EPC company primarily serving institutional and corporate clients and does not cater to end
+To strengthen awareness, KPIL regularly conducts online awareness initiatives highlighting phishing risks and email                        consumers in a B2C capacity. The Company's scope involves projectbased execution rather than the manufacture
+       security. Network devices, server operating systems, and hardware are consistently updated to mitigate emerging                     or sale of consumer products requiring enduser guidance. Engagement with clients is undertaken through technical
+       cyber threats. Continuous monitoring of security logs enables prompt detection and remediation of any suspicious or                 discussions, design reviews and project documentation to explain project specifications, engineering solutions,
+       malicious activity. Robust data protection measures are enforced across the entire data lifecycle, including creation,              operational considerations and applicable safety requirements relevant to the executed scope of work.
+       storage, transmission, and access. Employees can access detailed cybersecurity and data privacy policies through the
+       Company's intranet portal (SAP JAM).                                                                                         3.Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services.
+
+To enhance our security posture, we focus on key components such as Governance, Risk Management, Data Protection,                   KPIL does not have a direct role in the provision or operation of essential services to consumers. However, during project
+       and Privacy. Our operations include Internal risk assessments and third party risk evaluations, enabling us to ensure that          execution particularly where construction activities may temporarily impact public utilities, traffic movement or local
+       all security controls remain current and effective against emerging threats.                                                        infrastructure, the Company coordinates with clients, local authorities and relevant public agencies. Advance intimation,
+                                                                                                                                           permissions and approvals are obtained for activities such as road closures, traffic diversions or utility isolation, as
+Through active monitoring of security logs, we can rapidly detect and respond to suspicious or malicious activities,                       applicable, to ensure continuity of services and minimise inconvenience to the public.
+       minimizing potential impact. Additionally, we emphasize building a security aware culture by conducting regular
+       awareness training sessions and running online campaigns that highlight topics such as phishing prevention and               4.Does the entity display product information on the product over and above what is mandated as per local
+       email security.                                                                                                                    laws? (Yes/No/Not Applicable) If yes, provide details in brief. Did your entity carry out any survey with
+                                                                                                                                          regard to consumer satisfaction relating to the major products/services of the entity, significant locations
+6.Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery                             of operation of the whole? (Yes/No)
+      of essential services; cyber security and data privacy of customers; re-occurrence of instances of
+      product recalls; penalty/action taken by regulatory authorities on safety of products/services.                               KPIL operates as an EPC company and does not offer consumer products in a B2C context. For manufactured components
+                                                                                                                                           such as transmission towers, the Company ensures full compliance with applicable statutory requirements by displaying
+As an EPC company focused on delivering infrastructure solutions to corporate clients, we are not engaged in                               all mandated markings and identification details, along with additional client and projectspecific information as
+       consumeroriented or retail activities. Consequently, aspects such as advertising practices, product recalls, and                    required under contractual obligations.
+       regulatory actions related to consumer goods and services are not applicable to our operations.
+                                                                                                                                    With respect to customer satisfaction, KPIL does not conduct consumer surveys, however, client feedback is systematically
+7. Provide the following information relating to data breaches:                                                                            obtained upon completion of projects. Performance and satisfaction levels are formally acknowledged through Project
+                                                                                                                                           Completion Certificates and client commendations, reflecting adherence to quality, delivery and safety commitments
+a. Number of instances of data breaches.                                                                                                   across multiple project locations during the reporting year.
+
+ NIL
+
+      b. Percentage of data breaches involving personally identifiable information of customers.
+
+N ot applicable
+
+c. Impact, if any, of the data breaches.
+
+N ot applicable
+
+258 Kalpataru Projects International Limited                                                                                        Integrated Annual Report 2025-26 259
